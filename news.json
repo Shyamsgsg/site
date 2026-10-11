@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-11T12:42:02Z",
+  "updated": "2026-10-11T15:34:27Z",
   "items": [
+    {
+      "id": "c6f489433b4e7dd9",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet's Google Cloud Is Surging at 82%, and the Heavy Spending Is Starting to Make Sense",
+      "link": "https://www.fool.com/investing/2026/10/11/alphabets-google-cloud-is-surging-at-82-and-the-he/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-11T15:20:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "20e1f75652a25d87",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Ray Dalio Warns Stocks Are Running Out of Room for Error — and AI Could Make It Worse",
+      "link": "https://247wallst.com/investing/2026/10/11/ray-dalio-warns-stocks-are-running-out-of-room-for-error-and-ai-could-make-it-worse/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-11T14:47:32+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a80996510ddcff30",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet Stock Is Up 46% Since Last October. Is It Still a Buy?",
+      "link": "https://www.tikr.com/blog/alphabet-stock-is-up-46-since-last-october-is-it-still-a-buy?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-11T14:04:17+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "145a9d3802bf215d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth",
+      "link": "https://investorshub.advfn.com/market-news/article/37825/sp-500-earnings-expected-to-rise-31-in-q3-as-ai-related-companies-lead-growth?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-11T13:18:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "7a4b3cb29194f1a5",
       "ticker": "TSLA",
@@ -35,28 +79,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "36990ca63f729949",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet Is the Robotaxi Stock to Buy as Waymo Chases 1 Million Rides a Week",
-      "link": "https://www.fool.com/investing/2026/10/11/alphabet-is-the-robotaxi-stock-to-buy-as-waymo-chases-1-million-rides-a-week/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T09:37:02+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "d6908b0fe7c57087",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Four Years In, $40 Trillion Up: Why This AI-Fueled Bull Market Has Room to Run",
-      "link": "https://finance.yahoo.com/m/4a6ddf57-8100-34f1-89a7-923bd93d7e6d/four-years-in%2C-%2440-trillion.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T08:00:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "06d48b722c87c10c",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -88,28 +110,6 @@
       "source": "News",
       "published": "2026-10-10T18:47:00+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "9821644383e12c93",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Skydance Stock Is a Dicey Bet. 2 Better Plays.",
-      "link": "https://finance.yahoo.com/m/0f8d7192-1639-3a6b-ad62-9ff16fa57f99/skydance-stock-is-a-dicey.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-10T18:42:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "b463d37cae00735f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet (GOOGL) Has A $5 Billion Waymo Loan And A $50 Billion AI Bet",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-5-billion-waymo-161022397.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-10T16:10:22+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "7858d556e5f4a44f",
