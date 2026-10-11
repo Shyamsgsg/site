@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-11T06:31:01Z",
+  "updated": "2026-10-11T09:35:34Z",
   "items": [
+    {
+      "id": "d6908b0fe7c57087",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Four Years In, $40 Trillion Up: Why This AI-Fueled Bull Market Has Room to Run",
+      "link": "https://finance.yahoo.com/m/4a6ddf57-8100-34f1-89a7-923bd93d7e6d/four-years-in%2C-%2440-trillion.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-11T08:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "06d48b722c87c10c",
       "ticker": "TSLA",
@@ -87,17 +98,6 @@
       "link": "https://www.fool.com/coverage/better-buy/2026/10/10/broadcom-vs-intel-which-chip-stock-is-a-better-buy-in-2026/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-10T15:35:02+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "89483f906f0adb49",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Microsoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-vs-alphabet-ai-cloud-212027785.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-10T15:20:27+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
