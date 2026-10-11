@@ -1,49 +1,93 @@
 {
-  "updated": "2026-10-11T15:34:27Z",
+  "updated": "2026-10-11T18:38:57Z",
   "items": [
     {
-      "id": "c6f489433b4e7dd9",
+      "id": "23408e0553d0e0a7",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Alphabet's Google Cloud Is Surging at 82%, and the Heavy Spending Is Starting to Make Sense",
-      "link": "https://www.fool.com/investing/2026/10/11/alphabets-google-cloud-is-surging-at-82-and-the-he/?.tsrc=rss",
+      "title": "Amazon and Alphabet Just Committed $420 Billion to Data Centers. 1 Stock Is the Better Buy.",
+      "link": "https://www.fool.com/investing/2026/10/11/amazon-and-alphabet-just-committed-420-billion-to/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-11T15:20:00+00:00",
+      "published": "2026-10-11T18:18:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "20e1f75652a25d87",
+      "id": "004bc49715d35d6b",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Ray Dalio Warns Stocks Are Running Out of Room for Error — and AI Could Make It Worse",
-      "link": "https://247wallst.com/investing/2026/10/11/ray-dalio-warns-stocks-are-running-out-of-room-for-error-and-ai-could-make-it-worse/?.tsrc=rss",
+      "title": "Constellation’s $4.3 Billion Nuclear Upgrade Could Be Its Smartest Move Yet",
+      "link": "https://finance.yahoo.com/energy/articles/constellation-4-3-billion-nuclear-172824134.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-11T14:47:32+00:00",
+      "published": "2026-10-11T17:28:24+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "a80996510ddcff30",
+      "id": "a66ac37d01150824",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+      "link": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-11T17:11:03+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "709cd99bf7b701d5",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Alphabet Stock Is Up 46% Since Last October. Is It Still a Buy?",
-      "link": "https://www.tikr.com/blog/alphabet-stock-is-up-46-since-last-october-is-it-still-a-buy?ref=yahoofinance&.tsrc=rss",
+      "title": "Cold Water for Musk: SpaceX Is “Not Competitive at the Frontier” – at Least, Not Yet",
+      "link": "https://www.tikr.com/blog/cold-water-for-musk-spacex-is-not-competitive-at-the-frontier-at-least-not-yet?ref=yahoofinance&.tsrc=rss",
       "source": "News",
-      "published": "2026-10-11T14:04:17+00:00",
+      "published": "2026-10-11T17:06:21+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "145a9d3802bf215d",
+      "id": "61277cf6b86707c4",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth",
-      "link": "https://investorshub.advfn.com/market-news/article/37825/sp-500-earnings-expected-to-rise-31-in-q3-as-ai-related-companies-lead-growth?.tsrc=rss",
+      "title": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
+      "link": "https://moneylion.com/trending/money/it-now-takes-billions-make-forbes-list-see-america-richest-people?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-11T13:18:00+00:00",
+      "published": "2026-10-11T17:00:28+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "456e9a9c8665cd18",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "EXCLUSIVE: Ross Gerber Says Tesla May Make Just ‘a Few Hundred’ Roadsters: ‘Hovering Is a Gimmick’",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-153029008.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-11T15:30:29+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "9b42c9faf9c5355c",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "How Eastern Company (the) (EML) Affects Rotational Strategy Timing - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVUEwUVJFMkYtY1Jrc3ZxdUZuU1plaFBQUU1xRlN3clpsVVlZZll0SGg0U01BUXh6dndWek9GaWFLMW81d2p0TXlWckg3MERvZnFuSGZWWVFuSHFkaGpTbW93QzFBOUlIdWk1Rmt1RW53VFlMMTkzRDRwZmI0WkhfNmJ5bGY0d0VsS29IMFR2UU9kc2xwWkFPX3doMV9EajlnUjZiLVZqa3QxOFFKQkhtU2dBZGhpUDVLZzZ0NzhHcmNHUUt4Zl9SeDFGeWJGZzVhOUJrVDBDekZUYU0?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-10-11T14:14:02+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "169d2993ffc13e9e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "How to Play Rivian Stock as RIVN Keeps Falling Despite Record Deliveries",
+      "link": "https://www.barchart.com/story/news/5993784/how-to-play-rivian-stock-as-rivn-keeps-falling-despite-record-deliveries?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-11T11:15:01+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "7a4b3cb29194f1a5",
@@ -54,17 +98,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/tesla-drops-full-self-driving-104518889.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-11T10:45:18+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "bd4ce8180dfe9b72",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Symbotic Has a $22.5 Billion Backlog. Here's Why It Could Be the Best Robotics Stock Nobody Talks About.",
-      "link": "https://www.fool.com/investing/2026/10/11/symbotic-billion-backlog-why-robotic-stock/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T10:35:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -79,17 +112,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "06d48b722c87c10c",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Renames Full Self-Driving Package to Assisted Driving Across Europe",
-      "link": "https://www.tikr.com/blog/tesla-renames-fsd-assisted-driving-europe?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T05:11:43+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "0cf1f0580646edfa",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -99,17 +121,6 @@
       "source": "Stock Traders Daily",
       "published": "2026-10-10T19:52:02+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "af2cf841b9a4d198",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla rival appears to have a demand problem",
-      "link": "https://www.thestreet.com/investing/stocks/tesla-rival-lucid-demand-problem-lcid?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-10T18:47:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "7858d556e5f4a44f",
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEQwMS03NGFhV0ZySTJYVFp6cFMtdXN4bFo3b1V1QWpmdHl5dHFVWFNNaXRlSFpHeGpmT1hlNmRtVFdIUURNakZXbG9JRXNTMHpnUVBzSDBzVzRNNkpGRnFNZVRoNHQ5ZVVremR4OXBtb2lJdVpXTmRvUHJDZ3NtQ2xieHo0c29tUFBWNElib3EzVEp0WGQ0SGdjOGQwWGZaZzlpMw?oc=5",
       "source": "GuruFocus",
       "published": "2026-09-29T23:33:41+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "8a5da30ec073805f",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
-      "source": "Morningstar",
-      "published": "2026-09-21T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
