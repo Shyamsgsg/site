@@ -263,7 +263,7 @@ video{display:block}
 
 /* —— hero text panel: translucent, blurred, readable on bright frames —— */
 .hero-panel{
-  position:relative;max-width:640px;padding:34px 38px 36px;
+  position:relative;max-width:640px;padding:32px 38px 36px;
   background:rgba(10,12,14,.5);
   -webkit-backdrop-filter:blur(6px) saturate(115%);backdrop-filter:blur(6px) saturate(115%);
   border-radius:3px;border-top:1px solid rgba(201,162,75,.85);
@@ -278,6 +278,7 @@ video{display:block}
 @media (max-width:900px){
   .hero-inner{padding:0 14px 64px}
   .hero-panel{padding:22px 20px 24px}
+  .hero-panel h1{margin-top:2px}
   .hero-panel h1{margin-bottom:12px}
   .hero-panel .hero-tag{margin-bottom:20px}
   .hero-panel .hero-line{font-size:15px;line-height:1.55;margin:-8px 0 20px}
