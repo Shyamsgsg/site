@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-11T18:38:57Z",
+  "updated": "2026-10-11T21:34:32Z",
   "items": [
+    {
+      "id": "c03be64b358f51bc",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Forget the Recent Delivery Beat: Here's the Key Number That Will Decide Investors' Reaction to Tesla's Earnings",
+      "link": "https://www.fool.com/investing/2026/10/11/forget-the-recent-delivery-beat-heres-the-key-numb/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-11T21:00:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "bc3814e9a6720897",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk just handed Intel a new problem Wall Street can't ignore",
+      "link": "https://www.thestreet.com/investing/stocks/elon-musk-just-handed-intel-a-new-problem-wall-street-cant-ignore?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-11T20:33:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "fae04f42d8d19001",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Not Alphabet. Not Amazon. Microsoft Trades at Big Tech's Cheapest Valuation.",
+      "link": "https://www.fool.com/investing/2026/10/11/not-alphabet-not-amazon-microsoft-trades-at-big-te/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-11T20:14:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "b36a70bcf2094932",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Does Tesla (TSLA) Gain More From Megachargers Or Tokenized Stock Trading?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/does-tesla-tsla-gain-more-200622751.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-11T20:06:22+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "53d7aabf8c218d73",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Michael Moritz Says Most Investors Can’t Do the One Thing That Actually Makes Money",
+      "link": "https://247wallst.com/investing/2026/10/11/michael-moritz-says-most-investors-cant-do-the-one-thing-that-actually-makes-money/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-11T20:00:18+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "92f72e4d28e9e408",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Warren Buffett's Successor Has Billions in This Cloud Titan",
+      "link": "https://www.fool.com/investing/2026/10/11/buffetts-successor-has-billions-in-cloud-titan/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-11T18:50:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "23408e0553d0e0a7",
       "ticker": "GOOG",
@@ -10,17 +76,6 @@
       "link": "https://www.fool.com/investing/2026/10/11/amazon-and-alphabet-just-committed-420-billion-to/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-11T18:18:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "004bc49715d35d6b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Constellation’s $4.3 Billion Nuclear Upgrade Could Be Its Smartest Move Yet",
-      "link": "https://finance.yahoo.com/energy/articles/constellation-4-3-billion-nuclear-172824134.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T17:28:24+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -35,39 +90,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "709cd99bf7b701d5",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Cold Water for Musk: SpaceX Is “Not Competitive at the Frontier” – at Least, Not Yet",
-      "link": "https://www.tikr.com/blog/cold-water-for-musk-spacex-is-not-competitive-at-the-frontier-at-least-not-yet?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T17:06:21+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "61277cf6b86707c4",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
-      "link": "https://moneylion.com/trending/money/it-now-takes-billions-make-forbes-list-see-america-richest-people?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T17:00:28+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "456e9a9c8665cd18",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "EXCLUSIVE: Ross Gerber Says Tesla May Make Just ‘a Few Hundred’ Roadsters: ‘Hovering Is a Gimmick’",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-153029008.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T15:30:29+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "9b42c9faf9c5355c",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -77,28 +99,6 @@
       "source": "Stock Traders Daily",
       "published": "2026-10-11T14:14:02+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "169d2993ffc13e9e",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "How to Play Rivian Stock as RIVN Keeps Falling Despite Record Deliveries",
-      "link": "https://www.barchart.com/story/news/5993784/how-to-play-rivian-stock-as-rivn-keeps-falling-despite-record-deliveries?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T11:15:01+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "7a4b3cb29194f1a5",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Drops ‘Full Self-Driving’ Name in Europe as Germany Backs Faster EU Approval for ‘Tesla Assisted Driving’",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-drops-full-self-driving-104518889.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T10:45:18+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "5433b2cb60cbce1f",
@@ -328,7 +328,7 @@
       "title": "EML Payments Applies to Quote 625,000 Ordinary Shares Issued Under Employee Incentive Scheme - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWTJlNVpybVhfTXF4b2sxLWtJcF9QYUZfTjBmVGVmRWVyTkdOeHhCVTNmbEJXRmdoMlBOaUJlVmU1V2JOU09CRkt0NC1BUUtULU0zZG81WkFwMERYTzJqR2M2RFQ3ZkY4OWZaRjhJTElnNW1ZWDhFWnk3Rzg0cGRWOXhaNjlwTUI4T0k2aGFsS08weU5aMW1QbTBjdzZGNUdkaGhPUUtjRnhpNzN6Y1B4VmwtN0xKLU5Xc21HQ0h1WG1CaTdLc0Y4WTh0WENTdw?oc=5",
       "source": "Kalkine",
-      "published": "2026-10-02T10:25:09+00:00",
+      "published": "2026-10-02T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
