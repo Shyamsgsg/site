@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-12T00:49:22Z",
+  "updated": "2026-10-12T03:41:35Z",
   "items": [
+    {
+      "id": "004bc49715d35d6b",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Constellation’s $4.3 Billion Nuclear Upgrade Could Be Its Smartest Move Yet",
+      "link": "https://finance.yahoo.com/energy/articles/constellation-4-3-billion-nuclear-172824134.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T02:42:24+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "b0933b6100552e7a",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SPCX, TSM, APLD, AMZN, TSLA: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+      "link": "https://stocktwits.com/news-articles/markets/equity/spcx-tsm-apld-amzn-tsla-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cZx4HIPRBF9?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T02:13:50+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "d11d795c3ca962d5",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN's Mystery Customer Is Anthropic? Fresh Buzz Pushes Stock Higher",
+      "link": "https://stocktwits.com/news-articles/markets/equity/iren-s-mystery-customer-is-anthropic-fresh-buzz-pushes-stock-higher/cZx4MqjRBFB?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T01:57:34+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "8547febc81da86ae",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "How GM is Secretly Winning the US EV Race",
+      "link": "https://thehustle.videonest.co/videos/1786770/how-gm-is-secretly-winning-the-us-ev-race-VyCDZskzbD?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T01:33:02+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "8c46a4f90ac8079a",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings (NU) Stock Looks Reasonable Following Fresh Brazil Tax Concerns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-stock-looks-011137730.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T01:11:37+00:00",
+      "logo": "logos/NU.svg"
+    },
     {
       "id": "4b6f9d30342a20dc",
       "ticker": "TSLA",
@@ -21,28 +76,6 @@
       "link": "https://www.fool.com/investing/2026/10/11/forget-chasing-volume-heres-the-most-active-stock/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-11T23:20:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "c03be64b358f51bc",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Forget the Recent Delivery Beat: Here's the Key Number That Will Decide Investors' Reaction to Tesla's Earnings",
-      "link": "https://www.fool.com/investing/2026/10/11/forget-the-recent-delivery-beat-heres-the-key-numb/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T21:00:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "bc3814e9a6720897",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk just handed Intel a new problem Wall Street can't ignore",
-      "link": "https://www.thestreet.com/investing/stocks/elon-musk-just-handed-intel-a-new-problem-wall-street-cant-ignore?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T20:33:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -76,17 +109,6 @@
       "link": "https://www.fool.com/investing/2026/10/11/buffetts-successor-has-billions-in-cloud-titan/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-11T18:50:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "23408e0553d0e0a7",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Amazon and Alphabet Just Committed $420 Billion to Data Centers. 1 Stock Is the Better Buy.",
-      "link": "https://www.fool.com/investing/2026/10/11/amazon-and-alphabet-just-committed-420-billion-to/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T18:18:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -178,17 +200,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "ed6ae2330fd8dc8c",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Here's Why I Sold Cipher Digital and Bought More Iren",
-      "link": "https://www.fool.com/investing/2026/10/09/heres-why-i-sold-cipher-digital-and-bought-more-ir/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-09T11:50:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "711310173cc0c18f",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -231,6 +242,17 @@
       "source": "News",
       "published": "2026-10-09T07:12:35+00:00",
       "logo": "logos/NU.svg"
+    },
+    {
+      "id": "aa229020b03127db",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments Records Lapse of Conditional Rights in Capital Update - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY08xM0x4M0hiTUpNMFpna194SGM1NlJ1X0hEMUVaTHlwaVVPOXZnYzJEdHZiVXUybVg1eEFaMUU2eWZ3NU9SbUtnMmpsM08zcDZJd1VPdTJLTDduRHM2UXdwb2NWY2NlUGhUUFZQbUxzMlVIUlNyT3ItX3FBU25tMVpQOG5XaFlRZUVXNW9PMklfTDNRaTkzbmZrUXl5dXpzS1JTeWVzdHVBYmV6MUk3UVVkdFBQZ3JxX0ZvNHZlOGg4cFdqbTUzV3lQTmRzNDU2T0hVa28yUmotVGNUMUk5MQ?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-10-09T02:01:00+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "4a7f6577cd730dc0",
@@ -277,17 +299,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "69f5846cbf56aa43",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Stock Market Today, Oct. 7: Itaú Unibanco Falls on Profit-Taking After Brazil Election Rally",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/07/stock-market-today-oct-7-itau-unibanco-falls-on-profit-taking-after-brazil-election-rally/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-07T21:35:01+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "4f228c1c80a6015a",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -328,7 +339,7 @@
       "title": "EML Payments Applies to Quote 625,000 Ordinary Shares Issued Under Employee Incentive Scheme - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWTJlNVpybVhfTXF4b2sxLWtJcF9QYUZfTjBmVGVmRWVyTkdOeHhCVTNmbEJXRmdoMlBOaUJlVmU1V2JOU09CRkt0NC1BUUtULU0zZG81WkFwMERYTzJqR2M2RFQ3ZkY4OWZaRjhJTElnNW1ZWDhFWnk3Rzg0cGRWOXhaNjlwTUI4T0k2aGFsS08weU5aMW1QbTBjdzZGNUdkaGhPUUtjRnhpNzN6Y1B4VmwtN0xKLU5Xc21HQ0h1WG1CaTdLc0Y4WTh0WENTdw?oc=5",
       "source": "Kalkine",
-      "published": "2026-10-02T10:25:09+00:00",
+      "published": "2026-10-02T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdUtNRHhjOEpiZ2ZTS0VNZHRzWnpnVnNfRTNGck9ReklJdkNwQUtYVHd3SU9XbUQ5V2dLc3lGNlpYV0MxazIwZ3dqRS1hUkxUZW9HVlZFa0xUaGZ2UThyeG9zNUdrVlMyODl1a0JtbTEyQThBWC0yWHd4NWkxS3U1WG9TWVd4a0JaRWVrX1pJN1hKN0JOLUZZNktINl83MVZRN0xWT2E2QXZZVkhvOHhwVXhZOW9yTjBoR0dpSFNnQQ?oc=5",
       "source": "Stock Traders Daily",
       "published": "2026-10-01T07:44:02+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "a05d8218031ada53",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "The Eastern Co (EML) Stock Down 3.0% -- Now Undervalued? GF Scor - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEQwMS03NGFhV0ZySTJYVFp6cFMtdXN4bFo3b1V1QWpmdHl5dHFVWFNNaXRlSFpHeGpmT1hlNmRtVFdIUURNakZXbG9JRXNTMHpnUVBzSDBzVzRNNkpGRnFNZVRoNHQ5ZVVremR4OXBtb2lJdVpXTmRvUHJDZ3NtQ2xieHo0c29tUFBWNElib3EzVEp0WGQ0SGdjOGQwWGZaZzlpMw?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-09-29T23:33:41+00:00",
       "logo": "logos/EML.svg"
     },
     {
