@@ -1,37 +1,103 @@
 {
-  "updated": "2026-10-12T13:02:11Z",
+  "updated": "2026-10-12T15:40:16Z",
   "items": [
     {
-      "id": "2fc6f26af8dc99ac",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Market Chatter: Anthropic Calls On Data Center Partners to Speed Up Capacity Buildout",
-      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-anthropic-calls-data-125043695.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T12:50:43+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "daad5d586dd52796",
+      "id": "9f52d9e45279a7f7",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "XPENG Launches the G9L Next-Gen AI Flagship SUV in Europe, Debuts NGP and Expands Global Technology Collaboration at 2026 Paris Motor Show",
-      "link": "https://finance.yahoo.com/technology/ai/articles/xpeng-launches-g9l-next-gen-123500982.html?.tsrc=rss",
+      "title": "Tesla, General Motors, Other US Automakers Expected to Benefit From Resilient SAAR, RBC Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-general-motors-other-us-152008363.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-12T12:35:00+00:00",
+      "published": "2026-10-12T15:20:08+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "4e6f23c14cf1ffdc",
+      "id": "cf744ceb5b0ef7cb",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google expands wearables lineup with $180 Fitbit Edge to boost digital health push",
+      "link": "https://finance.yahoo.com/healthcare/articles/google-expands-wearables-lineup-180-150626336.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T15:06:26+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "b4122a7003d63f00",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Apple Stock Price Prediction: Wall Street’s Next Big Surprise Could Be Closer Than You Think",
+      "link": "https://247wallst.com/investing/2026/10/12/apple-stock-price-prediction-wall-streets-next-big-surprise-could-be-closer-than-you-think/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T15:00:04+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "69722d1496a9fef6",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Nvidia, AMD, Google, and Meta team up on global blueprint for data center design",
+      "link": "https://finance.yahoo.com/technology/article/nvidia-amd-google-and-meta-team-up-on-global-blueprint-for-data-center-design-150000023.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T15:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "01c41da33bec4bfc",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Cybercabs Face Regulatory Probe For Speeding In School Zones",
+      "link": "https://finance.yahoo.com/m/e693b5b3-98df-3921-aac9-6213b918f04b/tesla-cybercabs-face.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T14:49:43+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c7b13b814b3ed17b",
       "ticker": "IREN",
       "symbol": "IREN",
       "company": "IREN Ltd",
-      "title": "IREN Climbs 4% on Report of Unconfirmed Anthropic Cloud Deal; TeraWulf and Applied Digital Hold Flat",
-      "link": "https://247wallst.com/investing/2026/10/12/iren-climbs-4-on-report-of-unconfirmed-anthropic-cloud-deal-terawulf-and-applied-digital-hold-flat/?.tsrc=rss",
+      "title": "IREN Stock Jumps 4% Following Landmark Cloud Computing Deal With Anthropic",
+      "link": "https://www.tikr.com/blog/iren-stock-anthropic-ai-cloud-deal?ref=yahoofinance&.tsrc=rss",
       "source": "News",
-      "published": "2026-10-12T12:30:16+00:00",
+      "published": "2026-10-12T14:48:45+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "2eb3bd4df45ab129",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Quantum Computing Stocks: Darpa Spreads Its Bets As Industry Shakeout Looms",
+      "link": "https://finance.yahoo.com/m/0e75cf79-e597-36d3-b10c-39791f20d027/quantum-computing-stocks%3A.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T14:47:36+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a69e077dd16f37cf",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Jefferies raises Tesla price target as resilient deliveries support automotive outlook",
+      "link": "https://www.proactiveinvestors.com/companies/news/1099972/jefferies-raises-tesla-price-target-as-resilient-deliveries-support-automotive-outlook-1099972.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T14:44:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "588184c7e5b8f72a",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN (IREN) Flags AI Infrastructure Scaling Challenges",
+      "link": "https://finance.yahoo.com/technology/ai/articles/iren-iren-flags-ai-infrastructure-141901564.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T14:19:01+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -42,52 +108,41 @@
       "title": "IREN Reportedly Joins Anthropic's Cloud Providers; Shares Jump",
       "link": "https://finance.yahoo.com/m/04ab5ce8-c2c2-3b1c-952c-5ea1b7a9d653/iren-reportedly-joins.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-12T12:26:52+00:00",
+      "published": "2026-10-12T14:08:24+00:00",
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "41f12d398f45f5b2",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Nvidia weighs acquisition or further investment in Reflection AI",
-      "link": "https://www.proactiveinvestors.com/companies/news/1099965/nvidia-weighs-acquisition-or-further-investment-in-reflection-ai-1099965.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T12:24:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "4e50abb36ec7fed6",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "The AI Spending Boom Could Be Just Getting Started for This Company",
-      "link": "https://247wallst.com/investing/2026/10/12/the-ai-spending-boom-could-be-just-getting-started-for-this-company/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T12:00:57+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "2eb3bd4df45ab129",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Quantum Computing Stocks: Darpa Spreads Its Bets As Industry Shakeout Looms",
-      "link": "https://finance.yahoo.com/m/0e75cf79-e597-36d3-b10c-39791f20d027/quantum-computing-stocks%3A.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T12:00:57+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "1273769a70aca836",
+      "id": "286472bd0b72c83b",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "1 Industrials Stock for Long-Term Investors and 2 We Turn Down",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-long-term-115903822.html?.tsrc=rss",
+      "title": "How SpaceX’s Spectrum Purchase Brings It Closer to a Tesla Merger",
+      "link": "https://finance.yahoo.com/m/3543e013-c44c-36fb-88da-faeb1d7f3b85/how-spacex%E2%80%99s-spectrum.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-12T11:59:03+00:00",
+      "published": "2026-10-12T14:04:00+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a0e6926fb2297158",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN jumps on Anthropic multiyear cloud deal",
+      "link": "https://finance.yahoo.com/video/iren-jumps-on-anthropic-multiyear-cloud-deal-135327195.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T13:53:27+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "c00f39f7dbfe5857",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco Corporation (CCJ) is Positioned for Long-Term Growth in Nuclear Energy Expansion",
+      "link": "https://finance.yahoo.com/energy/articles/cameco-corporation-ccj-positioned-long-132143900.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T13:21:43+00:00",
+      "logo": "logos/CCJ.svg"
     },
     {
       "id": "385e6dceaf864bc4",
@@ -101,39 +156,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "9f0db41eb340e1c3",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "WULF Stock Gets A ‘Buy’ From TD Cowen As The AI 'Boom' Overshadows TeraWulf’s Bitcoin Mining Roots",
-      "link": "https://stocktwits.com/news-articles/markets/equity/wulf-stock-gets-a-buy-from-td-cowen-as-the-ai-boom-overshadows-tera-wulf-s-bitcoin-mining-roots/cZxI7XORBFC?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T11:42:39+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "e5648e8e6db10880",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Stock Jumps on Talk Anthropic Is Its Mystery AI Customer",
-      "link": "https://finance.yahoo.com/m/1a6521f3-c066-33d2-ab8c-c609e2bd6c19/iren-stock-jumps-on-talk.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T11:34:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "286472bd0b72c83b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "How SpaceX’s Spectrum Purchase Brings It Closer to a Tesla Merger",
-      "link": "https://finance.yahoo.com/m/3543e013-c44c-36fb-88da-faeb1d7f3b85/how-spacex%E2%80%99s-spectrum.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T11:19:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "f78e4f5280847622",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -143,17 +165,6 @@
       "source": "News",
       "published": "2026-10-12T11:15:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "b0844e1c43269978",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "3 Founder Led Stocks For October 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-october-111041633.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T11:10:41+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "3c9a3e091ddf68f5",
@@ -308,17 +319,6 @@
       "source": "News",
       "published": "2026-10-08T10:23:00+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "4f228c1c80a6015a",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco (CCJ) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-sees-more-significant-205004059.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-07T20:50:04+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "2e198720e79a6b54",
