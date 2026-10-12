@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-11T21:34:32Z",
+  "updated": "2026-10-12T00:49:22Z",
   "items": [
+    {
+      "id": "4b6f9d30342a20dc",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk’s 250,000 Cybertruck Goal Falls Well Short: New Data Shows Only 13% of Goal Sold Annually",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-250-000-cybertruck-233010061.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-11T23:30:10+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "173847b812826b07",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Forget Chasing Volume. Here's the Most Active Stock I'd Actually Hold for 5 Years.",
+      "link": "https://www.fool.com/investing/2026/10/11/forget-chasing-volume-heres-the-most-active-stock/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-11T23:20:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "c03be64b358f51bc",
       "ticker": "TSLA",
@@ -35,17 +57,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "b36a70bcf2094932",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Does Tesla (TSLA) Gain More From Megachargers Or Tokenized Stock Trading?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-tesla-tsla-gain-more-200622751.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T20:06:22+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "53d7aabf8c218d73",
       "ticker": "GOOG",
       "symbol": "GOOG",
@@ -77,17 +88,6 @@
       "source": "News",
       "published": "2026-10-11T18:18:00+00:00",
       "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "a66ac37d01150824",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
-      "link": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T17:11:03+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "9b42c9faf9c5355c",
@@ -328,7 +328,7 @@
       "title": "EML Payments Applies to Quote 625,000 Ordinary Shares Issued Under Employee Incentive Scheme - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWTJlNVpybVhfTXF4b2sxLWtJcF9QYUZfTjBmVGVmRWVyTkdOeHhCVTNmbEJXRmdoMlBOaUJlVmU1V2JOU09CRkt0NC1BUUtULU0zZG81WkFwMERYTzJqR2M2RFQ3ZkY4OWZaRjhJTElnNW1ZWDhFWnk3Rzg0cGRWOXhaNjlwTUI4T0k2aGFsS08weU5aMW1QbTBjdzZGNUdkaGhPUUtjRnhpNzN6Y1B4VmwtN0xKLU5Xc21HQ0h1WG1CaTdLc0Y4WTh0WENTdw?oc=5",
       "source": "Kalkine",
-      "published": "2026-10-02T07:00:00+00:00",
+      "published": "2026-10-02T10:25:09+00:00",
       "logo": "logos/EML.svg"
     },
     {
