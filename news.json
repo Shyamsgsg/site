@@ -1,93 +1,170 @@
 {
-  "updated": "2026-10-12T09:41:56Z",
+  "updated": "2026-10-12T13:02:11Z",
   "items": [
     {
-      "id": "942b3820634e1553",
+      "id": "2fc6f26af8dc99ac",
       "ticker": "IREN",
       "symbol": "IREN",
       "company": "IREN Ltd",
-      "title": "Why Are Nasdaq Futures Rising Premarket? MU, IREN, SLS, NIO, ASTS, WFF Stocks In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-futures-rising-premarket-mu-iren-sls-nio-asts-wff-stocks-in-focus/cZxIPmqRBFp?.tsrc=rss",
+      "title": "Market Chatter: Anthropic Calls On Data Center Partners to Speed Up Capacity Buildout",
+      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-anthropic-calls-data-125043695.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-12T08:43:19+00:00",
+      "published": "2026-10-12T12:50:43+00:00",
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "e6893f195bd9361d",
+      "id": "daad5d586dd52796",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "TSLA Stock Climbs Overnight As Cybercab Eyes Dallas — Musk Recalls When Shorts Had Tesla In ‘Checkmate’",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-cybercab-dallas-musk-shorts-tesla-checkmate/cZxIb3ERBFN?.tsrc=rss",
+      "title": "XPENG Launches the G9L Next-Gen AI Flagship SUV in Europe, Debuts NGP and Expands Global Technology Collaboration at 2026 Paris Motor Show",
+      "link": "https://finance.yahoo.com/technology/ai/articles/xpeng-launches-g9l-next-gen-123500982.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-12T06:34:52+00:00",
+      "published": "2026-10-12T12:35:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "0b2229d079a44466",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas",
-      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-tesla-spacex-test-10-chip-designs-a-year-terafab-tsmc-reportedly-eyes-texas/cZx4U7ZRBFW?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T04:07:24+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "82c086d99c1efbd1",
+      "id": "4e6f23c14cf1ffdc",
       "ticker": "IREN",
       "symbol": "IREN",
       "company": "IREN Ltd",
-      "title": "Dow, S&P 500, Nasdaq Futures Climb After Oil In Focus As Trump Declares ‘Energy Ceasefire’ Between Russia And Ukraine: IREN, WFF, VSTM, CIFR Stocks In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-climb-after-oil-in-focus-as-trump-declares-energy-ceasefire-between-russia-and-ukraine-iren-wff-vstm-cifr-stocks-in-focus/cZx4DAYRBFX?.tsrc=rss",
+      "title": "IREN Climbs 4% on Report of Unconfirmed Anthropic Cloud Deal; TeraWulf and Applied Digital Hold Flat",
+      "link": "https://247wallst.com/investing/2026/10/12/iren-climbs-4-on-report-of-unconfirmed-anthropic-cloud-deal-terawulf-and-applied-digital-hold-flat/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-12T03:50:27+00:00",
+      "published": "2026-10-12T12:30:16+00:00",
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "004bc49715d35d6b",
+      "id": "090bd2f6a6b7732e",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Reportedly Joins Anthropic's Cloud Providers; Shares Jump",
+      "link": "https://finance.yahoo.com/m/04ab5ce8-c2c2-3b1c-952c-5ea1b7a9d653/iren-reportedly-joins.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T12:26:52+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "41f12d398f45f5b2",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Constellation’s $4.3 Billion Nuclear Upgrade Could Be Its Smartest Move Yet",
-      "link": "https://finance.yahoo.com/energy/articles/constellation-4-3-billion-nuclear-172824134.html?.tsrc=rss",
+      "title": "Nvidia weighs acquisition or further investment in Reflection AI",
+      "link": "https://www.proactiveinvestors.com/companies/news/1099965/nvidia-weighs-acquisition-or-further-investment-in-reflection-ai-1099965.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-12T02:42:24+00:00",
+      "published": "2026-10-12T12:24:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "b0933b6100552e7a",
+      "id": "4e50abb36ec7fed6",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "The AI Spending Boom Could Be Just Getting Started for This Company",
+      "link": "https://247wallst.com/investing/2026/10/12/the-ai-spending-boom-could-be-just-getting-started-for-this-company/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T12:00:57+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "2eb3bd4df45ab129",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Quantum Computing Stocks: Darpa Spreads Its Bets As Industry Shakeout Looms",
+      "link": "https://finance.yahoo.com/m/0e75cf79-e597-36d3-b10c-39791f20d027/quantum-computing-stocks%3A.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T12:00:57+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "1273769a70aca836",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "SPCX, TSM, APLD, AMZN, TSLA: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
-      "link": "https://stocktwits.com/news-articles/markets/equity/spcx-tsm-apld-amzn-tsla-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cZx4HIPRBF9?.tsrc=rss",
+      "title": "1 Industrials Stock for Long-Term Investors and 2 We Turn Down",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-long-term-115903822.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-12T02:13:50+00:00",
+      "published": "2026-10-12T11:59:03+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "d11d795c3ca962d5",
+      "id": "385e6dceaf864bc4",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Hong Kong stock trades at EUR 5.77, volume 28.3 percent below average - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblk5eTlqa1JnSDIwaTVMa0dZelIxdFFncXgwMXFSQXJZelJYbnAxYUZFeUQwZjc4UnJsZkJJOWp6eTZBVmVRZ3Z3Slh0bTVRMzYzdkFFcVQtcFJGSzZJRlg4WFo5TktOSlItdThCLXdXN3h5bzdJR1dwRnF1azNJbWJQUXY1amd6cVpGY0NyM0dld0dTOG1OTlV4RjUzVUo5bnNxNktucDZSelp6VE1NZm5PenQ5TGM5bGVsckxJbW1kd0Z4VFViOTQ0MktiRDhT?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-12T11:57:39+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "9f0db41eb340e1c3",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "WULF Stock Gets A ‘Buy’ From TD Cowen As The AI 'Boom' Overshadows TeraWulf’s Bitcoin Mining Roots",
+      "link": "https://stocktwits.com/news-articles/markets/equity/wulf-stock-gets-a-buy-from-td-cowen-as-the-ai-boom-overshadows-tera-wulf-s-bitcoin-mining-roots/cZxI7XORBFC?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T11:42:39+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e5648e8e6db10880",
       "ticker": "IREN",
       "symbol": "IREN",
       "company": "IREN Ltd",
-      "title": "IREN's Mystery Customer Is Anthropic? Fresh Buzz Pushes Stock Higher",
-      "link": "https://stocktwits.com/news-articles/markets/equity/iren-s-mystery-customer-is-anthropic-fresh-buzz-pushes-stock-higher/cZx4MqjRBFB?.tsrc=rss",
+      "title": "IREN Stock Jumps on Talk Anthropic Is Its Mystery AI Customer",
+      "link": "https://finance.yahoo.com/m/1a6521f3-c066-33d2-ab8c-c609e2bd6c19/iren-stock-jumps-on-talk.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-12T01:57:34+00:00",
+      "published": "2026-10-12T11:34:00+00:00",
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "8547febc81da86ae",
+      "id": "286472bd0b72c83b",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "How GM is Secretly Winning the US EV Race",
-      "link": "https://thehustle.videonest.co/videos/1786770/how-gm-is-secretly-winning-the-us-ev-race-VyCDZskzbD?.tsrc=rss",
+      "title": "How SpaceX’s Spectrum Purchase Brings It Closer to a Tesla Merger",
+      "link": "https://finance.yahoo.com/m/3543e013-c44c-36fb-88da-faeb1d7f3b85/how-spacex%E2%80%99s-spectrum.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-12T01:33:02+00:00",
+      "published": "2026-10-12T11:19:00+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "f78e4f5280847622",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Long-Term Uranium Price Moves Past Its 2007 Peak While Energy Metals Deals Keep Coming",
+      "link": "https://finance.yahoo.com/news/long-term-uranium-price-moves-111500005.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T11:15:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "b0844e1c43269978",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "3 Founder Led Stocks For October 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-october-111041633.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T11:10:41+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "3c9a3e091ddf68f5",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Hong Kong stock pre-market at EUR 5.74 - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQanBKeFhCWlRiaVZpd0pFNm9jZHg3Mm5GT2dDUlgwSzZfOUh3STRSa1VkTFZOWWo2OGxEcXBySmFFcFRENWtOUTliblBHUGFBSk5COWF2ekFRTjVnNXNfcGF1NlJ5V3EyT2FnWWE3eTBEWEVkeWE1bGRqbnFNc2ZyNll0WV8xMjM5bExmajFCaDV2NGQ3eGFtX3VGSHhHN0I1SHc?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-12T06:10:09+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "8c46a4f90ac8079a",
@@ -101,39 +178,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "fae04f42d8d19001",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Not Alphabet. Not Amazon. Microsoft Trades at Big Tech's Cheapest Valuation.",
-      "link": "https://www.fool.com/investing/2026/10/11/not-alphabet-not-amazon-microsoft-trades-at-big-te/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T20:14:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "53d7aabf8c218d73",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Michael Moritz Says Most Investors Can’t Do the One Thing That Actually Makes Money",
-      "link": "https://247wallst.com/investing/2026/10/11/michael-moritz-says-most-investors-cant-do-the-one-thing-that-actually-makes-money/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T20:00:18+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "92f72e4d28e9e408",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Warren Buffett's Successor Has Billions in This Cloud Titan",
-      "link": "https://www.fool.com/investing/2026/10/11/buffetts-successor-has-billions-in-cloud-titan/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T18:50:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "9b42c9faf9c5355c",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -143,17 +187,6 @@
       "source": "Stock Traders Daily",
       "published": "2026-10-11T14:14:02+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "5433b2cb60cbce1f",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Leans On NVIDIA AI Validation As SemiAnalysis Questions Its Infrastructure Claims",
-      "link": "https://stocktwits.com/news-articles/markets/equity/iren-leans-on-nvidia-ai-validation-as-semi-analysis-questions-its-infrastructure-claims/cZx5zBmRBFG?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T09:52:23+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "0cf1f0580646edfa",
@@ -178,17 +211,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "43ed1d067aa4225a",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong Holdings Ltd (BOF.HM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1temQzMHl0d1hsYVNBcGkwOWNNODRKR2xWWGxsbUVXWlBJYnZLZ2J5SVIyUHRaVTQxUHAxcGdjcFVnZVlaTEFpWE5pM2ZjLXBmbEpUMkh3dURqcVpIczNBSERULXM3cnFK?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-10-09T15:25:01+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "c8a31804989129fa",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -198,17 +220,6 @@
       "source": "News",
       "published": "2026-10-09T15:04:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "afb3f294099adfc2",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong stock at EUR 5.66: analyst target sits 16.5 percent higher - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPejBXX011bDV1OEhHZ3hESWpIbUJydFhSc3ZfZ3NoMmlyUFNBeHFPVzhYd1k3czFqRjBvY0pMZE9yNDVDbWtyM1NfeGM2WU1jOWxkX1BiQ3doQTUzQ0lCVlhfd2lqRThoUEg4ZmtBMGNHZ0pCOWNXOXZKRGZvWXFOZVQ1WG5hN09Oa0hrVUNQT3BiNFBIQUpDQVlMekVGZ1BTYmIxdnI5X1pyaXUzeE9jMTlMQ2syaE8wZFgtS1RFSjd1UV9ubUpEcXkzUGwxWFk?oc=5",
-      "source": "AD HOC NEWS",
-      "published": "2026-10-09T13:50:53+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "8b509fd4b8f1cb30",
@@ -307,17 +318,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-sees-more-significant-205004059.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-07T20:50:04+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "6540f058f67caa92",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "3 Nuclear Stocks With Earnings Growth Up To 47%",
-      "link": "https://finance.yahoo.com/energy/articles/3-nuclear-stocks-earnings-growth-151421357.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-07T15:14:21+00:00",
       "logo": "logos/CCJ.svg"
     },
     {
