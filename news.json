@@ -1,6 +1,39 @@
 {
-  "updated": "2026-10-12T03:41:35Z",
+  "updated": "2026-10-12T06:50:42Z",
   "items": [
+    {
+      "id": "e6893f195bd9361d",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "TSLA Stock Climbs Overnight As Cybercab Eyes Dallas — Musk Recalls When Shorts Had Tesla In ‘Checkmate’",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-cybercab-dallas-musk-shorts-tesla-checkmate/cZxIb3ERBFN?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T06:34:52+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "0b2229d079a44466",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas",
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-tesla-spacex-test-10-chip-designs-a-year-terafab-tsmc-reportedly-eyes-texas/cZx4U7ZRBFW?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T04:07:24+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "82c086d99c1efbd1",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Dow, S&P 500, Nasdaq Futures Climb After Oil In Focus As Trump Declares ‘Energy Ceasefire’ Between Russia And Ukraine: IREN, WFF, VSTM, CIFR Stocks In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-climb-after-oil-in-focus-as-trump-declares-energy-ceasefire-between-russia-and-ukraine-iren-wff-vstm-cifr-stocks-in-focus/cZx4DAYRBFX?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T03:50:27+00:00",
+      "logo": "logos/IREN.svg"
+    },
     {
       "id": "004bc49715d35d6b",
       "ticker": "GOOG",
@@ -55,28 +88,6 @@
       "source": "News",
       "published": "2026-10-12T01:11:37+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "4b6f9d30342a20dc",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk’s 250,000 Cybertruck Goal Falls Well Short: New Data Shows Only 13% of Goal Sold Annually",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-250-000-cybertruck-233010061.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T23:30:10+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "173847b812826b07",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Forget Chasing Volume. Here's the Most Active Stock I'd Actually Hold for 5 Years.",
-      "link": "https://www.fool.com/investing/2026/10/11/forget-chasing-volume-heres-the-most-active-stock/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-11T23:20:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "fae04f42d8d19001",
@@ -145,17 +156,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "7858d556e5f4a44f",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong stock ends the week unchanged at EUR 5.67 as high reaches EUR 5.79 - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON2prMFJKWHBWNXRYWDhydHFiN3Q1eVZUVHprTlllQWtILVNqNElicEVxV1d0RDdaMGJIV1QwM0RCaW4yWFA4cmVXWUtXZjdFWmgzdkFaNzlyUVpySkR0TkIxRFZTOVpFSFBLWTFndVQyblhJcmxGc0FLY0Q5YTNHcXBROGxWVXVodi12UXdJdXdwY1FvMFBIS1diX2owaV9zVlJMT3ZyR2pWZ2tZQ3JMYnV5WkRwbXJUUFU4YVJYQ0tMSXVxdFZtdEJqUWxIWGs?oc=5",
-      "source": "AD HOC NEWS",
-      "published": "2026-10-10T09:07:44+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "844cc2e5829b76d2",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -167,15 +167,15 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "23737468f4dfab84",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Applied Digital Has Fallen Hard Over 1 Year: One Lead Analyst Says It’s Going to Nearly Triple in Price",
-      "link": "https://247wallst.com/investing/2026/10/09/applied-digital-has-fallen-hard-over-1-year-one-lead-analyst-says-its-going-to-nearly-triple-in-price/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-09T16:45:10+00:00",
-      "logo": "logos/IREN.svg"
+      "id": "43ed1d067aa4225a",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Hong Kong Holdings Ltd (BOF.HM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1temQzMHl0d1hsYVNBcGkwOWNNODRKR2xWWGxsbUVXWlBJYnZLZ2J5SVIyUHRaVTQxUHAxcGdjcFVnZVlaTEFpWE5pM2ZjLXBmbEpUMkh3dURqcVpIczNBSERULXM3cnFK?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-09T15:25:01+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "c8a31804989129fa",
@@ -187,17 +187,6 @@
       "source": "News",
       "published": "2026-10-09T15:04:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "afb3f294099adfc2",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong stock at EUR 5.66: analyst target sits 16.5 percent higher - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPejBXX011bDV1OEhHZ3hESWpIbUJydFhSc3ZfZ3NoMmlyUFNBeHFPVzhYd1k3czFqRjBvY0pMZE9yNDVDbWtyM1NfeGM2WU1jOWxkX1BiQ3doQTUzQ0lCVlhfd2lqRThoUEg4ZmtBMGNHZ0pCOWNXOXZKRGZvWXFOZVQ1WG5hN09Oa0hrVUNQT3BiNFBIQUpDQVlMekVGZ1BTYmIxdnI5X1pyaXUzeE9jMTlMQ2syaE8wZFgtS1RFSjd1UV9ubUpEcXkzUGwxWFk?oc=5",
-      "source": "AD HOC NEWS",
-      "published": "2026-10-09T13:50:53+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "711310173cc0c18f",
@@ -231,6 +220,17 @@
       "source": "News",
       "published": "2026-10-09T08:27:10+00:00",
       "logo": "logos/NU.svg"
+    },
+    {
+      "id": "06211a113f924ba4",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Hong Kong (Holdings) Limited (2388.HK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XRHRFZWFyakdNTHJGRWt2cC1GM2l2YkJQdUU4WkgyX2N5M1Boa3FoeWpVZ2dDVVlQNV9jU21VMk1ocEpubVRWQ1ZYZlAxeFl5OUlYeUtn?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-09T08:08:06+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "435084ef88d54212",
@@ -339,7 +339,7 @@
       "title": "EML Payments Applies to Quote 625,000 Ordinary Shares Issued Under Employee Incentive Scheme - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWTJlNVpybVhfTXF4b2sxLWtJcF9QYUZfTjBmVGVmRWVyTkdOeHhCVTNmbEJXRmdoMlBOaUJlVmU1V2JOU09CRkt0NC1BUUtULU0zZG81WkFwMERYTzJqR2M2RFQ3ZkY4OWZaRjhJTElnNW1ZWDhFWnk3Rzg0cGRWOXhaNjlwTUI4T0k2aGFsS08weU5aMW1QbTBjdzZGNUdkaGhPUUtjRnhpNzN6Y1B4VmwtN0xKLU5Xc21HQ0h1WG1CaTdLc0Y4WTh0WENTdw?oc=5",
       "source": "Kalkine",
-      "published": "2026-10-02T07:00:00+00:00",
+      "published": "2026-10-02T10:25:09+00:00",
       "logo": "logos/EML.svg"
     },
     {
