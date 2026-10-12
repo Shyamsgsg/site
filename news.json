@@ -1,60 +1,137 @@
 {
-  "updated": "2026-10-12T15:40:16Z",
+  "updated": "2026-10-12T18:42:51Z",
   "items": [
     {
-      "id": "9f52d9e45279a7f7",
+      "id": "93b5808abfe9b1eb",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Warren Buffett Bought This Magnificent Artificial Intelligence (AI) Stock a Year Ago. Here's Why It's Still a Buy Today.",
+      "link": "https://www.fool.com/investing/2026/10/12/warren-buffett-bought-this-magnificent-artificial/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T18:20:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "8ef0c8a6fe49633d",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "3 Founder Led Stocks With Revenue Growth Up To 43%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-revenue-180950777.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T18:09:50+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "a66402308e7851bb",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "How to invest in cybersecurity stocks as consumer protection lags",
+      "link": "https://finance.yahoo.com/video/how-to-invest-in-cybersecurity-stocks-as-consumer-protection-lags-180732163.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T18:07:32+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "24fc3cf3dccfb30a",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla, General Motors, Other US Automakers Expected to Benefit From Resilient SAAR, RBC Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-general-motors-other-us-152008363.html?.tsrc=rss",
+      "title": "SpaceX's Starlink could pose 3 big risks to Apple, BofA warns",
+      "link": "https://finance.yahoo.com/technology/article/spacexs-starlink-could-pose-3-big-risks-to-apple-bofa-warns-175500290.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-12T15:20:08+00:00",
+      "published": "2026-10-12T17:55:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "cf744ceb5b0ef7cb",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google expands wearables lineup with $180 Fitbit Edge to boost digital health push",
-      "link": "https://finance.yahoo.com/healthcare/articles/google-expands-wearables-lineup-180-150626336.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T15:06:26+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "b4122a7003d63f00",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Apple Stock Price Prediction: Wall Street’s Next Big Surprise Could Be Closer Than You Think",
-      "link": "https://247wallst.com/investing/2026/10/12/apple-stock-price-prediction-wall-streets-next-big-surprise-could-be-closer-than-you-think/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T15:00:04+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "69722d1496a9fef6",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Nvidia, AMD, Google, and Meta team up on global blueprint for data center design",
-      "link": "https://finance.yahoo.com/technology/article/nvidia-amd-google-and-meta-team-up-on-global-blueprint-for-data-center-design-150000023.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T15:00:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "01c41da33bec4bfc",
+      "id": "5be61612ead438b7",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla Cybercabs Face Regulatory Probe For Speeding In School Zones",
-      "link": "https://finance.yahoo.com/m/e693b5b3-98df-3921-aac9-6213b918f04b/tesla-cybercabs-face.html?.tsrc=rss",
+      "title": "Analysts Raise Targets on Securitize, Coinbase, Robinhood; BofA Cuts eToro",
+      "link": "https://www.cryptoprowl.com/releases/analysts-raise-targets-on-securitize-coinbase-robinhood-bofa-cuts-etoro-7293?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-12T14:49:43+00:00",
+      "published": "2026-10-12T17:53:00+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a56a939d2bdd2134",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Which AI stocks' valuations are outrunning reality?",
+      "link": "https://finance.yahoo.com/video/which-ai-stocks-valuations-are-outrunning-reality-174639413.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T17:46:39+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "9efe514c34a654cf",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Sector Update: Consumer Stocks Mixed Monday Afternoon",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-monday-174008437.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T17:40:08+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "0c3e35edb684f8f0",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Rivian Automotive (RIVN) vs. TSLA and F: Can Improving Margins and Its R2 Midsize SUV Unlock Profitable Growth?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-automotive-rivn-vs-tsla-173940633.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T17:39:40+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "4abb30ffed8537e5",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Broadcom Is Building an AI Business Unlike Nvidia’s. Here’s My Price Prediction",
+      "link": "https://247wallst.com/investing/2026/10/12/broadcom-is-building-an-ai-business-unlike-nvidias-heres-my-price-prediction/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T17:30:27+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "089db2b12c6c8a4f",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Micron, Fannie Mae, eBay, IonQ, Salesforce, and More Stocks That Explain Today’s Market",
+      "link": "https://finance.yahoo.com/m/2d9b64de-8e4a-3498-b5fc-a5eece9ad2e7/micron%2C-fannie-mae%2C-ebay%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T16:58:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "116c97d504dff9de",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "The 3 Most Important Metrics to Watch for Nu Holdings. And No, It's Not Customer Numbers.",
+      "link": "https://www.fool.com/investing/2026/10/12/3-most-important-metrics-to-watch-for-nu-holding/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T16:50:00+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "908e32be2e8a28cd",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings Crossed a $1 Billion Quarterly Profit Milestone. Here's Why It Matters.",
+      "link": "https://www.fool.com/investing/2026/10/12/nu-holdings-crossed-a-1-billion-quarterly-profit/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T16:35:00+00:00",
+      "logo": "logos/NU.svg"
     },
     {
       "id": "c7b13b814b3ed17b",
@@ -66,28 +143,6 @@
       "source": "News",
       "published": "2026-10-12T14:48:45+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "2eb3bd4df45ab129",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Quantum Computing Stocks: Darpa Spreads Its Bets As Industry Shakeout Looms",
-      "link": "https://finance.yahoo.com/m/0e75cf79-e597-36d3-b10c-39791f20d027/quantum-computing-stocks%3A.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T14:47:36+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "a69e077dd16f37cf",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Jefferies raises Tesla price target as resilient deliveries support automotive outlook",
-      "link": "https://www.proactiveinvestors.com/companies/news/1099972/jefferies-raises-tesla-price-target-as-resilient-deliveries-support-automotive-outlook-1099972.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T14:44:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "588184c7e5b8f72a",
@@ -109,28 +164,6 @@
       "link": "https://finance.yahoo.com/m/04ab5ce8-c2c2-3b1c-952c-5ea1b7a9d653/iren-reportedly-joins.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-12T14:08:24+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "286472bd0b72c83b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "How SpaceX’s Spectrum Purchase Brings It Closer to a Tesla Merger",
-      "link": "https://finance.yahoo.com/m/3543e013-c44c-36fb-88da-faeb1d7f3b85/how-spacex%E2%80%99s-spectrum.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T14:04:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "a0e6926fb2297158",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN jumps on Anthropic multiyear cloud deal",
-      "link": "https://finance.yahoo.com/video/iren-jumps-on-anthropic-multiyear-cloud-deal-135327195.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T13:53:27+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -244,28 +277,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "517ca91c2fb04e2f",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "2 Financials Stocks Worth Your Attention and 1 We Find Risky",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-financials-stocks-worth-attention-082710172.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-09T08:27:10+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "435084ef88d54212",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Elite AI Stocks To Own In October 2026",
-      "link": "https://finance.yahoo.com/technology/ai/articles/elite-ai-stocks-own-october-071235362.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-09T07:12:35+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "aa229020b03127db",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -286,17 +297,6 @@
       "source": "News",
       "published": "2026-10-08T21:00:05+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "7383c9d04ebd7311",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "NU Stock Rallies 23% in October: Is There Still Room for More Gains?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-stock-rallies-23-october-164600639.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-08T16:46:00+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "3f0f13ea04d990b6",
