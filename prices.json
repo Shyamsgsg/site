@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T03:46:30+00:00",
+  "updated": "2026-10-12T04:08:50+00:00",
   "source": "Yahoo Finance (query1.finance.yahoo.com/v8/finance/chart)",
   "fx": {
     "AUDUSD": 0.6985,
@@ -35,17 +35,17 @@
       "currency": "AUD",
       "exchange": "ASX",
       "long_name": "EML Payments Limited",
-      "market_time": "2026-10-12T03:24:20+00:00",
+      "market_time": "2026-10-12T03:48:19+00:00",
       "stale": false
     },
     "GTK.AX": {
-      "price": 3.3,
+      "price": 3.31,
       "previous_close": 3.33,
-      "change_pct": -0.9009,
+      "change_pct": -0.6006,
       "currency": "AUD",
       "exchange": "ASX",
       "long_name": "Gentrack Group Limited",
-      "market_time": "2026-10-12T03:26:15+00:00",
+      "market_time": "2026-10-12T03:48:45+00:00",
       "stale": false
     },
     "ONON": {
@@ -105,7 +105,7 @@
       "currency": "USD",
       "exchange": "CCY",
       "long_name": "AUD/USD",
-      "market_time": "2026-10-12T03:45:28+00:00",
+      "market_time": "2026-10-12T04:07:28+00:00",
       "stale": false
     },
     "SGD=X": {
@@ -115,7 +115,7 @@
       "currency": "SGD",
       "exchange": "CCY",
       "long_name": "USD/SGD",
-      "market_time": "2026-10-12T03:46:29+00:00",
+      "market_time": "2026-10-12T04:08:47+00:00",
       "stale": false
     },
     "^GSPC": {
