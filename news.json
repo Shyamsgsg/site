@@ -1,16 +1,115 @@
 {
-  "updated": "2026-10-12T18:42:51Z",
+  "updated": "2026-10-12T21:35:31Z",
   "items": [
     {
-      "id": "93b5808abfe9b1eb",
+      "id": "63c50c571c1e12ea",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Stock Market Today, Oct. 12: Iren Surges on Reports of Anthropic Cloud Services Deal",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/12/stock-market-today-oct-12-iren-surges-on-reports-of-anthropic-cloud-services-deal/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T21:21:15+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "274840700c97ca7b",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Warren Buffett Bought This Magnificent Artificial Intelligence (AI) Stock a Year Ago. Here's Why It's Still a Buy Today.",
-      "link": "https://www.fool.com/investing/2026/10/12/warren-buffett-bought-this-magnificent-artificial/?.tsrc=rss",
+      "title": "JLL poaches one of CBRE’s top brokerage teams in Chicago",
+      "link": "https://finance.yahoo.com/real-estate/articles/jll-poaches-one-cbre-top-211500958.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-12T18:20:00+00:00",
+      "published": "2026-10-12T21:15:00+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "b5c44864eaf1d936",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Palantir’s Pentagon role reveals a surprising edge",
+      "link": "https://www.thestreet.com/investing/palantirs-pentagon-role-reveals-a-surprising-edge?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T21:03:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "089db2b12c6c8a4f",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Micron, Fannie Mae, eBay, IonQ, Salesforce, and More Stocks That Explain Today’s Market",
+      "link": "https://finance.yahoo.com/m/2d9b64de-8e4a-3498-b5fc-a5eece9ad2e7/micron%2C-fannie-mae%2C-ebay%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T20:24:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "090bd2f6a6b7732e",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Reportedly Joins Anthropic's Cloud Providers; Shares Jump",
+      "link": "https://finance.yahoo.com/m/04ab5ce8-c2c2-3b1c-952c-5ea1b7a9d653/iren-reportedly-joins.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T20:22:57+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "3de6ef3d24ece577",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "The Staggering Costs of a Single Data Center, From Land to Chips",
+      "link": "https://finance.yahoo.com/video/staggering-costs-single-data-center-201712396.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T20:17:12+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d961574580a2cc87",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Microsoft just reclaimed its $4T market cap, thanks to its Maia 300 AI chip",
+      "link": "https://finance.yahoo.com/video/microsoft-just-reclaimed-its-4t-market-cap-thanks-to-its-maia-300-ai-chip-194708647.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T19:47:08+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d44be5b19c95119f",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Hong Kong stock after-hours at EUR 5.78 - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1ZyS0wtN3VhN1NYZmxWQnh1emtabEUzOFh4ZVFPR1ByMm5LSnNRS29STE5ObjFMWXEtT05oZU5ZemhjWGdXR2NVMUoyWm5qamNYY0dOcjh4djJQdnA5cElvZUQ2SU9xTEFMZFNMN0Q5TWNOXzlrVkxiR0FySTFwZnJ4cm9FblNENUFPZlV4clNsSS1hVlktQW1iU2k4R0N4eXFqdw?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-12T19:35:57+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "e12f5a6d303a7d30",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Faces New Luxury EV Rival in France as Lucid Plans 16 Locations",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-faces-luxury-ev-rival-193015810.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T19:30:15+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "3ba66b805da5ba3e",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Anthropic Deal Report Gives IREN Stock Early Boost Before Gains Fade",
+      "link": "https://finance.yahoo.com/m/1a6521f3-c066-33d2-ab8c-c609e2bd6c19/anthropic-deal-report-gives.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T18:58:00+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "8ef0c8a6fe49633d",
@@ -22,17 +121,6 @@
       "source": "News",
       "published": "2026-10-12T18:09:50+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "a66402308e7851bb",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "How to invest in cybersecurity stocks as consumer protection lags",
-      "link": "https://finance.yahoo.com/video/how-to-invest-in-cybersecurity-stocks-as-consumer-protection-lags-180732163.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T18:07:32+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "24fc3cf3dccfb30a",
@@ -57,17 +145,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "a56a939d2bdd2134",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Which AI stocks' valuations are outrunning reality?",
-      "link": "https://finance.yahoo.com/video/which-ai-stocks-valuations-are-outrunning-reality-174639413.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T17:46:39+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "9efe514c34a654cf",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -77,39 +154,6 @@
       "source": "News",
       "published": "2026-10-12T17:40:08+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "0c3e35edb684f8f0",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Rivian Automotive (RIVN) vs. TSLA and F: Can Improving Margins and Its R2 Midsize SUV Unlock Profitable Growth?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-automotive-rivn-vs-tsla-173940633.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T17:39:40+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "4abb30ffed8537e5",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Broadcom Is Building an AI Business Unlike Nvidia’s. Here’s My Price Prediction",
-      "link": "https://247wallst.com/investing/2026/10/12/broadcom-is-building-an-ai-business-unlike-nvidias-heres-my-price-prediction/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T17:30:27+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "089db2b12c6c8a4f",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Micron, Fannie Mae, eBay, IonQ, Salesforce, and More Stocks That Explain Today’s Market",
-      "link": "https://finance.yahoo.com/m/2d9b64de-8e4a-3498-b5fc-a5eece9ad2e7/micron%2C-fannie-mae%2C-ebay%2C.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T16:58:00+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "116c97d504dff9de",
@@ -132,39 +176,6 @@
       "source": "News",
       "published": "2026-10-12T16:35:00+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "c7b13b814b3ed17b",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Stock Jumps 4% Following Landmark Cloud Computing Deal With Anthropic",
-      "link": "https://www.tikr.com/blog/iren-stock-anthropic-ai-cloud-deal?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T14:48:45+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "588184c7e5b8f72a",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN (IREN) Flags AI Infrastructure Scaling Challenges",
-      "link": "https://finance.yahoo.com/technology/ai/articles/iren-iren-flags-ai-infrastructure-141901564.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T14:19:01+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "090bd2f6a6b7732e",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Reportedly Joins Anthropic's Cloud Providers; Shares Jump",
-      "link": "https://finance.yahoo.com/m/04ab5ce8-c2c2-3b1c-952c-5ea1b7a9d653/iren-reportedly-joins.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T14:08:24+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "c00f39f7dbfe5857",
@@ -241,17 +252,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWc0dERReEJ2SzNUUnF3WG5DdVF2YkNYRlZsckhZMVNFeDBuaUJwSE9ocnZmOWY4ZFRxTTZQdy1xV2Y1bm82QUREUDk2S1BiQWpDLXVueWNCZ205TXhnb2xua00tYzlzTWVtRTl1ck9nQ3BaQ2MwSUpXdk9taXFOcUtVOWZlRGNFZFNidkZoR0pOSnBGY210RFRIdDI4NnFNVTdsR1NhbXNyckdlRDR5ejB2OTNGQ3JnNHFabFJvWnZIRUxmb3ltaHV6S21RQQ?oc=5",
       "source": "Stock Traders Daily",
       "published": "2026-10-10T19:52:02+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "7858d556e5f4a44f",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong stock ends the week unchanged at EUR 5.67 as high reaches EUR 5.79 - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON2prMFJKWHBWNXRYWDhydHFiN3Q1eVZUVHprTlllQWtILVNqNElicEVxV1d0RDdaMGJIV1QwM0RCaW4yWFA4cmVXWUtXZjdFWmgzdkFaNzlyUVpySkR0TkIxRFZTOVpFSFBLWTFndVQyblhJcmxGc0FLY0Q5YTNHcXBROGxWVXVodi12UXdJdXdwY1FvMFBIS1diX2owaV9zVlJMT3ZyR2pWZ2tZQ3JMYnV5WkRwbXJUUFU4YVJYQ0tMSXVxdFZtdEJqUWxIWGs?oc=5",
-      "source": "AD HOC NEWS",
-      "published": "2026-10-10T09:07:44+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -332,6 +332,17 @@
       "logo": "logos/ONON.svg"
     },
     {
+      "id": "4a77abdb1af5c1cc",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments Seeks ASX Quotation for New Employee Incentive Shares - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORFA0MXhoUmV3ZjJyVmhqRktZajk2NUZOY0lKTUVIZk42NlREUXloWTVlUmVVU0NIczIyYXlmY1Z0cWotS3ZNVGRvRzRkeUJPZzZWbjVjU08zVDBvaVBlRmFmNWg3amVTN0pwekZqSnJHVmQ4bXQzNTdIUm1pTFB0VW45UV96Ymx1Y0pNcW1HMEllLWJjbnQ5dzVFdUo2cE9PU01PSUJZa3p1Q1VDMWhscGN6WVo1Y1hVNmhlaXNxUGlfM2dDdXBaYWg2eU93MTF5SHR5UG11MTZYVTI4QmxpenM3TjRxalk?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-10-02T07:00:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "1bc24815f4f8706c",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWTJlNVpybVhfTXF4b2sxLWtJcF9QYUZfTjBmVGVmRWVyTkdOeHhCVTNmbEJXRmdoMlBOaUJlVmU1V2JOU09CRkt0NC1BUUtULU0zZG81WkFwMERYTzJqR2M2RFQ3ZkY4OWZaRjhJTElnNW1ZWDhFWnk3Rzg0cGRWOXhaNjlwTUI4T0k2aGFsS08weU5aMW1QbTBjdzZGNUdkaGhPUUtjRnhpNzN6Y1B4VmwtN0xKLU5Xc21HQ0h1WG1CaTdLc0Y4WTh0WENTdw?oc=5",
       "source": "Kalkine",
       "published": "2026-10-02T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "fc5ab76c118e8996",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Trading Systems Reacting to (EML) Volatility - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdUtNRHhjOEpiZ2ZTS0VNZHRzWnpnVnNfRTNGck9ReklJdkNwQUtYVHd3SU9XbUQ5V2dLc3lGNlpYV0MxazIwZ3dqRS1hUkxUZW9HVlZFa0xUaGZ2UThyeG9zNUdrVlMyODl1a0JtbTEyQThBWC0yWHd4NWkxS3U1WG9TWVd4a0JaRWVrX1pJN1hKN0JOLUZZNktINl83MVZRN0xWT2E2QXZZVkhvOHhwVXhZOW9yTjBoR0dpSFNnQQ?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-10-01T07:44:02+00:00",
       "logo": "logos/EML.svg"
     },
     {
