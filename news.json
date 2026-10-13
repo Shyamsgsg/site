@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-13T00:50:59Z",
+  "updated": "2026-10-13T03:40:01Z",
   "items": [
+    {
+      "id": "41b7dc7f573a4606",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "What Could Morningstar (MORN) Headquarters Move To The Thompson Center Signal?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/could-morningstar-morn-headquarters-move-021813094.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T02:18:13+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "285f50031f509a6a",
       "ticker": "GOOG",
@@ -32,17 +43,6 @@
       "link": "https://www.trefis.com/articles/618327/is-reddit-stock-a-good-fit-for-your-portfolio-risk/2026-10-12?.tsrc=rss",
       "source": "News",
       "published": "2026-10-12T22:28:14+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "9b0e53c0e09d4974",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "What Did Fastly Stock Investors Miss Before The Run?",
-      "link": "https://www.trefis.com/articles/618339/what-did-fastly-stock-investors-miss-before-the-run/2026-10-12?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T22:20:09+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
