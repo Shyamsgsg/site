@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-13T03:40:01Z",
+  "updated": "2026-10-13T06:49:37Z",
   "items": [
+    {
+      "id": "d4ced6d206ad0692",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Hong Kong stock pre-market at EUR 5.92 - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGpNV0Z3M2ZkY0w0azdRSGhvb3l2eEZRNTRvemNrZUo1UFJDTHBRZDY5Qllhd2VsYkVIOFhRblpvUmk3dDVsbUNMTkhuR28xbmpBUTlwZVhuYWEwTG1iamt5dzFEXzlZc0JOMGRmMWYtRnhRYzdZOTkwZEh3U2s5MV9tYWNkMlp2ZV9KUjZiZldjUEZjbzFYdDVyRU9ZYjNGUHc?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-13T06:42:28+00:00",
+      "logo": "logos/BOC.svg"
+    },
     {
       "id": "41b7dc7f573a4606",
       "ticker": "GOOG",
@@ -242,17 +253,6 @@
       "source": "Stock Traders Daily",
       "published": "2026-10-11T14:14:02+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "0cf1f0580646edfa",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Technical Reactions to BOC Trends in Macro Strategies - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWc0dERReEJ2SzNUUnF3WG5DdVF2YkNYRlZsckhZMVNFeDBuaUJwSE9ocnZmOWY4ZFRxTTZQdy1xV2Y1bm82QUREUDk2S1BiQWpDLXVueWNCZ205TXhnb2xua00tYzlzTWVtRTl1ck9nQ3BaQ2MwSUpXdk9taXFOcUtVOWZlRGNFZFNidkZoR0pOSnBGY210RFRIdDI4NnFNVTdsR1NhbXNyckdlRDR5ejB2OTNGQ3JnNHFabFJvWnZIRUxmb3ltaHV6S21RQQ?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-10-10T19:52:02+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "c8a31804989129fa",
