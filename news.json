@@ -1,71 +1,93 @@
 {
-  "updated": "2026-10-13T18:47:26Z",
+  "updated": "2026-10-13T21:48:13Z",
   "items": [
     {
-      "id": "352f345dfdea361d",
+      "id": "c4a37a13ad457e9a",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Micron Stock Is Falling. Elon Musk’s Comments on Chinese Chips Aren’t Helping.",
-      "link": "https://finance.yahoo.com/m/2090cc23-fb93-31af-93ed-5e8f238b941d/micron-stock-is-falling.-elon.html?.tsrc=rss",
+      "title": "Rivian spinoff Mind Robotics hires ex-Ford EV chief Doug Field",
+      "link": "https://finance.yahoo.com/markets/article/rivian-spinoff-mind-robotics-hires-ex-ford-ev-chief-doug-field-213702515.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-13T18:29:00+00:00",
+      "published": "2026-10-13T21:37:02+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "ccdad3abb880a9f4",
+      "id": "9c1bda4b035aba4b",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Does the Risk-Reward Profile Still Favor Alphabet (GOOGL) Investors?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/does-risk-reward-profile-still-211400880.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T21:14:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "2f335b1f5c7491d7",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Has IBM Stock Become A Different Bet?",
+      "link": "https://www.trefis.com/articles/618462/has-ibm-stock-become-a-different-bet/2026-10-13?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T20:35:06+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "8530a3c088267e73",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google’s Gemini 4 Argon is Here",
+      "link": "https://app.moby.co/home/news/news-googles-gemini-4-argon-is-here?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T20:34:40+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a1d73d456983b3ba",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Nightpeak Energy Brings Bocanova 2 Online, Completing 300 MW Battery Storage Project in ERCOT",
-      "link": "https://finance.yahoo.com/energy/articles/nightpeak-energy-brings-bocanova-2-181500248.html?.tsrc=rss",
+      "title": "Tesla target lowered by analysts worried about runaway $25 billion spending",
+      "link": "https://www.thestreet.com/investing/stocks/tesla-target-lowered-by-analysts-worried-about-runaway-25-billion-spending?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-13T18:15:00+00:00",
+      "published": "2026-10-13T20:33:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "a2135af51951a89d",
+      "id": "9afec651f5cc39f3",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "EXCLUSIVE: Ross Gerber Says Tesla May Make Just ‘a Few Hundred’ Roadsters: ‘Hovering Is a Gimmick’",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-203027674.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T20:30:27+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ccc5f98dbc849040",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Apple Is Taking on Amazon and Google in the Smart Home With a $299 Siri AI Device. Is HomeView the First Big Win for New CEO John Ternus?",
-      "link": "https://www.fool.com/investing/2026/10/13/apple-is-taking-on-amazon-and-google-in-the-smart-home-with-a-299-siri-ai-device-is-homeview-the-first-big-win-for-new-ceo-john-ternus/?.tsrc=rss",
+      "title": "What Is Adobe No Longer Telling You?",
+      "link": "https://www.trefis.com/articles/618463/what-is-adobe-no-longer-telling-you/2026-10-13?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-13T17:50:21+00:00",
+      "published": "2026-10-13T20:29:28+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "3670154aa6061c0b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "MercadoLibre vs. Shopify: Which Consumer Stock Is a Better Buy in 2026?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/10/13/mercadolibre-vs-shopify-which-consumer-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+      "id": "f46f4716ff135013",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Betting On The Future Of AI Robotics With Ouster (OUST)",
+      "link": "https://247wallst.com/videos/betting-on-the-future-of-ai-robotics-with-ouster-oust/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-13T17:35:02+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "f5e164acd349ab91",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Apple's privacy edge may not be enough to save it in AI phone race",
-      "link": "https://finance.yahoo.com/video/apples-privacy-edge-may-not-be-enough-to-save-it-in-ai-phone-race-171652870.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T17:16:52+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "dbc80921bd20fd0b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet (GOOGL) Backs AI Game Creation Platform For Millions Of New Users",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-backs-ai-game-171359787.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T17:13:59+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-10-13T20:05:22+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "b262b99fda783d34",
@@ -77,39 +99,6 @@
       "source": "News",
       "published": "2026-10-13T16:05:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "3588079413b832e4",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Electric Trucks: The REALITY for Tesla Semi & Volvo Fleets",
-      "link": "https://finance.yahoo.com/energy/articles/electric-trucks-reality-tesla-semi-143552440.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T14:35:52+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "18c14a77b0a5ddd5",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "The First Pure-Play Humanoid Robot Stock Is About to Go Public. Here's What Investors Need to Know About Agility Robotics.",
-      "link": "https://www.fool.com/investing/2026/10/13/the-first-pure-play-humanoid-robot-stock-is-about/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T14:35:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "0cd9906e4fdcc7bc",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "BC-Most Active Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143026094.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T14:30:26+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "69e1308ec11b82a6",
@@ -198,6 +187,17 @@
       "source": "News",
       "published": "2026-10-13T10:10:02+00:00",
       "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "8388d4154d17a657",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN reportedly inks multiyear deal with Anthropic. Here’s what we know",
+      "link": "https://blockspace.media/short/iren-reportedly-inks-multiyear-deal-with-anthropic-heres-what-we-know/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T10:00:00+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "c5eb5bb6a7b88f98",
