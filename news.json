@@ -1,27 +1,137 @@
 {
-  "updated": "2026-10-13T09:39:52Z",
+  "updated": "2026-10-13T12:49:16Z",
   "items": [
     {
-      "id": "b5da77c427789f47",
+      "id": "500ade5120dbcadb",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Hong Kong stock rises 3.26 percent to EUR 5.95 - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR3Flc1QzazRmbGpDd1czSTFpS0plUmh3eEVaQ01EejFVYWlpMEhhZlhmYVZGOUZQbzlsV3JDYm9VY0Nidl9JYjRDQmNzTjgtdWRidDFNUUI0dXdxZWQxczcxcDNtRGVHT21kTWhJbUt1UldyelRxZXhzaVlXaUpJd2N4d2lHUXZYeWF5ZHQ3dGdEMU9wVGZfR0FXQUVZbkVYUERsSjR0empZUFY5SWxLdUVZMA?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-13T12:31:22+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "87f8191374020358",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "AI start-up blamed for teen’s suicide goes bankrupt",
+      "link": "https://uk.finance.yahoo.com/news/ai-start-blamed-teen-suicide-122953936.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T12:29:53+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "6012dc868a0d8a48",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings (NU) Now Earns $1B a Quarter. Is the Premium Earned?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-now-earns-122756088.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T12:27:56+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "506d71db523abd68",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Is Alphabet’s (GOOGL) Cloud Growth Masking a Paper EPS Gain?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-cloud-growth-masking-121326549.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T12:13:26+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "c1e34aca46c31d33",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Should You Sell Tesla? I Sold 1 Other Winner Too Early. Here's What I Learned.",
-      "link": "https://www.fool.com/investing/2026/10/13/should-you-sell-tesla-i-sold-1-other-obvious-winne/?.tsrc=rss",
+      "title": "Is Tesla (TSLA) a Car Market Leader or a $1 Trillion Robotics Gamble?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-car-market-leader-121157870.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-13T09:05:00+00:00",
+      "published": "2026-10-13T12:11:57+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "0b2ac6a1efa6bdde",
+      "id": "c22e913aec12744f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Why Google (GOOGL) Offers Asymmetric Upside Potential?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-google-googl-offers-asymmetric-120806718.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T12:08:06+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "f6a177cc41896574",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "South Korean import sales rise 6% in September",
-      "link": "https://www.just-auto.com/news/south-korean-import-sales-rise-6-in-september/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T08:59:07+00:00",
+      "title": "Latest News In Energy Transition",
+      "link": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-renewable-113700332.html?.tsrc=rss",
+      "source": "Renewable Growth Drives Future Power Mix Transformation",
+      "published": "2026-10-13T11:37:00+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "1c27a4b81fec5efb",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Microsoft Could Be Worth Far More as Its Cloud and AI Businesses Scale",
+      "link": "https://247wallst.com/investing/2026/10/13/microsoft-could-be-worth-far-more-as-its-cloud-and-ai-businesses-scale/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T11:15:01+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "cb8d5e6a0d44a378",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "IsoEnergy Announces the Appointment of Nathan Bridge as Vice President, Exploration and Dr. Dan Brisbin as Vice President, Geology",
+      "link": "https://finance.yahoo.com/energy/articles/isoenergy-announces-appointment-nathan-bridge-110000230.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T11:00:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "8a0115298e13195f",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Not Tesla. Not Nvidia. Elon Musk's Chip Ambitions Could Supercharge This Artificial Intelligence (AI) Stock.",
+      "link": "https://www.fool.com/investing/2026/10/13/not-tesla-not-nvidia-elon-musks-chip-ambitions-cou/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T10:50:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "8f407e0c80955cb6",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Micron Stock Falls Again as Musk Issues Chinese Memory Warning",
+      "link": "https://finance.yahoo.com/m/2090cc23-fb93-31af-93ed-5e8f238b941d/micron-stock-falls-again-as.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T10:23:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "98f2359d91049a81",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco And 2 Other Canadian Growth Stocks To Watch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-2-other-canadian-growth-101002869.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T10:10:02+00:00",
+      "logo": "logos/CCJ.svg"
     },
     {
       "id": "c5eb5bb6a7b88f98",
@@ -57,50 +167,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "642cb942abd3644a",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Seoul Moves to Block 27 Crypto Exchanges. Will Korean Money Come Home?",
-      "link": "https://beincrypto.com/south-korea-blocks-unregistered-crypto-exchanges/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T05:20:28+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "41b7dc7f573a4606",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "What Could Morningstar (MORN) Headquarters Move To The Thompson Center Signal?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/could-morningstar-morn-headquarters-move-021813094.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T02:18:13+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "285f50031f509a6a",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet vs. Meta Platforms: Which Stock Is a Better Buy in 2026?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/10/12/alphabet-vs-meta-platforms-which-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T00:31:41+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "a5462d6bafe59176",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Is Meta's Next Big Thing Already Here?",
-      "link": "https://www.trefis.com/articles/618323/is-metas-next-big-thing-already-here/2026-10-12?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T22:38:40+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "63c50c571c1e12ea",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -110,17 +176,6 @@
       "source": "News",
       "published": "2026-10-12T21:21:15+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "a263ffc12f79d329",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla (TSLA) Declines More Than Market: Some Information for Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-declines-more-market-204505667.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T20:45:05+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "089db2b12c6c8a4f",
@@ -154,28 +209,6 @@
       "source": "News",
       "published": "2026-10-12T19:37:22+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "d44be5b19c95119f",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong stock after-hours at EUR 5.78 - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1ZyS0wtN3VhN1NYZmxWQnh1emtabEUzOFh4ZVFPR1ByMm5LSnNRS29STE5ObjFMWXEtT05oZU5ZemhjWGdXR2NVMUoyWm5qamNYY0dOcjh4djJQdnA5cElvZUQ2SU9xTEFMZFNMN0Q5TWNOXzlrVkxiR0FySTFwZnJ4cm9FblNENUFPZlV4clNsSS1hVlktQW1iU2k4R0N4eXFqdw?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-12T19:35:57+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "e12f5a6d303a7d30",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Faces New Luxury EV Rival in France as Lucid Plans 16 Locations",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-faces-luxury-ev-rival-193015810.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T19:30:15+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "8ef0c8a6fe49633d",
@@ -233,17 +266,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "8c46a4f90ac8079a",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings (NU) Stock Looks Reasonable Following Fresh Brazil Tax Concerns",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-stock-looks-011137730.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T01:11:37+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "9b42c9faf9c5355c",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -253,17 +275,6 @@
       "source": "Stock Traders Daily",
       "published": "2026-10-11T14:14:02+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "c8a31804989129fa",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Can BWX Technologies' Uranium Processing Capabilities Drive Growth?",
-      "link": "https://finance.yahoo.com/energy/articles/bwx-technologies-uranium-processing-capabilities-150400892.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-09T15:04:00+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "8b509fd4b8f1cb30",
@@ -297,17 +308,6 @@
       "source": "News",
       "published": "2026-10-08T21:00:05+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "3f0f13ea04d990b6",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "CanAlaska advances high-grade Uranium exploration at West McArthur and Key Lake",
-      "link": "https://finance.yahoo.com/video/canalaska-advances-high-grade-uranium-164216924.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-08T16:42:16+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "f336688246afe99c",
