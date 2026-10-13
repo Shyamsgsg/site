@@ -1,49 +1,82 @@
 {
-  "updated": "2026-10-13T15:40:52Z",
+  "updated": "2026-10-13T18:47:26Z",
   "items": [
     {
-      "id": "fdaf67c6e868e626",
+      "id": "352f345dfdea361d",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Micron Stock Is Falling. Elon Musk’s Comments on Chinese Chips Aren’t Helping.",
+      "link": "https://finance.yahoo.com/m/2090cc23-fb93-31af-93ed-5e8f238b941d/micron-stock-is-falling.-elon.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T18:29:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ccdad3abb880a9f4",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Nightpeak Energy Brings Bocanova 2 Online, Completing 300 MW Battery Storage Project in ERCOT",
+      "link": "https://finance.yahoo.com/energy/articles/nightpeak-energy-brings-bocanova-2-181500248.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T18:15:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a2135af51951a89d",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "My Netflix Stock Prediction for 2027: Why I'm Not Selling a Single Share",
-      "link": "https://www.fool.com/investing/2026/10/13/my-netflix-stock-prediction-for-2027-why-im-not/?.tsrc=rss",
+      "title": "Apple Is Taking on Amazon and Google in the Smart Home With a $299 Siri AI Device. Is HomeView the First Big Win for New CEO John Ternus?",
+      "link": "https://www.fool.com/investing/2026/10/13/apple-is-taking-on-amazon-and-google-in-the-smart-home-with-a-299-siri-ai-device-is-homeview-the-first-big-win-for-new-ceo-john-ternus/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-13T15:20:00+00:00",
+      "published": "2026-10-13T17:50:21+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "9ab616916bc72662",
+      "id": "3670154aa6061c0b",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "XBOW Rewarded for Exploit Affecting a Billion Users",
-      "link": "https://finance.yahoo.com/technology/ai/articles/xbow-rewarded-exploit-affecting-billion-151500418.html?.tsrc=rss",
+      "title": "MercadoLibre vs. Shopify: Which Consumer Stock Is a Better Buy in 2026?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/13/mercadolibre-vs-shopify-which-consumer-stock-is-a-better-buy-in-2026/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-13T15:15:00+00:00",
+      "published": "2026-10-13T17:35:02+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "ed0cfd3e548191a5",
+      "id": "f5e164acd349ab91",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "How Hard Was It To Hold Alphabet Stock?",
-      "link": "https://www.trefis.com/articles/618484/how-hard-was-it-to-hold-alphabet-stock/2026-10-13?.tsrc=rss",
+      "title": "Apple's privacy edge may not be enough to save it in AI phone race",
+      "link": "https://finance.yahoo.com/video/apples-privacy-edge-may-not-be-enough-to-save-it-in-ai-phone-race-171652870.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-13T15:10:45+00:00",
+      "published": "2026-10-13T17:16:52+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "d7bbd3df506babf1",
+      "id": "dbc80921bd20fd0b",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Uber autonomous head Maredia to depart as leadership shifts continue",
-      "link": "https://finance.yahoo.com/technology/articles/uber-autonomous-head-maredia-depart-150118801.html?.tsrc=rss",
-      "source": "Bloomberg",
-      "published": "2026-10-13T15:01:18+00:00",
+      "title": "Alphabet (GOOGL) Backs AI Game Creation Platform For Millions Of New Users",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-backs-ai-game-171359787.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T17:13:59+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "b262b99fda783d34",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "3 Stocks to Buy If You Think the Nuclear Fuel Shortage Is the Real Story, Not the Reactors",
+      "link": "https://www.fool.com/investing/2026/10/13/3-stocks-to-buy-if-you-think-nuclear-fuel-shortage/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T16:05:00+00:00",
+      "logo": "logos/CCJ.svg"
     },
     {
       "id": "3588079413b832e4",
@@ -68,26 +101,15 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "b86afa7f3a203044",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Don't think Apple will own the universe 10 years from now",
-      "link": "https://finance.yahoo.com/video/dont-think-apple-will-own-the-universe-10-years-from-now-142152412.html?.tsrc=rss",
+      "id": "0cd9906e4fdcc7bc",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "BC-Most Active Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143026094.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-13T14:21:52+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "af60f67b985a28da",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Trades at 219x Earnings. Here’s Why I’m Not Buying the Bet on Its Future.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-trades-219x-earnings-why-141545835.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T14:15:45+00:00",
-      "logo": "logos/TSLA.svg"
+      "published": "2026-10-13T14:30:26+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "69e1308ec11b82a6",
@@ -145,6 +167,17 @@
       "logo": "logos/NU.svg"
     },
     {
+      "id": "7d299ca717f7bf62",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Feb 2027 12.500 call (BOC270219C00012500) stock historical prices and data - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTS2l5QllzTFJvYUFOdWFkSExpMXBKZmd6c05iZElTTU5PMG5ia0JnbTN3bHI1T0hvOVFtOWZqaFRBNm5NelhZSVJoU0NZZlBYVjNMM0FKNVh0LUIzbUdPV2NQSnlpX3dqclNPUjI0NA?oc=5",
+      "source": "Yahoo Finance Australia",
+      "published": "2026-10-13T12:01:52+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "cb8d5e6a0d44a378",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -167,17 +200,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "8388d4154d17a657",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN reportedly inks multiyear deal with Anthropic. Here’s what we know",
-      "link": "https://blockspace.media/short/iren-reportedly-inks-multiyear-deal-with-anthropic-heres-what-we-know/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T10:00:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "c5eb5bb6a7b88f98",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -197,17 +219,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDRDcHhOYzFtT1d2TkxoOUhvNGIyOVFQdnEycl82dzd2VU5MZXFEOEpPQjdGbVBCalFqX0F4WDg2VHZYQzBLYTl2OHZ0Sk5sZlRydXZCN0p0RlNTYnUwWGFiUHk1YmpVNlBoUEo5MDhlaU56bWlUTzNxeC1qRjl5VGNLQ2ZNRER6Xy1tOXJaVVRzSXFsR1o4aWl3YXFOVHhoblZWcUkzMHpWTUlqODhiejlYRDh3WkZvaWxhX1pUT3NrbXhmdEkzdWVQUkVWYmJ0enZtcFJoRQ?oc=5",
       "source": "ad-hoc-news.de",
       "published": "2026-10-13T07:52:14+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "d4ced6d206ad0692",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong stock pre-market at EUR 5.92 - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGpNV0Z3M2ZkY0w0azdRSGhvb3l2eEZRNTRvemNrZUo1UFJDTHBRZDY5Qllhd2VsYkVIOFhRblpvUmk3dDVsbUNMTkhuR28xbmpBUTlwZVhuYWEwTG1iamt5dzFEXzlZc0JOMGRmMWYtRnhRYzdZOTkwZEh3U2s5MV9tYWNkMlp2ZV9KUjZiZldjUEZjbzFYdDVyRU9ZYjNGUHc?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-13T06:42:28+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -252,17 +263,6 @@
       "link": "https://finance.yahoo.com/energy/articles/cameco-corporation-ccj-positioned-long-132143900.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-12T13:21:43+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "f78e4f5280847622",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Long-Term Uranium Price Moves Past Its 2007 Peak While Energy Metals Deals Keep Coming",
-      "link": "https://finance.yahoo.com/news/long-term-uranium-price-moves-111500005.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T11:15:00+00:00",
       "logo": "logos/CCJ.svg"
     },
     {
