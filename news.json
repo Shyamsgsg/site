@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-13T06:49:37Z",
+  "updated": "2026-10-13T09:39:52Z",
   "items": [
+    {
+      "id": "b5da77c427789f47",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Should You Sell Tesla? I Sold 1 Other Winner Too Early. Here's What I Learned.",
+      "link": "https://www.fool.com/investing/2026/10/13/should-you-sell-tesla-i-sold-1-other-obvious-winne/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T09:05:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "0b2ac6a1efa6bdde",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "South Korean import sales rise 6% in September",
+      "link": "https://www.just-auto.com/news/south-korean-import-sales-rise-6-in-september/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T08:59:07+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c5eb5bb6a7b88f98",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Citi raised target for BOC Hong Kong stock to HKD 57.90 - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmtTUGFsM0d5QXRIQXdCX2ExVk9PUWRCNWcwU2VBSzRoWHdYZmt2TUxwdDBYc0twYzlRSjQ4QmFHVmp5Q1FUYnBiRDh0NWdNSEFnNTdDOFdtZnZtRVlQVDFzRW1DZ1dHRU04YWRNM3ZGNzhTbUV2U0xjWXhXNnY1QUJXTmhpWElCRWdZYVYzbnJyNjNrZ2FFM1Q4aFUwUkdrdHBGS2RQUkpuM0R5cEtaWlVGbTBHVmZ6a1E?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-13T08:42:50+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "c7d4a6e8ed248052",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC forecasts China Telecom profit drop: what it means for China Telecom stock - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU19VUGVDTEFTRkowbjNSXzN5a00wenVEM3dHbzZDaFZRNlB0bHdoYU1hbDE5YzZLVnA3WXRSZ1I3T1BvZllDeTJfb051eFFIUnZDZlktRkxBYnBEb3YwYVQ3WEh1UWkyMkVWRzJ3aFpxLV91cTViNzFQc052b0VJazZ1cXVsMGtPdFZQaVNmSWE1WWU5Zi0tWVh4VzJabXFDUG1WZm5YM0JwdXZmQlN1UDhxV1g5ZnludDc5MFd2enFHZWZEdGlLWVdORHlkc0k?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-13T07:52:14+00:00",
+      "logo": "logos/BOC.svg"
+    },
     {
       "id": "d4ced6d206ad0692",
       "ticker": "BOC",
@@ -11,6 +55,17 @@
       "source": "ad-hoc-news.de",
       "published": "2026-10-13T06:42:28+00:00",
       "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "642cb942abd3644a",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Seoul Moves to Block 27 Crypto Exchanges. Will Korean Money Come Home?",
+      "link": "https://beincrypto.com/south-korea-blocks-unregistered-crypto-exchanges/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T05:20:28+00:00",
+      "logo": "logos/GOOG.svg"
     },
     {
       "id": "41b7dc7f573a4606",
@@ -43,17 +98,6 @@
       "link": "https://www.trefis.com/articles/618323/is-metas-next-big-thing-already-here/2026-10-12?.tsrc=rss",
       "source": "News",
       "published": "2026-10-12T22:38:40+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "91d3a0d8430df309",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Is Reddit Stock a Good Fit For Your Portfolio Risk?",
-      "link": "https://www.trefis.com/articles/618327/is-reddit-stock-a-good-fit-for-your-portfolio-risk/2026-10-12?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T22:28:14+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -145,28 +189,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "24fc3cf3dccfb30a",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX's Starlink could pose 3 big risks to Apple, BofA warns",
-      "link": "https://finance.yahoo.com/technology/article/spacexs-starlink-could-pose-3-big-risks-to-apple-bofa-warns-175500290.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T17:55:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "5be61612ead438b7",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Analysts Raise Targets on Securitize, Coinbase, Robinhood; BofA Cuts eToro",
-      "link": "https://www.cryptoprowl.com/releases/analysts-raise-targets-on-securitize-coinbase-robinhood-bofa-cuts-etoro-7293?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T17:53:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "116c97d504dff9de",
       "ticker": "NU",
       "symbol": "NU",
@@ -200,17 +222,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "385e6dceaf864bc4",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong stock trades at EUR 5.77, volume 28.3 percent below average - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblk5eTlqa1JnSDIwaTVMa0dZelIxdFFncXgwMXFSQXJZelJYbnAxYUZFeUQwZjc4UnJsZkJJOWp6eTZBVmVRZ3Z3Slh0bTVRMzYzdkFFcVQtcFJGSzZJRlg4WFo5TktOSlItdThCLXdXN3h5bzdJR1dwRnF1azNJbWJQUXY1amd6cVpGY0NyM0dld0dTOG1OTlV4RjUzVUo5bnNxNktucDZSelp6VE1NZm5PenQ5TGM5bGVsckxJbW1kd0Z4VFViOTQ0MktiRDhT?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-12T11:57:39+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "f78e4f5280847622",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -220,17 +231,6 @@
       "source": "News",
       "published": "2026-10-12T11:15:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "3c9a3e091ddf68f5",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong stock pre-market at EUR 5.74 - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQanBKeFhCWlRiaVZpd0pFNm9jZHg3Mm5GT2dDUlgwSzZfOUh3STRSa1VkTFZOWWo2OGxEcXBySmFFcFRENWtOUTliblBHUGFBSk5COWF2ekFRTjVnNXNfcGF1NlJ5V3EyT2FnWWE3eTBEWEVkeWE1bGRqbnFNc2ZyNll0WV8xMjM5bExmajFCaDV2NGQ3eGFtX3VGSHhHN0I1SHc?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-12T06:10:09+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "8c46a4f90ac8079a",
