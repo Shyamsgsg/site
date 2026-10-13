@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-13T21:00:47+00:00",
+  "updated": "2026-10-13T21:56:56+00:00",
   "source": "Yahoo Finance (query1.finance.yahoo.com/v8/finance/chart)",
   "fx": {
-    "AUDUSD": 0.6986,
-    "AUDUSD_change_pct": 0.0114,
-    "USDSGD": 1.2799,
-    "USDSGD_change_pct": -0.0422
+    "AUDUSD": 0.6984,
+    "AUDUSD_change_pct": -0.0172,
+    "USDSGD": 1.2792,
+    "USDSGD_change_pct": -0.0968
   },
   "quotes": {
     "NU": {
@@ -99,23 +99,23 @@
       "stale": false
     },
     "AUDUSD=X": {
-      "price": 0.6986,
+      "price": 0.6984,
       "previous_close": 0.69852,
-      "change_pct": 0.0114,
+      "change_pct": -0.0172,
       "currency": "USD",
       "exchange": "CCY",
       "long_name": "AUD/USD",
-      "market_time": "2026-10-13T20:59:28+00:00",
+      "market_time": "2026-10-13T21:55:29+00:00",
       "stale": false
     },
     "SGD=X": {
-      "price": 1.2799,
+      "price": 1.2792,
       "previous_close": 1.28044,
-      "change_pct": -0.0422,
+      "change_pct": -0.0968,
       "currency": "SGD",
       "exchange": "CCY",
       "long_name": "USD/SGD",
-      "market_time": "2026-10-13T21:00:30+00:00",
+      "market_time": "2026-10-13T21:56:53+00:00",
       "stale": false
     },
     "^GSPC": {
@@ -125,7 +125,7 @@
       "currency": "USD",
       "exchange": "SNP",
       "long_name": "S&P 500",
-      "market_time": "2026-10-13T20:33:03+00:00",
+      "market_time": "2026-10-13T20:33:02+00:00",
       "stale": false
     }
   },
