@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-12T21:35:31Z",
+  "updated": "2026-10-13T00:50:59Z",
   "items": [
+    {
+      "id": "285f50031f509a6a",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet vs. Meta Platforms: Which Stock Is a Better Buy in 2026?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/12/alphabet-vs-meta-platforms-which-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T00:31:41+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a5462d6bafe59176",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Is Meta's Next Big Thing Already Here?",
+      "link": "https://www.trefis.com/articles/618323/is-metas-next-big-thing-already-here/2026-10-12?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T22:38:40+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "91d3a0d8430df309",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Is Reddit Stock a Good Fit For Your Portfolio Risk?",
+      "link": "https://www.trefis.com/articles/618327/is-reddit-stock-a-good-fit-for-your-portfolio-risk/2026-10-12?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T22:28:14+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "9b0e53c0e09d4974",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "What Did Fastly Stock Investors Miss Before The Run?",
+      "link": "https://www.trefis.com/articles/618339/what-did-fastly-stock-investors-miss-before-the-run/2026-10-12?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-12T22:20:09+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "63c50c571c1e12ea",
       "ticker": "IREN",
@@ -13,26 +57,15 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "274840700c97ca7b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "JLL poaches one of CBRE’s top brokerage teams in Chicago",
-      "link": "https://finance.yahoo.com/real-estate/articles/jll-poaches-one-cbre-top-211500958.html?.tsrc=rss",
+      "id": "a263ffc12f79d329",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla (TSLA) Declines More Than Market: Some Information for Investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-declines-more-market-204505667.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-12T21:15:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "b5c44864eaf1d936",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Palantir’s Pentagon role reveals a surprising edge",
-      "link": "https://www.thestreet.com/investing/palantirs-pentagon-role-reveals-a-surprising-edge?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T21:03:00+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-10-12T20:45:05+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "089db2b12c6c8a4f",
@@ -57,26 +90,15 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "3de6ef3d24ece577",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "The Staggering Costs of a Single Data Center, From Land to Chips",
-      "link": "https://finance.yahoo.com/video/staggering-costs-single-data-center-201712396.html?.tsrc=rss",
+      "id": "0e4bbd81eb3c9248",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN’s New Anthropic Deal, Microsoft’s AI Chip Play, Architect’s Liquid Inference Compute Market",
+      "link": "https://blockspace.media/podcast/irens-new-anthropic-deal-microsofts-ai-chip-play-architects-liquid-inference-compute-market/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-12T20:17:12+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "d961574580a2cc87",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Microsoft just reclaimed its $4T market cap, thanks to its Maia 300 AI chip",
-      "link": "https://finance.yahoo.com/video/microsoft-just-reclaimed-its-4t-market-cap-thanks-to-its-maia-300-ai-chip-194708647.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T19:47:08+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-10-12T19:37:22+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "d44be5b19c95119f",
@@ -99,17 +121,6 @@
       "source": "News",
       "published": "2026-10-12T19:30:15+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "3ba66b805da5ba3e",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Anthropic Deal Report Gives IREN Stock Early Boost Before Gains Fade",
-      "link": "https://finance.yahoo.com/m/1a6521f3-c066-33d2-ab8c-c609e2bd6c19/anthropic-deal-report-gives.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T18:58:00+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "8ef0c8a6fe49633d",
@@ -142,17 +153,6 @@
       "link": "https://www.cryptoprowl.com/releases/analysts-raise-targets-on-securitize-coinbase-robinhood-bofa-cuts-etoro-7293?.tsrc=rss",
       "source": "News",
       "published": "2026-10-12T17:53:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "9efe514c34a654cf",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Sector Update: Consumer Stocks Mixed Monday Afternoon",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-monday-174008437.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T17:40:08+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
