@@ -1,6 +1,127 @@
 {
-  "updated": "2026-10-13T12:49:16Z",
+  "updated": "2026-10-13T15:40:52Z",
   "items": [
+    {
+      "id": "fdaf67c6e868e626",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "My Netflix Stock Prediction for 2027: Why I'm Not Selling a Single Share",
+      "link": "https://www.fool.com/investing/2026/10/13/my-netflix-stock-prediction-for-2027-why-im-not/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T15:20:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "9ab616916bc72662",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "XBOW Rewarded for Exploit Affecting a Billion Users",
+      "link": "https://finance.yahoo.com/technology/ai/articles/xbow-rewarded-exploit-affecting-billion-151500418.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T15:15:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ed0cfd3e548191a5",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "How Hard Was It To Hold Alphabet Stock?",
+      "link": "https://www.trefis.com/articles/618484/how-hard-was-it-to-hold-alphabet-stock/2026-10-13?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T15:10:45+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d7bbd3df506babf1",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Uber autonomous head Maredia to depart as leadership shifts continue",
+      "link": "https://finance.yahoo.com/technology/articles/uber-autonomous-head-maredia-depart-150118801.html?.tsrc=rss",
+      "source": "Bloomberg",
+      "published": "2026-10-13T15:01:18+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "3588079413b832e4",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Electric Trucks: The REALITY for Tesla Semi & Volvo Fleets",
+      "link": "https://finance.yahoo.com/energy/articles/electric-trucks-reality-tesla-semi-143552440.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T14:35:52+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "18c14a77b0a5ddd5",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "The First Pure-Play Humanoid Robot Stock Is About to Go Public. Here's What Investors Need to Know About Agility Robotics.",
+      "link": "https://www.fool.com/investing/2026/10/13/the-first-pure-play-humanoid-robot-stock-is-about/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T14:35:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "b86afa7f3a203044",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Don't think Apple will own the universe 10 years from now",
+      "link": "https://finance.yahoo.com/video/dont-think-apple-will-own-the-universe-10-years-from-now-142152412.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T14:21:52+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "af60f67b985a28da",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Trades at 219x Earnings. Here’s Why I’m Not Buying the Bet on Its Future.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-trades-219x-earnings-why-141545835.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T14:15:45+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "69e1308ec11b82a6",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN's Global Expansion Accelerates: Can It Drive Future Growth?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/irens-global-expansion-accelerates-drive-134900594.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T13:49:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "bc9bd2330253c98e",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Slides 5% as Anthropic Cloud Report Buzz Fades; Core Scientific Falls 3%",
+      "link": "https://247wallst.com/investing/2026/10/13/iren-slides-5-as-anthropic-cloud-report-buzz-fades-core-scientific-falls-3/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T13:48:20+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "244ff5ea92ed3587",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CoreWeave Imploded 20% Over 6 Months: This Analyst Predicts It Will Triple in Price Over the Coming Year",
+      "link": "https://247wallst.com/investing/2026/10/13/coreweave-imploded-20-over-6-months-this-analyst-predicts-it-will-triple-in-price-over-the-coming-year/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T12:45:43+00:00",
+      "logo": "logos/IREN.svg"
+    },
     {
       "id": "500ade5120dbcadb",
       "ticker": "BOC",
@@ -11,17 +132,6 @@
       "source": "ad-hoc-news.de",
       "published": "2026-10-13T12:31:22+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "87f8191374020358",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "AI start-up blamed for teen’s suicide goes bankrupt",
-      "link": "https://uk.finance.yahoo.com/news/ai-start-blamed-teen-suicide-122953936.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T12:29:53+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "6012dc868a0d8a48",
@@ -35,61 +145,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "506d71db523abd68",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Is Alphabet’s (GOOGL) Cloud Growth Masking a Paper EPS Gain?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-cloud-growth-masking-121326549.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T12:13:26+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c1e34aca46c31d33",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Is Tesla (TSLA) a Car Market Leader or a $1 Trillion Robotics Gamble?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-car-market-leader-121157870.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T12:11:57+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "c22e913aec12744f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Why Google (GOOGL) Offers Asymmetric Upside Potential?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-google-googl-offers-asymmetric-120806718.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T12:08:06+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "f6a177cc41896574",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Latest News In Energy Transition",
-      "link": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-renewable-113700332.html?.tsrc=rss",
-      "source": "Renewable Growth Drives Future Power Mix Transformation",
-      "published": "2026-10-13T11:37:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "1c27a4b81fec5efb",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Microsoft Could Be Worth Far More as Its Cloud and AI Businesses Scale",
-      "link": "https://247wallst.com/investing/2026/10/13/microsoft-could-be-worth-far-more-as-its-cloud-and-ai-businesses-scale/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T11:15:01+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "cb8d5e6a0d44a378",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -99,28 +154,6 @@
       "source": "News",
       "published": "2026-10-13T11:00:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "8a0115298e13195f",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Not Tesla. Not Nvidia. Elon Musk's Chip Ambitions Could Supercharge This Artificial Intelligence (AI) Stock.",
-      "link": "https://www.fool.com/investing/2026/10/13/not-tesla-not-nvidia-elon-musks-chip-ambitions-cou/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T10:50:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "8f407e0c80955cb6",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Micron Stock Falls Again as Musk Issues Chinese Memory Warning",
-      "link": "https://finance.yahoo.com/m/2090cc23-fb93-31af-93ed-5e8f238b941d/micron-stock-falls-again-as.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T10:23:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "98f2359d91049a81",
@@ -134,6 +167,17 @@
       "logo": "logos/CCJ.svg"
     },
     {
+      "id": "8388d4154d17a657",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN reportedly inks multiyear deal with Anthropic. Here’s what we know",
+      "link": "https://blockspace.media/short/iren-reportedly-inks-multiyear-deal-with-anthropic-heres-what-we-know/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T10:00:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
       "id": "c5eb5bb6a7b88f98",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -145,12 +189,12 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "c7d4a6e8ed248052",
+      "id": "1419ed95792cea58",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
       "title": "BOC forecasts China Telecom profit drop: what it means for China Telecom stock - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU19VUGVDTEFTRkowbjNSXzN5a00wenVEM3dHbzZDaFZRNlB0bHdoYU1hbDE5YzZLVnA3WXRSZ1I3T1BvZllDeTJfb051eFFIUnZDZlktRkxBYnBEb3YwYVQ3WEh1UWkyMkVWRzJ3aFpxLV91cTViNzFQc052b0VJazZ1cXVsMGtPdFZQaVNmSWE1WWU5Zi0tWVh4VzJabXFDUG1WZm5YM0JwdXZmQlN1UDhxV1g5ZnludDc5MFd2enFHZWZEdGlLWVdORHlkc0k?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDRDcHhOYzFtT1d2TkxoOUhvNGIyOVFQdnEycl82dzd2VU5MZXFEOEpPQjdGbVBCalFqX0F4WDg2VHZYQzBLYTl2OHZ0Sk5sZlRydXZCN0p0RlNTYnUwWGFiUHk1YmpVNlBoUEo5MDhlaU56bWlUTzNxeC1qRjl5VGNLQ2ZNRER6Xy1tOXJaVVRzSXFsR1o4aWl3YXFOVHhoblZWcUkzMHpWTUlqODhiejlYRDh3WkZvaWxhX1pUT3NrbXhmdEkzdWVQUkVWYmJ0enZtcFJoRQ?oc=5",
       "source": "ad-hoc-news.de",
       "published": "2026-10-13T07:52:14+00:00",
       "logo": "logos/BOC.svg"
@@ -165,50 +209,6 @@
       "source": "ad-hoc-news.de",
       "published": "2026-10-13T06:42:28+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "63c50c571c1e12ea",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Stock Market Today, Oct. 12: Iren Surges on Reports of Anthropic Cloud Services Deal",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/12/stock-market-today-oct-12-iren-surges-on-reports-of-anthropic-cloud-services-deal/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T21:21:15+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "089db2b12c6c8a4f",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Micron, Fannie Mae, eBay, IonQ, Salesforce, and More Stocks That Explain Today’s Market",
-      "link": "https://finance.yahoo.com/m/2d9b64de-8e4a-3498-b5fc-a5eece9ad2e7/micron%2C-fannie-mae%2C-ebay%2C.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T20:24:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "090bd2f6a6b7732e",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Reportedly Joins Anthropic's Cloud Providers; Shares Jump",
-      "link": "https://finance.yahoo.com/m/04ab5ce8-c2c2-3b1c-952c-5ea1b7a9d653/iren-reportedly-joins.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T20:22:57+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "0e4bbd81eb3c9248",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN’s New Anthropic Deal, Microsoft’s AI Chip Play, Architect’s Liquid Inference Compute Market",
-      "link": "https://blockspace.media/podcast/irens-new-anthropic-deal-microsofts-ai-chip-play-architects-liquid-inference-compute-market/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T19:37:22+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "8ef0c8a6fe49633d",
