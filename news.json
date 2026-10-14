@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-14T03:53:12Z",
+  "updated": "2026-10-14T07:06:19Z",
   "items": [
+    {
+      "id": "8ad18291e9b26ccf",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "TSLA Stock Rises Overnight: Tesla’s Long-Delayed Roadster Event Is Back On — Musk Teases ‘Timing Is Everything’",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-tesla-roadster-event-back-musk-teases-timing-is-everything/cZxfhlNRBpQ?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T06:39:09+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "386bb8615a7a6e4a",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Hong Kong stock pre-market at EUR 5.79 - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZkdrU0xfNEJDb0YzMXNxam52dUNoRkJiaDhRUXFsN2NjOWNjNVJHaWtlZm5ESDI2NjJiT0JxbWFLQW80eGs5N3VtSEltTldOeVJPenVRcUJfRUFYbUREclFqUWtDLTMxUDhuUHExWEJFUF9DWE5TQVMwb00yN0oxaFo0MVdfd1d0N18wa3VCeXlrQWJrVDh6RkRZdTczeTQwS0E?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-14T06:34:11+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "a4ea1f31b4bc247f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet vs. Meta Platforms: Here's What Revenue Trends Tell Investors About These Media Giants Turned Artificial Intelligence Companies",
+      "link": "https://www.fool.com/coverage/charts/2026/10/14/alphabet-vs-meta-platforms-here-s-what-revenue-trends-tell-investors-about-these-media-giants-turned-artificial-intelligence-companies/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T05:24:49+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "213cb96ab429c4c6",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Intel vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+      "link": "https://www.fool.com/coverage/charts/2026/10/14/intel-vs-marvell-technology-what-revenue-trends-tell-investors-about-these-artificial-intelligence-companies/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T04:57:53+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "85293579d1adf975",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Kimbal Musk Says Tesla Cybercab Is ‘Amazing to Use’ as Driverless Fleet Explodes in Austin and Raises Stakes for Elon Musk’s Robotaxi Bet",
+      "link": "https://finance.yahoo.com/technology/ai/articles/kimbal-musk-says-tesla-cybercab-033013115.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T03:30:13+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "842984f5e33eaf61",
       "ticker": "GOOG",
@@ -46,26 +101,15 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "e6abb4ad841ac61d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Applied Materials’ $5 billion AI lab aims to cut chip development time in half—and restore Silicon Valley’s edge",
-      "link": "https://finance.yahoo.com/technology/ai/articles/applied-materials-5-billion-ai-231526213.html?.tsrc=rss",
+      "id": "36e6990e9ab19034",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Could Tesla's Roadster Reveal Trigger Another Stock Crash?",
+      "link": "https://beincrypto.com/tesla-roadster-hover-demo-tsla-stock-impact/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-13T23:15:26+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "6c54b6a0717dbaea",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Franklin Templeton CEO says AI is hiding a bigger tech story",
-      "link": "https://www.thestreet.com/technology/franklin-templeton-ceo-johnson-ai-hiding-bigger-tech-story?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T22:33:00+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-10-13T22:48:01+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "3eb9c3a0cf0f0eaf",
@@ -87,39 +131,6 @@
       "link": "https://finance.yahoo.com/markets/article/rivian-spinoff-mind-robotics-hires-ex-ford-ev-chief-doug-field-213702515.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-13T21:37:02+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "4282e148a0ebe93c",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Robotaxi Fleet in Austin Soars 8x in a Month While Elon Musk Admits TSLA Is Still Working on Not Running Over Cats",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-robotaxi-fleet-austin-soars-213024117.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T21:30:24+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "a1d73d456983b3ba",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla target lowered by analysts worried about runaway $25 billion spending",
-      "link": "https://www.thestreet.com/investing/stocks/tesla-target-lowered-by-analysts-worried-about-runaway-25-billion-spending?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T20:33:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "9afec651f5cc39f3",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "EXCLUSIVE: Ross Gerber Says Tesla May Make Just ‘a Few Hundred’ Roadsters: ‘Hovering Is a Gimmick’",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-203027674.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T20:30:27+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -220,17 +231,6 @@
       "source": "News",
       "published": "2026-10-13T10:10:02+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "c5eb5bb6a7b88f98",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Citi raised target for BOC Hong Kong stock to HKD 57.90 - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmtTUGFsM0d5QXRIQXdCX2ExVk9PUWRCNWcwU2VBSzRoWHdYZmt2TUxwdDBYc0twYzlRSjQ4QmFHVmp5Q1FUYnBiRDh0NWdNSEFnNTdDOFdtZnZtRVlQVDFzRW1DZ1dHRU04YWRNM3ZGNzhTbUV2U0xjWXhXNnY1QUJXTmhpWElCRWdZYVYzbnJyNjNrZ2FFM1Q4aFUwUkdrdHBGS2RQUkpuM0R5cEtaWlVGbTBHVmZ6a1E?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-13T08:42:50+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "8ef0c8a6fe49633d",
