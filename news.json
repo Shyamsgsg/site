@@ -1,6 +1,39 @@
 {
-  "updated": "2026-10-14T07:06:19Z",
+  "updated": "2026-10-14T09:52:13Z",
   "items": [
+    {
+      "id": "6a9d18b03e6b9705",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Warren Buffett's Successor, Greg Abel, Purchased Nearly $4.8 Billion of the Oracle of Omaha's Favorite Stock This Year -- and He Likely Just Spent Several Billion More",
+      "link": "https://www.fool.com/investing/2026/10/14/warren-buffett-successor-greg-abel-buy-48-billion-oracle-of-omaha-favorite-stock-likely-spent-several-billion-more/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T09:26:01+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "8e468b67eae1cafb",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla (TSLA), What Is Behind The Fresh Attention?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-behind-fresh-attention-091115976.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T09:11:15+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "7aabdb2371ff2ace",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Dow Futures Rise, Nasdaq Subdued Premarket Ahead Of Inflation Data: ASML, MU, SKHY, TSLA, BAC, LQDA, GME, IREN Stocks In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-futures-rise-nasdaq-subdued-premarket-ahead-of-inflation-data-asml-mu-skhy-tsla-bac-lqda-gme-iren-stocks-in-focus/cZxfS2RRBpN?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T08:51:40+00:00",
+      "logo": "logos/IREN.svg"
+    },
     {
       "id": "8ad18291e9b26ccf",
       "ticker": "TSLA",
@@ -22,6 +55,17 @@
       "source": "ad-hoc-news.de",
       "published": "2026-10-14T06:34:11+00:00",
       "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "50065c5eacfdc549",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Roadster Reveal Nears as Elon Musk Fuels ‘Back to the Future’ Easter-Egg Speculation — TSLA CEO Says ‘Timing Is Everything’",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-roadster-reveal-nears-elon-061046578.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T06:10:46+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "a4ea1f31b4bc247f",
@@ -68,17 +112,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "bdf029715580904c",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "CrowdStrike vs. Palantir Technologies: What Revenue Trends Tell Investors About These High-Growth Tech Companies",
-      "link": "https://www.fool.com/coverage/charts/2026/10/13/crowdstrike-vs-palantir-technologies-what-revenue-trends-tell-investors-about-these-high-growth-tech-companies/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T23:55:49+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "ed8c1821adead57c",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -101,17 +134,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "36e6990e9ab19034",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Could Tesla's Roadster Reveal Trigger Another Stock Crash?",
-      "link": "https://beincrypto.com/tesla-roadster-hover-demo-tsla-stock-impact/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T22:48:01+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "3eb9c3a0cf0f0eaf",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -121,17 +143,6 @@
       "source": "News",
       "published": "2026-10-13T21:49:17+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "c4a37a13ad457e9a",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Rivian spinoff Mind Robotics hires ex-Ford EV chief Doug Field",
-      "link": "https://finance.yahoo.com/markets/article/rivian-spinoff-mind-robotics-hires-ex-ford-ev-chief-doug-field-213702515.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T21:37:02+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "b262b99fda783d34",
@@ -164,17 +175,6 @@
       "link": "https://247wallst.com/investing/2026/10/13/iren-slides-5-as-anthropic-cloud-report-buzz-fades-core-scientific-falls-3/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-13T13:48:20+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "244ff5ea92ed3587",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CoreWeave Imploded 20% Over 6 Months: This Analyst Predicts It Will Triple in Price Over the Coming Year",
-      "link": "https://247wallst.com/investing/2026/10/13/coreweave-imploded-20-over-6-months-this-analyst-predicts-it-will-triple-in-price-over-the-coming-year/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T12:45:43+00:00",
       "logo": "logos/IREN.svg"
     },
     {
