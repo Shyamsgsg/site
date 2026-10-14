@@ -1,16 +1,126 @@
 {
-  "updated": "2026-10-14T15:57:01Z",
+  "updated": "2026-10-14T19:00:25Z",
   "items": [
     {
-      "id": "e9005c07356b2820",
+      "id": "07274d640e15b075",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Not Microsoft. Not Alphabet. Here's the Cloud Giant I'm Most Bullish About.",
-      "link": "https://www.fool.com/investing/2026/10/14/not-microsoft-not-alphabet-heres-the-cloud-giant-i/?.tsrc=rss",
+      "title": "Is Constellation Stock a Buy After Jumping 12% on Google's 20-Year Nuclear Deal?",
+      "link": "https://www.fool.com/investing/2026/10/14/is-constellation-stock-a-buy-after-jumping-12-on/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T15:43:00+00:00",
+      "published": "2026-10-14T18:50:00+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a58d1bf07784db8d",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Is Cameco (CCJ) a Buy Before the Westinghouse Spin-Off?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-buy-westinghouse-spin-184550561.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T18:45:50+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "0e9caa91d7440166",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "YouTube is upending Hollywood — and Alphabet might be the best entertainment bet",
+      "link": "https://finance.yahoo.com/video/youtube-is-upending-hollywood--and-alphabet-might-be-the-best-entertainment-bet-182249109.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T18:22:49+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "8de882ea5eb3eb71",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Why CoreWeave Stock Tumbled Today",
+      "link": "https://www.fool.com/investing/2026/10/14/why-coreweave-stock-tumbled-today/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T18:01:09+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "cc21881696492f6e",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Liberty All-Star® Growth Fund, Inc. September 2026 Monthly Update",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-star-growth-fund-inc-175000337.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T17:50:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "f223ed9f72847f38",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Liberty All-Star® Equity Fund September 2026 Monthly Update",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-star-equity-fund-september-175000434.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T17:50:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "712eec752552d7e6",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Why Gartner AI Outlook Sent CoreWeave Stock, Neoclouds Reeling",
+      "link": "https://finance.yahoo.com/m/e7396a5f-59db-30ad-b0ed-49dbca81119f/why-gartner-ai-outlook-sent.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T17:06:16+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "015966f056551441",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla's Roadster event is back on for Thursday night. Here's what to expect.",
+      "link": "https://finance.yahoo.com/markets/stocks/article/teslas-roadster-event-is-back-on-for-thursday-night-heres-what-to-expect-164800962.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T16:33:58+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "6a68c0d338675950",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Says Micron Is Making a ‘Smart Move’ on Memory. Micron Stock Falls Anyway.",
+      "link": "https://finance.yahoo.com/m/620a875b-cced-30ca-aaa2-7b91df49d2b6/elon-musk-says-micron-is.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T16:15:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "344d42ed5551615a",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Top 3 Nuclear Stocks To Watch In October 2026",
+      "link": "https://finance.yahoo.com/energy/articles/top-3-nuclear-stocks-watch-161312138.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T16:13:12+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "6e6d547ed8b5d609",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "The One Stock Jim Cramer Calls His Only Trust Crashes 15%",
+      "link": "https://beincrypto.com/jim-cramer-coreweave-stock-crashes-15/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T16:05:52+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "2fe8f44374caae70",
@@ -24,91 +134,25 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "735738fdd646e73c",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Should You Buy Alphabet Before Oct. 28?",
-      "link": "https://www.fool.com/investing/2026/10/14/should-you-buy-alphabet-before-oct-28/?.tsrc=rss",
+      "id": "1e672ab370830786",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Maye Musk Praises Elon Musk’s ‘Safety First’ Focus After Tesla Owner Says EV Saved Him and Son in Crash",
+      "link": "https://finance.yahoo.com/technology/articles/maye-musk-praises-elon-musk-150114944.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T15:25:02+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-10-14T15:01:14+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
-      "id": "a5ad56409c2144ca",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "The Real AI Opportunity at Marvell Is Just Starting to Emerge",
-      "link": "https://247wallst.com/investing/2026/10/14/the-real-ai-opportunity-at-marvell-is-just-starting-to-emerge/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T15:00:11+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "00538dc05a19ae52",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "BHG Financial Named One of America's Most Admired Workplaces by Newsweek",
-      "link": "https://finance.yahoo.com/small-business/articles/bhg-financial-named-one-americas-150000451.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T15:00:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "43adf3b0fe7c610d",
+      "id": "066f00669bb1b7ab",
       "ticker": "IREN",
       "symbol": "IREN",
       "company": "IREN Ltd",
-      "title": "BC-Most Active Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020781.html?.tsrc=rss",
+      "title": "IREN proposes 900 MW Redbank data center near Wagga Wagga, outside its secured-power portfolio",
+      "link": "https://blockspace.media/insight/iren-redbank-data-center-wagga-wagga/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T14:30:20+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "2334eace7d9a8f6e",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Why this billionaire investor says SpaceX could reach a $50 trillion valuation someday",
-      "link": "https://finance.yahoo.com/video/why-this-billionaire-investor-says-spacex-could-reach-a-50-trillion-valuation-someday-142625102.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T14:26:25+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "bce85be7bf60bca2",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "'Smart move': What Elon Musk had to say about Micron",
-      "link": "https://finance.yahoo.com/video/smart-move-what-elon-musk-had-to-say-about-micron-142355324.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T14:23:55+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "b42634e9772d8f3c",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Berkshire Hathaway (BRK.A) Opens First Pilot Megacharger Site With 12 More Underway",
-      "link": "https://finance.yahoo.com/energy/articles/berkshire-hathaway-brk-opens-first-141028940.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T14:10:28+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "02cc8f8f541787da",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Cipher Digital Falls 5% as $850M Zero-Coupon Note Pricing Extends Slide; Applied Digital Declines 6%, IREN Drops 4%",
-      "link": "https://247wallst.com/investing/2026/10/14/cipher-digital-falls-5-as-850m-zero-coupon-note-pricing-extends-slide-applied-digital-declines-6-iren-drops-4/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T13:39:17+00:00",
+      "published": "2026-10-14T14:45:47+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -132,28 +176,6 @@
       "source": "ad-hoc-news.de",
       "published": "2026-10-14T11:37:12+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "24da23eee37f0700",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN's Redbank Campus Adds 900MW To Its Plans, But Power Is Not Secured Yet",
-      "link": "https://stocktwits.com/news-articles/markets/equity/iren-s-redbank-campus-adds-900-mw-to-its-plans-but-power-is-not-secured-yet/cZxfkVMRBpn?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T09:49:22+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "7aabdb2371ff2ace",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Dow Futures Rise, Nasdaq Subdued Premarket Ahead Of Inflation Data: ASML, MU, SKHY, TSLA, BAC, LQDA, GME, IREN Stocks In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dow-futures-rise-nasdaq-subdued-premarket-ahead-of-inflation-data-asml-mu-skhy-tsla-bac-lqda-gme-iren-stocks-in-focus/cZxfS2RRBpN?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T08:51:40+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "386bb8615a7a6e4a",
@@ -209,28 +231,6 @@
       "source": "News",
       "published": "2026-10-13T12:27:56+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "e400869cf6547964",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "IsoEnergy Announces the Appointment of Nathan Bridge as Vice President, Exploration and Dr. Dan Brisbin as Vice President, Geology",
-      "link": "https://finance.yahoo.com/energy/articles/isoenergy-announces-appointment-nathan-bridge-110000713.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T11:00:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "98f2359d91049a81",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco And 2 Other Canadian Growth Stocks To Watch",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-2-other-canadian-growth-101002869.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T10:10:02+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "8ef0c8a6fe49633d",
