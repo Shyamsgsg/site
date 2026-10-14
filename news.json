@@ -1,49 +1,115 @@
 {
-  "updated": "2026-10-14T13:02:41Z",
+  "updated": "2026-10-14T15:57:01Z",
   "items": [
     {
-      "id": "21907105365efb17",
+      "id": "e9005c07356b2820",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "One Stock Could Benefit as AI Spending Moves Beyond Nvidia",
-      "link": "https://247wallst.com/investing/2026/10/14/one-stock-could-benefit-as-ai-spending-moves-beyond-nvidia/?.tsrc=rss",
+      "title": "Not Microsoft. Not Alphabet. Here's the Cloud Giant I'm Most Bullish About.",
+      "link": "https://www.fool.com/investing/2026/10/14/not-microsoft-not-alphabet-heres-the-cloud-giant-i/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T12:45:30+00:00",
+      "published": "2026-10-14T15:43:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "6e5eed6900d95a7b",
+      "id": "2fe8f44374caae70",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Latest News In Electric Vehicles - Denmark's Market Set For Growth With EV Infrastructure Expansion",
-      "link": "https://finance.yahoo.com/energy/articles/latest-news-electric-vehicles-denmarks-123701920.html?.tsrc=rss",
+      "title": "CoreWeave, HPE, Dell, Bank of America, Morgan Stanley, Bending Spoons, and More Stocks That Explain Today’s Market",
+      "link": "https://finance.yahoo.com/m/27fad0cc-71ea-3d54-8330-bbdb6b71d29e/coreweave%2C-hpe%2C-dell%2C-bank-of.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T12:37:01+00:00",
+      "published": "2026-10-14T15:36:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "052116025854ab0c",
+      "id": "735738fdd646e73c",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Lovelace Launches on Google Cloud Marketplace to Give Enterprise Agents Context They Can Trust",
-      "link": "https://finance.yahoo.com/technology/ai/articles/lovelace-launches-google-cloud-marketplace-123000384.html?.tsrc=rss",
+      "title": "Should You Buy Alphabet Before Oct. 28?",
+      "link": "https://www.fool.com/investing/2026/10/14/should-you-buy-alphabet-before-oct-28/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T12:30:00+00:00",
+      "published": "2026-10-14T15:25:02+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "ddac10e94f7cb90f",
+      "id": "a5ad56409c2144ca",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Did The Market Read IonQ Stock Right?",
-      "link": "https://www.trefis.com/articles/618690/did-the-market-read-ionq-stock-right/2026-10-14?.tsrc=rss",
+      "title": "The Real AI Opportunity at Marvell Is Just Starting to Emerge",
+      "link": "https://247wallst.com/investing/2026/10/14/the-real-ai-opportunity-at-marvell-is-just-starting-to-emerge/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T12:22:54+00:00",
+      "published": "2026-10-14T15:00:11+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "00538dc05a19ae52",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "BHG Financial Named One of America's Most Admired Workplaces by Newsweek",
+      "link": "https://finance.yahoo.com/small-business/articles/bhg-financial-named-one-americas-150000451.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T15:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "43adf3b0fe7c610d",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "BC-Most Active Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143020781.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T14:30:20+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "2334eace7d9a8f6e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Why this billionaire investor says SpaceX could reach a $50 trillion valuation someday",
+      "link": "https://finance.yahoo.com/video/why-this-billionaire-investor-says-spacex-could-reach-a-50-trillion-valuation-someday-142625102.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T14:26:25+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "bce85be7bf60bca2",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "'Smart move': What Elon Musk had to say about Micron",
+      "link": "https://finance.yahoo.com/video/smart-move-what-elon-musk-had-to-say-about-micron-142355324.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T14:23:55+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "b42634e9772d8f3c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Berkshire Hathaway (BRK.A) Opens First Pilot Megacharger Site With 12 More Underway",
+      "link": "https://finance.yahoo.com/energy/articles/berkshire-hathaway-brk-opens-first-141028940.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T14:10:28+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "02cc8f8f541787da",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Cipher Digital Falls 5% as $850M Zero-Coupon Note Pricing Extends Slide; Applied Digital Declines 6%, IREN Drops 4%",
+      "link": "https://247wallst.com/investing/2026/10/14/cipher-digital-falls-5-as-850m-zero-coupon-note-pricing-extends-slide-applied-digital-declines-6-iren-drops-4/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T13:39:17+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "e71419707a33385d",
@@ -57,28 +123,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "be45e6c0cf31deac",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "California Boosts Virtual Power Plants; These Clean Energy Players Benefit",
-      "link": "https://finance.yahoo.com/m/b0f07912-e2cf-3a1a-a4eb-7fa81abdc618/california-boosts-virtual.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T12:00:37+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "fc98efaf7aa41ee5",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Sunrun Leads Record Grid Dispatch Delivering Enough Energy to Power Every Home in San Francisco and San Jose",
-      "link": "https://finance.yahoo.com/energy/articles/sunrun-leads-record-grid-dispatch-120000227.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T12:00:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "48c5ccd880421f66",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -88,28 +132,6 @@
       "source": "ad-hoc-news.de",
       "published": "2026-10-14T11:37:12+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "cf9f4341f8e7dd33",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Pilot, Tesla open first Megacharger site, 12 more underway",
-      "link": "https://finance.yahoo.com/energy/articles/pilot-tesla-open-first-megacharger-113000050.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T11:30:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "a1d373f14cc6d875",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX could be worth $50 trillion someday, billionaire investor Ron Baron says",
-      "link": "https://finance.yahoo.com/markets/stocks/article/spacex-could-be-worth-50-trillion-someday-billionaire-investor-ron-baron-says-121950512.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T11:24:16+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "24da23eee37f0700",
@@ -167,17 +189,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "3eb9c3a0cf0f0eaf",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Stock Market Today, Oct. 13: IREN Holds Moderate Buy Rating as Analysts Eye AI Cloud Execution",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/13/stock-market-today-oct-13-iren-holds-moderate-buy-rating-as-analysts-eye-ai-cloud-execution/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T21:49:17+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "b262b99fda783d34",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -187,17 +198,6 @@
       "source": "News",
       "published": "2026-10-13T16:05:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "69e1308ec11b82a6",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN's Global Expansion Accelerates: Can It Drive Future Growth?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/irens-global-expansion-accelerates-drive-134900594.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T13:49:00+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "6012dc868a0d8a48",
