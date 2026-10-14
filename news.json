@@ -1,16 +1,104 @@
 {
-  "updated": "2026-10-14T19:00:25Z",
+  "updated": "2026-10-14T21:50:55Z",
   "items": [
     {
-      "id": "07274d640e15b075",
+      "id": "7ec2ca00d72c8f20",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Is Constellation Stock a Buy After Jumping 12% on Google's 20-Year Nuclear Deal?",
-      "link": "https://www.fool.com/investing/2026/10/14/is-constellation-stock-a-buy-after-jumping-12-on/?.tsrc=rss",
+      "title": "Gene Munster Flags Meta’s Muse As A Bigger Risk To Google Search Than ChatGPT",
+      "link": "https://stocktwits.com/news-articles/markets/equity/gene-munster-flags-meta-s-muse-as-a-bigger-risk-to-google-search-than-chat-gpt/cZxQRi2RBqo?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T18:50:00+00:00",
+      "published": "2026-10-14T21:33:59+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "3804587ce68602a4",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Global X Investments Canada Inc. Closes the Market",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/global-x-investments-canada-inc-211500784.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T21:15:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "69e76b7a9caa38b8",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Rivian R2 Gets Ross Gerber’s Nod As He Advises Ditching Gas To Escape Energy Inflation",
+      "link": "https://stocktwits.com/news-articles/markets/equity/rivian-r2-gets-ross-gerber-s-nod-as-he-advises-ditching-gas-to-escape-energy-inflation/cZxf66WRBq8?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T20:39:54+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "f2881c7902653eec",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "3 Cloud Leaders That Will Make a Fortune From AI",
+      "link": "https://www.fool.com/investing/2026/10/14/3-cloud-leaders-that-will-make-a-fortune-from-ai/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T20:31:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d6c00557c144c0f4",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "AST SpaceMobile Is the New Battleground Stock",
+      "link": "https://finance.yahoo.com/m/ee43bb70-dbb9-3a9d-88a0-c18f1014c2a0/ast-spacemobile-is-the-new.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T20:23:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "14c9d76bfbc0c104",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Just Launched the Cybercab in Austin. Here's How Many People Can Actually Hail One.",
+      "link": "https://www.fool.com/investing/2026/10/14/tesla-just-launched-the-cybercab-in-austin/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T20:20:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "f2ae19542d250286",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Electric vehicle sales in the US are showing signs of life",
+      "link": "https://finance.yahoo.com/energy/articles/electric-vehicle-sales-u-showing-201207811.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T20:12:07+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "6539fb5ee2fb6a0b",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Sector Update: Healthcare Stocks Gain Late Afternoon",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-gain-afternoon-195615429.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T19:56:15+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "2ddfa79906ec12fb",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nubank, Carlyle, StepStone Group, Cohen & Steers, and Houlihan Lokey Shares Plummet, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nubank-carlyle-stepstone-group-cohen-191607338.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T19:16:07+00:00",
+      "logo": "logos/NU.svg"
     },
     {
       "id": "a58d1bf07784db8d",
@@ -24,17 +112,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "0e9caa91d7440166",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "YouTube is upending Hollywood — and Alphabet might be the best entertainment bet",
-      "link": "https://finance.yahoo.com/video/youtube-is-upending-hollywood--and-alphabet-might-be-the-best-entertainment-bet-182249109.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T18:22:49+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "8de882ea5eb3eb71",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -46,28 +123,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "cc21881696492f6e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Liberty All-Star® Growth Fund, Inc. September 2026 Monthly Update",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-star-growth-fund-inc-175000337.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T17:50:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "f223ed9f72847f38",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Liberty All-Star® Equity Fund September 2026 Monthly Update",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-star-equity-fund-september-175000434.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T17:50:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "712eec752552d7e6",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -77,28 +132,6 @@
       "source": "News",
       "published": "2026-10-14T17:06:16+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "015966f056551441",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla's Roadster event is back on for Thursday night. Here's what to expect.",
-      "link": "https://finance.yahoo.com/markets/stocks/article/teslas-roadster-event-is-back-on-for-thursday-night-heres-what-to-expect-164800962.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T16:33:58+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "6a68c0d338675950",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Says Micron Is Making a ‘Smart Move’ on Memory. Micron Stock Falls Anyway.",
-      "link": "https://finance.yahoo.com/m/620a875b-cced-30ca-aaa2-7b91df49d2b6/elon-musk-says-micron-is.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T16:15:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "344d42ed5551615a",
@@ -121,28 +154,6 @@
       "source": "News",
       "published": "2026-10-14T16:05:52+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "2fe8f44374caae70",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "CoreWeave, HPE, Dell, Bank of America, Morgan Stanley, Bending Spoons, and More Stocks That Explain Today’s Market",
-      "link": "https://finance.yahoo.com/m/27fad0cc-71ea-3d54-8330-bbdb6b71d29e/coreweave%2C-hpe%2C-dell%2C-bank-of.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T15:36:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "1e672ab370830786",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Maye Musk Praises Elon Musk’s ‘Safety First’ Focus After Tesla Owner Says EV Saved Him and Son in Crash",
-      "link": "https://finance.yahoo.com/technology/articles/maye-musk-praises-elon-musk-150114944.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T15:01:14+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "066f00669bb1b7ab",
@@ -189,12 +200,12 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "ed8c1821adead57c",
+      "id": "2c361e95b4c30601",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
       "title": "BOC Kenya reports first-half revenue decline: what it means for BOC Kenya stock - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY3ZCTUNhdXdqcjlRU2lZVHd4bUpJQXpibHdOWXJPNC00YXpabkZTVEpPYjlQZGpIbzY1bWo3ZmgwVzRzUEtxS0V2OE55Y3RTaU9Sa3daMHRzem1oRE9Mdy16ODUzV2V0akFxbVJnSFMwZENuanhOc3BhU0Y1U2hYemo3NWw3VHFOS0hoZmlmeEVnc3hyQXp4Y1o0Ylc4M19POHV3Vk5KM0tFR0ZjZW9RQUt6ZWVYcnFRYXRSc3U4cGVHYjZqVVBkaFdaQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQamtGV1VUSWFFeC14blRwdER5ZmZLYkRZSWVTdFRnY1RUalJhS29xNTdIY1JOMG00bGhuUEEtV3VjV0pkZ1dYNFVyTzZQY0REYUkxVm1mX0lMV3FrakI0VWxxYWcwOWg5VVRmTk9lYjJwbXRKVUJ3TTgxSUJqd2psT3lSVzFEOVQ5bElJWWFIM0lmY21EX2ZxMDZXRlBBNU40dHhwWXdHME1oeFBiZUMtRGs5bFNld0FjTEFuQlFxQVJLXzNsUHExc1pDT3pCUWhKNGFJ?oc=5",
       "source": "ad-hoc-news.de",
       "published": "2026-10-13T23:38:04+00:00",
       "logo": "logos/BOC.svg"
@@ -252,17 +263,6 @@
       "link": "https://www.fool.com/investing/2026/10/12/3-most-important-metrics-to-watch-for-nu-holding/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-12T16:50:00+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "908e32be2e8a28cd",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings Crossed a $1 Billion Quarterly Profit Milestone. Here's Why It Matters.",
-      "link": "https://www.fool.com/investing/2026/10/12/nu-holdings-crossed-a-1-billion-quarterly-profit/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T16:35:00+00:00",
       "logo": "logos/NU.svg"
     },
     {
