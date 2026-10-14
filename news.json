@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-13T21:48:13Z",
+  "updated": "2026-10-14T01:02:51Z",
   "items": [
+    {
+      "id": "bdf029715580904c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "CrowdStrike vs. Palantir Technologies: What Revenue Trends Tell Investors About These High-Growth Tech Companies",
+      "link": "https://www.fool.com/coverage/charts/2026/10/13/crowdstrike-vs-palantir-technologies-what-revenue-trends-tell-investors-about-these-high-growth-tech-companies/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T23:55:49+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ed8c1821adead57c",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Kenya reports first-half revenue decline: what it means for BOC Kenya stock - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY3ZCTUNhdXdqcjlRU2lZVHd4bUpJQXpibHdOWXJPNC00YXpabkZTVEpPYjlQZGpIbzY1bWo3ZmgwVzRzUEtxS0V2OE55Y3RTaU9Sa3daMHRzem1oRE9Mdy16ODUzV2V0akFxbVJnSFMwZENuanhOc3BhU0Y1U2hYemo3NWw3VHFOS0hoZmlmeEVnc3hyQXp4Y1o0Ylc4M19POHV3Vk5KM0tFR0ZjZW9RQUt6ZWVYcnFRYXRSc3U4cGVHYjZqVVBkaFdaQQ?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-13T23:38:04+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "e77053c77075f82f",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco Heads 3 Canadian Nuclear Stocks To Watch",
+      "link": "https://finance.yahoo.com/energy/articles/cameco-heads-3-canadian-nuclear-231831979.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T23:18:31+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "6c54b6a0717dbaea",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Franklin Templeton CEO says AI is hiding a bigger tech story",
+      "link": "https://www.thestreet.com/technology/franklin-templeton-ceo-johnson-ai-hiding-bigger-tech-story?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T22:33:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "3eb9c3a0cf0f0eaf",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Stock Market Today, Oct. 13: IREN Holds Moderate Buy Rating as Analysts Eye AI Cloud Execution",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/13/stock-market-today-oct-13-iren-holds-moderate-buy-rating-as-analysts-eye-ai-cloud-execution/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T21:49:17+00:00",
+      "logo": "logos/IREN.svg"
+    },
     {
       "id": "c4a37a13ad457e9a",
       "ticker": "TSLA",
@@ -13,6 +68,28 @@
       "logo": "logos/TSLA.svg"
     },
     {
+      "id": "41acf79b0c24d620",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Disney strikes $20-million deal for Character.ai's assets as AI startup files for bankruptcy",
+      "link": "https://finance.yahoo.com/technology/ai/articles/disney-strikes-20-million-deal-213451465.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T21:34:51+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "4282e148a0ebe93c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Robotaxi Fleet in Austin Soars 8x in a Month While Elon Musk Admits TSLA Is Still Working on Not Running Over Cats",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-robotaxi-fleet-austin-soars-213024117.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T21:30:24+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
       "id": "9c1bda4b035aba4b",
       "ticker": "GOOG",
       "symbol": "GOOG",
@@ -21,28 +98,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/does-risk-reward-profile-still-211400880.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-13T21:14:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "2f335b1f5c7491d7",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Has IBM Stock Become A Different Bet?",
-      "link": "https://www.trefis.com/articles/618462/has-ibm-stock-become-a-different-bet/2026-10-13?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T20:35:06+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "8530a3c088267e73",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google’s Gemini 4 Argon is Here",
-      "link": "https://app.moby.co/home/news/news-googles-gemini-4-argon-is-here?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T20:34:40+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -65,28 +120,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-203027674.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-13T20:30:27+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "ccc5f98dbc849040",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "What Is Adobe No Longer Telling You?",
-      "link": "https://www.trefis.com/articles/618463/what-is-adobe-no-longer-telling-you/2026-10-13?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T20:29:28+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "f46f4716ff135013",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Betting On The Future Of AI Robotics With Ouster (OUST)",
-      "link": "https://247wallst.com/videos/betting-on-the-future-of-ai-robotics-with-ouster-oust/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T20:05:22+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -156,17 +189,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "7d299ca717f7bf62",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Feb 2027 12.500 call (BOC270219C00012500) stock historical prices and data - Yahoo Finance Australia",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTS2l5QllzTFJvYUFOdWFkSExpMXBKZmd6c05iZElTTU5PMG5ia0JnbTN3bHI1T0hvOVFtOWZqaFRBNm5NelhZSVJoU0NZZlBYVjNMM0FKNVh0LUIzbUdPV2NQSnlpX3dqclNPUjI0NA?oc=5",
-      "source": "Yahoo Finance Australia",
-      "published": "2026-10-13T12:01:52+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "cb8d5e6a0d44a378",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -187,17 +209,6 @@
       "source": "News",
       "published": "2026-10-13T10:10:02+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "8388d4154d17a657",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN reportedly inks multiyear deal with Anthropic. Here’s what we know",
-      "link": "https://blockspace.media/short/iren-reportedly-inks-multiyear-deal-with-anthropic-heres-what-we-know/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T10:00:00+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "c5eb5bb6a7b88f98",
@@ -253,17 +264,6 @@
       "source": "News",
       "published": "2026-10-12T16:35:00+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "c00f39f7dbfe5857",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco Corporation (CCJ) is Positioned for Long-Term Growth in Nuclear Energy Expansion",
-      "link": "https://finance.yahoo.com/energy/articles/cameco-corporation-ccj-positioned-long-132143900.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T13:21:43+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "9b42c9faf9c5355c",
