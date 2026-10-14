@@ -1,27 +1,126 @@
 {
-  "updated": "2026-10-14T09:52:13Z",
+  "updated": "2026-10-14T13:02:41Z",
   "items": [
     {
-      "id": "6a9d18b03e6b9705",
+      "id": "21907105365efb17",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Warren Buffett's Successor, Greg Abel, Purchased Nearly $4.8 Billion of the Oracle of Omaha's Favorite Stock This Year -- and He Likely Just Spent Several Billion More",
-      "link": "https://www.fool.com/investing/2026/10/14/warren-buffett-successor-greg-abel-buy-48-billion-oracle-of-omaha-favorite-stock-likely-spent-several-billion-more/?.tsrc=rss",
+      "title": "One Stock Could Benefit as AI Spending Moves Beyond Nvidia",
+      "link": "https://247wallst.com/investing/2026/10/14/one-stock-could-benefit-as-ai-spending-moves-beyond-nvidia/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T09:26:01+00:00",
+      "published": "2026-10-14T12:45:30+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "8e468b67eae1cafb",
+      "id": "6e5eed6900d95a7b",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla (TSLA), What Is Behind The Fresh Attention?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-behind-fresh-attention-091115976.html?.tsrc=rss",
+      "title": "Latest News In Electric Vehicles - Denmark's Market Set For Growth With EV Infrastructure Expansion",
+      "link": "https://finance.yahoo.com/energy/articles/latest-news-electric-vehicles-denmarks-123701920.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T09:11:15+00:00",
+      "published": "2026-10-14T12:37:01+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "052116025854ab0c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Lovelace Launches on Google Cloud Marketplace to Give Enterprise Agents Context They Can Trust",
+      "link": "https://finance.yahoo.com/technology/ai/articles/lovelace-launches-google-cloud-marketplace-123000384.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T12:30:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ddac10e94f7cb90f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Did The Market Read IonQ Stock Right?",
+      "link": "https://www.trefis.com/articles/618690/did-the-market-read-ionq-stock-right/2026-10-14?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T12:22:54+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e71419707a33385d",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC keeps HKD 6.96 target for China Telecom stock - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZzlscUNfbWhnY2dNa2RfSHEzWmxiNTZCWHlBLUhqS3c2SHNCM0l5NHlRMmZUUmNfWDdOS0tVSmhwX0MtNWRZZ1lMbDVLNWRJU2hZaW1ndWhaVlpwU3FwOUNFa1Fkc3BleDAzSUtSYWFqZm80cnRIcGVMWkVFVndtSWh3WTFXQ1ZwVENWenRKMlJVUmNFbUg3eE04a3hPUjA0TkVDUUFhVUpWRDVqQWZ3NkpR?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-14T12:08:26+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "be45e6c0cf31deac",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "California Boosts Virtual Power Plants; These Clean Energy Players Benefit",
+      "link": "https://finance.yahoo.com/m/b0f07912-e2cf-3a1a-a4eb-7fa81abdc618/california-boosts-virtual.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T12:00:37+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "fc98efaf7aa41ee5",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Sunrun Leads Record Grid Dispatch Delivering Enough Energy to Power Every Home in San Francisco and San Jose",
+      "link": "https://finance.yahoo.com/energy/articles/sunrun-leads-record-grid-dispatch-120000227.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T12:00:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "48c5ccd880421f66",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "UBS upgrades BOC Hong Kong stock and raises target to HKD 57.50 - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTFNOektiZ0tLcE5MWlc3V0Jyd3RFOXZyaTZXNkhNTGpqZWpJc2NwU09kU1BoNU85d2tTMDdXRHI5WWtFanNpS2VNSTVkQ0Y5bmNwcmhpMFBUZGZROF9lV1lmQjVERFNJQUVFUzFseDVnWWRBS3NaUlZWN0Y0eEJvRmw4WVNEUjk4SWJzVC0wQVg3Zm1yRFVmQ1VuVURtOGdpOE5BTm5MYThOdEFURG1NS3hFQXNlZy16X2ljSHRDUWx1UVEw?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-14T11:37:12+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "cf9f4341f8e7dd33",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Pilot, Tesla open first Megacharger site, 12 more underway",
+      "link": "https://finance.yahoo.com/energy/articles/pilot-tesla-open-first-megacharger-113000050.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T11:30:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a1d373f14cc6d875",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX could be worth $50 trillion someday, billionaire investor Ron Baron says",
+      "link": "https://finance.yahoo.com/markets/stocks/article/spacex-could-be-worth-50-trillion-someday-billionaire-investor-ron-baron-says-121950512.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T11:24:16+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "24da23eee37f0700",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN's Redbank Campus Adds 900MW To Its Plans, But Power Is Not Secured Yet",
+      "link": "https://stocktwits.com/news-articles/markets/equity/iren-s-redbank-campus-adds-900-mw-to-its-plans-but-power-is-not-secured-yet/cZxfkVMRBpn?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T09:49:22+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "7aabdb2371ff2ace",
@@ -35,17 +134,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "8ad18291e9b26ccf",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "TSLA Stock Rises Overnight: Tesla’s Long-Delayed Roadster Event Is Back On — Musk Teases ‘Timing Is Everything’",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-tesla-roadster-event-back-musk-teases-timing-is-everything/cZxfhlNRBpQ?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T06:39:09+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "386bb8615a7a6e4a",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -55,61 +143,6 @@
       "source": "ad-hoc-news.de",
       "published": "2026-10-14T06:34:11+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "50065c5eacfdc549",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Roadster Reveal Nears as Elon Musk Fuels ‘Back to the Future’ Easter-Egg Speculation — TSLA CEO Says ‘Timing Is Everything’",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-roadster-reveal-nears-elon-061046578.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T06:10:46+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "a4ea1f31b4bc247f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet vs. Meta Platforms: Here's What Revenue Trends Tell Investors About These Media Giants Turned Artificial Intelligence Companies",
-      "link": "https://www.fool.com/coverage/charts/2026/10/14/alphabet-vs-meta-platforms-here-s-what-revenue-trends-tell-investors-about-these-media-giants-turned-artificial-intelligence-companies/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T05:24:49+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "213cb96ab429c4c6",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Intel vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
-      "link": "https://www.fool.com/coverage/charts/2026/10/14/intel-vs-marvell-technology-what-revenue-trends-tell-investors-about-these-artificial-intelligence-companies/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T04:57:53+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "85293579d1adf975",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Kimbal Musk Says Tesla Cybercab Is ‘Amazing to Use’ as Driverless Fleet Explodes in Austin and Raises Stakes for Elon Musk’s Robotaxi Bet",
-      "link": "https://finance.yahoo.com/technology/ai/articles/kimbal-musk-says-tesla-cybercab-033013115.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T03:30:13+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "842984f5e33eaf61",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Here's Where Netflix and 3 Other Streaming and Media Stocks Could Be by 2030",
-      "link": "https://www.fool.com/investing/2026/10/13/heres-where-netflix-and-3-other-streaming-and-medi/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T01:33:56+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "ed8c1821adead57c",
@@ -167,28 +200,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "bc9bd2330253c98e",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Slides 5% as Anthropic Cloud Report Buzz Fades; Core Scientific Falls 3%",
-      "link": "https://247wallst.com/investing/2026/10/13/iren-slides-5-as-anthropic-cloud-report-buzz-fades-core-scientific-falls-3/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T13:48:20+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "500ade5120dbcadb",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong stock rises 3.26 percent to EUR 5.95 - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR3Flc1QzazRmbGpDd1czSTFpS0plUmh3eEVaQ01EejFVYWlpMEhhZlhmYVZGOUZQbzlsV3JDYm9VY0Nidl9JYjRDQmNzTjgtdWRidDFNUUI0dXdxZWQxczcxcDNtRGVHT21kTWhJbUt1UldyelRxZXhzaVlXaUpJd2N4d2lHUXZYeWF5ZHQ3dGdEMU9wVGZfR0FXQUVZbkVYUERsSjR0empZUFY5SWxLdUVZMA?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-13T12:31:22+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "6012dc868a0d8a48",
       "ticker": "NU",
       "symbol": "NU",
@@ -200,23 +211,12 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "7d299ca717f7bf62",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Feb 2027 12.500 call (BOC270219C00012500) stock historical prices and data - Yahoo Finance Australia",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTS2l5QllzTFJvYUFOdWFkSExpMXBKZmd6c05iZElTTU5PMG5ia0JnbTN3bHI1T0hvOVFtOWZqaFRBNm5NelhZSVJoU0NZZlBYVjNMM0FKNVh0LUIzbUdPV2NQSnlpX3dqclNPUjI0NA?oc=5",
-      "source": "Yahoo Finance Australia",
-      "published": "2026-10-13T12:01:52+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "cb8d5e6a0d44a378",
+      "id": "e400869cf6547964",
       "ticker": "CCJ",
       "symbol": "CCJ",
       "company": "Cameco",
       "title": "IsoEnergy Announces the Appointment of Nathan Bridge as Vice President, Exploration and Dr. Dan Brisbin as Vice President, Geology",
-      "link": "https://finance.yahoo.com/energy/articles/isoenergy-announces-appointment-nathan-bridge-110000230.html?.tsrc=rss",
+      "link": "https://finance.yahoo.com/energy/articles/isoenergy-announces-appointment-nathan-bridge-110000713.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-13T11:00:00+00:00",
       "logo": "logos/CCJ.svg"
