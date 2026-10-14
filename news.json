@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-14T01:02:51Z",
+  "updated": "2026-10-14T03:53:12Z",
   "items": [
+    {
+      "id": "842984f5e33eaf61",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Here's Where Netflix and 3 Other Streaming and Media Stocks Could Be by 2030",
+      "link": "https://www.fool.com/investing/2026/10/13/heres-where-netflix-and-3-other-streaming-and-medi/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T01:33:56+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "bdf029715580904c",
       "ticker": "GOOG",
@@ -33,6 +44,17 @@
       "source": "News",
       "published": "2026-10-13T23:18:31+00:00",
       "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "e6abb4ad841ac61d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Applied Materials’ $5 billion AI lab aims to cut chip development time in half—and restore Silicon Valley’s edge",
+      "link": "https://finance.yahoo.com/technology/ai/articles/applied-materials-5-billion-ai-231526213.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-13T23:15:26+00:00",
+      "logo": "logos/GOOG.svg"
     },
     {
       "id": "6c54b6a0717dbaea",
@@ -68,17 +90,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "41acf79b0c24d620",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Disney strikes $20-million deal for Character.ai's assets as AI startup files for bankruptcy",
-      "link": "https://finance.yahoo.com/technology/ai/articles/disney-strikes-20-million-deal-213451465.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T21:34:51+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "4282e148a0ebe93c",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -88,17 +99,6 @@
       "source": "News",
       "published": "2026-10-13T21:30:24+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "9c1bda4b035aba4b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Does the Risk-Reward Profile Still Favor Alphabet (GOOGL) Investors?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-risk-reward-profile-still-211400880.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T21:14:00+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "a1d73d456983b3ba",
@@ -189,6 +189,17 @@
       "logo": "logos/NU.svg"
     },
     {
+      "id": "7d299ca717f7bf62",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Feb 2027 12.500 call (BOC270219C00012500) stock historical prices and data - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTS2l5QllzTFJvYUFOdWFkSExpMXBKZmd6c05iZElTTU5PMG5ia0JnbTN3bHI1T0hvOVFtOWZqaFRBNm5NelhZSVJoU0NZZlBYVjNMM0FKNVh0LUIzbUdPV2NQSnlpX3dqclNPUjI0NA?oc=5",
+      "source": "Yahoo Finance Australia",
+      "published": "2026-10-13T12:01:52+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "cb8d5e6a0d44a378",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -219,17 +230,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmtTUGFsM0d5QXRIQXdCX2ExVk9PUWRCNWcwU2VBSzRoWHdYZmt2TUxwdDBYc0twYzlRSjQ4QmFHVmp5Q1FUYnBiRDh0NWdNSEFnNTdDOFdtZnZtRVlQVDFzRW1DZ1dHRU04YWRNM3ZGNzhTbUV2U0xjWXhXNnY1QUJXTmhpWElCRWdZYVYzbnJyNjNrZ2FFM1Q4aFUwUkdrdHBGS2RQUkpuM0R5cEtaWlVGbTBHVmZ6a1E?oc=5",
       "source": "ad-hoc-news.de",
       "published": "2026-10-13T08:42:50+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "1419ed95792cea58",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC forecasts China Telecom profit drop: what it means for China Telecom stock - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDRDcHhOYzFtT1d2TkxoOUhvNGIyOVFQdnEycl82dzd2VU5MZXFEOEpPQjdGbVBCalFqX0F4WDg2VHZYQzBLYTl2OHZ0Sk5sZlRydXZCN0p0RlNTYnUwWGFiUHk1YmpVNlBoUEo5MDhlaU56bWlUTzNxeC1qRjl5VGNLQ2ZNRER6Xy1tOXJaVVRzSXFsR1o4aWl3YXFOVHhoblZWcUkzMHpWTUlqODhiejlYRDh3WkZvaWxhX1pUT3NrbXhmdEkzdWVQUkVWYmJ0enZtcFJoRQ?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-13T07:52:14+00:00",
       "logo": "logos/BOC.svg"
     },
     {
