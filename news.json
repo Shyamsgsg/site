@@ -1,6 +1,127 @@
 {
-  "updated": "2026-10-15T09:52:23Z",
+  "updated": "2026-10-15T13:06:13Z",
   "items": [
+    {
+      "id": "0f6e960efa2e6428",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet Might Use Waymo to Destroy Tesla’s First-Mover “Robotaxi Monopoly” Premium",
+      "link": "https://247wallst.com/investing/2026/10/15/alphabet-might-use-waymo-to-destroy-teslas-first-mover-robotaxi-monopoly-premium/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T12:45:09+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "71c7918e4c224c9a",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Treasury Yields Dive For Wrong Reason As Neocloud Bonds Blow Up",
+      "link": "https://finance.yahoo.com/m/b697c544-62e5-34ac-8c38-72ae2903e53d/treasury-yields-dive-for.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T12:42:40+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "66f811eee1131413",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "How Much Downside Is Left In QBTS Stock?",
+      "link": "https://www.trefis.com/articles/618830/how-much-downside-is-left-in-qbts-stock/2026-10-15?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T12:38:45+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "44e3fe84ea352bb1",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CoreWeave Borrowing Costs, Inflation Data Rattles AI Stocks",
+      "link": "https://finance.yahoo.com/m/e7396a5f-59db-30ad-b0ed-49dbca81119f/coreweave-borrowing-costs%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T12:37:30+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "a3769e1d8ca13dae",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Dogness Launches New AI Pet Feeder Built with Google Cloud and Google Gemini",
+      "link": "https://finance.yahoo.com/technology/ai/articles/dogness-launches-ai-pet-feeder-123000928.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T12:30:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a2fcc937d92915b5",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Just Gave Investors Another Reason to Buy Micron Stock",
+      "link": "https://www.fool.com/investing/2026/10/15/elon-musk-just-gave-investors-another-reason-to-bu/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T12:20:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "4faff03c257ce06e",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "What Sent CoreWeave Stock Lower?",
+      "link": "https://www.trefis.com/articles/618845/what-sent-coreweave-stock-lower/2026-10-15?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T12:15:51+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d019c1da519edf20",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Could Announce A Tesla-SpaceX Merger In Coming Weeks, Analyst",
+      "link": "https://finance.yahoo.com/m/32f1294f-e426-3a99-b8d4-22a5a2a00b41/elon-musk-could-announce-a.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T12:07:15+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "fb018dab1e00acd8",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Energy Transition Update",
+      "link": "https://finance.yahoo.com/energy/articles/energy-transition-north-america-wind-113705595.html?.tsrc=rss",
+      "source": "North America Wind Power Market Set For Strong Growth",
+      "published": "2026-10-15T11:37:05+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "838f9f82b4c36ea7",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Barclays Says a Tesla-SpaceX Merger Could Be Announced Before December",
+      "link": "https://247wallst.com/investing/2026/10/15/barclays-says-a-tesla-spacex-merger-could-be-announced-before-december/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T11:35:27+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "9646293e6f252bdf",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CoreWeave Stock Sinks Again as AI Debt Panic Spreads. Will Nvidia Come to the Rescue?",
+      "link": "https://finance.yahoo.com/m/730e5e5b-d109-37f1-be5a-6af3bee9ed82/coreweave-stock-sinks-again.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T10:04:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
     {
       "id": "298759eca093523c",
       "ticker": "BOC",
@@ -11,94 +132,6 @@
       "source": "ad-hoc-news.de",
       "published": "2026-10-15T09:12:43+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "b171c2436a87fffd",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Why Are Nasdaq Futures Sinking Premarket? CRWV, MU, TSM, SKHY, IBRX, RKLB, TSLA Stocks In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-futures-sinking-premarket-crwv-mu-tsm-skhy-ibrx-rklb-tsla-stocks-in-focus/cZxWYh2RBAk?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T08:58:23+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "3b456d199aaf21d6",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "AEP to invest $4bn in 702MW fuel cell project for Google",
-      "link": "https://www.power-technology.com/news/aep-invest-4bn-702mw-project-google/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T08:39:36+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "82efc4eb4a7d11df",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "The 1 Thing I'd Want Elon Musk to Answer on Tesla's Oct. 21 Call",
-      "link": "https://www.fool.com/investing/2026/10/15/the-1-thing-i-d-want-elon-musk-to-answer-on-tesla-s-oct-21-call/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T08:04:02+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "e14efde250610881",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "TSMC Open to Working With Terafab But Must Control Plants",
-      "link": "https://finance.yahoo.com/technology/articles/tsmc-open-working-terafab-must-073615782.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T07:36:15+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "51e85f9dd5ea0096",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Sees SpaceX Topping $100 Trillion In Under 10 Years — Retail Eyes Tesla Merger Reveal At Roadster Event",
-      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-spacex-100-trillion-under-10-years-retail-tesla-merger-reveal-roadster-event/cZxWFEqRBAL?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T07:34:01+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "16b84b10a62084f3",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "OpenAI’s British staff handed £800,000 each",
-      "link": "https://www.telegraph.co.uk/business/2026/10/15/openais-british-staff-handed-800000-each/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T07:00:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c788d19bac40b94b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google Just Started Paying SpaceX $920 Million a Month. Here's What That's Worth per Share.",
-      "link": "https://www.fool.com/investing/2026/10/15/google-just-started-paying-spacex-920-million-a-mo/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T06:25:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "e7c5b5d141504f6d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
-      "link": "https://stocktwits.com/news-articles/markets/equity/qcom-avgo-nvda-stocks-in-focus-as-byte-dance-reportedly-closes-in-on-a-media-tech-pact-for-ai-data-center-chips/cZxWNP1RBA4?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T06:16:06+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "bdb03facff4f34eb",
@@ -121,39 +154,6 @@
       "source": "News",
       "published": "2026-10-15T01:22:15+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "bca98e812ab6e01b",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "NioCorp Advances Elk Creek Mine as EXIM Deal Highlights U.S. Critical Minerals Push",
-      "link": "https://www.marketbeat.com/instant-alerts/event-niocorp-advances-elk-creek-mine-as-exim-deal-highlights-us-critical-minerals-push-2026-10-14/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T00:02:19+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "e2d1fb9c0e1649b8",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Here’s why AI stocks crashed today",
-      "link": "https://blockspace.media/short/heres-why-ai-stocks-crashed-today/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T21:50:10+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "e4d34b2c8f0f633c",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "AI Stocks Selloff and CoreWeave Debt, IREN Proposes 900 MW Aussie Site, Keel’s New 80 MW Site",
-      "link": "https://blockspace.media/podcast/ai-stocks-selloff-and-coreweave-debt-iren-proposes-900-mw-aussie-site-keels-new-80-mw-site/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T21:43:03+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "06f557913dffc406",
