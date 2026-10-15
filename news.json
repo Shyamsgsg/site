@@ -1,93 +1,126 @@
 {
-  "updated": "2026-10-14T21:50:55Z",
+  "updated": "2026-10-15T01:00:28Z",
   "items": [
     {
-      "id": "7ec2ca00d72c8f20",
+      "id": "550c2ed11aae9722",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Gene Munster Flags Meta’s Muse As A Bigger Risk To Google Search Than ChatGPT",
-      "link": "https://stocktwits.com/news-articles/markets/equity/gene-munster-flags-meta-s-muse-as-a-bigger-risk-to-google-search-than-chat-gpt/cZxQRi2RBqo?.tsrc=rss",
+      "title": "BofA sees ChatGPT taking aim at Google’s next ad dollar",
+      "link": "https://www.thestreet.com/investing/google-chatgpt-digital-advertising-trends?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T21:33:59+00:00",
+      "published": "2026-10-15T00:37:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "3804587ce68602a4",
+      "id": "bca98e812ab6e01b",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "NioCorp Advances Elk Creek Mine as EXIM Deal Highlights U.S. Critical Minerals Push",
+      "link": "https://www.marketbeat.com/instant-alerts/event-niocorp-advances-elk-creek-mine-as-exim-deal-highlights-us-critical-minerals-push-2026-10-14/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T00:02:19+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "d43be41eddca6d4f",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-space-x-merger-could-be-announced-as-early-as-before-december-agm-says-barclays/cZxQdGeRBqr?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T23:47:57+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "504198b66f8c7d36",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Global X Investments Canada Inc. Closes the Market",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/global-x-investments-canada-inc-211500784.html?.tsrc=rss",
+      "title": "Prediction: Alphabet Will Soar After Oct. 28",
+      "link": "https://www.fool.com/investing/2026/10/14/prediction-alphabet-will-soar-after-october-28/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T21:15:00+00:00",
+      "published": "2026-10-14T23:20:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "69e76b7a9caa38b8",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Rivian R2 Gets Ross Gerber’s Nod As He Advises Ditching Gas To Escape Energy Inflation",
-      "link": "https://stocktwits.com/news-articles/markets/equity/rivian-r2-gets-ross-gerber-s-nod-as-he-advises-ditching-gas-to-escape-energy-inflation/cZxf66WRBq8?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T20:39:54+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "f2881c7902653eec",
+      "id": "f8d7c3aeab0aa8de",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "3 Cloud Leaders That Will Make a Fortune From AI",
-      "link": "https://www.fool.com/investing/2026/10/14/3-cloud-leaders-that-will-make-a-fortune-from-ai/?.tsrc=rss",
+      "title": "Is Xero’s (ASX:XRO) Google Gemini Integration Quietly Rewiring Its AI Platform Ambitions?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/xero-asx-xro-google-gemini-231818025.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T20:31:00+00:00",
+      "published": "2026-10-14T23:18:18+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "d6c00557c144c0f4",
+      "id": "0be4595b6d27d5b2",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "AST SpaceMobile Is the New Battleground Stock",
-      "link": "https://finance.yahoo.com/m/ee43bb70-dbb9-3a9d-88a0-c18f1014c2a0/ast-spacemobile-is-the-new.html?.tsrc=rss",
+      "title": "Tesla's Elon Musk Might Have Gone Back on His Word, but It's Working in China",
+      "link": "https://www.fool.com/investing/2026/10/14/teslas-elon-musk-might-have-gone-back-on-his-word/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T20:23:00+00:00",
+      "published": "2026-10-14T23:05:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "14c9d76bfbc0c104",
+      "id": "308d745654920e42",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla Just Launched the Cybercab in Austin. Here's How Many People Can Actually Hail One.",
-      "link": "https://www.fool.com/investing/2026/10/14/tesla-just-launched-the-cybercab-in-austin/?.tsrc=rss",
+      "title": "What Does Tesla (TSLA) NHTSA School Zone Probe Mean For Robotaxis?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/does-tesla-tsla-nhtsa-school-221707829.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T20:20:00+00:00",
+      "published": "2026-10-14T22:17:07+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "f2ae19542d250286",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Electric vehicle sales in the US are showing signs of life",
-      "link": "https://finance.yahoo.com/energy/articles/electric-vehicle-sales-u-showing-201207811.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T20:12:07+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "6539fb5ee2fb6a0b",
+      "id": "92f389cb04e145d3",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Sector Update: Healthcare Stocks Gain Late Afternoon",
-      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-gain-afternoon-195615429.html?.tsrc=rss",
+      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ambani-jio-seeks-raise-3-214820449.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T19:56:15+00:00",
+      "published": "2026-10-14T21:48:20+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "868cab31fae740d2",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "What Is Rivian Building That Investors Should Watch?",
+      "link": "https://www.trefis.com/articles/618669/what-is-rivian-building-that-investors-should-watch/2026-10-14?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T21:38:54+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "06f557913dffc406",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Why Cameco (CCJ) Dipped More Than Broader Market Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-cameco-ccj-dipped-more-205004237.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-14T20:50:04+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "09acd8ea81b63c6c",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "The Bet BOC Hong Kong Holders Made - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcTJYQlpTR2J4UW5pSUtmX3lBNHA4MEpsX3RndjZKQ1JRanNxV25CZ21Xb3JhZVY4bDZLSFZHVnpCZkNaR2MxcGIxTURnVGx5VWNGN3A0emNQSDd0eXFyanVPZ3lyYTR6VjB0Tnh0NG1GbjA5Q3I4ZVN4X2F0T204emNyMUwyV1YtNG9EbFBiX0JEb3c4blNvMVBQRGlodmNOaWtNMGNWMEFrbVVPc01CS2JvaFp1WTjSAbwBQVVfeXFMUFlyWnVGUERuV3N6dlhjRzNKckE2WmtWejU1OXF5RkNCY3c2V1Vqa2tyaWFLZ0s3MkdLMHVhVU5oQWI1WVpQVFduOXdPY1BSWllEa2lWLXdDbFN1LVN2RkFndnNuTFJ2bVMtSTZDVTFXXzB0VlJobGEzODl2ZHNYenFhM0hyRTkway0yUGo1VjlGNHB6dnI5UndGa0tfQURJRjAtM3N3dy1RRnRmbWhlbGJBZVJyTXc1RjZySDc?oc=5",
+      "source": "Simply Wall Street",
+      "published": "2026-10-14T20:18:20+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "2ddfa79906ec12fb",
@@ -156,17 +189,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "066f00669bb1b7ab",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN proposes 900 MW Redbank data center near Wagga Wagga, outside its secured-power portfolio",
-      "link": "https://blockspace.media/insight/iren-redbank-data-center-wagga-wagga/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T14:45:47+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "e71419707a33385d",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -200,17 +222,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "2c361e95b4c30601",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Kenya reports first-half revenue decline: what it means for BOC Kenya stock - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQamtGV1VUSWFFeC14blRwdER5ZmZLYkRZSWVTdFRnY1RUalJhS29xNTdIY1JOMG00bGhuUEEtV3VjV0pkZ1dYNFVyTzZQY0REYUkxVm1mX0lMV3FrakI0VWxxYWcwOWg5VVRmTk9lYjJwbXRKVUJ3TTgxSUJqd2psT3lSVzFEOVQ5bElJWWFIM0lmY21EX2ZxMDZXRlBBNU40dHhwWXdHME1oeFBiZUMtRGs5bFNld0FjTEFuQlFxQVJLXzNsUHExc1pDT3pCUWhKNGFJ?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-13T23:38:04+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "e77053c77075f82f",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -219,17 +230,6 @@
       "link": "https://finance.yahoo.com/energy/articles/cameco-heads-3-canadian-nuclear-231831979.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-13T23:18:31+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "b262b99fda783d34",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "3 Stocks to Buy If You Think the Nuclear Fuel Shortage Is the Real Story, Not the Reactors",
-      "link": "https://www.fool.com/investing/2026/10/13/3-stocks-to-buy-if-you-think-nuclear-fuel-shortage/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T16:05:00+00:00",
       "logo": "logos/CCJ.svg"
     },
     {
