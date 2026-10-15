@@ -1,6 +1,83 @@
 {
-  "updated": "2026-10-15T07:07:24Z",
+  "updated": "2026-10-15T09:52:23Z",
   "items": [
+    {
+      "id": "298759eca093523c",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "UBS raises target to HKD 57.50 for BOC Hong Kong stock - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOODJvZUotVjJQZ19ZdDJaTFE0RVJOM21EOW1SdGp0VlRPZm9xV0Fhd21oejAxZk1OeWJaZEplaFl4MkY5bVRQNDRydzRwTlZtV25GQmlkMHpFb1JzaEVNUDZSQnFIZVJTQ2RBZ3M4bExTdTNjUXdHYjd0akZmS09PSlBqejc1UHo2R05lbW8yb0xOWTc0dXJVNDFkUGluNUswMU9WOWVkWTg1OGxySTlnTVRra3JpS2RC?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-15T09:12:43+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "b171c2436a87fffd",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Why Are Nasdaq Futures Sinking Premarket? CRWV, MU, TSM, SKHY, IBRX, RKLB, TSLA Stocks In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-futures-sinking-premarket-crwv-mu-tsm-skhy-ibrx-rklb-tsla-stocks-in-focus/cZxWYh2RBAk?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T08:58:23+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "3b456d199aaf21d6",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "AEP to invest $4bn in 702MW fuel cell project for Google",
+      "link": "https://www.power-technology.com/news/aep-invest-4bn-702mw-project-google/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T08:39:36+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "82efc4eb4a7d11df",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "The 1 Thing I'd Want Elon Musk to Answer on Tesla's Oct. 21 Call",
+      "link": "https://www.fool.com/investing/2026/10/15/the-1-thing-i-d-want-elon-musk-to-answer-on-tesla-s-oct-21-call/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T08:04:02+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "e14efde250610881",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "TSMC Open to Working With Terafab But Must Control Plants",
+      "link": "https://finance.yahoo.com/technology/articles/tsmc-open-working-terafab-must-073615782.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T07:36:15+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "51e85f9dd5ea0096",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Sees SpaceX Topping $100 Trillion In Under 10 Years — Retail Eyes Tesla Merger Reveal At Roadster Event",
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-spacex-100-trillion-under-10-years-retail-tesla-merger-reveal-roadster-event/cZxWFEqRBAL?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T07:34:01+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "16b84b10a62084f3",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "OpenAI’s British staff handed £800,000 each",
+      "link": "https://www.telegraph.co.uk/business/2026/10/15/openais-british-staff-handed-800000-each/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T07:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "c788d19bac40b94b",
       "ticker": "GOOG",
@@ -22,72 +99,6 @@
       "source": "News",
       "published": "2026-10-15T06:16:06+00:00",
       "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "03dd8849d76dfff6",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Analyst Sees TSLA-SPCX Merger Coming By December, but Prediction Markets Aren’t Buying It",
-      "link": "https://www.benzinga.com/markets/tech/26/10/62372757/analyst-sees-tsla-spcx-merger-coming-by-december-but-prediction-markets-arent-buying-it?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T05:57:39+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "cd6ede6da55675e2",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "BE Stock Slips Overnight Amid AI Selloff: AEP To Spend $4B On Fuel Cells To Power Google",
-      "link": "https://stocktwits.com/news-articles/markets/equity/be-stock-slips-overnight-amid-ai-selloff-aep-to-spend-4-b-on-fuel-cells-to-power-google/cZxWmiCRBAE?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T05:52:50+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "4f26de15f6ae6e1e",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "TSLA Stock Slips Overnight Ahead Of Roadster Event — Elon Musk Promises ‘Greatest Product Demo Of All Time’",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-roadster-event-elon-musk-greatest-product-demo-of-all-time/cZxWmPlRBA3?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T05:39:22+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "8c390eb38841d46a",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Will OpenAI Go Public? One VC Says ‘Not Really Sure They Mean It’ But Bets On ‘Blockbuster’ Anthropic Listing",
-      "link": "https://stocktwits.com/news-articles/markets/equity/will-open-ai-go-public-one-vc-says-not-really-sure-they-mean-it-but-bets-on-blockbuster-anthropic-listing/cZxWl5YRBAR?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T05:01:49+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "d8c46c83afbc2de0",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Sees ‘Almost All Cars’ Going Electric as Gasoline-Only Vehicles Fall Below Half of Global Sales",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62372456/elon-musk-gasoline-cars-electric-vehicle-tesla?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T04:38:28+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "c6b14ddf751a2bfd",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "How Laptops Brought EVs Back From The Dead",
-      "link": "https://thehustle.videonest.co/videos/1786774/how-laptops-brought-evs-back-from-the-dead-8zSEMHMYOX?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T03:32:50+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "bdb03facff4f34eb",
@@ -219,17 +230,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZzlscUNfbWhnY2dNa2RfSHEzWmxiNTZCWHlBLUhqS3c2SHNCM0l5NHlRMmZUUmNfWDdOS0tVSmhwX0MtNWRZZ1lMbDVLNWRJU2hZaW1ndWhaVlpwU3FwOUNFa1Fkc3BleDAzSUtSYWFqZm80cnRIcGVMWkVFVndtSWh3WTFXQ1ZwVENWenRKMlJVUmNFbUg3eE04a3hPUjA0TkVDUUFhVUpWRDVqQWZ3NkpR?oc=5",
       "source": "ad-hoc-news.de",
       "published": "2026-10-14T12:08:26+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "48c5ccd880421f66",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "UBS upgrades BOC Hong Kong stock and raises target to HKD 57.50 - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTFNOektiZ0tLcE5MWlc3V0Jyd3RFOXZyaTZXNkhNTGpqZWpJc2NwU09kU1BoNU85d2tTMDdXRHI5WWtFanNpS2VNSTVkQ0Y5bmNwcmhpMFBUZGZROF9lV1lmQjVERFNJQUVFUzFseDVnWWRBS3NaUlZWN0Y0eEJvRmw4WVNEUjk4SWJzVC0wQVg3Zm1yRFVmQ1VuVURtOGdpOE5BTm5MYThOdEFURG1NS3hFQXNlZy16X2ljSHRDUWx1UVEw?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-14T11:37:12+00:00",
       "logo": "logos/BOC.svg"
     },
     {
