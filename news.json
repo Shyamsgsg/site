@@ -1,6 +1,83 @@
 {
-  "updated": "2026-10-15T03:53:20Z",
+  "updated": "2026-10-15T07:07:24Z",
   "items": [
+    {
+      "id": "c788d19bac40b94b",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google Just Started Paying SpaceX $920 Million a Month. Here's What That's Worth per Share.",
+      "link": "https://www.fool.com/investing/2026/10/15/google-just-started-paying-spacex-920-million-a-mo/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T06:25:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e7c5b5d141504f6d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
+      "link": "https://stocktwits.com/news-articles/markets/equity/qcom-avgo-nvda-stocks-in-focus-as-byte-dance-reportedly-closes-in-on-a-media-tech-pact-for-ai-data-center-chips/cZxWNP1RBA4?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T06:16:06+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "03dd8849d76dfff6",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Analyst Sees TSLA-SPCX Merger Coming By December, but Prediction Markets Aren’t Buying It",
+      "link": "https://www.benzinga.com/markets/tech/26/10/62372757/analyst-sees-tsla-spcx-merger-coming-by-december-but-prediction-markets-arent-buying-it?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T05:57:39+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "cd6ede6da55675e2",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "BE Stock Slips Overnight Amid AI Selloff: AEP To Spend $4B On Fuel Cells To Power Google",
+      "link": "https://stocktwits.com/news-articles/markets/equity/be-stock-slips-overnight-amid-ai-selloff-aep-to-spend-4-b-on-fuel-cells-to-power-google/cZxWmiCRBAE?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T05:52:50+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "4f26de15f6ae6e1e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "TSLA Stock Slips Overnight Ahead Of Roadster Event — Elon Musk Promises ‘Greatest Product Demo Of All Time’",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-roadster-event-elon-musk-greatest-product-demo-of-all-time/cZxWmPlRBA3?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T05:39:22+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "8c390eb38841d46a",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Will OpenAI Go Public? One VC Says ‘Not Really Sure They Mean It’ But Bets On ‘Blockbuster’ Anthropic Listing",
+      "link": "https://stocktwits.com/news-articles/markets/equity/will-open-ai-go-public-one-vc-says-not-really-sure-they-mean-it-but-bets-on-blockbuster-anthropic-listing/cZxWl5YRBAR?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T05:01:49+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d8c46c83afbc2de0",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Sees ‘Almost All Cars’ Going Electric as Gasoline-Only Vehicles Fall Below Half of Global Sales",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62372456/elon-musk-gasoline-cars-electric-vehicle-tesla?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T04:38:28+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "c6b14ddf751a2bfd",
       "ticker": "TSLA",
@@ -24,17 +101,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "8e0b599c1d61b26e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Why Is Everyone Ignoring Zoom Stock's High Cash Yield?",
-      "link": "https://www.trefis.com/articles/618655/why-is-everyone-ignoring-zoom-stocks-high-cash-yield/2026-10-14?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T01:52:17+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "6bce2746fba7ecc1",
       "ticker": "NU",
       "symbol": "NU",
@@ -44,17 +110,6 @@
       "source": "News",
       "published": "2026-10-15T01:22:15+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "550c2ed11aae9722",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "BofA sees ChatGPT taking aim at Google’s next ad dollar",
-      "link": "https://www.thestreet.com/investing/google-chatgpt-digital-advertising-trends?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T00:37:00+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "bca98e812ab6e01b",
@@ -68,59 +123,26 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "d43be41eddca6d4f",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-space-x-merger-could-be-announced-as-early-as-before-december-agm-says-barclays/cZxQdGeRBqr?.tsrc=rss",
+      "id": "e2d1fb9c0e1649b8",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Here’s why AI stocks crashed today",
+      "link": "https://blockspace.media/short/heres-why-ai-stocks-crashed-today/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T23:47:57+00:00",
-      "logo": "logos/TSLA.svg"
+      "published": "2026-10-14T21:50:10+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
-      "id": "504198b66f8c7d36",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Prediction: Alphabet Will Soar After Oct. 28",
-      "link": "https://www.fool.com/investing/2026/10/14/prediction-alphabet-will-soar-after-october-28/?.tsrc=rss",
+      "id": "e4d34b2c8f0f633c",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "AI Stocks Selloff and CoreWeave Debt, IREN Proposes 900 MW Aussie Site, Keel’s New 80 MW Site",
+      "link": "https://blockspace.media/podcast/ai-stocks-selloff-and-coreweave-debt-iren-proposes-900-mw-aussie-site-keels-new-80-mw-site/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-14T23:20:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "f8d7c3aeab0aa8de",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Is Xero’s (ASX:XRO) Google Gemini Integration Quietly Rewiring Its AI Platform Ambitions?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/xero-asx-xro-google-gemini-231818025.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T23:18:18+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "0be4595b6d27d5b2",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla's Elon Musk Might Have Gone Back on His Word, but It's Working in China",
-      "link": "https://www.fool.com/investing/2026/10/14/teslas-elon-musk-might-have-gone-back-on-his-word/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T23:05:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "308d745654920e42",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "What Does Tesla (TSLA) NHTSA School Zone Probe Mean For Robotaxis?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-tesla-tsla-nhtsa-school-221707829.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T22:17:07+00:00",
-      "logo": "logos/TSLA.svg"
+      "published": "2026-10-14T21:43:03+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "06f557913dffc406",
@@ -167,28 +189,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "8de882ea5eb3eb71",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Why CoreWeave Stock Tumbled Today",
-      "link": "https://www.fool.com/investing/2026/10/14/why-coreweave-stock-tumbled-today/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T18:01:09+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "712eec752552d7e6",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Why Gartner AI Outlook Sent CoreWeave Stock, Neoclouds Reeling",
-      "link": "https://finance.yahoo.com/m/e7396a5f-59db-30ad-b0ed-49dbca81119f/why-gartner-ai-outlook-sent.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T17:06:16+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "344d42ed5551615a",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -198,6 +198,17 @@
       "source": "News",
       "published": "2026-10-14T16:13:12+00:00",
       "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "1327d4f7790931e9",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC May 2027 12.500 put (BOC270521P00012500) stock price, news, quote and history - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fY0YwdGhfUEVuZ0E5Zzl6UWNzVGFQeXlIRVBFQUk5YUZ0T1M1YmE3SEVxZFE3X0V1c1J2VWw1RW5EMUM2bmV0akpnQUxkak9aTnFSTzhtYWJDSTFZeVpjREZ6N1U?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "2026-10-14T12:36:44+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "e71419707a33385d",
@@ -219,17 +230,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTFNOektiZ0tLcE5MWlc3V0Jyd3RFOXZyaTZXNkhNTGpqZWpJc2NwU09kU1BoNU85d2tTMDdXRHI5WWtFanNpS2VNSTVkQ0Y5bmNwcmhpMFBUZGZROF9lV1lmQjVERFNJQUVFUzFseDVnWWRBS3NaUlZWN0Y0eEJvRmw4WVNEUjk4SWJzVC0wQVg3Zm1yRFVmQ1VuVURtOGdpOE5BTm5MYThOdEFURG1NS3hFQXNlZy16X2ljSHRDUWx1UVEw?oc=5",
       "source": "ad-hoc-news.de",
       "published": "2026-10-14T11:37:12+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "386bb8615a7a6e4a",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong stock pre-market at EUR 5.79 - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZkdrU0xfNEJDb0YzMXNxam52dUNoRkJiaDhRUXFsN2NjOWNjNVJHaWtlZm5ESDI2NjJiT0JxbWFLQW80eGs5N3VtSEltTldOeVJPenVRcUJfRUFYbUREclFqUWtDLTMxUDhuUHExWEJFUF9DWE5TQVMwb00yN0oxaFo0MVdfd1d0N18wa3VCeXlrQWJrVDh6RkRZdTczeTQwS0E?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-14T06:34:11+00:00",
       "logo": "logos/BOC.svg"
     },
     {
