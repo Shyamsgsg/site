@@ -1,49 +1,137 @@
 {
-  "updated": "2026-10-15T15:53:44Z",
+  "updated": "2026-10-15T19:01:18Z",
   "items": [
     {
-      "id": "8cc37e52e1cd74bf",
+      "id": "41082394d51ba89f",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Could Announce A Tesla-SpaceX Merger In Coming Weeks: Analyst",
+      "link": "https://finance.yahoo.com/m/32f1294f-e426-3a99-b8d4-22a5a2a00b41/elon-musk-could-announce-a.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T18:57:01+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "2f7335515e9b62c1",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Prediction: Here's What $1,000 Invested in Nu Holdings Today Could Be Worth by 2030",
+      "link": "https://www.fool.com/investing/2026/10/15/prediction-1000-invested-nu-holdings-2030/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T18:50:00+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "4472df24de36fe2b",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "XPENG Expands Collaboration with Google to Bring Google Play into Its AI-Powered Cockpits",
-      "link": "https://finance.yahoo.com/technology/ai/articles/xpeng-expands-collaboration-google-bring-153300722.html?.tsrc=rss",
+      "title": "Meta Just Climbed 12% in a Month: Take Profits, or Hold On for the Ride?",
+      "link": "https://247wallst.com/investing/2026/10/15/meta-just-climbed-12-in-a-month-take-profits-or-hold-on-for-the-ride/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-15T15:33:00+00:00",
+      "published": "2026-10-15T18:24:41+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "2d2e59ae0a2ccfe7",
+      "id": "6cb895cd459c5308",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "On Holding (ONON) Targets Nearly $7 Billion in Sales. Can Premium Pricing Sustain Growth?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-targets-nearly-7-180505925.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T18:05:05+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "2a733e95400b398f",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Roadster hype, the Meta-Apple AI deal, and how AI spending is saving the economy",
+      "link": "https://finance.yahoo.com/video/tesla-roadster-hype-the-meta-apple-ai-deal-and-how-ai-spending-is-saving-the-economy-180014441.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T18:00:14+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "558b1f1020b1fe04",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Why Tesla's Roadster won't move the needle, it'll just 'disappoint'",
+      "link": "https://finance.yahoo.com/video/why-teslas-roadster-wont-move-175100535.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T17:51:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "f91152fb559e3d21",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Microsoft’s Azure Grew 40% and Is Still Reportedly Hunting for 20% Cost Cuts",
-      "link": "https://247wallst.com/investing/2026/10/15/microsofts-azure-grew-40-and-is-still-reportedly-hunting-for-20-cost-cuts/?.tsrc=rss",
+      "title": "Alphabet Stock Can Soar 22%, J.P. Morgan Says. Why Google Can Defy AI Fears.",
+      "link": "https://finance.yahoo.com/m/f61a1b47-e945-3522-a31f-a4a84c7b00f8/alphabet-stock-can-soar-22%25%2C.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-15T15:27:21+00:00",
+      "published": "2026-10-15T17:48:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "69c757721e2de8fe",
+      "id": "4ee5f9fa0888bc2d",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CoreWeave Reverses Up As Wall Street Analysts Rush To Defend AI Stock.",
+      "link": "https://finance.yahoo.com/m/e7396a5f-59db-30ad-b0ed-49dbca81119f/coreweave-reverses-up-as-wall.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T17:41:52+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "b9a48dc5a4c8b913",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Anthropic Is Growing 50%, Microsoft Isn’t",
-      "link": "https://247wallst.com/investing/2026/10/15/anthropic-is-growing-50-microsoft-isnt/?.tsrc=rss",
+      "title": "Meet the Low-Cost Vanguard ETF With Taiwan Semiconductor, Samsung Electronics, SK Hynix, and ASML as Its 4 Largest Holdings",
+      "link": "https://www.fool.com/investing/2026/10/15/meet-the-low-cost-vanguard-etf-with-taiwan-semicon/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-15T15:22:11+00:00",
+      "published": "2026-10-15T17:11:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "cc50bcafb761fecd",
+      "id": "75dafd880c2aa02c",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Here's What $5,000 Invested in Nvidia Stock Could Be Worth by the End of 2030",
-      "link": "https://www.fool.com/investing/2026/10/15/heres-what-5000-invested-in-nvidia-stock-could-be/?.tsrc=rss",
+      "title": "DTE Energy Is Becoming More Interesting as America’s Power Needs Soar",
+      "link": "https://247wallst.com/investing/2026/10/15/dte-energy-is-becoming-more-interesting-as-americas-power-needs-soar/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-15T15:18:00+00:00",
+      "published": "2026-10-15T17:00:17+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "7c8dca7ab66b4532",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Can You Buy Stocks With Crypto? Bybit Adds 1,000 US Stocks, but Not Every Version Gives You the Shares",
+      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/15/can-you-buy-stocks-with-crypto-bybit-adds-1000-us-stocks-but-not-every-version-gives-you-the-shares/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T16:30:43+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "10612c059092ef6e",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Nvidia’s Huang Says CoreWeave Doesn’t Need a Backstop",
+      "link": "https://finance.yahoo.com/m/730e5e5b-d109-37f1-be5a-6af3bee9ed82/nvidia%E2%80%99s-huang-says-coreweave.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T16:20:00+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "2103a232bfc497fe",
@@ -57,28 +145,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "db159bb5af403a9e",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla’s Volatility Is Tempting Investors Again at $375",
-      "link": "https://247wallst.com/investing/2026/10/15/teslas-volatility-is-tempting-investors-again-at-375/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T14:45:56+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "11642d3f3b2ff1ed",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "How Nvidia Could Stop the CoreWeave Panic",
-      "link": "https://finance.yahoo.com/m/730e5e5b-d109-37f1-be5a-6af3bee9ed82/how-nvidia-could-stop-the.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T14:33:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "3d95d59e81f0a240",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -87,50 +153,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017705.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-15T14:30:17+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "6e304cfdf3a06e6b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "A Tesla-SpaceX Merger Could Be Weeks Away",
-      "link": "https://finance.yahoo.com/m/44a807ab-3d98-37c9-a98e-b228b2d56ddd/a-tesla-spacex-merger-could.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T14:15:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "2e8fd8969b358def",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Will Tesla's Roadster Fly Tonight? Prediction Markets Say It's Likely",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62384282/tesla-roadster-flying-odds-demo?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T14:09:53+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "cbff17e0a8f05765",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "What's causing the latest AI stock sell-off? Plus, TSMC earnings and Tesla's new Roadster",
-      "link": "https://finance.yahoo.com/video/whats-causing-the-latest-ai-stock-sell-off-plus-tsmc-earnings-and-teslas-new-roadster-140914242.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T14:09:14+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "4363057778e2793c",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CoreWeave Tumbles Again. Wall Street Analysts Rush To Defend AI Stock.",
-      "link": "https://finance.yahoo.com/m/e7396a5f-59db-30ad-b0ed-49dbca81119f/coreweave-tumbles-again.-wall.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T13:59:33+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -255,17 +277,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "6012dc868a0d8a48",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings (NU) Now Earns $1B a Quarter. Is the Premium Earned?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-now-earns-122756088.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T12:27:56+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "9b42c9faf9c5355c",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -318,17 +329,6 @@
       "link": "https://finance.yahoo.com/m/4a22b483-e199-332b-bbd9-eef33f90b4e5/nike-and-lvmh-took-china-for.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-08T10:23:00+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "2e198720e79a6b54",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "On Holding Is Down Over 50% From Its All-Time High. Is a Push Into Football and Golf the Key to Unlocking Faster Growth?",
-      "link": "https://www.fool.com/investing/2026/10/07/on-holding-is-down-50-from-its-all-time-high-is-a/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-07T13:50:00+00:00",
       "logo": "logos/ONON.svg"
     },
     {
