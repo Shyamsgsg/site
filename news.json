@@ -1,6 +1,94 @@
 {
-  "updated": "2026-10-15T19:01:18Z",
+  "updated": "2026-10-15T21:50:17Z",
   "items": [
+    {
+      "id": "8f02ed6413ff0931",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Dow Jones Futures: Disney, Salesforce Lead New Buys After Wild, Positive Market Day. What To Do Now",
+      "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-disney%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T21:39:15+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "b18524974cb3d7e1",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Stock Market Today, Oct. 15: Iren Stock Recovers, but Still Slides on Concerns Over Neocloud Provider Viability",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/15/stock-market-today-oct-15-iren-stock-recovers-but-still-slides-on-concerns-over-neocloud-provider-viability/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T21:23:36+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "ec13d0be8daa82ea",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "3 Chip Stocks to Buy Before Big Tech Reports Its Spending Plans",
+      "link": "https://www.fool.com/investing/2026/10/15/3-chip-stocks-to-buy-before-big-tech-reports-its-spending-plans/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T21:01:03+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "4514e641aa929d86",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Robinhood, Cboe Expand Prediction Market Offerings After SEC Win",
+      "link": "https://finance.yahoo.com/m/43e15f4c-378a-35ca-8bcb-ce6c42c9c5ef/robinhood%2C-cboe-expand.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T20:38:53+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "09579eccc75e1c2e",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "AI Stocks Are Hurting. Look at These Other Sectors for Protection.",
+      "link": "https://finance.yahoo.com/m/ae1cf62e-30be-3112-9ec5-4181307e9b31/ai-stocks-are-hurting.-look.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T20:13:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "abf0fd4070eebfd7",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "What Would You Have Needed To Notice In GM Stock?",
+      "link": "https://www.trefis.com/articles/618856/what-would-you-have-needed-to-notice-in-gm-stock/2026-10-15?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T20:08:40+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c4d8b47606c096f5",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google’s $180 Fitbit Edge makes a bet on smartwatch fatigue",
+      "link": "https://www.thestreet.com/investing/google-fitbit-edge-smartwatch-fatigue?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T20:07:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d06c4fdcb40867b0",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX Has a Ukraine Problem. What It Means for the Stock.",
+      "link": "https://finance.yahoo.com/m/18863637-f34e-31b5-9003-1d7d9d2f69c5/spacex-has-a-ukraine-problem..html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T20:07:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "41082394d51ba89f",
       "ticker": "TSLA",
@@ -9,7 +97,7 @@
       "title": "Elon Musk Could Announce A Tesla-SpaceX Merger In Coming Weeks: Analyst",
       "link": "https://finance.yahoo.com/m/32f1294f-e426-3a99-b8d4-22a5a2a00b41/elon-musk-could-announce-a.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-15T18:57:01+00:00",
+      "published": "2026-10-15T20:01:40+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -24,17 +112,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "4472df24de36fe2b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Meta Just Climbed 12% in a Month: Take Profits, or Hold On for the Ride?",
-      "link": "https://247wallst.com/investing/2026/10/15/meta-just-climbed-12-in-a-month-take-profits-or-hold-on-for-the-ride/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T18:24:41+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "6cb895cd459c5308",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -46,39 +123,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "2a733e95400b398f",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Roadster hype, the Meta-Apple AI deal, and how AI spending is saving the economy",
-      "link": "https://finance.yahoo.com/video/tesla-roadster-hype-the-meta-apple-ai-deal-and-how-ai-spending-is-saving-the-economy-180014441.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T18:00:14+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "558b1f1020b1fe04",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Why Tesla's Roadster won't move the needle, it'll just 'disappoint'",
-      "link": "https://finance.yahoo.com/video/why-teslas-roadster-wont-move-175100535.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T17:51:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "f91152fb559e3d21",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet Stock Can Soar 22%, J.P. Morgan Says. Why Google Can Defy AI Fears.",
-      "link": "https://finance.yahoo.com/m/f61a1b47-e945-3522-a31f-a4a84c7b00f8/alphabet-stock-can-soar-22%25%2C.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T17:48:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "4ee5f9fa0888bc2d",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -88,39 +132,6 @@
       "source": "News",
       "published": "2026-10-15T17:41:52+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "b9a48dc5a4c8b913",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Meet the Low-Cost Vanguard ETF With Taiwan Semiconductor, Samsung Electronics, SK Hynix, and ASML as Its 4 Largest Holdings",
-      "link": "https://www.fool.com/investing/2026/10/15/meet-the-low-cost-vanguard-etf-with-taiwan-semicon/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T17:11:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "75dafd880c2aa02c",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "DTE Energy Is Becoming More Interesting as America’s Power Needs Soar",
-      "link": "https://247wallst.com/investing/2026/10/15/dte-energy-is-becoming-more-interesting-as-americas-power-needs-soar/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T17:00:17+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "7c8dca7ab66b4532",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Can You Buy Stocks With Crypto? Bybit Adds 1,000 US Stocks, but Not Every Version Gives You the Shares",
-      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/15/can-you-buy-stocks-with-crypto-bybit-adds-1000-us-stocks-but-not-every-version-gives-you-the-shares/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T16:30:43+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "10612c059092ef6e",
@@ -142,17 +153,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/iren-iren-starts-consultation-900-150843079.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-15T15:08:43+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "3d95d59e81f0a240",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "BC-Most Active Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017705.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T14:30:17+00:00",
       "logo": "logos/IREN.svg"
     },
     {
