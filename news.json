@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-15T01:00:28Z",
+  "updated": "2026-10-15T03:53:20Z",
   "items": [
+    {
+      "id": "c6b14ddf751a2bfd",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "How Laptops Brought EVs Back From The Dead",
+      "link": "https://thehustle.videonest.co/videos/1786774/how-laptops-brought-evs-back-from-the-dead-8zSEMHMYOX?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T03:32:50+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "bdb03facff4f34eb",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CRWV, NBIS, IREN Stocks Extend Slide Overnight: Retail Eyes The Dip As CoreWeave CEO Says Market Acting ‘Irrationally’",
+      "link": "https://stocktwits.com/news-articles/markets/equity/crwv-nbis-iren-stocks-extend-slide-overnight-retail-eyes-the-dip-as-core-weave-ceo-says-market-acting-irrationally/cZxWLMRRBqw?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T02:20:22+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "8e0b599c1d61b26e",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Why Is Everyone Ignoring Zoom Stock's High Cash Yield?",
+      "link": "https://www.trefis.com/articles/618655/why-is-everyone-ignoring-zoom-stocks-high-cash-yield/2026-10-14?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T01:52:17+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "6bce2746fba7ecc1",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "FISV, NU, LPLA: Analyst Picks Top 3 Financial Stocks In ‘Forgettable Year’ For Sector",
+      "link": "https://stocktwits.com/news-articles/markets/equity/fisv-nu-lpla-analyst-picks-top-3-financial-stocks-in-forgettable-year-for-sector/cZxWWJvRBqt?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T01:22:15+00:00",
+      "logo": "logos/NU.svg"
+    },
     {
       "id": "550c2ed11aae9722",
       "ticker": "GOOG",
@@ -76,28 +120,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/does-tesla-tsla-nhtsa-school-221707829.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-14T22:17:07+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "92f389cb04e145d3",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ambani-jio-seeks-raise-3-214820449.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T21:48:20+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "868cab31fae740d2",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "What Is Rivian Building That Investors Should Watch?",
-      "link": "https://www.trefis.com/articles/618669/what-is-rivian-building-that-investors-should-watch/2026-10-14?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T21:38:54+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -178,17 +200,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "6e6d547ed8b5d609",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "The One Stock Jim Cramer Calls His Only Trust Crashes 15%",
-      "link": "https://beincrypto.com/jim-cramer-coreweave-stock-crashes-15/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T16:05:52+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "e71419707a33385d",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -252,17 +263,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-revenue-180950777.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-12T18:09:50+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "116c97d504dff9de",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "The 3 Most Important Metrics to Watch for Nu Holdings. And No, It's Not Customer Numbers.",
-      "link": "https://www.fool.com/investing/2026/10/12/3-most-important-metrics-to-watch-for-nu-holding/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-12T16:50:00+00:00",
       "logo": "logos/NU.svg"
     },
     {
