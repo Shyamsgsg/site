@@ -1,60 +1,115 @@
 {
-  "updated": "2026-10-16T09:52:24Z",
+  "updated": "2026-10-16T13:05:18Z",
   "items": [
     {
-      "id": "f5678e2515d65803",
+      "id": "53741aaadb3bf5e1",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Happy Friday! We have flying cars now. Here's a closer look at Tesla's SpaceX-powered Roadster.",
+      "link": "https://finance.yahoo.com/video/happy-friday-we-have-flying-cars-now-heres-a-closer-look-at-teslas-spacex-powered-roadster-125842429.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T12:58:42+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "501b45c8fa984220",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla’s Flying Roadster Fuels SpaceX Merger Speculation, But Analysts Question Earnings Impact",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-roadster-spacex-merger-speculation-dan-ives-gary-black-reaction/cZxKTvIRBs0?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T12:54:46+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "303abb58c210a837",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Watch Elon Musk debut flying Tesla Roadster with rocket thruster tech",
+      "link": "https://finance.yahoo.com/video/watch-elon-musk-debut-flying-tesla-roadster-with-rocket-thruster-tech-125005821.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T12:50:05+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c76f6c9c05828461",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Wall Street Agrees on Amazon and Can’t Agree on Tesla. The Targets Show Why",
+      "link": "https://247wallst.com/investing/2026/10/16/wall-street-agrees-on-amazon-and-cant-agree-on-tesla-the-targets-show-why/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T12:45:36+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "73f012aefa942915",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CoreWeave Drops 6% as Debt Worries Linger; IREN Falls 4%, Nebius Slips",
+      "link": "https://247wallst.com/investing/2026/10/16/coreweave-drops-6-as-debt-worries-linger-iren-falls-4-nebius-slips/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T12:41:25+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "a08d9e163e9fed7b",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Warren Buffett's Successor, Greg Abel, Has Over 45% of Berkshire Hathaway's $356 Billion Portfolio Invested in 3 Undeniable Winners",
-      "link": "https://www.fool.com/investing/2026/10/16/warren-buffett-successor-greg-abel-45-berkshire-hathaway-356-billion-portfolio-invested-in-3-winners/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T09:26:02+00:00",
+      "title": "This Week In Cloud AI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/week-cloud-ai-akamai-technologies-123752277.html?.tsrc=rss",
+      "source": "Akamai Technologies Boosts Global Cloud Service Adoption",
+      "published": "2026-10-16T12:37:52+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "bf8940ddd2f48d06",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "US Stock Futures Edge Higher as Fed Chair Warsh Avoids Rate Guidance and Tesla Unveils New Roadster: Dow Jones, S&P, Nasdaq, Wall Street",
-      "link": "https://investorshub.advfn.com/market-news/article/38160/us-stock-futures-edge-higher-as-fed-chair-warsh-avoids-rate-guidance-and-tesla-unveils-new-roadster-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T09:12:40+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "22d7a943f2399e8c",
+      "id": "f60612a318ccf8ef",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Not AMD. Not Broadcom. This is the Chip Designer Nvidia Investors Should Be Watching",
-      "link": "https://www.fool.com/investing/2026/10/16/not-amd-not-broadcom-this-is-the-chip-designer-nvi/?.tsrc=rss",
+      "title": "Some Anthropic Investors Now See a $1.5 Trillion IPO, Not $2 Trillion",
+      "link": "https://247wallst.com/investing/2026/10/16/some-anthropic-investors-now-see-a-1-5-trillion-ipo-not-2-trillion/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-16T09:04:00+00:00",
+      "published": "2026-10-16T12:24:07+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "bcfb4ffd19e99adf",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk's net worth could reach $2 trillion as a rumored SpaceX-Tesla merger may be just weeks away, analyst predicts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-net-worth-could-090000357.html?.tsrc=rss",
+      "id": "c8172d8434ca345c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "S&P 500 Correction Risk Grows as Index Rally Lacks Broad Participation",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-correction-risk-grows-121800987.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-16T09:00:00+00:00",
-      "logo": "logos/TSLA.svg"
+      "published": "2026-10-16T12:18:00+00:00",
+      "logo": "logos/GOOG.svg"
     },
     {
-      "id": "0d0b1a555c2189d1",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Why Are Nasdaq Futures Edging Higher Premarket? TSLA, CRWV, TSM, NVDA, RKLB, ASST, PEP Stocks In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-futures-edging-higher-premarket-tsla-crwv-tsm-nvda-rklb-asst-pep-stocks-in-focus/cZx0DdtRBsE?.tsrc=rss",
+      "id": "81fa26930aa4b5ba",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "AI Stock Sell-Off Could Catch Bearish Investors Off Guard In ‘Right Tail Risk’, But Wall Street Feels Broader Market Signals Are Holding Up",
+      "link": "https://stocktwits.com/news-articles/markets/equity/ai-stock-sell-off-could-catch-bearish-investors-off-guard-in-right-tail-risk/cZxKRsrRBsX?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-16T08:42:53+00:00",
-      "logo": "logos/TSLA.svg"
+      "published": "2026-10-16T12:13:27+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "854fa9e84328a790",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CoreWeave Stock Drops. Why AI Debt Fears Aren’t Over Despite Nvidia’s Confidence.",
+      "link": "https://finance.yahoo.com/m/6ebf89f2-ebc8-36f3-9ed9-8328d09819c8/coreweave-stock-drops.-why-ai.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T09:30:00+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "d1b59093bbac8b60",
@@ -66,17 +121,6 @@
       "source": "ad-hoc-news.de",
       "published": "2026-10-16T08:38:51+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "3e6fdb6f0d77c2e4",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Warsh avoids rate guidance; Tesla’s Roadster turns in air",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/warsh-avoids-rate-guidance-tesla-082828263.html?.tsrc=rss",
-      "source": "what’s moving markets",
-      "published": "2026-10-16T08:28:28+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "013e2a3e0dd08cda",
@@ -101,17 +145,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "d9b6b7870f1c1875",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Does Muse Wonder Launch Change The Bull Case For Meta Stock?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-muse-wonder-launch-change-081034861.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T08:10:34+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "91dfb6756a6b088d",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -121,17 +154,6 @@
       "source": "ad-hoc-news.de",
       "published": "2026-10-16T07:29:13+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "e0d72fd5678db4ee",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Look How Much Money the AI Gods Are Giving Away",
-      "link": "https://finance.yahoo.com/m/df1400ef-7056-38bf-bd9c-702d66945160/look-how-much-money-the-ai.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T07:00:00+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "984490e7ea273230",
@@ -153,28 +175,6 @@
       "link": "https://blockspace.media/short/iren-plans-900-mw-data-center-redbank-in-wagga-wagga-australia/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-16T00:40:43+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "b18524974cb3d7e1",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Stock Market Today, Oct. 15: Iren Stock Recovers, but Still Slides on Concerns Over Neocloud Provider Viability",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/15/stock-market-today-oct-15-iren-stock-recovers-but-still-slides-on-concerns-over-neocloud-provider-viability/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T21:23:36+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "185bd9a4973628ed",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Shares Rose on Reports of a Multiyear Deal With Anthropic. How Investors Should View the News.",
-      "link": "https://www.barchart.com/story/news/7946600/iren-shares-rose-on-reports-of-a-multiyear-deal-with-anthropic-how-investors-should-view-the-news?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T19:24:48+00:00",
       "logo": "logos/IREN.svg"
     },
     {
