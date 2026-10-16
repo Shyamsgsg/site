@@ -1,15 +1,70 @@
 {
-  "updated": "2026-10-15T21:50:17Z",
+  "updated": "2026-10-16T00:59:56Z",
   "items": [
     {
-      "id": "8f02ed6413ff0931",
+      "id": "0df5268e9f1b92d4",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Dow Jones Futures: Disney, Salesforce Lead New Buys After Wild, Positive Market Day. What To Do Now",
-      "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-disney%2C.html?.tsrc=rss",
+      "title": "Dow Jones Futures: Techs Slide On Anthropic Valuation Report; Tesla Roadster On Tap",
+      "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures%3A-techs.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-15T21:39:15+00:00",
+      "published": "2026-10-16T00:56:17+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "7e23d410b1a8f019",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Energy Chief Mike Snyder Reportedly Exits As Elon Musk Pushes AI And Robotics Pivot",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-energy-chief-mike-snyder-reportedly-exits-as-elon-musk-pushes-ai-and-robotics-pivot/cZxhOgzRBrZ?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T23:18:25+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "9a87f2f66659127f",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Europeans Bought More EVs Than Ever Last Month",
+      "link": "https://finance.yahoo.com/m/5a209651-03a6-3d9c-ba37-fa68212d3104/europeans-bought-more-evs.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T23:00:29+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "26992f5cea932b6c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Here Are the 3 Magnificent Seven Stocks I'd Buy Today",
+      "link": "https://www.fool.com/investing/2026/10/15/here-are-the-3-magnificent-seven-stocks-id-buy-now/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T22:01:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "fd684c3d885d6186",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "JPMorgan's Chicago Office Renovation Costing Bank Over $800M, Dimon Says",
+      "link": "https://www.bisnow.com/news/chicago/office/jpmorgan-chicago-office-renovation-costing-bank-over-800m-dimon-says?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T21:42:16+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "305b649d7623f97c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "AI could drive a Tesla-SpaceX tie-up as soon as this fall, analysts say",
+      "link": "https://www.axios.com/2026/10/15/tesla-spacex-merger-roadster-barclays#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-15T21:37:13+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -44,61 +99,6 @@
       "source": "News",
       "published": "2026-10-15T20:38:53+00:00",
       "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "09579eccc75e1c2e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "AI Stocks Are Hurting. Look at These Other Sectors for Protection.",
-      "link": "https://finance.yahoo.com/m/ae1cf62e-30be-3112-9ec5-4181307e9b31/ai-stocks-are-hurting.-look.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T20:13:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "abf0fd4070eebfd7",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "What Would You Have Needed To Notice In GM Stock?",
-      "link": "https://www.trefis.com/articles/618856/what-would-you-have-needed-to-notice-in-gm-stock/2026-10-15?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T20:08:40+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "c4d8b47606c096f5",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google’s $180 Fitbit Edge makes a bet on smartwatch fatigue",
-      "link": "https://www.thestreet.com/investing/google-fitbit-edge-smartwatch-fatigue?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T20:07:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "d06c4fdcb40867b0",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX Has a Ukraine Problem. What It Means for the Stock.",
-      "link": "https://finance.yahoo.com/m/18863637-f34e-31b5-9003-1d7d9d2f69c5/spacex-has-a-ukraine-problem..html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T20:07:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "41082394d51ba89f",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Could Announce A Tesla-SpaceX Merger In Coming Weeks: Analyst",
-      "link": "https://finance.yahoo.com/m/32f1294f-e426-3a99-b8d4-22a5a2a00b41/elon-musk-could-announce-a.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T20:01:40+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "2f7335515e9b62c1",
