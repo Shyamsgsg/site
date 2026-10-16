@@ -1,37 +1,70 @@
 {
-  "updated": "2026-10-16T03:53:09Z",
+  "updated": "2026-10-16T07:06:34Z",
   "items": [
     {
-      "id": "ac7cf6c33f787ce9",
+      "id": "a7a71971f23128ff",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Dow Jones Futures Rise; Anthropic Valuation Report, Flying Tesla Roadster In Focus",
-      "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures-rise%3B.html?.tsrc=rss",
+      "title": "Stocktwits Space Race Weekly: SPCX Weathers Selloff Better Than ASTS, RKLB And FLY — RDW Fares Best",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-space-race-weekly-spcx-weathers-selloff-better-than-asts-rklb-fly-rdw/cZx0tLwRBrz?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-16T03:11:57+00:00",
+      "published": "2026-10-16T06:23:10+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "df407567e5ca949b",
+      "id": "984490e7ea273230",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Hong Kong stock pre-market at EUR 5.71 - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWlZ5QVFLX1VxdldId0xSUUZtYTFRS1U5Q2JBQ3kxcmtMcDVwalBaSzRBSVV3VHBPNFY5UmhxOE5KRXI0Sjg1bGNsN3JJRVZ4andadXFGb2l5Q29XTW1BYW5ueDlSeGlBR0xmZUtvTTU3d0kzZVRXZ2ZEMXRha0tRRktuaFdOdHNPTktfUzVncDZwSXZrOWZaZkYyRmFueFl2M0E?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-16T05:49:19+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "896d0f42482dc9c4",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla Showcases Long-Awaited Roadster With Aerial Tricks",
-      "link": "https://finance.yahoo.com/video/tesla-showcases-long-awaited-roadster-023249724.html?.tsrc=rss",
+      "title": "Top 3 Founder Led Stocks To Watch In October 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-founder-led-stocks-051755764.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-16T02:32:49+00:00",
+      "published": "2026-10-16T05:17:55+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "91de5ada57e1ec79",
+      "id": "c5f8f2e1b3aed03a",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Roadster Reveal Could Be A Big Moment For Tesla Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/roadster-reveal-could-big-moment-021355480.html?.tsrc=rss",
+      "title": "Tesla unveils ‘flying’ sports car",
+      "link": "https://uk.finance.yahoo.com/news/tesla-unveils-flying-sports-car-050027047.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-16T02:13:55+00:00",
+      "published": "2026-10-16T05:00:27+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "92ee5d0c60d62b3d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google’s Quantum Breakthrough Puts Bitcoin in Trouble? Analyst Says Not Today, but ‘Gap Is Getting Smaller’",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62403061/google-quantum-computing-bitcoin-security-prediction-market-polymarket?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T04:55:11+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "c71ee833358d9b4c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Unveils Tesla Roadster That Can Fly, Drive Upside Down and Barrel Roll With SpaceX Thrusters",
+      "link": "https://finance.yahoo.com/technology/articles/elon-musk-unveils-tesla-roadster-043453351.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T04:34:53+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -57,17 +90,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "ca67fd4950404c3c",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Promised \"a Million Robotaxis\" by 2020. None Materialized, and a Dedicated Robotaxi Fleet Isn't Expected Until at Least 2027. Here's What That Track Record Means for Tesla's Valuation.",
-      "link": "https://www.fool.com/investing/2026/10/15/elon-musk-promised-a-million-robotaxis-by-2020-non/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T01:25:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "7744e2713c29f57b",
       "ticker": "GOOG",
       "symbol": "GOOG",
@@ -76,17 +98,6 @@
       "link": "https://beincrypto.com/jim-cramer-reddit-rocket-lab-sitime/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-16T01:21:25+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "a489a8d4ca072432",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Should You Buy Adobe Stock For Its Cash?",
-      "link": "https://www.trefis.com/articles/618835/should-you-buy-adobe-stock-for-its-cash/2026-10-15?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T00:48:32+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -252,17 +263,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fY0YwdGhfUEVuZ0E5Zzl6UWNzVGFQeXlIRVBFQUk5YUZ0T1M1YmE3SEVxZFE3X0V1c1J2VWw1RW5EMUM2bmV0akpnQUxkak9aTnFSTzhtYWJDSTFZeVpjREZ6N1U?oc=5",
       "source": "Yahoo Finance UK",
       "published": "2026-10-14T12:36:44+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "e71419707a33385d",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC keeps HKD 6.96 target for China Telecom stock - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZzlscUNfbWhnY2dNa2RfSHEzWmxiNTZCWHlBLUhqS3c2SHNCM0l5NHlRMmZUUmNfWDdOS0tVSmhwX0MtNWRZZ1lMbDVLNWRJU2hZaW1ndWhaVlpwU3FwOUNFa1Fkc3BleDAzSUtSYWFqZm80cnRIcGVMWkVFVndtSWh3WTFXQ1ZwVENWenRKMlJVUmNFbUg3eE04a3hPUjA0TkVDUUFhVUpWRDVqQWZ3NkpR?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-14T12:08:26+00:00",
       "logo": "logos/BOC.svg"
     },
     {
