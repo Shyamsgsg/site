@@ -1,49 +1,115 @@
 {
-  "updated": "2026-10-16T13:05:18Z",
+  "updated": "2026-10-16T15:51:57Z",
   "items": [
     {
-      "id": "53741aaadb3bf5e1",
+      "id": "09754ee5f4441149",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Happy Friday! We have flying cars now. Here's a closer look at Tesla's SpaceX-powered Roadster.",
-      "link": "https://finance.yahoo.com/video/happy-friday-we-have-flying-cars-now-heres-a-closer-look-at-teslas-spacex-powered-roadster-125842429.html?.tsrc=rss",
+      "title": "Tesla's flying Roadster is more fuel for SpaceX merger rumors than a real car",
+      "link": "https://finance.yahoo.com/technology/article/teslas-flying-roadster-is-more-fuel-for-spacex-merger-rumors-than-a-real-car-155008011.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-16T12:58:42+00:00",
+      "published": "2026-10-16T15:50:08+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "501b45c8fa984220",
+      "id": "2979cd9067f0ed9e",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla’s Flying Roadster Fuels SpaceX Merger Speculation, But Analysts Question Earnings Impact",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-roadster-spacex-merger-speculation-dan-ives-gary-black-reaction/cZxKTvIRBs0?.tsrc=rss",
+      "title": "'There's no point': Tesla Roadster's splashy reveal doesn't mean a merger with SpaceX",
+      "link": "https://finance.yahoo.com/markets/article/theres-no-point-tesla-roadsters-splashy-reveal-doesnt-mean-a-merger-with-spacex-154342195.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-16T12:54:46+00:00",
+      "published": "2026-10-16T15:43:42+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "303abb58c210a837",
+      "id": "c7b3f11273f0f921",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Watch Elon Musk debut flying Tesla Roadster with rocket thruster tech",
-      "link": "https://finance.yahoo.com/video/watch-elon-musk-debut-flying-tesla-roadster-with-rocket-thruster-tech-125005821.html?.tsrc=rss",
+      "title": "Tesla’s Flying Roadster Sends Hyperliquid Trading Volume Soaring 1,500%",
+      "link": "https://www.cryptoprowl.com/releases/teslas-flying-roadster-sends-hyperliquid-trading-volume-soaring-1500-7341?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-16T12:50:05+00:00",
+      "published": "2026-10-16T15:32:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "c76f6c9c05828461",
+      "id": "bb7bb6d08cb37467",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Tesla Gets Competition From Nvidia In Self Driving Cars",
+      "link": "https://247wallst.com/personal-finance/2026/10/16/tesla-gets-competition-from-nvidia-in-self-driving-cars/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T15:19:36+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d92e5022783cd847",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Compass (COMP) Jumped, But What Is Drawing Attention Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/compass-comp-jumped-drawing-attention-150900619.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T15:09:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d4cc9e010641bac6",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Wall Street Agrees on Amazon and Can’t Agree on Tesla. The Targets Show Why",
-      "link": "https://247wallst.com/investing/2026/10/16/wall-street-agrees-on-amazon-and-cant-agree-on-tesla-the-targets-show-why/?.tsrc=rss",
+      "title": "Elon Musk's flying Tesla Roadster unveiling boosts tokenized TSLA",
+      "link": "http://videos.coindesk.com/previews/Xzg2wy2u?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-16T12:45:36+00:00",
+      "published": "2026-10-16T15:08:32+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "cac1edf793c5f5a8",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Waymo targets Toronto robotaxi launch in 2028",
+      "link": "https://www.proactiveinvestors.com/companies/news/1100249/waymo-targets-toronto-robotaxi-launch-in-2028-1100249.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T15:05:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "65c24e6f7d7e2469",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "How the AI Gods Plan to Give Their Money Away",
+      "link": "https://finance.yahoo.com/m/df1400ef-7056-38bf-bd9c-702d66945160/how-the-ai-gods-plan-to-give.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T14:45:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a8871c2ecd4217b3",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CoreWeave Drops. Even Jensen Huang and Cathie Wood Can’t Buoy the Stock.",
+      "link": "https://finance.yahoo.com/m/6ebf89f2-ebc8-36f3-9ed9-8328d09819c8/coreweave-drops.-even-jensen.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T14:13:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "224fa0d2e4c30561",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco Stock Is Down 36% From Its All-Time High. Here's What Needs to Happen to Make It a Buy",
+      "link": "https://www.fool.com/investing/2026/10/16/cameco-stock-is-down-36-from-its-all-time-high/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T13:50:00+00:00",
+      "logo": "logos/CCJ.svg"
     },
     {
       "id": "73f012aefa942915",
@@ -54,61 +120,6 @@
       "link": "https://247wallst.com/investing/2026/10/16/coreweave-drops-6-as-debt-worries-linger-iren-falls-4-nebius-slips/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-16T12:41:25+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "a08d9e163e9fed7b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "This Week In Cloud AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/week-cloud-ai-akamai-technologies-123752277.html?.tsrc=rss",
-      "source": "Akamai Technologies Boosts Global Cloud Service Adoption",
-      "published": "2026-10-16T12:37:52+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "f60612a318ccf8ef",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Some Anthropic Investors Now See a $1.5 Trillion IPO, Not $2 Trillion",
-      "link": "https://247wallst.com/investing/2026/10/16/some-anthropic-investors-now-see-a-1-5-trillion-ipo-not-2-trillion/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T12:24:07+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c8172d8434ca345c",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "S&P 500 Correction Risk Grows as Index Rally Lacks Broad Participation",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-correction-risk-grows-121800987.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T12:18:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "81fa26930aa4b5ba",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "AI Stock Sell-Off Could Catch Bearish Investors Off Guard In ‘Right Tail Risk’, But Wall Street Feels Broader Market Signals Are Holding Up",
-      "link": "https://stocktwits.com/news-articles/markets/equity/ai-stock-sell-off-could-catch-bearish-investors-off-guard-in-right-tail-risk/cZxKRsrRBsX?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T12:13:27+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "854fa9e84328a790",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CoreWeave Stock Drops. Why AI Debt Fears Aren’t Over Despite Nvidia’s Confidence.",
-      "link": "https://finance.yahoo.com/m/6ebf89f2-ebc8-36f3-9ed9-8328d09819c8/coreweave-stock-drops.-why-ai.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T09:30:00+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -263,17 +274,6 @@
       "link": "https://finance.yahoo.com/energy/articles/top-3-nuclear-stocks-watch-161312138.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-14T16:13:12+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "e77053c77075f82f",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco Heads 3 Canadian Nuclear Stocks To Watch",
-      "link": "https://finance.yahoo.com/energy/articles/cameco-heads-3-canadian-nuclear-231831979.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-13T23:18:31+00:00",
       "logo": "logos/CCJ.svg"
     },
     {
