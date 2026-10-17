@@ -1,15 +1,48 @@
 {
-  "updated": "2026-10-17T12:55:01Z",
+  "updated": "2026-10-17T15:45:16Z",
   "items": [
     {
-      "id": "4dea03a93e141ba9",
+      "id": "d18fda8ac3459235",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Tesla Just Won in Court: Self-Driving Buyers Can’t Sue as a Class",
+      "link": "https://247wallst.com/investing/2026/10/17/tesla-just-won-in-court-self-driving-buyers-cant-sue-as-a-class/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T15:10:22+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "87f16a886c739a49",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Apple, Nvidia each gave $25M to Trump's White House ballroom — but the president's own name is nowhere on the donor list",
+      "link": "https://finance.yahoo.com/economy/policy/articles/apple-nvidia-gave-25m-trumps-150000953.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T15:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "b61ef269ec336c29",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Dow Jones Futures: S&P 500, Nasdaq Break Key Levels As CoreWeave, Dell Dive; Tesla, SpaceX, Meta Loom",
-      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss",
+      "title": "Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Key Levels; Will Meta, SpaceX Earnings Save AI?",
+      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-what-to-do.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-17T12:25:49+00:00",
+      "published": "2026-10-17T13:00:31+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "80c3f7e8202e2501",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "By The Way: Headlines You May Have Missed",
+      "link": "https://finance.yahoo.com/video/way-headlines-may-missed-125525599.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T12:55:25+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -57,17 +90,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "0ffa2ca150abb7d1",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Meet Warren Buffett Successor Greg Abel's Newest Investment: Bending Spoons. Should Investors Follow Suit and Buy the Stock?",
-      "link": "https://www.fool.com/investing/2026/10/17/warren-buffett-greg-abel-bending-spoons-buy/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T10:02:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "ffb50749f9c66895",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -88,28 +110,6 @@
       "source": "ad-hoc-news.de",
       "published": "2026-10-17T08:35:13+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "605278fea3b1b0c8",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Cathie Wood-Led Ark Invest's Biggest Q3 Winners And Losers — PLTR, NVDA, TXG Led While TSLA, RKLB Dragged",
-      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-biggest-q3-winners-losers-pltr-nvda-txg-tsla-rklb/cZxkcykRBtO?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T08:29:33+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "43faafe127806633",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google Puts Gemini in Geely’s Overseas Cars: Why the Export Numbers Matter",
-      "link": "https://www.tikr.com/blog/google-puts-gemini-in-geelys-overseas-cars-why-the-export-numbers-matter?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T08:28:47+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "20bf960370cd8642",
@@ -145,6 +145,17 @@
       "logo": "logos/BOC.svg"
     },
     {
+      "id": "0f49375ad45d8471",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Bang & Olufsen AS (CEUX:BOc) Stock Price, Trades & News - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fWjNvMEtwV2V0b3hxVThNYjQyYlJwNUVFaTNhSkRHSkFfU0VIM21KdURvbGVTazhhTVdxamhMWHZXc1Z3cjVKalkwVzVKTV9qUHBvRDUweWpScTV1?oc=5",
+      "source": "GuruFocus",
+      "published": "2026-10-16T21:37:31+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "6bca10159098c6c8",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -164,17 +175,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Id24wa2ZRcGxxU0FCWWFTc2xxOWhEbGFKbEdXUDlTdHlLZHNDemt6WnZNWkJmUTdCNzY4TjRvTkZMQTFNaHhrbTRpTnE3NVRSM0ktWkoxbS1SZnN6QlE?oc=5",
       "source": "GuruFocus",
       "published": "2026-10-16T20:34:32+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "6c0145a9e04de7fa",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Bang & Olufsen AS (CEUX:BOc) Stock Price, Trades & News - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zQnlndWdVaWN1c1FDVkdQdHpPYmhXNjdqQkVNN1B5T01QX0p0d1UxanFWQUZNakFEblBBa25RLXZUbEFPNHpSTDNCMDJPeXZxZzZTTU1nZS1nSVdf?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-10-16T19:52:11+00:00",
       "logo": "logos/BOC.svg"
     },
     {
