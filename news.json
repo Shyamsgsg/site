@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-17T18:48:21Z",
+  "updated": "2026-10-17T21:44:34Z",
   "items": [
+    {
+      "id": "d390fc1db04a400f",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Bank of East Asia stock has a 14.50 ratio versus 12.70 for BOC Hong Kong - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUJvTDcwQno5a2lOU1hWOURNWElDbFR4LTZBZkxEU2dZQk1jTndxTHdjTjU3YmN5eUllZ0huNGNub3gxVkFoY0xNM3JUZ2JOQVNmMTJYbzVUVFVVTHNCelE4bUhMZGpxMHBpWi1qTThCVUJNQ2RjX3FqN0ZlQ3h0RUJOR0VxN3VEQ0NaekVpdy03dVFsVjhBbFhpUlgzSTRWeHNmTmdPckhSbW1MZ2pBV3FfTWNKdzBud2xGa2xkeHU5cjBzWXNVY3duUQ?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-17T19:36:43+00:00",
+      "logo": "logos/BOC.svg"
+    },
     {
       "id": "f4834670a798578a",
       "ticker": "TSLA",
@@ -165,17 +176,6 @@
       "source": "News",
       "published": "2026-10-16T21:00:05+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "5042cc3ebbd1b759",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Bang & Olufsen AS (CEUX:BOc) Stock Forecast, Price Targets and Analysts Predictions - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Id24wa2ZRcGxxU0FCWWFTc2xxOWhEbGFKbEdXUDlTdHlLZHNDemt6WnZNWkJmUTdCNzY4TjRvTkZMQTFNaHhrbTRpTnE3NVRSM0ktWkoxbS1SZnN6QlE?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-10-16T20:34:32+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "a8871c2ecd4217b3",
