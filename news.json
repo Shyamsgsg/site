@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-17T15:45:16Z",
+  "updated": "2026-10-17T18:48:21Z",
   "items": [
+    {
+      "id": "f4834670a798578a",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Rivian's Key to Success May Not Be Its Vehicles",
+      "link": "https://www.fool.com/investing/2026/10/17/rivians-key-to-success-may-not-be-its-vehicles/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T17:05:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "20d37b9c2c614f7e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",
+      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-what-to-do.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T15:51:51+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "d18fda8ac3459235",
       "ticker": "GOOG",
@@ -22,17 +44,6 @@
       "source": "News",
       "published": "2026-10-17T15:00:00+00:00",
       "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "b61ef269ec336c29",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Key Levels; Will Meta, SpaceX Earnings Save AI?",
-      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-what-to-do.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T13:00:31+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "80c3f7e8202e2501",
@@ -87,17 +98,6 @@
       "link": "https://finance.yahoo.com/m/89f4aa8d-4229-3933-b160-1087cd360049/china-is-paying-people-to.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-17T11:00:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "ffb50749f9c66895",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "History Says Tesla Stock Swings Hard on Earnings. It Has Moved 8% or More After 10 of Its Last 15 Reports.",
-      "link": "https://www.fool.com/investing/2026/10/17/history-says-tesla-stock-swings-hard-on-earnings-it-has-moved-8-or-more-after-10-of-its-last-15-reports/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T08:49:01+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
