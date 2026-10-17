@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-17T03:50:48Z",
+  "updated": "2026-10-17T07:00:38Z",
   "items": [
+    {
+      "id": "0ecf84e76160bc0e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "BYD or Tesla: Which Is a Better Stock?",
+      "link": "https://www.fool.com/investing/2026/10/17/byd-or-tesla-which-is-a-better-stock/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T06:50:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "e85226866166a56c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Missed Out On Micron and Sandisk? Make Sure You Don't Miss Out On This Memory Stock.",
+      "link": "https://www.fool.com/investing/2026/10/17/missed-out-on-micron-and-sandisk-make-sure-you-don/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T05:50:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "81eb22824871770c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "What would superintelligence look and feel like?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/superintelligence-look-feel-050934162.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T05:09:34+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "20bf960370cd8642",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco Heads 3 Canadian Nuclear Stocks To Watch",
+      "link": "https://finance.yahoo.com/energy/articles/cameco-heads-3-canadian-nuclear-042102897.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T04:21:02+00:00",
+      "logo": "logos/CCJ.svg"
+    },
     {
       "id": "4b639c13314dd8c4",
       "ticker": "GOOG",
@@ -46,28 +90,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "cf10ffd3628906bb",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Battery X Metals Highlights Participation at X Takeover 2026, an Electric Vehicle and Emerging Technology Event Held at Tesla's Gigafactory Texas, Providing Exposure to Industry Perspectives and Technology Developments",
-      "link": "https://finance.yahoo.com/technology/articles/battery-x-metals-highlights-participation-012000266.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T01:20:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "731e7f294eb6f682",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Will Starlink Mobile matter for Apple?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/starlink-mobile-matter-apple-010939746.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T01:09:39+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "464cac92feece69f",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -90,15 +112,15 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "1f0f93c5855bc1c0",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stock Market Today, Oct. 16: Apple Edges Higher on iPhone Duo Preorder Surge",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/16/stock-market-today-oct-16-apple-edges-higher-on-iphone-duo-preorder-surge/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T21:49:34+00:00",
-      "logo": "logos/GOOG.svg"
+      "id": "43be7dbac9091d51",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Who's Buying or Selling Bang & Olufsen AS (CEUX:BOc) Stock Today? - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BVkU2TFItT2h0VkhkejFOMktOVWhHOTVnN3BIdjlpU2UzUUhwOV9WclpyUmpLamJaMDdmakVvN3QyX1FBZFowV2U0V0dGTmhnRVhrYXhtSm1wcTlmLURiT2R3?oc=5",
+      "source": "GuruFocus",
+      "published": "2026-10-16T22:38:31+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "6bca10159098c6c8",
@@ -120,6 +142,17 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Id24wa2ZRcGxxU0FCWWFTc2xxOWhEbGFKbEdXUDlTdHlLZHNDemt6WnZNWkJmUTdCNzY4TjRvTkZMQTFNaHhrbTRpTnE3NVRSM0ktWkoxbS1SZnN6QlE?oc=5",
       "source": "GuruFocus",
       "published": "2026-10-16T20:34:32+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "6c0145a9e04de7fa",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Bang & Olufsen AS (CEUX:BOc) Stock Price, Trades & News - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zQnlndWdVaWN1c1FDVkdQdHpPYmhXNjdqQkVNN1B5T01QX0p0d1UxanFWQUZNakFEblBBa25RLXZUbEFPNHpSTDNCMDJPeXZxZzZTTU1nZS1nSVdf?oc=5",
+      "source": "GuruFocus",
+      "published": "2026-10-16T19:52:11+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -165,28 +198,6 @@
       "source": "News",
       "published": "2026-10-16T12:41:25+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "32ba454bbe2577b8",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Nov 2026 20.000 call (BOC261120C00020000) stock price, news, quote and history - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YeGJlcHFFTTFMdlYwRU4zakFYMERaMW9GSGdIeEtwUGdfeFg3MDctaE9hUFVyeE5Yb3gwQ2FwVnhhQnBzU2I2VEM2YU9CdDVVMXZUVjZpVmxPekxlWkFhc3dRZmk?oc=5",
-      "source": "Yahoo Finance UK",
-      "published": "2026-10-16T10:26:29+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "7a39881617d4157a",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Nov 2026 20.000 call (BOC261120C00020000) stock historical prices and data - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CZWd3MlBiWms0X05UWTRYOHJzQ3o1dWJnOWdqREdSUVpDWUVta0g3OWoxZ3ZDeS02VXphVUNjM1hvdmUwa0dIZGhfaHd6eDFsYlAtVjV5d3hZME5OcWxtdDAzUUtqZHY4V3NFcXJoZw?oc=5",
-      "source": "Yahoo Finance UK",
-      "published": "2026-10-16T08:52:04+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "013e2a3e0dd08cda",
@@ -274,17 +285,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-cameco-ccj-dipped-more-205004237.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-14T20:50:04+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "a58d1bf07784db8d",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Is Cameco (CCJ) a Buy Before the Westinghouse Spin-Off?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-buy-westinghouse-spin-184550561.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T18:45:50+00:00",
       "logo": "logos/CCJ.svg"
     },
     {
