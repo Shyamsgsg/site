@@ -1,60 +1,49 @@
 {
-  "updated": "2026-10-16T21:48:56Z",
+  "updated": "2026-10-17T01:01:33Z",
   "items": [
     {
-      "id": "31701da1ac95a2ce",
+      "id": "0284b62d02bc60e9",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla investors hardly impressed with Elon Musk's 'flying car'",
-      "link": "https://www.thestreet.com/crypto/markets/tesla-investors-hardly-impressed-with-elon-musks-flying-car?.tsrc=rss",
+      "title": "Stocktwits Zero To Sixty — Tesla’s Roadster Flies With SpaceX Thrusters, Rivian Opens Cars To AI Agents, And Lucid Eyes France",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-tesla-s-roadster-flies-with-space-x-thrusters-rivian-opens-cars-to-ai-agents-and-lucid-eyes-france/cZxjA7KRBt5?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-16T21:25:00+00:00",
+      "published": "2026-10-17T00:33:21+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "4dea03a93e141ba9",
+      "id": "7800654340b20b67",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Dow Jones Futures: S&P 500, Nasdaq Break Key Levels As CoreWeave, Dell Dive; Tesla, SpaceX, Meta Loom",
-      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss",
+      "title": "Why Is Space Exploration Technologies (SPCX) Facing Questions Over Ukraine And Merger Talk?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-space-exploration-technologies-spcx-001813764.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-16T21:08:07+00:00",
+      "published": "2026-10-17T00:18:13+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "633eb9def2e0c04b",
+      "id": "464cac92feece69f",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "3 Canadian Growth Stocks With Earnings Growth Up To 67%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-earnings-001558491.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T00:15:58+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "6af3aed551f7d1d9",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Update: Nasdaq Falls to End Four-Week Winning Streak Amid Tech Sell-Off",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-falls-end-four-week-205455687.html?.tsrc=rss",
+      "title": "Prediction: Alphabet Will Be a Larger Company Than Apple by the End of 2027",
+      "link": "https://www.fool.com/investing/2026/10/16/prediction-alphabet-will-be-a-larger-company-than/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-16T20:54:55+00:00",
+      "published": "2026-10-16T23:29:00+00:00",
       "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "433e444bdf254bd6",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google Partner Novacore Labs and AIBotics Complete Acquisition of Assets, Expanding AI, Drone, Mapping and Automation Platform in Jamaica",
-      "link": "https://finance.yahoo.com/technology/ai/articles/google-partner-novacore-labs-aibotics-205200820.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T20:52:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "a1195f2b1d27f5d5",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Retreats After Flying Roadster Demo; Musk Cites SpaceX Collaboration",
-      "link": "https://finance.yahoo.com/m/742f39e4-fd25-3539-8b7a-19a6f7c16be8/tesla-retreats-after-flying.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T20:31:25+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "f72c578945a1cd5e",
@@ -64,30 +53,74 @@
       "title": "Tesla Has Built a Flying Car. It Will Blow Your Mind.",
       "link": "https://finance.yahoo.com/m/33917906-5253-3056-8faf-6a7077a9d6dc/tesla-has-built-a-flying-car..html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-16T20:22:00+00:00",
+      "published": "2026-10-16T23:12:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "5bf5589cadb35837",
+      "id": "fae6e934c4982d67",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Nasdaq 100 Records Worst Week In 18 Months As Investors Steer Clear Of Chipmakers — AAPL, MSTR, UBER, SOXX In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-records-worst-week-in-18-months/cZxK0vGRBt2?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T22:15:34+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "1f0f93c5855bc1c0",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Apple is Now the Top-Performing Magnificent 7 Stock in 2026. Here’s why it’s Beating NVIDIA, Tesla, and Amazon",
-      "link": "https://247wallst.com/videos/apple-is-now-the-top-performing-magnificent-7-stock-in-2026-heres-why-its-beating-nvidia-tesla-and-amazon/?.tsrc=rss",
+      "title": "Stock Market Today, Oct. 16: Apple Edges Higher on iPhone Duo Preorder Surge",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/16/stock-market-today-oct-16-apple-edges-higher-on-iphone-duo-preorder-surge/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-16T19:34:26+00:00",
+      "published": "2026-10-16T21:49:34+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "f1ea865455f192a3",
+      "id": "f97df64f6e31b6c8",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Why Is Alphabet (GOOGL) Pushing Gemini 4 Argon Into Enterprise Workflows Worldwide?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/why-alphabet-googl-pushing-gemini-191149014.html?.tsrc=rss",
+      "title": "Not Alphabet. Not Microsoft. This Is the Cloud Stock I'd Buy With $5,000 Right Now.",
+      "link": "https://www.fool.com/investing/2026/10/16/not-alphabet-not-microsoft-this-is-the-cloud-stock/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-16T19:11:49+00:00",
+      "published": "2026-10-16T21:43:00+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "106e602e0ca6fd02",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "This is the Cheapest Mag 7 Stock Right Now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cheapest-mag-7-stock-now-210700125.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T21:07:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "6bca10159098c6c8",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "On Holding (ONON) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-falls-more-steeply-210005623.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-16T21:00:05+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "6c0145a9e04de7fa",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Bang & Olufsen AS (CEUX:BOc) Stock Price, Trades & News - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zQnlndWdVaWN1c1FDVkdQdHpPYmhXNjdqQkVNN1B5T01QX0p0d1UxanFWQUZNakFEblBBa25RLXZUbEFPNHpSTDNCMDJPeXZxZzZTTU1nZS1nSVdf?oc=5",
+      "source": "GuruFocus",
+      "published": "2026-10-16T19:52:11+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "7e195e505603035c",
@@ -134,14 +167,14 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "32ba454bbe2577b8",
+      "id": "7a39881617d4157a",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
-      "title": "BOC Nov 2026 20.000 call (BOC261120C00020000) stock price, news, quote and history - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YeGJlcHFFTTFMdlYwRU4zakFYMERaMW9GSGdIeEtwUGdfeFg3MDctaE9hUFVyeE5Yb3gwQ2FwVnhhQnBzU2I2VEM2YU9CdDVVMXZUVjZpVmxPekxlWkFhc3dRZmk?oc=5",
+      "title": "BOC Nov 2026 20.000 call (BOC261120C00020000) stock historical prices and data - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CZWd3MlBiWms0X05UWTRYOHJzQ3o1dWJnOWdqREdSUVpDWUVta0g3OWoxZ3ZDeS02VXphVUNjM1hvdmUwa0dIZGhfaHd6eDFsYlAtVjV5d3hZME5OcWxtdDAzUUtqZHY4V3NFcXJoZw?oc=5",
       "source": "Yahoo Finance UK",
-      "published": "2026-10-16T10:26:29+00:00",
+      "published": "2026-10-16T08:52:04+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -176,17 +209,6 @@
       "source": "News",
       "published": "2026-10-16T08:14:01+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "91dfb6756a6b088d",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC keeps HKD 6.96 target for China Telecom stock - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaE5PYThxUDQxdVhxWWNWcDdibDdWNDdBcEpKbFU3QllDbDFzUG55QXBIYkhBSFFlM0xkaTBhcEp6QkpHT0tFeU5nc2N2NWNHQmFtd3lUcXVaVkNKQm8teE9xdEdqQXl1MkFINnlhWS1Yemx0cHl4RlpqZ0NndjJXbVZTazMwYm1xbjRNSEdsZmFOMl9GNFRxWnQtdk11TlM2eUJoSmpuSFIwQ3B1RFh4d3hn?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-16T07:29:13+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "82d9b7f0ba72640e",
@@ -266,17 +288,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "344d42ed5551615a",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Top 3 Nuclear Stocks To Watch In October 2026",
-      "link": "https://finance.yahoo.com/energy/articles/top-3-nuclear-stocks-watch-161312138.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-14T16:13:12+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "9b42c9faf9c5355c",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -318,17 +329,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-gains-market-dips-210005929.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-08T21:00:05+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "f336688246afe99c",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "Nike and LVMH Took China for Granted—and Both Stocks Are Paying the Price",
-      "link": "https://finance.yahoo.com/m/4a22b483-e199-332b-bbd9-eef33f90b4e5/nike-and-lvmh-took-china-for.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-08T10:23:00+00:00",
       "logo": "logos/ONON.svg"
     },
     {
