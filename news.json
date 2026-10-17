@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-17T09:47:10Z",
+  "updated": "2026-10-17T12:55:01Z",
   "items": [
+    {
+      "id": "4dea03a93e141ba9",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Dow Jones Futures: S&P 500, Nasdaq Break Key Levels As CoreWeave, Dell Dive; Tesla, SpaceX, Meta Loom",
+      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T12:25:49+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "35a8fc7a616bc940",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Eli Lilly Leads Industry",
+      "link": "https://finance.yahoo.com/m/2b47c372-177e-3051-aa01-406a8d82b220/these-7-stocks-are-analyst.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T12:02:21+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "837822e59c5c0b62",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Neocloud Stock Collapse: Buying Opportunity or Run for the Hills?",
+      "link": "https://www.fool.com/investing/2026/10/17/neocloud-stock-collapse-buying-opportunity-or-run/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T11:50:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "6c4aae4097d90aff",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "BofA Warns AI Investors Could Lose Even If the Technology Works",
+      "link": "https://247wallst.com/investing/2026/10/17/bofa-warns-ai-investors-could-lose-even-if-the-technology-works/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T11:44:11+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "baf200a8df29c217",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "China Is Paying People to Shop. It’s a Boom for Tech.",
+      "link": "https://finance.yahoo.com/m/89f4aa8d-4229-3933-b160-1087cd360049/china-is-paying-people-to.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T11:00:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "0ffa2ca150abb7d1",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Meet Warren Buffett Successor Greg Abel's Newest Investment: Bending Spoons. Should Investors Follow Suit and Buy the Stock?",
+      "link": "https://www.fool.com/investing/2026/10/17/warren-buffett-greg-abel-bending-spoons-buy/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T10:02:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "ffb50749f9c66895",
       "ticker": "TSLA",
@@ -46,39 +112,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "0ecf84e76160bc0e",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "BYD or Tesla: Which Is a Better Stock?",
-      "link": "https://www.fool.com/investing/2026/10/17/byd-or-tesla-which-is-a-better-stock/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T06:50:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "e85226866166a56c",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Missed Out On Micron and Sandisk? Make Sure You Don't Miss Out On This Memory Stock.",
-      "link": "https://www.fool.com/investing/2026/10/17/missed-out-on-micron-and-sandisk-make-sure-you-don/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T05:50:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "81eb22824871770c",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "What would superintelligence look and feel like?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/superintelligence-look-feel-050934162.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T05:09:34+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "20bf960370cd8642",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -88,28 +121,6 @@
       "source": "News",
       "published": "2026-10-17T04:21:02+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "4b639c13314dd8c4",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Why You Should Think About Palantir Differently Now",
-      "link": "https://www.trefis.com/articles/618984/why-you-should-think-about-palantir-differently-now/2026-10-16?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T02:50:36+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "bc6ae87604ddd234",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Can Trade Desk Stock Bounce Off Its Old Support Again?",
-      "link": "https://www.trefis.com/articles/618992/can-trade-desk-stock-bounce-off-its-old-support-again/2026-10-16?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T02:19:48+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "464cac92feece69f",
@@ -156,14 +167,14 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "7e195e505603035c",
+      "id": "6c0145a9e04de7fa",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
-      "title": "BOC Hong Kong stock: At 12.70, valuation stays below HSBC's 13.70 - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2VjYWZTTDFfTmN4bWk5YmpQVG9zWkZ2UWl3Z2d2QTJ2QXBPTEVPV3YxRUxnck9MOFBHelpmQXBMYjNfbzRtQm9RVkM4WGFtSktoY2Z1SmhoSTVqbi01dHEzTUZLdkxJeUVRMUIzd3hjRVFuYjN2TFRKRDE2akdSRHE4bF9pTjRTMTE1UjlXV09fNzlqM0NZRjEzQ1QyckdVb0kySTBMeldHTDNlblZMbnpuZmxUYlhPaGJ5UG1TVVN0TlpT?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-16T15:59:45+00:00",
+      "title": "Bang & Olufsen AS (CEUX:BOc) Stock Price, Trades & News - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zQnlndWdVaWN1c1FDVkdQdHpPYmhXNjdqQkVNN1B5T01QX0p0d1UxanFWQUZNakFEblBBa25RLXZUbEFPNHpSTDNCMDJPeXZxZzZTTU1nZS1nSVdf?oc=5",
+      "source": "GuruFocus",
+      "published": "2026-10-16T19:52:11+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -220,17 +231,6 @@
       "source": "News",
       "published": "2026-10-16T08:14:01+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "82d9b7f0ba72640e",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN plans 900 MW data center, Redbank, in Wagga Wagga Australia",
-      "link": "https://blockspace.media/short/iren-plans-900-mw-data-center-redbank-in-wagga-wagga-australia/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T00:40:43+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "2f7335515e9b62c1",
