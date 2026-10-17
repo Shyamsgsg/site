@@ -1,26 +1,70 @@
 {
-  "updated": "2026-10-17T01:01:33Z",
+  "updated": "2026-10-17T03:50:48Z",
   "items": [
     {
-      "id": "0284b62d02bc60e9",
+      "id": "4b639c13314dd8c4",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Why You Should Think About Palantir Differently Now",
+      "link": "https://www.trefis.com/articles/618984/why-you-should-think-about-palantir-differently-now/2026-10-16?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T02:50:36+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "68d45fee16187d09",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Stocktwits Zero To Sixty — Tesla’s Roadster Flies With SpaceX Thrusters, Rivian Opens Cars To AI Agents, And Lucid Eyes France",
-      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-tesla-s-roadster-flies-with-space-x-thrusters-rivian-opens-cars-to-ai-agents-and-lucid-eyes-france/cZxjA7KRBt5?.tsrc=rss",
+      "title": "Elon Musk’s Roadster, Nvidia’s Space AI Push, Nadella’s Security Warning: Mag 7 Voices This Week",
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-roadster-nvidia-space-ai-push-nadella-security-warning-mag-7-ceos-this-week/cZxjushRBtE?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-17T00:33:21+00:00",
+      "published": "2026-10-17T02:46:45+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "7800654340b20b67",
+      "id": "bc6ae87604ddd234",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Can Trade Desk Stock Bounce Off Its Old Support Again?",
+      "link": "https://www.trefis.com/articles/618992/can-trade-desk-stock-bounce-off-its-old-support-again/2026-10-16?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T02:19:48+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "897aee249d369c4b",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Why Is Space Exploration Technologies (SPCX) Facing Questions Over Ukraine And Merger Talk?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-space-exploration-technologies-spcx-001813764.html?.tsrc=rss",
+      "title": "Tesla’s Flying Roadster Has Wall Street Talking About SpaceX, Not Cars",
+      "link": "https://www.fool.com/investing/2026/10/16/teslas-flying-roadster-has-wall-street-talking-about-spacex-not-cars/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-17T00:18:13+00:00",
+      "published": "2026-10-17T01:25:01+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "cf10ffd3628906bb",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Battery X Metals Highlights Participation at X Takeover 2026, an Electric Vehicle and Emerging Technology Event Held at Tesla's Gigafactory Texas, Providing Exposure to Industry Perspectives and Technology Developments",
+      "link": "https://finance.yahoo.com/technology/articles/battery-x-metals-highlights-participation-012000266.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T01:20:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "731e7f294eb6f682",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Will Starlink Mobile matter for Apple?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/starlink-mobile-matter-apple-010939746.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T01:09:39+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -46,28 +90,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "f72c578945a1cd5e",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Has Built a Flying Car. It Will Blow Your Mind.",
-      "link": "https://finance.yahoo.com/m/33917906-5253-3056-8faf-6a7077a9d6dc/tesla-has-built-a-flying-car..html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T23:12:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "fae6e934c4982d67",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Nasdaq 100 Records Worst Week In 18 Months As Investors Steer Clear Of Chipmakers — AAPL, MSTR, UBER, SOXX In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-records-worst-week-in-18-months/cZxK0vGRBt2?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T22:15:34+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "1f0f93c5855bc1c0",
       "ticker": "GOOG",
       "symbol": "GOOG",
@@ -76,28 +98,6 @@
       "link": "https://www.fool.com/coverage/stock-market-today/2026/10/16/stock-market-today-oct-16-apple-edges-higher-on-iphone-duo-preorder-surge/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-16T21:49:34+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "f97df64f6e31b6c8",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Not Alphabet. Not Microsoft. This Is the Cloud Stock I'd Buy With $5,000 Right Now.",
-      "link": "https://www.fool.com/investing/2026/10/16/not-alphabet-not-microsoft-this-is-the-cloud-stock/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T21:43:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "106e602e0ca6fd02",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "This is the Cheapest Mag 7 Stock Right Now",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cheapest-mag-7-stock-now-210700125.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T21:07:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -112,14 +112,14 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "6c0145a9e04de7fa",
+      "id": "5042cc3ebbd1b759",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
-      "title": "Bang & Olufsen AS (CEUX:BOc) Stock Price, Trades & News - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zQnlndWdVaWN1c1FDVkdQdHpPYmhXNjdqQkVNN1B5T01QX0p0d1UxanFWQUZNakFEblBBa25RLXZUbEFPNHpSTDNCMDJPeXZxZzZTTU1nZS1nSVdf?oc=5",
+      "title": "Bang & Olufsen AS (CEUX:BOc) Stock Forecast, Price Targets and Analysts Predictions - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Id24wa2ZRcGxxU0FCWWFTc2xxOWhEbGFKbEdXUDlTdHlLZHNDemt6WnZNWkJmUTdCNzY4TjRvTkZMQTFNaHhrbTRpTnE3NVRSM0ktWkoxbS1SZnN6QlE?oc=5",
       "source": "GuruFocus",
-      "published": "2026-10-16T19:52:11+00:00",
+      "published": "2026-10-16T20:34:32+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -167,6 +167,17 @@
       "logo": "logos/IREN.svg"
     },
     {
+      "id": "32ba454bbe2577b8",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Nov 2026 20.000 call (BOC261120C00020000) stock price, news, quote and history - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YeGJlcHFFTTFMdlYwRU4zakFYMERaMW9GSGdIeEtwUGdfeFg3MDctaE9hUFVyeE5Yb3gwQ2FwVnhhQnBzU2I2VEM2YU9CdDVVMXZUVjZpVmxPekxlWkFhc3dRZmk?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "2026-10-16T10:26:29+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "7a39881617d4157a",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -175,17 +186,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CZWd3MlBiWms0X05UWTRYOHJzQ3o1dWJnOWdqREdSUVpDWUVta0g3OWoxZ3ZDeS02VXphVUNjM1hvdmUwa0dIZGhfaHd6eDFsYlAtVjV5d3hZME5OcWxtdDAzUUtqZHY4V3NFcXJoZw?oc=5",
       "source": "Yahoo Finance UK",
       "published": "2026-10-16T08:52:04+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "d1b59093bbac8b60",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong files CNY 22.2 billion: BOC Hong Kong stock costs EUR 5.68 - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaUozTThNcG11b1BhRm5oOW9DcGNuemowQ3lyMy0zU0x0WTFhNzEwenNxa1ZleFl2UjF6UnJvUkVkMmhVRTZBQ3liN2VLaFExZ19uYlZVNEhHWHVjby1vQWoxS2NjMzFpM05xWkJKbTB0MTRLTEEzWGlXUDVOa19SN0ZxYmdRc3VxRWQ4Um92dENwLXVoTTVtQy1lS3M5OENkS3BoMWk0eVlXYUlTb3ZEN1ZnMDJrUkM1bDBUSG9aV3pURmsyQUFMQUgzUEU5VTA?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-16T08:38:51+00:00",
       "logo": "logos/BOC.svg"
     },
     {
