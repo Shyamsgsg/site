@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-17T07:00:38Z",
+  "updated": "2026-10-17T09:47:10Z",
   "items": [
+    {
+      "id": "ffb50749f9c66895",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "History Says Tesla Stock Swings Hard on Earnings. It Has Moved 8% or More After 10 of Its Last 15 Reports.",
+      "link": "https://www.fool.com/investing/2026/10/17/history-says-tesla-stock-swings-hard-on-earnings-it-has-moved-8-or-more-after-10-of-its-last-15-reports/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T08:49:01+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "842de0ce9d4d992e",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Hong Kong stock heads into next Xetra session at EUR 5.67 - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQendKZWZ3a29zeWQzRmhtdEtwR19MUTl4RjUxOFAwUks2NjBHaHZIR3NuMTdUaWw1RWFkWlhMTVlXeTRKSHlYRjVUNUNqQ0RPS1cwdE9kUzhVVUJmQ3Jyd1VlaGNtSFlqMnBnUU9ZYlBJbGpJZF8yaVNnWjVQZHJsR0NsTmFhanItWUV6M3l1UloyZ0Q0M2t5SWU4RGc4TWY4ODVVYi1uUVFwaWI2QjhXRzJPeExpRV96QUkwY1hqOU1Hdw?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-17T08:35:13+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "605278fea3b1b0c8",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Cathie Wood-Led Ark Invest's Biggest Q3 Winners And Losers — PLTR, NVDA, TXG Led While TSLA, RKLB Dragged",
+      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-biggest-q3-winners-losers-pltr-nvda-txg-tsla-rklb/cZxkcykRBtO?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T08:29:33+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "43faafe127806633",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google Puts Gemini in Geely’s Overseas Cars: Why the Export Numbers Matter",
+      "link": "https://www.tikr.com/blog/google-puts-gemini-in-geelys-overseas-cars-why-the-export-numbers-matter?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T08:28:47+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "0ecf84e76160bc0e",
       "ticker": "TSLA",
@@ -57,17 +101,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "68d45fee16187d09",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk’s Roadster, Nvidia’s Space AI Push, Nadella’s Security Warning: Mag 7 Voices This Week",
-      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-roadster-nvidia-space-ai-push-nadella-security-warning-mag-7-ceos-this-week/cZxjushRBtE?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T02:46:45+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "bc6ae87604ddd234",
       "ticker": "GOOG",
       "symbol": "GOOG",
@@ -79,17 +112,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "897aee249d369c4b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla’s Flying Roadster Has Wall Street Talking About SpaceX, Not Cars",
-      "link": "https://www.fool.com/investing/2026/10/16/teslas-flying-roadster-has-wall-street-talking-about-spacex-not-cars/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T01:25:01+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "464cac92feece69f",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -99,17 +121,6 @@
       "source": "News",
       "published": "2026-10-17T00:15:58+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "6af3aed551f7d1d9",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Prediction: Alphabet Will Be a Larger Company Than Apple by the End of 2027",
-      "link": "https://www.fool.com/investing/2026/10/16/prediction-alphabet-will-be-a-larger-company-than/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T23:29:00+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "43be7dbac9091d51",
@@ -142,17 +153,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Id24wa2ZRcGxxU0FCWWFTc2xxOWhEbGFKbEdXUDlTdHlLZHNDemt6WnZNWkJmUTdCNzY4TjRvTkZMQTFNaHhrbTRpTnE3NVRSM0ktWkoxbS1SZnN6QlE?oc=5",
       "source": "GuruFocus",
       "published": "2026-10-16T20:34:32+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "6c0145a9e04de7fa",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Bang & Olufsen AS (CEUX:BOc) Stock Price, Trades & News - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zQnlndWdVaWN1c1FDVkdQdHpPYmhXNjdqQkVNN1B5T01QX0p0d1UxanFWQUZNakFEblBBa25RLXZUbEFPNHpSTDNCMDJPeXZxZzZTTU1nZS1nSVdf?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-10-16T19:52:11+00:00",
       "logo": "logos/BOC.svg"
     },
     {
