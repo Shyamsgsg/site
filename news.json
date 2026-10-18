@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-17T21:44:34Z",
+  "updated": "2026-10-18T01:01:45Z",
   "items": [
+    {
+      "id": "20d37b9c2c614f7e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",
+      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-what-to-do.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T23:47:05+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ae174bb461ce47b8",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla (TSLA) Gets A Lift From China’s $37 Billion Subsidies And EV Tipping Point",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-gets-lift-china-231619635.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T23:16:19+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "e4b8351f3fbf2d5f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Greg Abel Made Major Additions to Alphabet and Delta Last Quarter While Berkshire Bought Back $4.4 Billion of Its Own Stock. Is This a Buying Signal Investors Should Watch?",
+      "link": "https://www.fool.com/investing/2026/10/17/greg-abel-made-major-additions-to-alphabet-and-del/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T22:50:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "f432ed97a54ddac4",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Should You Buy NuScale at $6 After the Google Rally? Here's the Next Catalyst That Could Send It Higher.",
+      "link": "https://www.fool.com/investing/2026/10/17/should-you-buy-nuscale-at-6-after-the-google-rally/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T22:25:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "d390fc1db04a400f",
       "ticker": "BOC",
@@ -13,6 +57,17 @@
       "logo": "logos/BOC.svg"
     },
     {
+      "id": "4cefa8b0a77533a8",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "How to Play NFLX Stock as Netflix Wipes Out Another 1,000 Jobs in Its Latest Round of Layoffs",
+      "link": "https://www.barchart.com/story/news/8144654/how-to-play-nflx-stock-as-netflix-wipes-out-another-1-000-jobs-in-its-latest-round-of-layoffs?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-17T18:30:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
       "id": "f4834670a798578a",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -21,17 +76,6 @@
       "link": "https://www.fool.com/investing/2026/10/17/rivians-key-to-success-may-not-be-its-vehicles/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-17T17:05:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "20d37b9c2c614f7e",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",
-      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-what-to-do.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T15:51:51+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -46,17 +90,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "87f16a886c739a49",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Apple, Nvidia each gave $25M to Trump's White House ballroom — but the president's own name is nowhere on the donor list",
-      "link": "https://finance.yahoo.com/economy/policy/articles/apple-nvidia-gave-25m-trumps-150000953.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T15:00:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "80c3f7e8202e2501",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -68,17 +101,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "35a8fc7a616bc940",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Eli Lilly Leads Industry",
-      "link": "https://finance.yahoo.com/m/2b47c372-177e-3051-aa01-406a8d82b220/these-7-stocks-are-analyst.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T12:02:21+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "837822e59c5c0b62",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -88,28 +110,6 @@
       "source": "News",
       "published": "2026-10-17T11:50:00+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "6c4aae4097d90aff",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "BofA Warns AI Investors Could Lose Even If the Technology Works",
-      "link": "https://247wallst.com/investing/2026/10/17/bofa-warns-ai-investors-could-lose-even-if-the-technology-works/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T11:44:11+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "baf200a8df29c217",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "China Is Paying People to Shop. It’s a Boom for Tech.",
-      "link": "https://finance.yahoo.com/m/89f4aa8d-4229-3933-b160-1087cd360049/china-is-paying-people-to.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T11:00:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "842de0ce9d4d992e",
