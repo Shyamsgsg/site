@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-18T15:45:28Z",
+  "updated": "2026-10-18T18:50:07Z",
   "items": [
+    {
+      "id": "a1574116d2031daf",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla’s Roadster and the SpaceX Halo",
+      "link": "https://finance.yahoo.com/m/eb235398-85bc-3d45-8ef9-15600968317b/tesla%E2%80%99s-roadster-and-the.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T18:15:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "112e13c1e4bb82b0",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla, Meta, GE Aerospace, GM, IBM, and More Stocks to Watch This Week",
+      "link": "https://finance.yahoo.com/m/973b509b-0bbc-3d07-9024-4b29d3ac32c8/tesla%2C-meta%2C-ge-aerospace%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T18:00:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a2f2778b80df15d5",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Dow Jones Futures: More AI Pain After Nasdaq Sell-Off? Meta, SpaceX, Tesla Earnings Key",
+      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-more-ai.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T17:32:26+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "6e26e0b4739c0a38",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "1 Analyst Thinks Alphabet Stock Could Jump 20% on AI Chip Demand. Is He Right?",
+      "link": "https://www.fool.com/investing/2026/10/18/one-analyst-thinks-alphabet-stock-could-jump-20-on/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T16:35:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ab66beb0b5c1e697",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "What Does IREN (IREN) Funding Risk Mean For Its AI Data Center Expansion?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/does-iren-iren-funding-risk-161328162.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T16:13:28+00:00",
+      "logo": "logos/IREN.svg"
+    },
     {
       "id": "7d79f963816d6b70",
       "ticker": "GOOG",
@@ -24,28 +79,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "2f0afb9c7945aab9",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Dow Jones Futures Loom After S&P 500, Nasdaq Sell-Off; Will Meta Save AI?",
-      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-loom-after.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T15:01:30+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "95a91e300b8a6b14",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla's flying Roadster requires a $50,000 deposit — but even Musk isn't sure it's street-legal",
-      "link": "https://finance.yahoo.com/technology/articles/teslas-flying-roadster-requires-50-145000551.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T14:50:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "6662fa52b0d496a0",
       "ticker": "GOOG",
       "symbol": "GOOG",
@@ -65,28 +98,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-low-p-e-143908109.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-18T14:39:08+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "db4f8f2cc5cc4c40",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "What To Expect In Markets This Week: SPCX, TSLA, META, NFLX, IBM Earnings And More",
-      "link": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-oct-18-2026/cZxN1HjRBtA?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T13:58:16+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "c5fc290851eaff97",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Prediction: Alphabet Will Report Google Cloud Revenue Growth Exceeding 100% on Oct. 28.",
-      "link": "https://www.fool.com/investing/2026/10/18/predict-alphabet-report-google-cloud-revenue/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T12:05:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -208,17 +219,6 @@
       "link": "https://247wallst.com/investing/2026/10/16/coreweave-drops-6-as-debt-worries-linger-iren-falls-4-nebius-slips/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-16T12:41:25+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "013e2a3e0dd08cda",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CRWV, IREN, NBIS Fall Premarket: Analyst Sees Neocloud Operators’ Debt Costs Rising",
-      "link": "https://stocktwits.com/news-articles/markets/equity/crwv-iren-nbis-fall-premarket-analyst-sees-neocloud-operators-debt-costs-rising/cZx0wAaRBsP?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T08:27:34+00:00",
       "logo": "logos/IREN.svg"
     },
     {
