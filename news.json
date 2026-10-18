@@ -1,6 +1,83 @@
 {
-  "updated": "2026-10-18T09:47:34Z",
+  "updated": "2026-10-18T12:55:22Z",
   "items": [
+    {
+      "id": "6af70242e18c7367",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Save AI?",
+      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-loom-after.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T12:36:15+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c5fc290851eaff97",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Prediction: Alphabet Will Report Google Cloud Revenue Growth Exceeding 100% on Oct. 28.",
+      "link": "https://www.fool.com/investing/2026/10/18/predict-alphabet-report-google-cloud-revenue/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T12:05:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "65987d3cd4ad4b5e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "CoreWeave Heads These 3 High Growth Insider Stocks To Watch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-heads-3-high-growth-110937687.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T11:09:37+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "e735f9bc56ee920d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Mastercard’s New Agent Detection Score Asks a Question No Card Network Has Asked Before",
+      "link": "https://finance.yahoo.com/technology/ai/articles/mastercard-agent-detection-score-asks-110827423.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T11:08:27+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "f3777bc5fb305b95",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Will Meta's earnings restore confidence in the AI boom?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-earnings-restore-confidence-ai-110009627.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T11:00:09+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "3b20d4119ad6d4da",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-csiq-stocks-focus-china-tightens-solar-technology-exports/cZxNQy6RBtV?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T10:16:21+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "4b670e06e1fc5d8d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "3 Cash Flow Stocks To Watch In October 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-flow-stocks-watch-101147480.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T10:11:47+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "72da77e5adfa7187",
       "ticker": "TSLA",
@@ -13,72 +90,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "bc89859a21d6d239",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "3 Founder Led Stocks With Up To 31% ROE",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-31-031801713.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T03:18:01+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "dcf5e39668ded783",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",
-      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-loom-after.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T02:57:39+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "b08d65239c3527b0",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Unity Stock In Focus After Google AI Game Creation Partnership",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/unity-stock-focus-google-ai-021620952.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T02:16:20+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "ae174bb461ce47b8",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla (TSLA) Gets A Lift From China’s $37 Billion Subsidies And EV Tipping Point",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-gets-lift-china-231619635.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T23:16:19+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "e4b8351f3fbf2d5f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Greg Abel Made Major Additions to Alphabet and Delta Last Quarter While Berkshire Bought Back $4.4 Billion of Its Own Stock. Is This a Buying Signal Investors Should Watch?",
-      "link": "https://www.fool.com/investing/2026/10/17/greg-abel-made-major-additions-to-alphabet-and-del/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T22:50:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "f432ed97a54ddac4",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Should You Buy NuScale at $6 After the Google Rally? Here's the Next Catalyst That Could Send It Higher.",
-      "link": "https://www.fool.com/investing/2026/10/17/should-you-buy-nuscale-at-6-after-the-google-rally/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T22:25:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "d390fc1db04a400f",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -88,17 +99,6 @@
       "source": "ad-hoc-news.de",
       "published": "2026-10-17T19:36:43+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "4cefa8b0a77533a8",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "How to Play NFLX Stock as Netflix Wipes Out Another 1,000 Jobs in Its Latest Round of Layoffs",
-      "link": "https://www.barchart.com/story/news/8144654/how-to-play-nflx-stock-as-netflix-wipes-out-another-1-000-jobs-in-its-latest-round-of-layoffs?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T18:30:02+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "837822e59c5c0b62",
