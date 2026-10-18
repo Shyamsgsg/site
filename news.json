@@ -1,28 +1,6 @@
 {
-  "updated": "2026-10-18T18:50:07Z",
+  "updated": "2026-10-18T21:45:43Z",
   "items": [
-    {
-      "id": "a1574116d2031daf",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla’s Roadster and the SpaceX Halo",
-      "link": "https://finance.yahoo.com/m/eb235398-85bc-3d45-8ef9-15600968317b/tesla%E2%80%99s-roadster-and-the.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T18:15:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "112e13c1e4bb82b0",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla, Meta, GE Aerospace, GM, IBM, and More Stocks to Watch This Week",
-      "link": "https://finance.yahoo.com/m/973b509b-0bbc-3d07-9024-4b29d3ac32c8/tesla%2C-meta%2C-ge-aerospace%2C.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T18:00:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
     {
       "id": "a2f2778b80df15d5",
       "ticker": "TSLA",
@@ -31,8 +9,52 @@
       "title": "Dow Jones Futures: More AI Pain After Nasdaq Sell-Off? Meta, SpaceX, Tesla Earnings Key",
       "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-more-ai.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-18T17:32:26+00:00",
+      "published": "2026-10-18T21:27:33+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "dc64390c1c47cadc",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla’s Flying Roadster and the SpaceX Halo",
+      "link": "https://finance.yahoo.com/m/eb235398-85bc-3d45-8ef9-15600968317b/tesla%E2%80%99s-flying-roadster-and.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T20:23:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "9516cd3479c7d776",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk’s ex says she turned down a $40M NDA — then her child support was cut to about $5M total. Was it all worth it?",
+      "link": "https://finance.yahoo.com/small-business/articles/elon-musk-ex-says-she-193500279.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T19:35:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "9d151861bcee8e71",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Oil Futures Likely to React to Ukraine’s Attack on Russian Oil, Lifting of Diesel Sanctions",
+      "link": "https://finance.yahoo.com/m/48664293-fad0-31aa-9b59-9f0f597f1e48/oil-futures-likely-to-react.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T18:59:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "7466906bac123f15",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Zohran Mamdani Says Quantum Is Poised to Become a ‘Multi-Trillion Dollar Industry’ and New Yorkers Should ‘Share in That Profit’",
+      "link": "https://finance.yahoo.com/technology/ai/articles/zohran-mamdani-says-quantum-poised-180016409.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T18:00:16+00:00",
+      "logo": "logos/GOOG.svg"
     },
     {
       "id": "6e26e0b4739c0a38",
@@ -68,17 +90,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "33388460f8ca87c4",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Intel (INTC) Lands A Major Customer For Its 14A Foundry Process",
-      "link": "https://finance.yahoo.com/technology/articles/intel-intc-lands-major-customer-151209880.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T15:12:09+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "6662fa52b0d496a0",
       "ticker": "GOOG",
       "symbol": "GOOG",
@@ -87,17 +98,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-buffett-144450448.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-18T14:44:50+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "174022717f84a8e5",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet’s (GOOGL) Low P/E Is Misleading, but the AI Opportunity Is Real",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-low-p-e-143908109.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T14:39:08+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -233,6 +233,17 @@
       "logo": "logos/NU.svg"
     },
     {
+      "id": "9514f129d81a981e",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments Limited (EML.AX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xYnYyOVZxd2ptRXFiSmxNNWtrMWl0ZngyNllBbjE1Tk14ejc2S1JKMnhfTFRXSTY0dGFXRXdWaEZTNW5YRXZVZXROVlppOEJxNXpPVw?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-16T05:10:06+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "2f7335515e9b62c1",
       "ticker": "NU",
       "symbol": "NU",
@@ -330,17 +341,6 @@
       "source": "News",
       "published": "2026-10-08T21:00:05+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "4a77abdb1af5c1cc",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments Seeks ASX Quotation for New Employee Incentive Shares - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORFA0MXhoUmV3ZjJyVmhqRktZajk2NUZOY0lKTUVIZk42NlREUXloWTVlUmVVU0NIczIyYXlmY1Z0cWotS3ZNVGRvRzRkeUJPZzZWbjVjU08zVDBvaVBlRmFmNWg3amVTN0pwekZqSnJHVmQ4bXQzNTdIUm1pTFB0VW45UV96Ymx1Y0pNcW1HMEllLWJjbnQ5dzVFdUo2cE9PU01PSUJZa3p1Q1VDMWhscGN6WVo1Y1hVNmhlaXNxUGlfM2dDdXBaYWg2eU93MTF5SHR5UG11MTZYVTI4QmxpenM3TjRxalk?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-10-02T07:00:00+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "1bc24815f4f8706c",
