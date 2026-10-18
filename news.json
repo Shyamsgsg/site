@@ -1,16 +1,38 @@
 {
-  "updated": "2026-10-18T01:01:45Z",
+  "updated": "2026-10-18T03:51:09Z",
   "items": [
     {
-      "id": "20d37b9c2c614f7e",
+      "id": "bc89859a21d6d239",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",
-      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-what-to-do.html?.tsrc=rss",
+      "title": "3 Founder Led Stocks With Up To 31% ROE",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-31-031801713.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-17T23:47:05+00:00",
+      "published": "2026-10-18T03:18:01+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "dcf5e39668ded783",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",
+      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-loom-after.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T02:57:39+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "b08d65239c3527b0",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Unity Stock In Focus After Google AI Game Creation Partnership",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/unity-stock-focus-google-ai-021620952.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T02:16:20+00:00",
+      "logo": "logos/GOOG.svg"
     },
     {
       "id": "ae174bb461ce47b8",
@@ -76,28 +98,6 @@
       "link": "https://www.fool.com/investing/2026/10/17/rivians-key-to-success-may-not-be-its-vehicles/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-17T17:05:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "d18fda8ac3459235",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Tesla Just Won in Court: Self-Driving Buyers Can’t Sue as a Class",
-      "link": "https://247wallst.com/investing/2026/10/17/tesla-just-won-in-court-self-driving-buyers-cant-sue-as-a-class/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T15:10:22+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "80c3f7e8202e2501",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "By The Way: Headlines You May Have Missed",
-      "link": "https://finance.yahoo.com/video/way-headlines-may-missed-125525599.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T12:55:25+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
