@@ -1,15 +1,81 @@
 {
-  "updated": "2026-10-18T12:55:22Z",
+  "updated": "2026-10-18T15:45:28Z",
   "items": [
     {
-      "id": "6af70242e18c7367",
+      "id": "7d79f963816d6b70",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Verizon launches generous customer perks after raising prices",
+      "link": "https://www.thestreet.com/retail/verizon-launches-customer-perks-after-price-increases?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T15:33:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "33388460f8ca87c4",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Save AI?",
+      "title": "Intel (INTC) Lands A Major Customer For Its 14A Foundry Process",
+      "link": "https://finance.yahoo.com/technology/articles/intel-intc-lands-major-customer-151209880.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T15:12:09+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "2f0afb9c7945aab9",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Dow Jones Futures Loom After S&P 500, Nasdaq Sell-Off; Will Meta Save AI?",
       "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-loom-after.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-18T12:36:15+00:00",
+      "published": "2026-10-18T15:01:30+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "95a91e300b8a6b14",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla's flying Roadster requires a $50,000 deposit — but even Musk isn't sure it's street-legal",
+      "link": "https://finance.yahoo.com/technology/articles/teslas-flying-roadster-requires-50-145000551.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T14:50:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "6662fa52b0d496a0",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Berkshire Hathaway (BRK.B) After Buffett: Can Its Capital Allocation Machine Keep Compounding?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-buffett-144450448.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T14:44:50+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "174022717f84a8e5",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet’s (GOOGL) Low P/E Is Misleading, but the AI Opportunity Is Real",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-low-p-e-143908109.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T14:39:08+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "db4f8f2cc5cc4c40",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "What To Expect In Markets This Week: SPCX, TSLA, META, NFLX, IBM Earnings And More",
+      "link": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-oct-18-2026/cZxN1HjRBtA?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T13:58:16+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -22,72 +88,6 @@
       "source": "News",
       "published": "2026-10-18T12:05:00+00:00",
       "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "65987d3cd4ad4b5e",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "CoreWeave Heads These 3 High Growth Insider Stocks To Watch",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-heads-3-high-growth-110937687.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T11:09:37+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "e735f9bc56ee920d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Mastercard’s New Agent Detection Score Asks a Question No Card Network Has Asked Before",
-      "link": "https://finance.yahoo.com/technology/ai/articles/mastercard-agent-detection-score-asks-110827423.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T11:08:27+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "f3777bc5fb305b95",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Will Meta's earnings restore confidence in the AI boom?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-earnings-restore-confidence-ai-110009627.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T11:00:09+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "3b20d4119ad6d4da",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-csiq-stocks-focus-china-tightens-solar-technology-exports/cZxNQy6RBtV?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T10:16:21+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "4b670e06e1fc5d8d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "3 Cash Flow Stocks To Watch In October 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-flow-stocks-watch-101147480.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T10:11:47+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "72da77e5adfa7187",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Says Optimus Is Tesla's Most Important Product. These 3 Suppliers Get Paid Before Tesla Does.",
-      "link": "https://www.fool.com/investing/2026/10/18/elon-musk-says-optimus-is-teslas-most-important-pr/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T07:25:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "d390fc1db04a400f",
