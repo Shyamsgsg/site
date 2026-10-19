@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-19T01:03:33Z",
+  "updated": "2026-10-19T03:56:15Z",
   "items": [
+    {
+      "id": "012c67a4d5139dfd",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Anthropic IPO: Musk Wants AI Firm To Hand Shares Directly To Public, Says 'This Is What I Will Be Doing'",
+      "link": "https://stocktwits.com/news-articles/markets/equity/anthropic-ipo-musk-wants-ai-firm-to-hand-shares-directly-to-public-says-this-is-what-i-will-be-doing/cZx8BTGRBtU?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T03:22:42+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "2c9828f2d4ecede7",
       "ticker": "TSLA",
@@ -9,74 +20,96 @@
       "title": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
       "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rebound.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-19T00:51:09+00:00",
+      "published": "2026-10-19T03:08:11+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "e5463e1378c2e445",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "American Electric Power Company (AEP) Faces A 12% Fair Value Gap As Google Deal Lands",
-      "link": "https://finance.yahoo.com/energy/articles/american-electric-power-company-aep-231338036.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T23:13:38+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "2d3f8a860e4891aa",
+      "id": "ba228a36ca556ca3",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Top 4 Earnings Reports This Week: What Tesla, Meta, SpaceX, Netflix Must Show",
-      "link": "https://beincrypto.com/tesla-meta-spacex-netflix-earnings-ai/?.tsrc=rss",
+      "title": "Sam Altman praises the Tesla Roadster he gave up on",
+      "link": "https://www.thestreet.com/markets/sam-altman-praises-the-tesla-roadster-he-gave-up-on?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-18T23:00:00+00:00",
+      "published": "2026-10-19T03:07:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "8347f58761c201d1",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk’s SpaceX Now Controls 80% of the Race to Orbit",
-      "link": "https://beincrypto.com/elon-musk-spacex-global-orbital-mass/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T22:51:24+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "2a0a6735b330162b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "US Stock Futures Rise Ahead of Busy Earnings Week: Markets Wrap",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-ahead-220725997.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T22:07:25+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "7466906bac123f15",
+      "id": "ec8186d6adbcefda",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Zohran Mamdani Says Quantum Is Poised to Become a ‘Multi-Trillion Dollar Industry’ and New Yorkers Should ‘Share in That Profit’",
-      "link": "https://finance.yahoo.com/technology/ai/articles/zohran-mamdani-says-quantum-poised-180016409.html?.tsrc=rss",
+      "title": "CoreWeave, Oracle have an interest rate problem",
+      "link": "https://www.thestreet.com/investing/stocks/coreweave-oracle-interest-rate-problem-ai-debt?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-18T18:00:16+00:00",
+      "published": "2026-10-19T02:47:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "6e26e0b4739c0a38",
+      "id": "c35b11d5487007da",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Asian stocks start week on back foot, tracking tech-led Wall St losses",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-start-week-back-024700529.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T02:47:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "729c6a5b47ca169c",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CRWV, NBIS, IREN Bounce Overnight After Brutal Week — But Industry Execs Reportedly See Only A Few Neocloud Survivors",
+      "link": "https://stocktwits.com/news-articles/markets/equity/crwv-nbis-iren-bounce-overnight-after-brutal-week-but-industry-execs-reportedly-see-only-a-few-neocloud-survivors/cZx8e8yRBtD?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T02:31:24+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "4af37b7351ad584b",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "1 Analyst Thinks Alphabet Stock Could Jump 20% on AI Chip Demand. Is He Right?",
-      "link": "https://www.fool.com/investing/2026/10/18/one-analyst-thinks-alphabet-stock-could-jump-20-on/?.tsrc=rss",
+      "title": "OpenAI, Anthropic’s AI Lead Is ‘Very Perishable,’ IMD Professor Says: ‘You Don’t Need to Drive a Ferrari to Go to Walmart’",
+      "link": "https://finance.yahoo.com/technology/ai/articles/openai-anthropic-ai-lead-very-023013634.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-18T16:35:00+00:00",
+      "published": "2026-10-19T02:30:13+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "676c6cfc95605866",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Fuel Cell Deal Could Be A Game Changer For American Electric Power Company (AEP)",
+      "link": "https://finance.yahoo.com/energy/articles/fuel-cell-deal-could-game-020758767.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T02:07:58+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "17c45f2f5e8d8ed7",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Cramer points to rare Reddit buy opportunity amid Google AI threat",
+      "link": "https://www.thestreet.com/investing/stocks/cramer-points-to-rare-reddit-buy-opportunity-amid-google-ai-threat?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T02:03:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "9d4c30daafe261b2",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Kenya reports 39.80 percent profit drop: what it means for BOC Kenya stock - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWd4WXdOYk14MVdid3EyTHp5UnNKWGxCWFVRTU5HdV9WNmpCeXpjTlVfaFF6QUNjSE5ZVnpJTlIzSDJYSEpFUDNONFJhdktoNFRvVF91X243alJkZ2M4X3hWajdoRWU1X09jTEFQbjZiOE9meXV1akJQRzJvZ1hsZktNUzFuSC02Q3pqSFFxZFIwcVB2UlpIc1AteDUxX0Itc2hMYnl1VlV2VGlqdHdWZEU1SDJVZ29STzllako4UGhBdl9oUVQtd1l3?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-19T00:58:49+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "ab66beb0b5c1e697",
@@ -88,17 +121,6 @@
       "source": "News",
       "published": "2026-10-18T16:13:28+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "7d79f963816d6b70",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Verizon launches generous customer perks after raising prices",
-      "link": "https://www.thestreet.com/retail/verizon-launches-customer-perks-after-price-increases?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T15:33:00+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "d390fc1db04a400f",
@@ -167,17 +189,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "0f49375ad45d8471",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Bang & Olufsen AS (CEUX:BOc) Stock Price, Trades & News - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fWjNvMEtwV2V0b3hxVThNYjQyYlJwNUVFaTNhSkRHSkFfU0VIM21KdURvbGVTazhhTVdxamhMWHZXc1Z3cjVKalkwVzVKTV9qUHBvRDUweWpScTV1?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-10-16T21:37:31+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "6bca10159098c6c8",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -209,17 +220,6 @@
       "source": "News",
       "published": "2026-10-16T13:50:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "73f012aefa942915",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CoreWeave Drops 6% as Debt Worries Linger; IREN Falls 4%, Nebius Slips",
-      "link": "https://247wallst.com/investing/2026/10/16/coreweave-drops-6-as-debt-worries-linger-iren-falls-4-nebius-slips/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T12:41:25+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "f6f472022b9ae925",
@@ -332,17 +332,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "4a77abdb1af5c1cc",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments Seeks ASX Quotation for New Employee Incentive Shares - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORFA0MXhoUmV3ZjJyVmhqRktZajk2NUZOY0lKTUVIZk42NlREUXloWTVlUmVVU0NIczIyYXlmY1Z0cWotS3ZNVGRvRzRkeUJPZzZWbjVjU08zVDBvaVBlRmFmNWg3amVTN0pwekZqSnJHVmQ4bXQzNTdIUm1pTFB0VW45UV96Ymx1Y0pNcW1HMEllLWJjbnQ5dzVFdUo2cE9PU01PSUJZa3p1Q1VDMWhscGN6WVo1Y1hVNmhlaXNxUGlfM2dDdXBaYWg2eU93MTF5SHR5UG11MTZYVTI4QmxpenM3TjRxalk?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-10-02T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "1bc24815f4f8706c",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -351,6 +340,17 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWTJlNVpybVhfTXF4b2sxLWtJcF9QYUZfTjBmVGVmRWVyTkdOeHhCVTNmbEJXRmdoMlBOaUJlVmU1V2JOU09CRkt0NC1BUUtULU0zZG81WkFwMERYTzJqR2M2RFQ3ZkY4OWZaRjhJTElnNW1ZWDhFWnk3Rzg0cGRWOXhaNjlwTUI4T0k2aGFsS08weU5aMW1QbTBjdzZGNUdkaGhPUUtjRnhpNzN6Y1B4VmwtN0xKLU5Xc21HQ0h1WG1CaTdLc0Y4WTh0WENTdw?oc=5",
       "source": "Kalkine",
       "published": "2026-10-02T07:00:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "fc5ab76c118e8996",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Trading Systems Reacting to (EML) Volatility - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdUtNRHhjOEpiZ2ZTS0VNZHRzWnpnVnNfRTNGck9ReklJdkNwQUtYVHd3SU9XbUQ5V2dLc3lGNlpYV0MxazIwZ3dqRS1hUkxUZW9HVlZFa0xUaGZ2UThyeG9zNUdrVlMyODl1a0JtbTEyQThBWC0yWHd4NWkxS3U1WG9TWVd4a0JaRWVrX1pJN1hKN0JOLUZZNktINl83MVZRN0xWT2E2QXZZVkhvOHhwVXhZOW9yTjBoR0dpSFNnQQ?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-10-01T07:44:02+00:00",
       "logo": "logos/EML.svg"
     },
     {
