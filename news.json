@@ -1,38 +1,82 @@
 {
-  "updated": "2026-10-19T03:56:15Z",
+  "updated": "2026-10-19T07:13:04Z",
   "items": [
     {
-      "id": "012c67a4d5139dfd",
+      "id": "2785d164ab1c7be6",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Anthropic IPO: Musk Wants AI Firm To Hand Shares Directly To Public, Says 'This Is What I Will Be Doing'",
-      "link": "https://stocktwits.com/news-articles/markets/equity/anthropic-ipo-musk-wants-ai-firm-to-hand-shares-directly-to-public-says-this-is-what-i-will-be-doing/cZx8BTGRBtU?.tsrc=rss",
+      "title": "NIO Stock Climbs Overnight: EV Firm Outsells German Luxury Rivals In China Sales For First Time — CEO Hails Tesla’s Flying Roadster",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nio-stock-ev-firm-outsells-german-luxury-rivals-china-sales-first-time-ceo-hails-tesla-roadster/cZx8gSyRBMd?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-19T03:22:42+00:00",
+      "published": "2026-10-19T06:09:44+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "2c9828f2d4ecede7",
+      "id": "8aec2d1622353b2e",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the Next Bubble Scare, It Would Be This One",
+      "link": "https://www.fool.com/investing/2026/10/19/if-i-could-only-own-1-artificial-intelligence-ai-s/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T05:20:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "f3d825854257e649",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
-      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rebound.html?.tsrc=rss",
+      "title": "Elon Musk Says AI And Robots Are The Only Way To Solve America's $40 Trillion Debt Problem — ‘We’re Not Gonna Save Our Way There’",
+      "link": "https://finance.yahoo.com/economy/policy/articles/elon-musk-says-ai-robots-051630913.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-19T03:08:11+00:00",
+      "published": "2026-10-19T05:16:30+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "ba228a36ca556ca3",
+      "id": "0ae2caee5470bfad",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Why IREN, CIFR, DKNG Stocks Crashed To 52-Week Lows Last Week",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-iren-cifr-dkng-stocks-crashed-to-52-week-lows-last-week/cZx8fsmRBMT?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T05:04:43+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "5297178ee06d7774",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Sam Altman praises the Tesla Roadster he gave up on",
-      "link": "https://www.thestreet.com/markets/sam-altman-praises-the-tesla-roadster-he-gave-up-on?.tsrc=rss",
+      "title": "INTC, AMD, MU, SNDK: US Chip Stocks Rebound After Worst Week Since March",
+      "link": "https://stocktwits.com/news-articles/markets/equity/intc-amd-mu-sndk-us-chip-stocks-rebound-after-worst-week-since-march/cZx8OKxRBMR?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-19T03:07:00+00:00",
+      "published": "2026-10-19T04:54:42+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "38cfbe690c335252",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious",
+      "link": "https://stocktwits.com/news-articles/markets/equity/no-black-monday-nasdaq-s-and-p-500-dow-futures-spike-as-big-tech-earnings-loom-this-week-retail-stays-cautious/cZx8aBfRBt6?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T04:07:56+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "4405b036d4c285e2",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Trump’s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Contributors: Report (UPDATED)",
+      "link": "https://finance.yahoo.com/technology/articles/trump-330-million-white-house-033011715.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T03:30:11+00:00",
+      "logo": "logos/GOOG.svg"
     },
     {
       "id": "ec8186d6adbcefda",
@@ -44,17 +88,6 @@
       "source": "News",
       "published": "2026-10-19T02:47:00+00:00",
       "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c35b11d5487007da",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Asian stocks start week on back foot, tracking tech-led Wall St losses",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-start-week-back-024700529.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T02:47:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "729c6a5b47ca169c",
@@ -90,28 +123,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "17c45f2f5e8d8ed7",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Cramer points to rare Reddit buy opportunity amid Google AI threat",
-      "link": "https://www.thestreet.com/investing/stocks/cramer-points-to-rare-reddit-buy-opportunity-amid-google-ai-threat?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T02:03:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "9d4c30daafe261b2",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Kenya reports 39.80 percent profit drop: what it means for BOC Kenya stock - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWd4WXdOYk14MVdid3EyTHp5UnNKWGxCWFVRTU5HdV9WNmpCeXpjTlVfaFF6QUNjSE5ZVnpJTlIzSDJYSEpFUDNONFJhdktoNFRvVF91X243alJkZ2M4X3hWajdoRWU1X09jTEFQbjZiOE9meXV1akJQRzJvZ1hsZktNUzFuSC02Q3pqSFFxZFIwcVB2UlpIc1AteDUxX0Itc2hMYnl1VlV2VGlqdHdWZEU1SDJVZ29STzllako4UGhBdl9oUVQtd1l3?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-19T00:58:49+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "ab66beb0b5c1e697",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -121,39 +132,6 @@
       "source": "News",
       "published": "2026-10-18T16:13:28+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "d390fc1db04a400f",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Bank of East Asia stock has a 14.50 ratio versus 12.70 for BOC Hong Kong - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUJvTDcwQno5a2lOU1hWOURNWElDbFR4LTZBZkxEU2dZQk1jTndxTHdjTjU3YmN5eUllZ0huNGNub3gxVkFoY0xNM3JUZ2JOQVNmMTJYbzVUVFVVTHNCelE4bUhMZGpxMHBpWi1qTThCVUJNQ2RjX3FqN0ZlQ3h0RUJOR0VxN3VEQ0NaekVpdy03dVFsVjhBbFhpUlgzSTRWeHNmTmdPckhSbW1MZ2pBV3FfTWNKdzBud2xGa2xkeHU5cjBzWXNVY3duUQ?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-17T19:36:43+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "837822e59c5c0b62",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Neocloud Stock Collapse: Buying Opportunity or Run for the Hills?",
-      "link": "https://www.fool.com/investing/2026/10/17/neocloud-stock-collapse-buying-opportunity-or-run/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T11:50:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "842de0ce9d4d992e",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong stock heads into next Xetra session at EUR 5.67 - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQendKZWZ3a29zeWQzRmhtdEtwR19MUTl4RjUxOFAwUks2NjBHaHZIR3NuMTdUaWw1RWFkWlhMTVlXeTRKSHlYRjVUNUNqQ0RPS1cwdE9kUzhVVUJmQ3Jyd1VlaGNtSFlqMnBnUU9ZYlBJbGpJZF8yaVNnWjVQZHJsR0NsTmFhanItWUV6M3l1UloyZ0Q0M2t5SWU4RGc4TWY4ODVVYi1uUVFwaWI2QjhXRzJPeExpRV96QUkwY1hqOU1Hdw?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-17T08:35:13+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "20bf960370cd8642",
@@ -178,17 +156,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "43be7dbac9091d51",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Who's Buying or Selling Bang & Olufsen AS (CEUX:BOc) Stock Today? - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BVkU2TFItT2h0VkhkejFOMktOVWhHOTVnN3BIdjlpU2UzUUhwOV9WclpyUmpLamJaMDdmakVvN3QyX1FBZFowV2U0V0dGTmhnRVhrYXhtSm1wcTlmLURiT2R3?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-10-16T22:38:31+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "6bca10159098c6c8",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -198,17 +165,6 @@
       "source": "News",
       "published": "2026-10-16T21:00:05+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "a8871c2ecd4217b3",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CoreWeave Drops. Even Jensen Huang and Cathie Wood Can’t Buoy the Stock.",
-      "link": "https://finance.yahoo.com/m/6ebf89f2-ebc8-36f3-9ed9-8328d09819c8/coreweave-drops.-even-jensen.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T14:13:00+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "224fa0d2e4c30561",
@@ -222,6 +178,28 @@
       "logo": "logos/CCJ.svg"
     },
     {
+      "id": "32ba454bbe2577b8",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Nov 2026 20.000 call (BOC261120C00020000) stock price, news, quote and history - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YeGJlcHFFTTFMdlYwRU4zakFYMERaMW9GSGdIeEtwUGdfeFg3MDctaE9hUFVyeE5Yb3gwQ2FwVnhhQnBzU2I2VEM2YU9CdDVVMXZUVjZpVmxPekxlWkFhc3dRZmk?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "2026-10-16T10:26:29+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "7a39881617d4157a",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Nov 2026 20.000 call (BOC261120C00020000) stock historical prices and data - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CZWd3MlBiWms0X05UWTRYOHJzQ3o1dWJnOWdqREdSUVpDWUVta0g3OWoxZ3ZDeS02VXphVUNjM1hvdmUwa0dIZGhfaHd6eDFsYlAtVjV5d3hZME5OcWxtdDAzUUtqZHY4V3NFcXJoZw?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "2026-10-16T08:52:04+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "f6f472022b9ae925",
       "ticker": "NU",
       "symbol": "NU",
@@ -231,6 +209,28 @@
       "source": "News",
       "published": "2026-10-16T08:14:01+00:00",
       "logo": "logos/NU.svg"
+    },
+    {
+      "id": "9514f129d81a981e",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments Limited (EML.AX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xYnYyOVZxd2ptRXFiSmxNNWtrMWl0ZngyNllBbjE1Tk14ejc2S1JKMnhfTFRXSTY0dGFXRXdWaEZTNW5YRXZVZXROVlppOEJxNXpPVw?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-16T05:10:06+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "ce36819fc428cfc8",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC-Prudential MSCIACAPACexJpnIdxInvmUSD (0P0001JCNM) latest stock news and headlines - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PN1JJLUc1WE8xZUFkbjdkU25uUkpmTGV5YUJyY3lfbmdCN19hc21BVWwtbF9TdWRtNFJBd3EzeGtFQ2NDQUw3Z0M4OWJwajJRZDJHU1B4NEozTHNmSGJDbw?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "2026-10-15T20:00:00+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "2f7335515e9b62c1",
@@ -253,6 +253,17 @@
       "source": "News",
       "published": "2026-10-15T18:05:05+00:00",
       "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "32ca44a40f19738f",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC-Prudential MSCI Japan Idx Invm USD (0P0001JCNJ) stock price, news, quote and history - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IcGFzZy1mVnBFX1pld2hsanp6a1hFOXplOGFvYXlYdnNwR2lvV19kT3hQcF9jWERZTlFCeGY4cXVCb1NnN0pzQThEZ0owOER2aGt1R2ZjU2pzUQ?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "2026-10-15T17:03:42+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "9ac269849129d8c6",
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWTJlNVpybVhfTXF4b2sxLWtJcF9QYUZfTjBmVGVmRWVyTkdOeHhCVTNmbEJXRmdoMlBOaUJlVmU1V2JOU09CRkt0NC1BUUtULU0zZG81WkFwMERYTzJqR2M2RFQ3ZkY4OWZaRjhJTElnNW1ZWDhFWnk3Rzg0cGRWOXhaNjlwTUI4T0k2aGFsS08weU5aMW1QbTBjdzZGNUdkaGhPUUtjRnhpNzN6Y1B4VmwtN0xKLU5Xc21HQ0h1WG1CaTdLc0Y4WTh0WENTdw?oc=5",
       "source": "Kalkine",
       "published": "2026-10-02T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "fc5ab76c118e8996",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Trading Systems Reacting to (EML) Volatility - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdUtNRHhjOEpiZ2ZTS0VNZHRzWnpnVnNfRTNGck9ReklJdkNwQUtYVHd3SU9XbUQ5V2dLc3lGNlpYV0MxazIwZ3dqRS1hUkxUZW9HVlZFa0xUaGZ2UThyeG9zNUdrVlMyODl1a0JtbTEyQThBWC0yWHd4NWkxS3U1WG9TWVd4a0JaRWVrX1pJN1hKN0JOLUZZNktINl83MVZRN0xWT2E2QXZZVkhvOHhwVXhZOW9yTjBoR0dpSFNnQQ?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-10-01T07:44:02+00:00",
       "logo": "logos/EML.svg"
     },
     {
