@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-19T20:05:08+00:00",
+  "updated": "2026-10-19T20:59:24+00:00",
   "source": "Yahoo Finance (query1.finance.yahoo.com/v8/finance/chart)",
   "fx": {
     "AUDUSD": 0.6982,
     "AUDUSD_change_pct": 0.9178,
-    "USDSGD": 1.28,
-    "USDSGD_change_pct": -0.1202
+    "USDSGD": 1.2797,
+    "USDSGD_change_pct": -0.1436
   },
   "quotes": {
     "NU": {
-      "price": 14.49,
+      "price": 14.51,
       "previous_close": 14.56,
-      "change_pct": -0.4808,
+      "change_pct": -0.3434,
       "currency": "USD",
       "exchange": "NYSE",
       "long_name": "Nu Holdings Ltd.",
-      "market_time": "2026-10-19T19:59:58+00:00",
+      "market_time": "2026-10-19T20:00:02+00:00",
       "stale": false
     },
     "BOC.AX": {
@@ -49,13 +49,13 @@
       "stale": false
     },
     "ONON": {
-      "price": 35.415,
+      "price": 35.41,
       "previous_close": 34.75,
-      "change_pct": 1.9137,
+      "change_pct": 1.8993,
       "currency": "USD",
       "exchange": "NYSE",
       "long_name": "On Holding AG",
-      "market_time": "2026-10-19T19:59:58+00:00",
+      "market_time": "2026-10-19T20:00:02+00:00",
       "stale": false
     },
     "IREN": {
@@ -69,13 +69,13 @@
       "stale": false
     },
     "CCJ": {
-      "price": 80.76,
+      "price": 80.7,
       "previous_close": 81.519997,
-      "change_pct": -0.9323,
+      "change_pct": -1.0059,
       "currency": "USD",
       "exchange": "NYSE",
       "long_name": "Cameco Corporation",
-      "market_time": "2026-10-19T19:59:59+00:00",
+      "market_time": "2026-10-19T20:00:02+00:00",
       "stale": false
     },
     "GOOG": {
@@ -105,17 +105,17 @@
       "currency": "USD",
       "exchange": "CCY",
       "long_name": "AUD/USD",
-      "market_time": "2026-10-19T20:04:48+00:00",
+      "market_time": "2026-10-19T20:58:49+00:00",
       "stale": false
     },
     "SGD=X": {
-      "price": 1.28,
+      "price": 1.2797,
       "previous_close": 1.28154,
-      "change_pct": -0.1202,
+      "change_pct": -0.1436,
       "currency": "SGD",
       "exchange": "CCY",
       "long_name": "USD/SGD",
-      "market_time": "2026-10-19T20:05:02+00:00",
+      "market_time": "2026-10-19T20:59:17+00:00",
       "stale": false
     },
     "^GSPC": {
@@ -125,7 +125,7 @@
       "currency": "USD",
       "exchange": "SNP",
       "long_name": "S&P 500",
-      "market_time": "2026-10-19T20:05:08+00:00",
+      "market_time": "2026-10-19T20:44:14+00:00",
       "stale": false
     }
   },
