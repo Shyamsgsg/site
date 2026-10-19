@@ -1,48 +1,59 @@
 {
-  "updated": "2026-10-18T21:45:43Z",
+  "updated": "2026-10-19T01:03:33Z",
   "items": [
     {
-      "id": "a2f2778b80df15d5",
+      "id": "2c9828f2d4ecede7",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Dow Jones Futures: More AI Pain After Nasdaq Sell-Off? Meta, SpaceX, Tesla Earnings Key",
-      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-more-ai.html?.tsrc=rss",
+      "title": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
+      "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rebound.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-18T21:27:33+00:00",
+      "published": "2026-10-19T00:51:09+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "dc64390c1c47cadc",
+      "id": "e5463e1378c2e445",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "American Electric Power Company (AEP) Faces A 12% Fair Value Gap As Google Deal Lands",
+      "link": "https://finance.yahoo.com/energy/articles/american-electric-power-company-aep-231338036.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-18T23:13:38+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "2d3f8a860e4891aa",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla’s Flying Roadster and the SpaceX Halo",
-      "link": "https://finance.yahoo.com/m/eb235398-85bc-3d45-8ef9-15600968317b/tesla%E2%80%99s-flying-roadster-and.html?.tsrc=rss",
+      "title": "Top 4 Earnings Reports This Week: What Tesla, Meta, SpaceX, Netflix Must Show",
+      "link": "https://beincrypto.com/tesla-meta-spacex-netflix-earnings-ai/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-18T20:23:00+00:00",
+      "published": "2026-10-18T23:00:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "9516cd3479c7d776",
+      "id": "8347f58761c201d1",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Elon Musk’s ex says she turned down a $40M NDA — then her child support was cut to about $5M total. Was it all worth it?",
-      "link": "https://finance.yahoo.com/small-business/articles/elon-musk-ex-says-she-193500279.html?.tsrc=rss",
+      "title": "Elon Musk’s SpaceX Now Controls 80% of the Race to Orbit",
+      "link": "https://beincrypto.com/elon-musk-spacex-global-orbital-mass/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-18T19:35:00+00:00",
+      "published": "2026-10-18T22:51:24+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "9d151861bcee8e71",
+      "id": "2a0a6735b330162b",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Oil Futures Likely to React to Ukraine’s Attack on Russian Oil, Lifting of Diesel Sanctions",
-      "link": "https://finance.yahoo.com/m/48664293-fad0-31aa-9b59-9f0f597f1e48/oil-futures-likely-to-react.html?.tsrc=rss",
+      "title": "US Stock Futures Rise Ahead of Busy Earnings Week: Markets Wrap",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-ahead-220725997.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-18T18:59:00+00:00",
+      "published": "2026-10-18T22:07:25+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -87,17 +98,6 @@
       "link": "https://www.thestreet.com/retail/verizon-launches-customer-perks-after-price-increases?.tsrc=rss",
       "source": "News",
       "published": "2026-10-18T15:33:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "6662fa52b0d496a0",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Berkshire Hathaway (BRK.B) After Buffett: Can Its Capital Allocation Machine Keep Compounding?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-buffett-144450448.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T14:44:50+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -233,17 +233,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "9514f129d81a981e",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments Limited (EML.AX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xYnYyOVZxd2ptRXFiSmxNNWtrMWl0ZngyNllBbjE1Tk14ejc2S1JKMnhfTFRXSTY0dGFXRXdWaEZTNW5YRXZVZXROVlppOEJxNXpPVw?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-10-16T05:10:06+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "2f7335515e9b62c1",
       "ticker": "NU",
       "symbol": "NU",
@@ -341,6 +330,17 @@
       "source": "News",
       "published": "2026-10-08T21:00:05+00:00",
       "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "4a77abdb1af5c1cc",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments Seeks ASX Quotation for New Employee Incentive Shares - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORFA0MXhoUmV3ZjJyVmhqRktZajk2NUZOY0lKTUVIZk42NlREUXloWTVlUmVVU0NIczIyYXlmY1Z0cWotS3ZNVGRvRzRkeUJPZzZWbjVjU08zVDBvaVBlRmFmNWg3amVTN0pwekZqSnJHVmQ4bXQzNTdIUm1pTFB0VW45UV96Ymx1Y0pNcW1HMEllLWJjbnQ5dzVFdUo2cE9PU01PSUJZa3p1Q1VDMWhscGN6WVo1Y1hVNmhlaXNxUGlfM2dDdXBaYWg2eU93MTF5SHR5UG11MTZYVTI4QmxpenM3TjRxalk?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-10-02T07:00:00+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "1bc24815f4f8706c",
