@@ -1,27 +1,137 @@
 {
-  "updated": "2026-10-19T13:05:53Z",
+  "updated": "2026-10-19T15:51:41Z",
   "items": [
     {
-      "id": "5ca0a2c64df75313",
+      "id": "5d760e6234bbbb5f",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings (NU) Earned $1.1 Billion in a Quarter, Can Credit Keep Up?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-earned-1-154042168.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T15:40:42+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "4f8fe43ede08269f",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "A SpaceX-Tesla Merger Could Happen Before the End of 2026. Here's What That Could Mean for the Stocks",
+      "link": "https://www.fool.com/investing/2026/10/19/a-spacex-tesla-merger-could-happen-before-the-end-of-2026-here-s-what-that-could-mean-for-the-stocks/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T15:40:01+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "3409afd7c542e32b",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Pledges $10.5 Billion in SpaceX Shares to ‘Every Kid in America’ in 2027",
+      "link": "https://firstformoney.com/elon-musk-pledges-10-5-billion-in-spacex-shares-to-every-kid-in-america-in-2027/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T15:38:40+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ab70e312e67fb72f",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Broadcom Vs. Marvell: Custom Silicon is Going to Get White Hot",
-      "link": "https://247wallst.com/investing/2026/10/19/broadcom-vs-marvell-custom-silicon-is-going-to-get-white-hot/?.tsrc=rss",
+      "title": "Prediction: Amazon’s Next Chapter Could Be Its Most Important One Yet",
+      "link": "https://247wallst.com/investing/2026/10/19/prediction-amazons-next-chapter-could-be-its-most-important-one-yet/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-19T12:45:48+00:00",
+      "published": "2026-10-19T15:00:11+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "0439b39038615b9a",
+      "id": "5607e35e8f82ddb9",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Accenture Expands Federal AI Push With Google's Gemini Agents, Months After OpenAI Partnership",
-      "link": "https://stocktwits.com/news-articles/markets/equity/accenture-expands-federal-ai-push-with-google-s-gemini-agents-months-after-open-ai-partnership/cZx8nz7RBM8?.tsrc=rss",
+      "title": "Google Partner Novacore Labs and AIBotics Complete Acquisition of Assets, Expanding AI, Drone, Mapping and Automation Platform in Jamaica",
+      "link": "https://finance.yahoo.com/technology/ai/articles/google-partner-novacore-labs-aibotics-150000323.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-19T12:41:40+00:00",
+      "published": "2026-10-19T15:00:00+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "7537bcde2e9674f8",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Ron DeSantis says Tesla’s flying Roadster will be legal in Florida — and could ‘leapfrog golf carts in the Villages’",
+      "link": "https://finance.yahoo.com/technology/articles/ron-desantis-says-tesla-flying-150000839.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T15:00:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "891bf4dcd24e3efe",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "2 charts show why Wall Street is right to worry about tech stocks",
+      "link": "https://finance.yahoo.com/markets/article/2-charts-show-why-wall-street-is-right-to-worry-about-tech-stocks-145612923.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T14:56:12+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "665a094fd9bc0eb8",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX to Highlight 'Ambitious Updates' at Q3 Earnings, RBC Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-highlight-apos-ambitious-updates-145540223.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T14:55:40+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "d5d6238b4b9d2576",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Marvell Technology Will Heat Up Very Soon and I’m Buying in Advance",
+      "link": "https://247wallst.com/investing/2026/10/19/marvell-technology-will-heat-up-very-soon-and-im-buying-in-advance/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T14:45:28+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "01db09575e538a9f",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Why CoreWeave Stock Is Upgraded to Buy After Falling 25% Last Week",
+      "link": "https://finance.yahoo.com/m/7ab841c8-04d4-361c-af7a-729e277afca3/why-coreweave-stock-is.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T14:42:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "cb5ec7d0cb803c29",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Nebius, IREN rally as dip buyers return to AI infrastructure stocks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nebius-iren-rally-dip-buyers-132138311.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T13:21:38+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "d45f9b215c59d37d",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "AI Infrastructure Stocks Rally as Selloff Reverses: Applied Digital Jumps 8%, TeraWulf and IREN Rise 6%",
+      "link": "https://247wallst.com/investing/2026/10/19/ai-infrastructure-stocks-rally-as-selloff-reverses-applied-digital-jumps-8-terawulf-and-iren-rise-6/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T13:02:19+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "1bc72838ecfcc2d1",
@@ -33,72 +143,6 @@
       "source": "Stripe and Plasma Launch Multi-Currency Stablecoin Cards",
       "published": "2026-10-19T12:37:33+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "c14b988cbc83813f",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Stock vs. the S&P 500: Which Investment Wins Through 2030?",
-      "link": "https://www.fool.com/investing/2026/10/19/tesla-stock-vs-the-sp-500-which-investment-wins-th/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T12:32:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "bb84c1a75e22b8a7",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX surprises Wall Street with Oct. 20 earnings date — here's why",
-      "link": "https://finance.yahoo.com/technology/article/spacex-surprises-wall-street-with-oct-20-earnings-date--heres-why-123059651.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T12:30:59+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "4dbb9876f295d291",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "NYSE Introduces Extended Trading Hours for NYSE American Options",
-      "link": "https://finance.yahoo.com/markets/options/articles/nyse-introduces-extended-trading-hours-123000779.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T12:30:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "829e7a578480ee6e",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Says He Will Give One SPCX Share To Every US Child Next Year – ‘Will Be First Of Many’",
-      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-give-one-spcx-share-to-every-us-child-next-year/cZx8VCIRBMN?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T12:03:56+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "12c1fea5b7922650",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tech Stock Rebound Nudges US Equity Futures Mostly Higher Pre-Bell",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-stock-rebound-nudges-us-120243477.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T12:02:43+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "4049b7bae5368c26",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "AI Stocks Face Earnings Gut Check As Spending Jitters Mount",
-      "link": "https://finance.yahoo.com/m/e47e6de4-e781-3181-adf7-c5685c0abf10/ai-stocks-face-earnings-gut.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T12:01:20+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "d3ec8b3c05a38c36",
@@ -156,28 +200,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "0ae2caee5470bfad",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Why IREN, CIFR, DKNG Stocks Crashed To 52-Week Lows Last Week",
-      "link": "https://stocktwits.com/news-articles/markets/equity/why-iren-cifr-dkng-stocks-crashed-to-52-week-lows-last-week/cZx8fsmRBMT?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T05:04:43+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "729c6a5b47ca169c",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CRWV, NBIS, IREN Bounce Overnight After Brutal Week — But Industry Execs Reportedly See Only A Few Neocloud Survivors",
-      "link": "https://stocktwits.com/news-articles/markets/equity/crwv-nbis-iren-bounce-overnight-after-brutal-week-but-industry-execs-reportedly-see-only-a-few-neocloud-survivors/cZx8e8yRBtD?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T02:31:24+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "ca31f9384e03556f",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -187,17 +209,6 @@
       "source": "ad-hoc-news.de",
       "published": "2026-10-19T00:58:49+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "ab66beb0b5c1e697",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "What Does IREN (IREN) Funding Risk Mean For Its AI Data Center Expansion?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/does-iren-iren-funding-risk-161328162.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-18T16:13:28+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "d390fc1db04a400f",
@@ -286,17 +297,6 @@
       "source": "News",
       "published": "2026-10-15T18:05:05+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "9ac269849129d8c6",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings Ltd. (NU) is Attracting Investor Attention: Here is What You Should Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-nu-attracting-120006764.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T12:00:06+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "9b42c9faf9c5355c",
