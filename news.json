@@ -1,6 +1,116 @@
 {
-  "updated": "2026-10-19T09:55:50Z",
+  "updated": "2026-10-19T13:05:53Z",
   "items": [
+    {
+      "id": "5ca0a2c64df75313",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Broadcom Vs. Marvell: Custom Silicon is Going to Get White Hot",
+      "link": "https://247wallst.com/investing/2026/10/19/broadcom-vs-marvell-custom-silicon-is-going-to-get-white-hot/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T12:45:48+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "0439b39038615b9a",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Accenture Expands Federal AI Push With Google's Gemini Agents, Months After OpenAI Partnership",
+      "link": "https://stocktwits.com/news-articles/markets/equity/accenture-expands-federal-ai-push-with-google-s-gemini-agents-months-after-open-ai-partnership/cZx8nz7RBM8?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T12:41:40+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "1bc72838ecfcc2d1",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Latest News In Digital Payment",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/latest-news-digital-payment-stripe-123733400.html?.tsrc=rss",
+      "source": "Stripe and Plasma Launch Multi-Currency Stablecoin Cards",
+      "published": "2026-10-19T12:37:33+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "c14b988cbc83813f",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Stock vs. the S&P 500: Which Investment Wins Through 2030?",
+      "link": "https://www.fool.com/investing/2026/10/19/tesla-stock-vs-the-sp-500-which-investment-wins-th/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T12:32:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "bb84c1a75e22b8a7",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX surprises Wall Street with Oct. 20 earnings date — here's why",
+      "link": "https://finance.yahoo.com/technology/article/spacex-surprises-wall-street-with-oct-20-earnings-date--heres-why-123059651.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T12:30:59+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "4dbb9876f295d291",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "NYSE Introduces Extended Trading Hours for NYSE American Options",
+      "link": "https://finance.yahoo.com/markets/options/articles/nyse-introduces-extended-trading-hours-123000779.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T12:30:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "829e7a578480ee6e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Says He Will Give One SPCX Share To Every US Child Next Year – ‘Will Be First Of Many’",
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-give-one-spcx-share-to-every-us-child-next-year/cZx8VCIRBMN?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T12:03:56+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "12c1fea5b7922650",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tech Stock Rebound Nudges US Equity Futures Mostly Higher Pre-Bell",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-stock-rebound-nudges-us-120243477.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T12:02:43+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "4049b7bae5368c26",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "AI Stocks Face Earnings Gut Check As Spending Jitters Mount",
+      "link": "https://finance.yahoo.com/m/e47e6de4-e781-3181-adf7-c5685c0abf10/ai-stocks-face-earnings-gut.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T12:01:20+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d3ec8b3c05a38c36",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cosa Announces Partner-Funded Drilling Results from the Aurora Uranium Project, Athabasca Basin, Saskatchewan",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/cosa-announces-partner-funded-drilling-120000054.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T12:00:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
     {
       "id": "3590d37ed7a65f43",
       "ticker": "CCJ",
@@ -11,39 +121,6 @@
       "source": "News",
       "published": "2026-10-19T09:42:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "0abd04ac0e9f1dd0",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "This Table Explains Exactly Why Warren Buffett and Berkshire Hathaway Have Struggled to Find Stocks to Buy and Where You Can Find Great Value Stocks Right Now",
-      "link": "https://www.fool.com/investing/2026/10/19/this-table-explains-exactly-why-warren-buffett-and/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T09:32:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "5acc55c671ba48ac",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "The Trillion-Dollar AI Bet: What It Means for Hyperscaler Investors",
-      "link": "https://www.fool.com/investing/2026/10/19/trillion-dollar-ai-bet-hyperscaler-investors/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T09:19:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "8b0f9135174cf806",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Rentomojo Launches 2BHK Furniture and Appliance Rental in Delhi With Two Bedrooms, a Living Room and a Four-Seater Dining Set From About ₹3,831 a Month, or About ₹2,500 Each for Two Flatmates With Appliances",
-      "link": "https://finance.yahoo.com/real-estate/articles/rentomojo-launches-2bhk-furniture-appliance-085800113.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T08:58:00+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "3b7f6850e0716846",
@@ -57,70 +134,15 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "b7a42e54a3b4fde8",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Why Are Nasdaq Futures Soaring Premarket? NBIS, MU, TSLA, SPCX, ASTS, SLS Stocks In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-futures-soaring-premarket-nbis-mu-tsla-spcx-asts-sls-stocks-in-focus/cZx8K91RBMX?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T08:31:12+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "7507291c4c9be7e4",
+      "id": "ca9df65d58f9e6b0",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
       "title": "BOC Hong Kong stock costs EUR 5.68 while first-half profit rose 7.10 percent - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNGFWcXYyUzR6VXlFa3NLM0k5b0ZOVTI5QU9YYlpoaEdMcXVDQjc3VmZwcTgzU3RWU2hqcmZBMVhMLU1iX05yMTRBRWp4LXZ1aVRMemJHZ2RtYmVjWGJXSFptdXVxRWZIRktPQzlzUnBnNWFCOGpEWEU0MmNnMjE4WFI3LWRTcF80Qkx6Nk1lLXdxWDVMMjZQS2pGYUxJUXpPTlA5dFZVTDJoZjVMLXBOR2FKeDNBT0VqY1pYM1hWMDJ6aVlycDBldVFCLWUyZ1I3U0dRUXh3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUXExWDl1QUV5OEhCQ1ZIa0hhcmtOdFBXckx0YjUwSjFKSDNYU3J6NE1Ic0xmdC0taUtidk1yTFh1N3FOQi1URGYza0hoZ2VCVXBDM0lWRktXNzB5U3ZpYmE0RXRpUF9jUGlsdEJmc0lCN0VLdlBCWnQwZmpob0NhNWFBMTZDNHVneG5XRXNGSHZfVmJBNl9xb0gyQTdGdzBDeUR2UlZSSV80bnBCbXRTaFZSZkVsLTBzVHp4V3pON0JZRGEyMlA3Q2FXVQ?oc=5",
       "source": "ad-hoc-news.de",
       "published": "2026-10-19T08:26:46+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "916ca2c49e7af339",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "BE Stock Jumps Premarket Into Earnings Week: Retail Bets On 40% Pop As Wall Street Eyes Strong Q3 Growth",
-      "link": "https://stocktwits.com/news-articles/markets/equity/be-stock-earnings-week-retail-bets-pop-wall-street-strong-q3-growth/cZx8KbBRBMa?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T08:21:06+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "ea6a9cd5e3eacd05",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Stock Futures Rebound as Tech Claws Back Losses",
-      "link": "https://finance.yahoo.com/m/3b07bca3-439e-3ef6-ae1d-fa40534bbbc5/stock-futures-rebound-as-tech.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T08:19:17+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "4593795abd01efe9",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "TSLA, SPCX Eye Green Open: Gary Black Predicts $420 SpaceX Buyout Of Tesla — Sees Announcement In ‘Next Few Weeks’",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-gary-black-spacex-buyout-tesla-announcement-next-few-weeks/cZx8LWQRBMJ?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T07:20:05+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "2785d164ab1c7be6",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "NIO Stock Climbs Overnight: EV Firm Outsells German Luxury Rivals In China Sales For First Time — CEO Hails Tesla’s Flying Roadster",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nio-stock-ev-firm-outsells-german-luxury-rivals-china-sales-first-time-ceo-hails-tesla-roadster/cZx8gSyRBMd?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T06:09:44+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "8aec2d1622353b2e",
@@ -156,12 +178,12 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "9d4c30daafe261b2",
+      "id": "ca31f9384e03556f",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
       "title": "BOC Kenya reports 39.80 percent profit drop: what it means for BOC Kenya stock - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWd4WXdOYk14MVdid3EyTHp5UnNKWGxCWFVRTU5HdV9WNmpCeXpjTlVfaFF6QUNjSE5ZVnpJTlIzSDJYSEpFUDNONFJhdktoNFRvVF91X243alJkZ2M4X3hWajdoRWU1X09jTEFQbjZiOE9meXV1akJQRzJvZ1hsZktNUzFuSC02Q3pqSFFxZFIwcVB2UlpIc1AteDUxX0Itc2hMYnl1VlV2VGlqdHdWZEU1SDJVZ29STzllako4UGhBdl9oUVQtd1l3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdGoyRHdLdW5MN0xUckRuNV81VUhpZHVOVkVNWnhSUnNqLWl5azQ3ZVR1UlZ4SEs0c2lkTENFakszZnBGTlcxTC02U1FaUlVWRkRxc0JfNmVVbW5fQ2dndlF3eWF3ZXR1UzVkdmk5MjJCSTMwNEg3MVJXQW80XzM1QUc0LTk0MkNvb29sQUdmYl9MOEtqOTdiQkZETS1FWkV2RC1BNDBYMEFXUHNjRlQwMmQwMFJkRnAyOVNBYlJaVUo1UzFaVkhQdmNXaDU1Y2NKWnc?oc=5",
       "source": "ad-hoc-news.de",
       "published": "2026-10-19T00:58:49+00:00",
       "logo": "logos/BOC.svg"
@@ -222,17 +244,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "224fa0d2e4c30561",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco Stock Is Down 36% From Its All-Time High. Here's What Needs to Happen to Make It a Buy",
-      "link": "https://www.fool.com/investing/2026/10/16/cameco-stock-is-down-36-from-its-all-time-high/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T13:50:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "f6f472022b9ae925",
       "ticker": "NU",
       "symbol": "NU",
@@ -242,6 +253,17 @@
       "source": "News",
       "published": "2026-10-16T08:14:01+00:00",
       "logo": "logos/NU.svg"
+    },
+    {
+      "id": "9514f129d81a981e",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments Limited (EML.AX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xYnYyOVZxd2ptRXFiSmxNNWtrMWl0ZngyNllBbjE1Tk14ejc2S1JKMnhfTFRXSTY0dGFXRXdWaEZTNW5YRXZVZXROVlppOEJxNXpPVw?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-16T05:10:06+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "2f7335515e9b62c1",
@@ -274,17 +296,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-nu-attracting-120006764.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-15T12:00:06+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "6bce2746fba7ecc1",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "FISV, NU, LPLA: Analyst Picks Top 3 Financial Stocks In ‘Forgettable Year’ For Sector",
-      "link": "https://stocktwits.com/news-articles/markets/equity/fisv-nu-lpla-analyst-picks-top-3-financial-stocks-in-forgettable-year-for-sector/cZxWWJvRBqt?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-15T01:22:15+00:00",
       "logo": "logos/NU.svg"
     },
     {
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWTJlNVpybVhfTXF4b2sxLWtJcF9QYUZfTjBmVGVmRWVyTkdOeHhCVTNmbEJXRmdoMlBOaUJlVmU1V2JOU09CRkt0NC1BUUtULU0zZG81WkFwMERYTzJqR2M2RFQ3ZkY4OWZaRjhJTElnNW1ZWDhFWnk3Rzg0cGRWOXhaNjlwTUI4T0k2aGFsS08weU5aMW1QbTBjdzZGNUdkaGhPUUtjRnhpNzN6Y1B4VmwtN0xKLU5Xc21HQ0h1WG1CaTdLc0Y4WTh0WENTdw?oc=5",
       "source": "Kalkine",
       "published": "2026-10-02T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "fc5ab76c118e8996",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Trading Systems Reacting to (EML) Volatility - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdUtNRHhjOEpiZ2ZTS0VNZHRzWnpnVnNfRTNGck9ReklJdkNwQUtYVHd3SU9XbUQ5V2dLc3lGNlpYV0MxazIwZ3dqRS1hUkxUZW9HVlZFa0xUaGZ2UThyeG9zNUdrVlMyODl1a0JtbTEyQThBWC0yWHd4NWkxS3U1WG9TWVd4a0JaRWVrX1pJN1hKN0JOLUZZNktINl83MVZRN0xWT2E2QXZZVkhvOHhwVXhZOW9yTjBoR0dpSFNnQQ?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-10-01T07:44:02+00:00",
       "logo": "logos/EML.svg"
     },
     {
