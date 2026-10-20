@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T21:49:47Z",
+  "updated": "2026-10-20T01:04:56Z",
   "items": [
     {
       "id": "f0537be5df6229c5",
@@ -9,8 +9,96 @@
       "title": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
       "link": "https://finance.yahoo.com/m/fc8c5a2b-d77d-3107-a23a-2331f80e2b71/dow-jones-futures%3A-amd%2C.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-19T21:30:14+00:00",
+      "published": "2026-10-20T00:36:47+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "301ae926a8b36a8b",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Ex-Google CEO Eric Schmidt Reportedly Owns 1% Of Anthropic",
+      "link": "https://stocktwits.com/news-articles/markets/equity/ex-google-ceo-eric-schmidt-reportedly-owns-1-of-anthropic/cZxoP7XRBud?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T23:28:34+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "11ba543df346457f",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX, Tesla Earnings on Deck: Key Metrics to Watch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-earnings-deck-key-232400685.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T23:24:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "42bf49a865ff25ef",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools — AMZN, BE, CRWV, AAPL, PLTR In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-sees-best-day-in-nearly-a-month-as-ai-rout-cools-amzn-be-crwv-aapl-pltr-in-focus/cZxo2SbRBu5?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T23:00:23+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "53ec319771011986",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet Stock Slipped After Q2 Earnings. Here's What Investors Need to See in Q3.",
+      "link": "https://www.fool.com/investing/2026/10/19/alphabet-q3-earnings-expectations/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T22:43:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "7a1a612e2de08fd7",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Eric Schmidt’s 1% Anthropic stake sets up massive windfall ahead of IPO -Bloomberg",
+      "link": "https://finance.yahoo.com/technology/ai/articles/eric-schmidt-1-anthropic-stake-222605496.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T22:26:05+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e76bcb3a12d69e09",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Did Foundry Win Just Shift Intel (INTC) Investment Narrative?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/did-foundry-win-just-shift-221539389.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T22:15:39+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "1b4d4bab669b79a6",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Stock Market Today, Oct. 19: IREN Rallies on AI Infrastructure Sentiment Rebound",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/19/stock-market-today-oct-19-iren-rallies-on-ai-infrastructure-sentiment-rebound/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T22:05:13+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "9633bf7a1e62c561",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "GPIX Out-Yielded JEPI and Returned 17.37% to Its 9.33%. JEPI Is Still 9.5 Times Bigger",
+      "link": "https://247wallst.com/investing/etf/2026/10/19/gpix-out-yielded-jepi-and-returned-17-37-to-its-9-33-jepi-is-still-9-5-times-bigger/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-19T22:03:37+00:00",
+      "logo": "logos/GOOG.svg"
     },
     {
       "id": "ea4bbc4662a5ef4b",
@@ -35,83 +123,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "bc1ece192346f350",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Update: Tech-Heavy Nasdaq Leads Wall Street's Relief Rally Ahead of Key Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-heavy-nasdaq-leads-wall-204243443.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T20:42:43+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "75eeb3872d77e77d",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Warren Buffett Should Emulate Musk and Give Berkshire Stock to America’s Kids",
-      "link": "https://finance.yahoo.com/m/4bf4f7e2-3aeb-36ff-8041-3bdcd429a9c8/warren-buffett-should-emulate.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T20:40:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "1d9306df2149f795",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Datadog, Intel, CoreWeave, Tesla, Amazon, Cleveland-Cliffs, and More Stocks That Explain Today’s Market",
-      "link": "https://finance.yahoo.com/m/81a4deae-1e16-3913-a37f-3c4abe680ee4/datadog%2C-intel%2C-coreweave%2C.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T20:28:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "299057641c44156d",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Buy Top-Ranked Tech Stock TSMC Now on the Dip and Hold",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-top-ranked-tech-stock-202600390.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T20:26:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "32807a715fde08cf",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet (GOOGL) Pushes Into Carbon Removal Power Markets And Quantum AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-pushes-carbon-removal-201134256.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T20:11:34+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "75847c5dc56bacba",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "A $1.5 Trillion Anthropic IPO Still Pays Off for Google: “They’re Gonna Be Fine”",
-      "link": "https://www.tikr.com/blog/a-1-5-trillion-anthropic-ipo-still-pays-off-for-google-theyre-gonna-be-fine?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T18:54:08+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "fc2adef776e1a3c3",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Are You Overpaying For Reddit Stock Versus Its Rivals?",
-      "link": "https://www.trefis.com/articles/619150/are-you-overpaying-for-reddit-stock-versus-its-rivals/2026-10-19?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T18:45:52+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "01db09575e538a9f",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -132,17 +143,6 @@
       "source": "News",
       "published": "2026-10-19T15:40:42+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "cb5ec7d0cb803c29",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Nebius, IREN rally as dip buyers return to AI infrastructure stocks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nebius-iren-rally-dip-buyers-132138311.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T13:21:38+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "1bc72838ecfcc2d1",
