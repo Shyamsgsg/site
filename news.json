@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-20T01:04:56Z",
+  "updated": "2026-10-20T03:53:29Z",
   "items": [
+    {
+      "id": "841f83c6c5b46a67",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-edge-higher-amid-tech-rebound-as-q3-earnings-season-forges-ahead-djt-amzn-cbrs-crwv-stocks-in-focus/cZxq0LsRBuB?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T03:31:56+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "5a629c9f63848b51",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Search Resilience and Cloud Growth Powers Alphabet’s (GOOGL) Resilience",
+      "link": "https://finance.yahoo.com/technology/articles/search-resilience-cloud-growth-powers-144446892.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T03:17:46+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "0e572070f2bdece8",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "California billionaire tax could backfire, Stanford study says",
+      "link": "https://www.cbsnews.com/news/california-billionaire-tax-stanford-study/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T02:55:14+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "5d760e6234bbbb5f",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings (NU) Earned $1.1 Billion in a Quarter, Can Credit Keep Up?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-earned-1-154042168.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T02:40:42+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "62cee057bb47afbf",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Will Slower Growth Outlook Change Reddit Stock Narrative",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/slower-growth-outlook-change-reddit-020921936.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T02:09:21+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "7086b44e19f5f73b",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "MIPI Alliance Announces Board Leadership Appointments",
+      "link": "https://finance.yahoo.com/technology/articles/mipi-alliance-announces-board-leadership-020700536.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T02:07:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "f0537be5df6229c5",
       "ticker": "TSLA",
@@ -9,19 +75,19 @@
       "title": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
       "link": "https://finance.yahoo.com/m/fc8c5a2b-d77d-3107-a23a-2331f80e2b71/dow-jones-futures%3A-amd%2C.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-20T00:36:47+00:00",
+      "published": "2026-10-20T01:48:47+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "301ae926a8b36a8b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Ex-Google CEO Eric Schmidt Reportedly Owns 1% Of Anthropic",
-      "link": "https://stocktwits.com/news-articles/markets/equity/ex-google-ceo-eric-schmidt-reportedly-owns-1-of-anthropic/cZxoP7XRBud?.tsrc=rss",
+      "id": "7f1d955c92c1dc0d",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Robot Wars – How China Has the Robotics Industry in Its Grip",
+      "link": "https://finance.yahoo.com/technology/ai/articles/robot-wars-china-robotics-industry-004100697.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-19T23:28:34+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-10-20T00:41:00+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "11ba543df346457f",
@@ -35,50 +101,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "42bf49a865ff25ef",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools — AMZN, BE, CRWV, AAPL, PLTR In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-sees-best-day-in-nearly-a-month-as-ai-rout-cools-amzn-be-crwv-aapl-pltr-in-focus/cZxo2SbRBu5?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T23:00:23+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "53ec319771011986",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet Stock Slipped After Q2 Earnings. Here's What Investors Need to See in Q3.",
-      "link": "https://www.fool.com/investing/2026/10/19/alphabet-q3-earnings-expectations/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T22:43:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "7a1a612e2de08fd7",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Eric Schmidt’s 1% Anthropic stake sets up massive windfall ahead of IPO -Bloomberg",
-      "link": "https://finance.yahoo.com/technology/ai/articles/eric-schmidt-1-anthropic-stake-222605496.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T22:26:05+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "e76bcb3a12d69e09",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Did Foundry Win Just Shift Intel (INTC) Investment Narrative?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/did-foundry-win-just-shift-221539389.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T22:15:39+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "1b4d4bab669b79a6",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -88,17 +110,6 @@
       "source": "News",
       "published": "2026-10-19T22:05:13+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "9633bf7a1e62c561",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "GPIX Out-Yielded JEPI and Returned 17.37% to Its 9.33%. JEPI Is Still 9.5 Times Bigger",
-      "link": "https://247wallst.com/investing/etf/2026/10/19/gpix-out-yielded-jepi-and-returned-17-37-to-its-9-33-jepi-is-still-9-5-times-bigger/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T22:03:37+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "ea4bbc4662a5ef4b",
@@ -134,15 +145,15 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "5d760e6234bbbb5f",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings (NU) Earned $1.1 Billion in a Quarter, Can Credit Keep Up?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-earned-1-154042168.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T15:40:42+00:00",
-      "logo": "logos/NU.svg"
+      "id": "f9882b888fc359a8",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Hong Kong stock: Price-to-earnings ratio stands at 12.7 for BOC Hong Kong stock - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMzhzODBRLVFYNHJSNkh4Z2ZyLVN0MjF6OXdCSWp3bWlZSjhYcm9BanZJZ3E1Y0otV04xR0t0bC1nbmRSaC04c3dNSmlzZnVIckoyUFhlUUhubU9oRk0tOGEzbEpUdUs0SjRmWnFnblpDRHpVamRpcjFudVdPcTBQQUVOOU5fdWdtTEx0Qk1Vc0R5c3NuZVZQZmI3QjhsRzM4WHh6YW9UZC1SMnhoQUpHcjB0ME1zcHY5aDhJbFVTcXBQY3Zkc2dBd3NjMVFxNDZCQVMzMmpkSmRjclNaQ1E?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-19T14:17:55+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "1bc72838ecfcc2d1",
@@ -208,17 +219,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdGoyRHdLdW5MN0xUckRuNV81VUhpZHVOVkVNWnhSUnNqLWl5azQ3ZVR1UlZ4SEs0c2lkTENFakszZnBGTlcxTC02U1FaUlVWRkRxc0JfNmVVbW5fQ2dndlF3eWF3ZXR1UzVkdmk5MjJCSTMwNEg3MVJXQW80XzM1QUc0LTk0MkNvb29sQUdmYl9MOEtqOTdiQkZETS1FWkV2RC1BNDBYMEFXUHNjRlQwMmQwMFJkRnAyOVNBYlJaVUo1UzFaVkhQdmNXaDU1Y2NKWnc?oc=5",
       "source": "ad-hoc-news.de",
       "published": "2026-10-19T00:58:49+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "d390fc1db04a400f",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Bank of East Asia stock has a 14.50 ratio versus 12.70 for BOC Hong Kong - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUJvTDcwQno5a2lOU1hWOURNWElDbFR4LTZBZkxEU2dZQk1jTndxTHdjTjU3YmN5eUllZ0huNGNub3gxVkFoY0xNM3JUZ2JOQVNmMTJYbzVUVFVVTHNCelE4bUhMZGpxMHBpWi1qTThCVUJNQ2RjX3FqN0ZlQ3h0RUJOR0VxN3VEQ0NaekVpdy03dVFsVjhBbFhpUlgzSTRWeHNmTmdPckhSbW1MZ2pBV3FfTWNKdzBud2xGa2xkeHU5cjBzWXNVY3duUQ?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-17T19:36:43+00:00",
       "logo": "logos/BOC.svg"
     },
     {
