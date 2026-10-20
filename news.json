@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-20T03:53:29Z",
+  "updated": "2026-10-20T07:06:12Z",
   "items": [
+    {
+      "id": "b1824fd30c148da3",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Top 3 Canadian Nuclear Stocks To Watch In October 2026",
+      "link": "https://finance.yahoo.com/energy/articles/top-3-canadian-nuclear-stocks-061224986.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T06:12:24+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "890ca43c8b971b01",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Eric Schmidt Wrote a Check to Anthropic Before the AI Boom: Here’s How Big the Payoff Could Get",
+      "link": "https://finance.yahoo.com/technology/ai/articles/eric-schmidt-wrote-check-anthropic-043353226.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T04:33:53+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "841f83c6c5b46a67",
       "ticker": "TSLA",
@@ -54,17 +76,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/slower-growth-outlook-change-reddit-020921936.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-20T02:09:21+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "7086b44e19f5f73b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "MIPI Alliance Announces Board Leadership Appointments",
-      "link": "https://finance.yahoo.com/technology/articles/mipi-alliance-announces-board-leadership-020700536.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T02:07:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -230,17 +241,6 @@
       "link": "https://finance.yahoo.com/energy/articles/cameco-heads-3-canadian-nuclear-042102897.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-17T04:21:02+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "464cac92feece69f",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "3 Canadian Growth Stocks With Earnings Growth Up To 67%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-earnings-001558491.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-17T00:15:58+00:00",
       "logo": "logos/CCJ.svg"
     },
     {
