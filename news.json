@@ -1,82 +1,126 @@
 {
-  "updated": "2026-10-20T19:00:32Z",
+  "updated": "2026-10-20T21:51:07Z",
   "items": [
     {
-      "id": "770862d7b0239234",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stock Market Today: Dow Jumps, Oil Falls On U.S.-Iran Hopes; GM Stock Flashes This Sell Signal (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/f3498525-5b31-3702-9e4b-aa8f358f4086/stock-market-today%3A-dow.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T18:32:29+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "984e470637a31724",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Bank of England investigates Google outage",
-      "link": "https://uk.finance.yahoo.com/news/bank-england-investigates-google-outage-182810666.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T18:28:10+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "72db81b2987f485f",
+      "id": "ae1acac48b583029",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Ed Yardeni spots a major shakeup in the S&P 500",
-      "link": "https://www.thestreet.com/investing/stocks/yardeni-sp500-mag-seven-rotation?.tsrc=rss",
+      "title": "SpaceX Pops After First-Ever Profit Easily Beats; Tesla Merger Mulled (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/3009a5a9-684d-3ea5-8387-735d1fe2c8d0/spacex-pops-after-first-ever.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-20T18:18:10+00:00",
+      "published": "2026-10-20T21:37:12+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "5c31701456fa7b7d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "link": "https://finance.yahoo.com/technology/ai/articles/eric-schmidt-reportedly-owns-half-175512820.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T17:55:12+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "829a006bfbbf22e0",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Trump’s FTC Subpoenas OpenAI and Anthropic. Inside the $500 Billion Threat Faced by Microsoft, Amazon, and Google",
-      "link": "https://www.tikr.com/blog/trumps-ftc-subpoenas-openai-and-anthropic-inside-the-500-billion-threat-faced-by-microsoft-amazon-and-google?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T17:47:41+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c4728a87cd126a53",
+      "id": "38f32d23208ad830",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "The Best \"Strong Buy\" Stocks to Buy Now During Q3 Earnings Season",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/best-strong-buy-stocks-buy-173400302.html?.tsrc=rss",
+      "title": "Dow Jones Futures Rise As SpaceX Crushes Views, Eyes Tesla Merger; Meta Looms",
+      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures-rise-as.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-20T17:34:00+00:00",
+      "published": "2026-10-20T21:34:46+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "0d637b9961b3b800",
+      "id": "0dc3b4b4c767f0b6",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Major gold holder backs NVIDIA challenger",
+      "link": "https://www.thestreet.com/crypto/business/major-gold-holder-backs-nvidia-challenger?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T21:28:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "7f427c1bc365d9e6",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
+      "source": "Simply Wall Street",
+      "published": "2026-10-20T21:27:45+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "90fedf65bdc17fd5",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Stock Market Today: Dow Jumps On U.S.-Iran Hopes; This Warren Buffett Stock Offers Entry (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/f3498525-5b31-3702-9e4b-aa8f358f4086/stock-market-today%3A-dow-jumps.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T20:48:17+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "b38b500b3b8c6154",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Kevin O'Leary Says This Is What Sets Elon Musk Apart: 'He Does Not Deal With Noise'",
-      "link": "https://finance.yahoo.com/small-business/articles/kevin-oleary-says-sets-elon-173019447.html?.tsrc=rss",
+      "title": "SpaceX Earnings Blow Past Wall Street Estimates",
+      "link": "https://finance.yahoo.com/video/spacex-earnings-blow-past-wall-204447044.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-20T17:30:19+00:00",
+      "published": "2026-10-20T20:44:47+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "25cb55ca57f4dc47",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Meta vs. Alphabet: Meta Is Better Built for AGI",
+      "link": "https://www.fool.com/investing/2026/10/20/meta-vs-alphabet-meta-is-better-built-for-agi/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T20:43:01+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "65880adc1c9806cd",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Small caps pops as market rally broadens beyond Big Tech",
+      "link": "https://finance.yahoo.com/video/small-caps-pops-as-market-rally-broadens-beyond-big-tech-202036205.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T20:20:36+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "8ac784767a71cf33",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+      "link": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T20:16:04+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "15b1307bd22607ac",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Leverage Shares Is Shutting Down 13 Single-Stock Leveraged ETFs. None Drew Enough Money to Survive",
+      "link": "https://247wallst.com/investing/etf/2026/10/20/leverage-shares-is-shutting-down-13-single-stock-leveraged-etfs-none-drew-enough-money-to-survive/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T20:03:25+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "005ccf146c1e520c",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Why Nubank (NU) Stock Is Up Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-nubank-nu-stock-today-195750570.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T19:57:50+00:00",
+      "logo": "logos/NU.svg"
     },
     {
       "id": "70ec4c775a99e202",
@@ -88,17 +132,6 @@
       "source": "News",
       "published": "2026-10-20T16:10:24+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "896fbf7b7d6ee1f3",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Q3 preview: Delivery outlook, cash flow, and a dash of merger speculation on tap",
-      "link": "https://finance.yahoo.com/markets/stocks/article/tesla-q3-preview-delivery-outlook-cash-flow-and-a-dash-of-merger-speculation-on-tap-160637755.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T16:06:37+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "cf7b0932a129c981",
@@ -123,14 +156,25 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "913f51e50c295d59",
+      "id": "e3ef3358b9997499",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Hong Kong stock: UBS target puts BOC Hong Kong stock 13.11 percent below HKD 57.50 - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQUVmazhUbFBXVFZPdGdFb0R2Q2l4MjdLTTFEN0hSTGU0dWxUanNwRVY3dl8weXlCbDJBSDRjazNqUXZfTFJHTjN2UFhuZ05nc3NfSXExRHJNVW0zb2NZQnpFRDBqNDRKcmdJd2NQcFV4MEhfalVsajNuLWI2MUNxSmRDTnlPTnkzeFJhUWJuUW52Zk9NSDRFZFJCRFh3cDhoSmxyRzJMWXRzUjIwczI0aWRaeE1oNHlSTWl1V3hUTlBYdV9oemNvQjZXSThOZUpYOWJEcUk1ZE1SZkxMdjU5YnNn?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-20T13:19:55+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "4cc7c5a0b27e1a1d",
       "ticker": "IREN",
       "symbol": "IREN",
       "company": "IREN Ltd",
-      "title": "SpaceX, GE Aerospace, GM, CoreWeave, Braze, and More Stocks That Explain Today’s Market",
-      "link": "https://finance.yahoo.com/m/141e2ad6-95bc-3e0c-9567-dff77bb4d64f/spacex%2C-ge-aerospace%2C-gm%2C.html?.tsrc=rss",
+      "title": "How Analyst Upgrade Optimism Will Impact IREN Stock Investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-upgrade-optimism-impact-iren-121139548.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-20T14:01:00+00:00",
+      "published": "2026-10-20T12:11:39+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -143,6 +187,17 @@
       "source": "News",
       "published": "2026-10-20T12:00:04+00:00",
       "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "a0def8a0bd9c61e7",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC-Prudential North Amer Idx Retail HKD (0P00018BO0.HK) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55M3lzUy1HRlpqbktkT0gwdWhCNnQwMW1MVENxb214VEFma3ZrTXhsUWE5N210dFZpUHJVOEVwVjd5X0JmVHY1OF9NNlFnVUthaUV0M1ZsRGo5UmlEZzBlbXVkeTdVUFd4bFJj?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-20T10:07:52+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "50994d533ebdd31f",
@@ -211,17 +266,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "1bc72838ecfcc2d1",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Latest News In Digital Payment",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/latest-news-digital-payment-stripe-123733400.html?.tsrc=rss",
-      "source": "Stripe and Plasma Launch Multi-Currency Stablecoin Cards",
-      "published": "2026-10-19T12:37:33+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "d3ec8b3c05a38c36",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -244,28 +288,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "3b7f6850e0716846",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC International kept HKD 6.96 target for China Telecom stock - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzlISWtuSU1hVy15dndmQWFZME1oV0VDM01WSGtjTkhTX3FlY2Zxa0ota1R6M3l6bkVBdVlIN1VsR0UwZWxRUExvVDRMOXNMV0tia1gtZHZkUmtmUkNxa1c0bDFWTEVtRGJWcGNMQmdRMEx4M3RqWnE3dXNrcVhTZVc0bHcxR0hvZGhzbkJEeHlqTWE5SmRONUI3WmV1dG5RYU9qNG5wNmlrOFh0dkVtR2NHWmMyTDJtWDUtQ0hSRzNWYVE?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-19T08:55:43+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "ca9df65d58f9e6b0",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong stock costs EUR 5.68 while first-half profit rose 7.10 percent - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUXExWDl1QUV5OEhCQ1ZIa0hhcmtOdFBXckx0YjUwSjFKSDNYU3J6NE1Ic0xmdC0taUtidk1yTFh1N3FOQi1URGYza0hoZ2VCVXBDM0lWRktXNzB5U3ZpYmE0RXRpUF9jUGlsdEJmc0lCN0VLdlBCWnQwZmpob0NhNWFBMTZDNHVneG5XRXNGSHZfVmJBNl9xb0gyQTdGdzBDeUR2UlZSSV80bnBCbXRTaFZSZkVsLTBzVHp4V3pON0JZRGEyMlA3Q2FXVQ?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-19T08:26:46+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "6bca10159098c6c8",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -275,17 +297,6 @@
       "source": "News",
       "published": "2026-10-16T21:00:05+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "f6f472022b9ae925",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "3 Growth Stocks With Revenue Growth Over 20%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-revenue-growth-081401227.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T08:14:01+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "9514f129d81a981e",
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY08xM0x4M0hiTUpNMFpna194SGM1NlJ1X0hEMUVaTHlwaVVPOXZnYzJEdHZiVXUybVg1eEFaMUU2eWZ3NU9SbUtnMmpsM08zcDZJd1VPdTJLTDduRHM2UXdwb2NWY2NlUGhUUFZQbUxzMlVIUlNyT3ItX3FBU25tMVpQOG5XaFlRZUVXNW9PMklfTDNRaTkzbmZrUXl5dXpzS1JTeWVzdHVBYmV6MUk3UVVkdFBQZ3JxX0ZvNHZlOGg4cFdqbTUzV3lQTmRzNDU2T0hVa28yUmotVGNUMUk5MQ?oc=5",
       "source": "The Globe and Mail",
       "published": "2026-10-09T02:01:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "1bc24815f4f8706c",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments Applies to Quote 625,000 Ordinary Shares Issued Under Employee Incentive Scheme - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWTJlNVpybVhfTXF4b2sxLWtJcF9QYUZfTjBmVGVmRWVyTkdOeHhCVTNmbEJXRmdoMlBOaUJlVmU1V2JOU09CRkt0NC1BUUtULU0zZG81WkFwMERYTzJqR2M2RFQ3ZkY4OWZaRjhJTElnNW1ZWDhFWnk3Rzg0cGRWOXhaNjlwTUI4T0k2aGFsS08weU5aMW1QbTBjdzZGNUdkaGhPUUtjRnhpNzN6Y1B4VmwtN0xKLU5Xc21HQ0h1WG1CaTdLc0Y4WTh0WENTdw?oc=5",
-      "source": "Kalkine",
-      "published": "2026-10-02T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
