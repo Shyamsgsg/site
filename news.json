@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-21T01:05:00Z",
+  "updated": "2026-10-21T03:53:50Z",
   "items": [
+    {
+      "id": "8a990ab216e492d1",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Nasdaq, S&P 500 Futures Climb After SpaceX’s Blowout Quarter: SMCI, NFLX, GE Stocks In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-futures-climb-after-space-x-s-blowout-quarter-smci-nflx-ge-stocks-in-focus/cZxtFA9RBHZ?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T03:38:05+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "7da101f363ce8c84",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla supplier CATL shares plunge after disappointing Q3 results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-supplier-catl-shares-plunge-031847905.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T03:18:47+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "bd2d6b082542db58",
       "ticker": "TSLA",
@@ -9,41 +31,52 @@
       "title": "Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck",
       "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-ai-stocks.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T00:49:18+00:00",
+      "published": "2026-10-21T03:07:11+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "8ff73b256d903ebf",
+      "id": "4131e124622a93fa",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "What Is The Case For Waiting On CoreWeave Stock?",
+      "link": "https://www.trefis.com/articles/619421/what-is-the-case-for-waiting-on-coreweave-stock/2026-10-20?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T02:20:11+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "908500c47b56db45",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Tech Giants May Spend $7 Trillion on AI. His $250,000 Paycheck Still Has a $65,500 Social Security Blind Spot",
+      "link": "https://247wallst.com/personal-finance/social-security/2026/10/20/tech-giants-may-spend-7-trillion-on-ai-his-250000-paycheck-still-has-a-65500-social-security-blind-spot/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T02:12:31+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "6664a81e6e8e2226",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Liquid AI CEO says AI's next big opportunity may be hiding inside your car",
-      "link": "https://www.thestreet.com/investing/stocks/liquid-ai-ceo-says-ai-next-big-opportunity-inside-car-assistant?.tsrc=rss",
+      "title": "Elon Musk Teases Tesla Merger and $1 Trillion Milestone for SpaceX",
+      "link": "https://beincrypto.com/spacex-musk-tesla-merger-q3-2026/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T00:03:00+00:00",
+      "published": "2026-10-21T02:00:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "5101c45064cfadca",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Musk Says SpaceX and Tesla Formed Committees to Discuss Potential Merger",
-      "link": "https://finance.yahoo.com/video/musk-says-spacex-tesla-formed-234400202.html?.tsrc=rss",
+      "id": "23ad05147b31db62",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "What Needs To Be True To Buy QBTS Stock Now?",
+      "link": "https://www.trefis.com/articles/619358/what-needs-to-be-true-to-buy-qbts-stock-now/2026-10-20?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-20T23:44:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "ea7279928a9f34a6",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX touts possible Tesla merger after profits soar",
-      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-touts-possible-tesla-merger-233115624.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T23:31:15+00:00",
-      "logo": "logos/TSLA.svg"
+      "published": "2026-10-21T01:16:35+00:00",
+      "logo": "logos/GOOG.svg"
     },
     {
       "id": "44b0c461a92d415b",
@@ -68,17 +101,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "0dc3b4b4c767f0b6",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Major gold holder backs NVIDIA challenger",
-      "link": "https://www.thestreet.com/crypto/business/major-gold-holder-backs-nvidia-challenger?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T21:28:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "7f427c1bc365d9e6",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -88,28 +110,6 @@
       "source": "Simply Wall Street",
       "published": "2026-10-20T21:27:45+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "749bbe9e2eb7ac5c",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-cloud-partnerships-getting-messy-212522443.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T21:25:22+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "90fedf65bdc17fd5",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stock Market Today: Dow Jumps On U.S.-Iran Hopes; This Warren Buffett Stock Offers Entry (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/f3498525-5b31-3702-9e4b-aa8f358f4086/stock-market-today%3A-dow-jumps.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T20:48:17+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "cdfda5f03195735e",
