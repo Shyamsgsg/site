@@ -1,6 +1,127 @@
 {
-  "updated": "2026-10-21T09:53:43Z",
+  "updated": "2026-10-21T13:07:19Z",
   "items": [
+    {
+      "id": "757ca1ecfa25b29a",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX Jumps 8% on Q3 Revenue Beat as Musk Backs Tesla Merger Idea; Rocket Lab and AST SpaceMobile Edge Higher",
+      "link": "https://247wallst.com/investing/2026/10/21/spacex-jumps-8-on-q3-revenue-beat-as-musk-backs-tesla-merger-idea-rocket-lab-and-ast-spacemobile-edge-higher/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T13:01:34+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a5811e62601545d9",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Stock Market Today: Tech Futures Rise With SpaceX Earnings; Meta, Tesla Set To Report Later (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/3cb9e8ae-4da0-30bd-9cec-6a0531abd9df/stock-market-today%3A-tech.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T12:53:56+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ae4fb06263783f6f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "OpenAI expands Google Cloud access as AI rivals deepen ties",
+      "link": "https://finance.yahoo.com/technology/ai/articles/openai-expands-google-cloud-access-125259315.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T12:52:59+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "028683ab75c2ee86",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Limted Crashed 40% This Month: Three Wall Street Analysts Agree It’s Going to Quadruple",
+      "link": "https://247wallst.com/investing/2026/10/21/iren-limted-crashed-40-this-month-three-wall-street-analysts-agree-its-going-to-quadruple/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T12:45:57+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "957a113dcc18edef",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "This Week In Electric Vehicles",
+      "link": "https://finance.yahoo.com/energy/articles/week-electric-vehicles-chiles-charging-123713346.html?.tsrc=rss",
+      "source": "Chile's Charging Network Fuels Strong Market Growth",
+      "published": "2026-10-21T12:37:13+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ff057d08ad2612d1",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Earnings Prediction Market Preview: Will Elon Musk Discuss a SpaceX Merger?",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62492793/tesla-earnings-musk-spacex-merger?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T12:26:45+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "3f682e53ef473026",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Anthropic Has Committed $450 Billion to Cloud Computing, Its Draft IPO Filing Shows",
+      "link": "https://247wallst.com/investing/2026/10/21/anthropic-has-committed-450-billion-to-cloud-computing-its-draft-ipo-filing-shows/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T12:23:59+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "11fb026103520dc8",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Rentomojo Announces New Furniture and Appliances for Rent for a 3BHK in Delhi in 2026: Three Bedrooms, a Six-Seater Dining Set and a Living Room for About ₹6,061 a Month Against About ₹1.55 Lakh to Buy",
+      "link": "https://finance.yahoo.com/real-estate/articles/rentomojo-announces-furniture-appliances-rent-121400194.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T12:14:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "9e6c5ac5557d2d76",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Savvy Investors Love This Often Overlooked Clue. It's Flashing Now For This Nvidia, Google Partner.",
+      "link": "https://finance.yahoo.com/m/102935b0-172b-3259-a728-d401ed48ab63/savvy-investors-love-this.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T12:01:21+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a131ac084aaac081",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "These SpaceX Earnings Call Comments Are Welcome News for CoreWeave Stock",
+      "link": "https://finance.yahoo.com/m/44db3ec0-badf-30eb-8d49-7a093c1252a4/these-spacex-earnings-call.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T11:45:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "70692ceaad56028f",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "2 Brilliant Stocks to Buy Now and Hold Forever",
+      "link": "https://www.fool.com/investing/2026/10/21/2-brilliant-stocks-to-buy-now-and-hold-forever/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T10:00:00+00:00",
+      "logo": "logos/ONON.svg"
+    },
     {
       "id": "eeb7ed2f412d5e6e",
       "ticker": "IREN",
@@ -11,94 +132,6 @@
       "source": "News",
       "published": "2026-10-21T09:35:00+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "d97519a9cb88ce31",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Warren Buffett's Successor, Greg Abel, Just Went Shopping in the Tech Sector Again!",
-      "link": "https://www.fool.com/investing/2026/10/21/warren-buffett-successor-greg-abel-just-went-shopping-in-the-tech-sector-again/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T09:26:02+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "06944912c2e8f649",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Document AI Market Size, Share, Trends, and Global Forecast to 2031 | Document AI Market Forecasts Growth from $17.51 Billion (2026) to $35.34 Billion by 2031, Profiling Google, Microsoft, IBM, ABBYY & 40 Other Key Players",
-      "link": "https://finance.yahoo.com/technology/ai/articles/document-ai-market-size-share-091200021.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T09:12:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c16418f301dbb5f0",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Edge AI Software Market Size, Share, Trends, and Global Forecast to 2032 | Generative AI Moves to the Device, Sending Edge AI Software Toward $120 Billion",
-      "link": "https://finance.yahoo.com/technology/ai/articles/edge-ai-software-market-size-090800352.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T09:08:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "2537365665a173bb",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Market Chatter: Oracle Chairman Larry Ellison Borrowed Billions to Finance Son's Warner Bros. Discovery Acquisition",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-oracle-chairman-larry-085851192.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T08:58:51+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "00ed9f8e7d5b4257",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Nasdaq Futures Rise Premarket As SpaceX AI Boom Lifts Chip Stocks: SMCI, TSLA, META, IBM, CRWV, NFLX, BE In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-rise-premarket-spacex-ai-boom-lifts-chip-stocks-smci-tsla-meta-ibm-crwv-nflx-be-in-focus/cZxtvuZRBHU?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T08:41:06+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "87545f1b57911d96",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Musk on possible SpaceX-Tesla merger; Meta to report",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/musk-possible-spacex-tesla-merger-082552026.html?.tsrc=rss",
-      "source": "what’s moving markets",
-      "published": "2026-10-21T08:25:52+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "eff8738943f4b7a2",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Dow Jones Futures: SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck",
-      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-spacex%2C.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T08:25:37+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "5c130e517aa91389",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "IBM Has a Chance to Rewrite Its Narrative. Can Earnings Spark a Comeback?",
-      "link": "https://finance.yahoo.com/m/a0d7d835-5df2-3366-bdd4-4acf3f300a8f/ibm-has-a-chance-to-rewrite.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T08:15:00+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "a5f49c646924b7e5",
@@ -123,17 +156,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "0a02fe317c7b8ac7",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN’s Childress delivery for Microsoft on track for Q4 despite delay rumors",
-      "link": "https://blockspace.media/short/irens-childress-delivery-for-microsoft-on-track-for-q4-despite-delay-rumors/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T21:56:55+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "7f427c1bc365d9e6",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -143,17 +165,6 @@
       "source": "Simply Wall Street",
       "published": "2026-10-20T21:27:45+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "cdfda5f03195735e",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "SpaceX, GE Aerospace, Micron, GM, CoreWeave, Braze, and More Stocks That Explain Today’s Market",
-      "link": "https://finance.yahoo.com/m/141e2ad6-95bc-3e0c-9567-dff77bb4d64f/spacex%2C-ge-aerospace%2C-micron%2C.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T20:33:00+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "15b1307bd22607ac",
@@ -332,17 +343,6 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "8b509fd4b8f1cb30",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "Figs (FIGS) Soars 6.5%: Is Further Upside Left in the Stock?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/figs-figs-soars-6-5-084800034.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-09T08:48:00+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
       "id": "aa229020b03127db",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -350,7 +350,7 @@
       "title": "EML Payments Records Lapse of Conditional Rights in Capital Update - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY08xM0x4M0hiTUpNMFpna194SGM1NlJ1X0hEMUVaTHlwaVVPOXZnYzJEdHZiVXUybVg1eEFaMUU2eWZ3NU9SbUtnMmpsM08zcDZJd1VPdTJLTDduRHM2UXdwb2NWY2NlUGhUUFZQbUxzMlVIUlNyT3ItX3FBU25tMVpQOG5XaFlRZUVXNW9PMklfTDNRaTkzbmZrUXl5dXpzS1JTeWVzdHVBYmV6MUk3UVVkdFBQZ3JxX0ZvNHZlOGg4cFdqbTUzV3lQTmRzNDU2T0hVa28yUmotVGNUMUk5MQ?oc=5",
       "source": "The Globe and Mail",
-      "published": "2026-10-09T02:01:00+00:00",
+      "published": "2026-10-08T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
