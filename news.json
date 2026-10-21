@@ -1,38 +1,82 @@
 {
-  "updated": "2026-10-21T03:53:50Z",
+  "updated": "2026-10-21T07:08:11Z",
   "items": [
     {
-      "id": "8a990ab216e492d1",
+      "id": "2591161ea9a7808c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Technological Sovereignty Takes Centre Stage as EU Tech Chief Henna Virkkunen Addresses UnitedXR Europe",
+      "link": "https://finance.yahoo.com/technology/articles/technological-sovereignty-takes-centre-stage-070000231.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T07:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "c61a8836ba8d49f3",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Nasdaq, S&P 500 Futures Climb After SpaceX’s Blowout Quarter: SMCI, NFLX, GE Stocks In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-futures-climb-after-space-x-s-blowout-quarter-smci-nflx-ge-stocks-in-focus/cZxtFA9RBHZ?.tsrc=rss",
+      "title": "Will Tesla’s New Flying Roadster Send the Stock Flying?",
+      "link": "https://www.fool.com/investing/2026/10/21/will-tesla-s-new-flying-roadster-send-the-stock-flying/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T03:38:05+00:00",
+      "published": "2026-10-21T06:50:01+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "7da101f363ce8c84",
+      "id": "e85ab30b17fe6aac",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla supplier CATL shares plunge after disappointing Q3 results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-supplier-catl-shares-plunge-031847905.html?.tsrc=rss",
+      "title": "Cathie Wood's Ark Invest Grew Its Portfolio to $15.4 Billion Last Quarter, With Tesla, AMD, and a New SpaceX Stake Making Up About 18% of ARKK Assets. Is Her Concentrated Bet Paying Off?",
+      "link": "https://www.fool.com/investing/2026/10/21/cathie-woods-ark-invest-grew-its-portfolio-to-154/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T03:18:47+00:00",
+      "published": "2026-10-21T06:20:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "bd2d6b082542db58",
+      "id": "bf5928975aa39343",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "The Top 15 Stocks in the S&P 500 Are Now 47% of the Value. In 2000 Bubble, It Was 27%",
+      "link": "https://beincrypto.com/top-15-stocks-sp-500-record/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T06:12:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "71699caff3fc5fdb",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck",
-      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-ai-stocks.html?.tsrc=rss",
+      "title": "Elon Musk says talks ongoing to merge Tesla and SpaceX",
+      "link": "https://www.independent.co.uk/tech/tesla-spacex-merger-value-elon-musk-b3070384.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T03:07:11+00:00",
+      "published": "2026-10-21T05:46:17+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "bd2207c15e23b7e4",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "3 AI Infrastructure Stocks Investors Are Watching After Elon Musk Floated A SpaceX Tesla Tie Up",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-investors-051546903.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T05:15:46+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "1a6448252c52106a",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "SpaceX Can't Find Spare Nvidia, Google or Amazon Chips Despite Billions to Spend, Strategist Terms It 'Pretty Insane'",
+      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-cant-spare-nvidia-google-041409215.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T04:14:09+00:00",
+      "logo": "logos/GOOG.svg"
     },
     {
       "id": "4131e124622a93fa",
@@ -46,50 +90,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "908500c47b56db45",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Tech Giants May Spend $7 Trillion on AI. His $250,000 Paycheck Still Has a $65,500 Social Security Blind Spot",
-      "link": "https://247wallst.com/personal-finance/social-security/2026/10/20/tech-giants-may-spend-7-trillion-on-ai-his-250000-paycheck-still-has-a-65500-social-security-blind-spot/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T02:12:31+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "6664a81e6e8e2226",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Teases Tesla Merger and $1 Trillion Milestone for SpaceX",
-      "link": "https://beincrypto.com/spacex-musk-tesla-merger-q3-2026/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T02:00:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "23ad05147b31db62",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "What Needs To Be True To Buy QBTS Stock Now?",
-      "link": "https://www.trefis.com/articles/619358/what-needs-to-be-true-to-buy-qbts-stock-now/2026-10-20?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T01:16:35+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "44b0c461a92d415b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Amazon vs Alphabet: Which \"Magnificent Seven\" Stock Is the Better Buy Right Now?",
-      "link": "https://www.fool.com/investing/2026/10/20/amazon-vs-alphabet-which-magnificent-seven-stock-is-the-better-buy-right-now/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T22:15:02+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "c282f2e28e0925c0",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -98,6 +98,17 @@
       "link": "https://www.fool.com/coverage/stock-market-today/2026/10/20/stock-market-today-oct-20-iren-slides-on-funding-worries-and-rate-fears/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-20T22:00:01+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "0a02fe317c7b8ac7",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN’s Childress delivery for Microsoft on track for Q4 despite delay rumors",
+      "link": "https://blockspace.media/short/irens-childress-delivery-for-microsoft-on-track-for-q4-despite-delay-rumors/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T21:56:55+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -156,17 +167,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "70ec4c775a99e202",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "3 AI Stocks With Revenue Growth Over 6%",
-      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-revenue-growth-161024425.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T16:10:24+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "e3ef3358b9997499",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -187,6 +187,17 @@
       "source": "News",
       "published": "2026-10-20T12:00:04+00:00",
       "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "a0def8a0bd9c61e7",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC-Prudential North Amer Idx Retail HKD (0P00018BO0.HK) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55M3lzUy1HRlpqbktkT0gwdWhCNnQwMW1MVENxb214VEFma3ZrTXhsUWE5N210dFZpUHJVOEVwVjd5X0JmVHY1OF9NNlFnVUthaUV0M1ZsRGo5UmlEZzBlbXVkeTdVUFd4bFJj?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-20T10:07:52+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "50994d533ebdd31f",
@@ -277,17 +288,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "3b7f6850e0716846",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC International kept HKD 6.96 target for China Telecom stock - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzlISWtuSU1hVy15dndmQWFZME1oV0VDM01WSGtjTkhTX3FlY2Zxa0ota1R6M3l6bkVBdVlIN1VsR0UwZWxRUExvVDRMOXNMV0tia1gtZHZkUmtmUkNxa1c0bDFWTEVtRGJWcGNMQmdRMEx4M3RqWnE3dXNrcVhTZVc0bHcxR0hvZGhzbkJEeHlqTWE5SmRONUI3WmV1dG5RYU9qNG5wNmlrOFh0dkVtR2NHWmMyTDJtWDUtQ0hSRzNWYVE?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-19T08:55:43+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "6bca10159098c6c8",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -350,7 +350,7 @@
       "title": "EML Payments Records Lapse of Conditional Rights in Capital Update - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY08xM0x4M0hiTUpNMFpna194SGM1NlJ1X0hEMUVaTHlwaVVPOXZnYzJEdHZiVXUybVg1eEFaMUU2eWZ3NU9SbUtnMmpsM08zcDZJd1VPdTJLTDduRHM2UXdwb2NWY2NlUGhUUFZQbUxzMlVIUlNyT3ItX3FBU25tMVpQOG5XaFlRZUVXNW9PMklfTDNRaTkzbmZrUXl5dXpzS1JTeWVzdHVBYmV6MUk3UVVkdFBQZ3JxX0ZvNHZlOGg4cFdqbTUzV3lQTmRzNDU2T0hVa28yUmotVGNUMUk5MQ?oc=5",
       "source": "The Globe and Mail",
-      "published": "2026-10-08T07:00:00+00:00",
+      "published": "2026-10-09T02:01:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
