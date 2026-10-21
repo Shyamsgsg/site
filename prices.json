@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-21T05:56:46+00:00",
+  "updated": "2026-10-21T06:25:50+00:00",
   "source": "Yahoo Finance (query1.finance.yahoo.com/v8/finance/chart)",
   "fx": {
-    "AUDUSD": 0.7015,
-    "AUDUSD_change_pct": 0.4611,
-    "USDSGD": 1.278,
-    "USDSGD_change_pct": -0.136
+    "AUDUSD": 0.7017,
+    "AUDUSD_change_pct": 0.4898,
+    "USDSGD": 1.2779,
+    "USDSGD_change_pct": -0.1438
   },
   "quotes": {
     "NU": {
@@ -99,23 +99,23 @@
       "stale": false
     },
     "AUDUSD=X": {
-      "price": 0.7015,
+      "price": 0.7017,
       "previous_close": 0.69828,
-      "change_pct": 0.4611,
+      "change_pct": 0.4898,
       "currency": "USD",
       "exchange": "CCY",
       "long_name": "AUD/USD",
-      "market_time": "2026-10-21T05:55:26+00:00",
+      "market_time": "2026-10-21T06:25:27+00:00",
       "stale": false
     },
     "SGD=X": {
-      "price": 1.278,
+      "price": 1.2779,
       "previous_close": 1.27974,
-      "change_pct": -0.136,
+      "change_pct": -0.1438,
       "currency": "SGD",
       "exchange": "CCY",
       "long_name": "USD/SGD",
-      "market_time": "2026-10-21T05:56:45+00:00",
+      "market_time": "2026-10-21T06:25:48+00:00",
       "stale": false
     },
     "^GSPC": {
