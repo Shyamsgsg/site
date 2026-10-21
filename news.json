@@ -1,27 +1,71 @@
 {
-  "updated": "2026-10-20T21:51:07Z",
+  "updated": "2026-10-21T01:05:00Z",
   "items": [
     {
-      "id": "ae1acac48b583029",
+      "id": "bd2d6b082542db58",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "SpaceX Pops After First-Ever Profit Easily Beats; Tesla Merger Mulled (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/3009a5a9-684d-3ea5-8387-735d1fe2c8d0/spacex-pops-after-first-ever.html?.tsrc=rss",
+      "title": "Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck",
+      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-ai-stocks.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-20T21:37:12+00:00",
+      "published": "2026-10-21T00:49:18+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "38f32d23208ad830",
+      "id": "8ff73b256d903ebf",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Dow Jones Futures Rise As SpaceX Crushes Views, Eyes Tesla Merger; Meta Looms",
-      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures-rise-as.html?.tsrc=rss",
+      "title": "Liquid AI CEO says AI's next big opportunity may be hiding inside your car",
+      "link": "https://www.thestreet.com/investing/stocks/liquid-ai-ceo-says-ai-next-big-opportunity-inside-car-assistant?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-20T21:34:46+00:00",
+      "published": "2026-10-21T00:03:00+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "5101c45064cfadca",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Musk Says SpaceX and Tesla Formed Committees to Discuss Potential Merger",
+      "link": "https://finance.yahoo.com/video/musk-says-spacex-tesla-formed-234400202.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T23:44:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ea7279928a9f34a6",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX touts possible Tesla merger after profits soar",
+      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-touts-possible-tesla-merger-233115624.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T23:31:15+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "44b0c461a92d415b",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Amazon vs Alphabet: Which \"Magnificent Seven\" Stock Is the Better Buy Right Now?",
+      "link": "https://www.fool.com/investing/2026/10/20/amazon-vs-alphabet-which-magnificent-seven-stock-is-the-better-buy-right-now/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T22:15:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "c282f2e28e0925c0",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Stock Market Today, Oct. 20: IREN Slides on Funding Worries and Rate Fears",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/20/stock-market-today-oct-20-iren-slides-on-funding-worries-and-rate-fears/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T22:00:01+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "0dc3b4b4c767f0b6",
@@ -46,6 +90,17 @@
       "logo": "logos/EML.svg"
     },
     {
+      "id": "749bbe9e2eb7ac5c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-cloud-partnerships-getting-messy-212522443.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T21:25:22+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
       "id": "90fedf65bdc17fd5",
       "ticker": "GOOG",
       "symbol": "GOOG",
@@ -57,48 +112,15 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "b38b500b3b8c6154",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX Earnings Blow Past Wall Street Estimates",
-      "link": "https://finance.yahoo.com/video/spacex-earnings-blow-past-wall-204447044.html?.tsrc=rss",
+      "id": "cdfda5f03195735e",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "SpaceX, GE Aerospace, Micron, GM, CoreWeave, Braze, and More Stocks That Explain Today’s Market",
+      "link": "https://finance.yahoo.com/m/141e2ad6-95bc-3e0c-9567-dff77bb4d64f/spacex%2C-ge-aerospace%2C-micron%2C.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-20T20:44:47+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "25cb55ca57f4dc47",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Meta vs. Alphabet: Meta Is Better Built for AGI",
-      "link": "https://www.fool.com/investing/2026/10/20/meta-vs-alphabet-meta-is-better-built-for-agi/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T20:43:01+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "65880adc1c9806cd",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Small caps pops as market rally broadens beyond Big Tech",
-      "link": "https://finance.yahoo.com/video/small-caps-pops-as-market-rally-broadens-beyond-big-tech-202036205.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T20:20:36+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "8ac784767a71cf33",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
-      "link": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T20:16:04+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-10-20T20:33:00+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "15b1307bd22607ac",
@@ -123,6 +145,17 @@
       "logo": "logos/NU.svg"
     },
     {
+      "id": "ba8d0b2677f5295f",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN’s Childress Timeline, the Hidden Forces Behind AI Builds, Data Center CAPEX is Rising",
+      "link": "https://blockspace.media/podcast/irens-childress-timeline-the-hidden-forces-behind-ai-builds-data-center-capex-is-rising/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-20T19:40:52+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
       "id": "70ec4c775a99e202",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -131,28 +164,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-revenue-growth-161024425.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-20T16:10:24+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "cf7b0932a129c981",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Sinks 6%, Then Recovers After Co-CEO’s No-Debt Reassurance as Neocloud Worries Persist; TeraWulf and Applied Digital Rise 3%",
-      "link": "https://247wallst.com/investing/2026/10/20/iren-sinks-6-then-recovers-after-co-ceos-no-debt-reassurance-as-neocloud-worries-persist-terawulf-and-applied-digital-rise-3/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T14:39:12+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "9485148b17f38235",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "BC-Most Active Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143041178.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T14:30:41+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -167,17 +178,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "4cc7c5a0b27e1a1d",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "How Analyst Upgrade Optimism Will Impact IREN Stock Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-upgrade-optimism-impact-iren-121139548.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T12:11:39+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "4333ae90adf9f72e",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -187,17 +187,6 @@
       "source": "News",
       "published": "2026-10-20T12:00:04+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "a0def8a0bd9c61e7",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC-Prudential North Amer Idx Retail HKD (0P00018BO0.HK) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55M3lzUy1HRlpqbktkT0gwdWhCNnQwMW1MVENxb214VEFma3ZrTXhsUWE5N210dFZpUHJVOEVwVjd5X0JmVHY1OF9NNlFnVUthaUV0M1ZsRGo5UmlEZzBlbXVkeTdVUFd4bFJj?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-10-20T10:07:52+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "50994d533ebdd31f",
@@ -288,6 +277,17 @@
       "logo": "logos/CCJ.svg"
     },
     {
+      "id": "3b7f6850e0716846",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC International kept HKD 6.96 target for China Telecom stock - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzlISWtuSU1hVy15dndmQWFZME1oV0VDM01WSGtjTkhTX3FlY2Zxa0ota1R6M3l6bkVBdVlIN1VsR0UwZWxRUExvVDRMOXNMV0tia1gtZHZkUmtmUkNxa1c0bDFWTEVtRGJWcGNMQmdRMEx4M3RqWnE3dXNrcVhTZVc0bHcxR0hvZGhzbkJEeHlqTWE5SmRONUI3WmV1dG5RYU9qNG5wNmlrOFh0dkVtR2NHWmMyTDJtWDUtQ0hSRzNWYVE?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-19T08:55:43+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "6bca10159098c6c8",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -350,7 +350,7 @@
       "title": "EML Payments Records Lapse of Conditional Rights in Capital Update - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY08xM0x4M0hiTUpNMFpna194SGM1NlJ1X0hEMUVaTHlwaVVPOXZnYzJEdHZiVXUybVg1eEFaMUU2eWZ3NU9SbUtnMmpsM08zcDZJd1VPdTJLTDduRHM2UXdwb2NWY2NlUGhUUFZQbUxzMlVIUlNyT3ItX3FBU25tMVpQOG5XaFlRZUVXNW9PMklfTDNRaTkzbmZrUXl5dXpzS1JTeWVzdHVBYmV6MUk3UVVkdFBQZ3JxX0ZvNHZlOGg4cFdqbTUzV3lQTmRzNDU2T0hVa28yUmotVGNUMUk5MQ?oc=5",
       "source": "The Globe and Mail",
-      "published": "2026-10-09T02:01:00+00:00",
+      "published": "2026-10-08T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
