@@ -1,93 +1,115 @@
 {
-  "updated": "2026-10-21T15:55:20Z",
+  "updated": "2026-10-21T19:01:52Z",
   "items": [
     {
-      "id": "50f22cbc50ef407f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet Slips 2% Despite NASDAQ Rally as Pichai Says Google Cloud Is Giving Up Revenue for AI Capacity; Amazon Dips, Microsoft Holds Steady",
-      "link": "https://247wallst.com/investing/2026/10/21/alphabet-slips-2-despite-nasdaq-rally-as-pichai-says-google-cloud-is-giving-up-revenue-for-ai-capacity-amazon-dips-microsoft-holds-steady/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T15:48:39+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "730a6f41bb883206",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet (GOOGL): Does Its Valuation Account for Waymo’s Potential?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-does-valuation-account-134949535.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T15:36:49+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "7bdc1cae585eb21b",
+      "id": "b942273739871433",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Elon Musk Can Build Terafab Faster Than Anyone, but Mass Production May Take Until 2030, Analyst Says",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62501365/tesla-terafab-mass-production-2030?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "title": "The simple reason JPMorgan thinks SpaceX will triple: It's going after a $28 trillion market",
+      "link": "https://finance.yahoo.com/technology/article/the-simple-reason-jpmorgan-thinks-spacex-will-triple-its-going-after-a-28-trillion-market-183620489.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T15:33:23+00:00",
+      "published": "2026-10-21T18:36:20+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "e6de724759a1230d",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "The Magnificent Seven Need to Tell a Story Along With an Earnings Beat",
-      "link": "https://finance.yahoo.com/m/ebf1daf4-c8e3-3b0e-b524-02a1d7ce5573/the-magnificent-seven-need-to.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T15:32:54+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "5ad6b91ab4592c47",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "If This Magnificent Seven Stock Doubles, Here’s What $10,000 Could Become",
-      "link": "https://247wallst.com/investing/2026/10/21/if-this-magnificent-seven-stock-doubles-heres-what-10000-could-become/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T15:30:29+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "a91b75df31fc1b7e",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Musk says SpaceX-Tesla merger has \"a lot of merit.\" Here's why.",
-      "link": "https://www.cbsnews.com/news/elon-musk-tesla-spacex-merger/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T15:29:08+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "12aa70ccf34940a2",
+      "id": "c388314befa3a08c",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Amazon vs. Alphabet: Is GOOGL’s Cloud Growth Being Undervalued?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-vs-alphabet-googl-cloud-151741846.html?.tsrc=rss",
+      "title": "Stock Market Today: Nasdaq Leads Dow With Meta Earnings Ahead; ExxonMobil Near New High (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/3cb9e8ae-4da0-30bd-9cec-6a0531abd9df/stock-market-today%3A-nasdaq.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T15:17:41+00:00",
+      "published": "2026-10-21T18:36:17+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "1e1026a60a75d7a8",
+      "id": "7ef7821d8bd54d75",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "A Once-in-a-Generation Opportunity: 1 Artificial Intelligence (AI) Stock to Buy Before it Soars 1,233%, According to Cathie Wood",
+      "link": "https://www.fool.com/investing/2026/10/21/1-artificial-intelligence-ai-stock-to-buy-before-i/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T18:35:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "bc8e59603a34080c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "For Tesla, This Is the Most Important Number",
+      "link": "https://finance.yahoo.com/m/0218f0b8-f806-3b10-a5ad-dca3d11e832b/for-tesla%2C-this-is-the-most.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T18:22:52+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "edaca930d5e0f7bb",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Musk Says SpaceX, Tesla Merger Makes Sense",
+      "link": "https://finance.yahoo.com/video/musk-says-spacex-tesla-merger-181731919.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T18:17:31+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c1cc6c06ac072ae7",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "TeraWulf Jumps 8% as CEO Says Power Demand Remains ‘Extremely Strong’; Applied Digital Surges 9%, IREN Climbs 6%",
+      "link": "https://247wallst.com/investing/2026/10/21/terawulf-jumps-8-as-ceo-says-power-demand-remains-extremely-strong-applied-digital-surges-9-iren-climbs-6/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T18:09:15+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "4a1e7f609dfcd0a0",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Anthropic Has Locked In Over $600 Billion of Computing, More Than Intel Is Worth. It Still Wants More and That’s Big News for AMD.",
-      "link": "https://247wallst.com/investing/2026/10/21/anthropic-has-locked-in-over-600-billion-of-computing-more-than-intel-is-worth-it-still-wants-more-and-thats-big-news-for-amd/?.tsrc=rss",
+      "title": "Cars Are Changing. How GM Plans to Win in the Age of AI and EVs.",
+      "link": "https://finance.yahoo.com/m/746a2c9b-e10f-3c32-8d6c-c451c2405ab5/cars-are-changing.-how-gm.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T15:16:20+00:00",
+      "published": "2026-10-21T18:00:00+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "6e439c6f3680b88d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Amazon or Alphabet: If I Could Only Own One for the Next Decade, It Would Be This One",
+      "link": "https://www.fool.com/investing/2026/10/21/amazon-or-alphabet-if-i-could-only-own-one-for-the/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T17:50:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "f9551b5a0b7dbb78",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Model Moats: The Vanishing Weight and the Price of the Watt",
+      "link": "https://finance.yahoo.com/technology/ai/articles/model-moats-vanishing-weight-price-170809352.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T17:08:09+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "5837de6b47bc9341",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Neoclouds in the ‘Penalty Box’: How SpaceX Pricing Could Help CoreWeave Rebound",
+      "link": "https://finance.yahoo.com/m/44db3ec0-badf-30eb-8d49-7a093c1252a4/neoclouds-in-the-%E2%80%98penalty.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T17:01:00+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "9af2a97a441c6c83",
@@ -101,14 +123,14 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "5837de6b47bc9341",
+      "id": "974c1eae83a0188d",
       "ticker": "IREN",
       "symbol": "IREN",
       "company": "IREN Ltd",
-      "title": "Neoclouds in the ‘Penalty Box’: How SpaceX Pricing Could Help CoreWeave Rebound",
-      "link": "https://finance.yahoo.com/m/44db3ec0-badf-30eb-8d49-7a093c1252a4/neoclouds-in-the-%E2%80%98penalty.html?.tsrc=rss",
+      "title": "IREN secures license for 300 MW data center in Spain",
+      "link": "https://blockspace.media/insight/iren-secures-badajoz-campus-license/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T14:27:00+00:00",
+      "published": "2026-10-21T13:57:21+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -120,28 +142,6 @@
       "link": "https://247wallst.com/investing/2026/10/21/data-center-stocks-rise-as-iren-plans-300mw-ai-campus-in-spain-iren-and-cipher-digital-gain-4-core-scientific-climbs-3/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-21T13:42:21+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "62e4a4735c2b46d2",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Stock Rises: AI Cloud Provider Plans 300MW AI Campus In Spain For 2028",
-      "link": "https://stocktwits.com/news-articles/markets/equity/iren-stock-spain-ai-campus-launch-2028/cZxMTrDRBva?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T13:00:05+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "028683ab75c2ee86",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Limted Crashed 40% This Month: Three Wall Street Analysts Agree It’s Going to Quadruple",
-      "link": "https://247wallst.com/investing/2026/10/21/iren-limted-crashed-40-this-month-three-wall-street-analysts-agree-its-going-to-quadruple/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T12:45:57+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -233,17 +233,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "a0def8a0bd9c61e7",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC-Prudential North Amer Idx Retail HKD (0P00018BO0.HK) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55M3lzUy1HRlpqbktkT0gwdWhCNnQwMW1MVENxb214VEFma3ZrTXhsUWE5N210dFZpUHJVOEVwVjd5X0JmVHY1OF9NNlFnVUthaUV0M1ZsRGo5UmlEZzBlbXVkeTdVUFd4bFJj?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-10-20T10:07:52+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "50994d533ebdd31f",
       "ticker": "NU",
       "symbol": "NU",
@@ -253,6 +242,17 @@
       "source": "News",
       "published": "2026-10-20T09:01:50+00:00",
       "logo": "logos/NU.svg"
+    },
+    {
+      "id": "09eb0781125cbe35",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Fitch affirms A+ rating for BOC Hong Kong stock - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzl1eGVUUzMtNzZaUGx1TXZoUWxGdEFpZjh6ZUFPQkdnMU5YbVRoTHliNVJxd0tiOUIwamZ2czRRQlRsRTdZajlWV1NSSHcxWHpnSDhhQXI4cWdHM2hRbEVfMjM5SGlfd2VBSVlaN0JBTm9YOWNVXzMzTlBxSng3b2tpNWdnZ1RvYXAyWGIyZGcyRUlYNVZjVmxRQnBZT2R0aGkzWXpHdnhrWjlUU0E?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-20T07:54:37+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "b1824fd30c148da3",
