@@ -1,93 +1,115 @@
 {
-  "updated": "2026-10-21T07:08:11Z",
+  "updated": "2026-10-21T09:53:43Z",
   "items": [
     {
-      "id": "2591161ea9a7808c",
+      "id": "eeb7ed2f412d5e6e",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "European Ecosystem Builds World’s Most Efficient AI Factories With NVIDIA DSX",
+      "link": "https://finance.yahoo.com/technology/ai/articles/european-ecosystem-builds-world-most-093500135.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T09:35:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "d97519a9cb88ce31",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Technological Sovereignty Takes Centre Stage as EU Tech Chief Henna Virkkunen Addresses UnitedXR Europe",
-      "link": "https://finance.yahoo.com/technology/articles/technological-sovereignty-takes-centre-stage-070000231.html?.tsrc=rss",
+      "title": "Warren Buffett's Successor, Greg Abel, Just Went Shopping in the Tech Sector Again!",
+      "link": "https://www.fool.com/investing/2026/10/21/warren-buffett-successor-greg-abel-just-went-shopping-in-the-tech-sector-again/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T07:00:00+00:00",
+      "published": "2026-10-21T09:26:02+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "c61a8836ba8d49f3",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Will Tesla’s New Flying Roadster Send the Stock Flying?",
-      "link": "https://www.fool.com/investing/2026/10/21/will-tesla-s-new-flying-roadster-send-the-stock-flying/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T06:50:01+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "e85ab30b17fe6aac",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Cathie Wood's Ark Invest Grew Its Portfolio to $15.4 Billion Last Quarter, With Tesla, AMD, and a New SpaceX Stake Making Up About 18% of ARKK Assets. Is Her Concentrated Bet Paying Off?",
-      "link": "https://www.fool.com/investing/2026/10/21/cathie-woods-ark-invest-grew-its-portfolio-to-154/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T06:20:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "bf5928975aa39343",
+      "id": "06944912c2e8f649",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "The Top 15 Stocks in the S&P 500 Are Now 47% of the Value. In 2000 Bubble, It Was 27%",
-      "link": "https://beincrypto.com/top-15-stocks-sp-500-record/?.tsrc=rss",
+      "title": "Document AI Market Size, Share, Trends, and Global Forecast to 2031 | Document AI Market Forecasts Growth from $17.51 Billion (2026) to $35.34 Billion by 2031, Profiling Google, Microsoft, IBM, ABBYY & 40 Other Key Players",
+      "link": "https://finance.yahoo.com/technology/ai/articles/document-ai-market-size-share-091200021.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T06:12:00+00:00",
+      "published": "2026-10-21T09:12:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "71699caff3fc5fdb",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk says talks ongoing to merge Tesla and SpaceX",
-      "link": "https://www.independent.co.uk/tech/tesla-spacex-merger-value-elon-musk-b3070384.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T05:46:17+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "bd2207c15e23b7e4",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "3 AI Infrastructure Stocks Investors Are Watching After Elon Musk Floated A SpaceX Tesla Tie Up",
-      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-investors-051546903.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T05:15:46+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "1a6448252c52106a",
+      "id": "c16418f301dbb5f0",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "SpaceX Can't Find Spare Nvidia, Google or Amazon Chips Despite Billions to Spend, Strategist Terms It 'Pretty Insane'",
-      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-cant-spare-nvidia-google-041409215.html?.tsrc=rss",
+      "title": "Edge AI Software Market Size, Share, Trends, and Global Forecast to 2032 | Generative AI Moves to the Device, Sending Edge AI Software Toward $120 Billion",
+      "link": "https://finance.yahoo.com/technology/ai/articles/edge-ai-software-market-size-090800352.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T04:14:09+00:00",
+      "published": "2026-10-21T09:08:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "4131e124622a93fa",
+      "id": "2537365665a173bb",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Market Chatter: Oracle Chairman Larry Ellison Borrowed Billions to Finance Son's Warner Bros. Discovery Acquisition",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-oracle-chairman-larry-085851192.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T08:58:51+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "00ed9f8e7d5b4257",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Nasdaq Futures Rise Premarket As SpaceX AI Boom Lifts Chip Stocks: SMCI, TSLA, META, IBM, CRWV, NFLX, BE In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-rise-premarket-spacex-ai-boom-lifts-chip-stocks-smci-tsla-meta-ibm-crwv-nflx-be-in-focus/cZxtvuZRBHU?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T08:41:06+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "87545f1b57911d96",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Musk on possible SpaceX-Tesla merger; Meta to report",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/musk-possible-spacex-tesla-merger-082552026.html?.tsrc=rss",
+      "source": "what’s moving markets",
+      "published": "2026-10-21T08:25:52+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "eff8738943f4b7a2",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Dow Jones Futures: SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck",
+      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-spacex%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T08:25:37+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "5c130e517aa91389",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "What Is The Case For Waiting On CoreWeave Stock?",
-      "link": "https://www.trefis.com/articles/619421/what-is-the-case-for-waiting-on-coreweave-stock/2026-10-20?.tsrc=rss",
+      "title": "IBM Has a Chance to Rewrite Its Narrative. Can Earnings Spark a Comeback?",
+      "link": "https://finance.yahoo.com/m/a0d7d835-5df2-3366-bdd4-4acf3f300a8f/ibm-has-a-chance-to-rewrite.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T02:20:11+00:00",
+      "published": "2026-10-21T08:15:00+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a5f49c646924b7e5",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Goldman Sachs raises target for BOC Hong Kong stock to HKD 59.70 - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN3AzbHpYdDE5N1dIRk9ySGdzYVFLb0Iwemo5MU1mM01OQUpnT3V0a19SMVRFSjJWdEFjLU1tUWVIUnJPY1g5b1JCaUZsSzN6ZUhzdFRKZWExZHItVVNadE9FS3VMazhQS2NwY1hrV3BNdl9weEZTUVoxUDhKU0RRWS0wQk9TWS1wb2ppeG50cFZmTlNrTm5DYjhsSVNTWTZsOWRqaEJTY25rNnFiMFdPTC1zMFRtdXQ2QlNCUkl4LUVSWTRhNmc?oc=5",
+      "source": "AD HOC NEWS",
+      "published": "2026-10-21T08:09:37+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "c282f2e28e0925c0",
@@ -154,17 +176,6 @@
       "source": "News",
       "published": "2026-10-20T19:57:50+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "ba8d0b2677f5295f",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN’s Childress Timeline, the Hidden Forces Behind AI Builds, Data Center CAPEX is Rising",
-      "link": "https://blockspace.media/podcast/irens-childress-timeline-the-hidden-forces-behind-ai-builds-data-center-capex-is-rising/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T19:40:52+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "e3ef3358b9997499",
@@ -253,17 +264,6 @@
       "source": "News",
       "published": "2026-10-20T02:40:42+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "f9882b888fc359a8",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong stock: Price-to-earnings ratio stands at 12.7 for BOC Hong Kong stock - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMzhzODBRLVFYNHJSNkh4Z2ZyLVN0MjF6OXdCSWp3bWlZSjhYcm9BanZJZ3E1Y0otV04xR0t0bC1nbmRSaC04c3dNSmlzZnVIckoyUFhlUUhubU9oRk0tOGEzbEpUdUs0SjRmWnFnblpDRHpVamRpcjFudVdPcTBQQUVOOU5fdWdtTEx0Qk1Vc0R5c3NuZVZQZmI3QjhsRzM4WHh6YW9UZC1SMnhoQUpHcjB0ME1zcHY5aDhJbFVTcXBQY3Zkc2dBd3NjMVFxNDZCQVMzMmpkSmRjclNaQ1E?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-19T14:17:55+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "d3ec8b3c05a38c36",
