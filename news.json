@@ -1,93 +1,137 @@
 {
-  "updated": "2026-10-22T19:01:34Z",
+  "updated": "2026-10-22T21:50:54Z",
   "items": [
     {
-      "id": "c7ac257f7fe2979b",
+      "id": "f693e59637497a99",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Musk wants to merge SpaceX and Tesla: Here's what to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/musks-wants-merge-spacex-tesla-205406983.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T21:10:54+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "452c3fb4dd4192fb",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Stock Market Today, Oct. 22: CoreWeave Slides on Bernstein Downgrade and Financing Worries",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/22/stock-market-today-oct-22-coreweave-slides-on-bernstein-downgrade-and-financing-worries/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T21:09:31+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "edb7a10aab80df9f",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla, SpaceX, Meta, Lockheed Martin, Lam Research, Spotify, and More Stocks That Explain Today’s Market",
+      "link": "https://finance.yahoo.com/m/add35572-856e-31cb-981d-91d3cc20d822/tesla%2C-spacex%2C-meta%2C-lockheed.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T20:53:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c0a0abc81f787ba7",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Meta, AI Stocks Tumble As AI Spending Fears Reignite",
-      "link": "https://finance.yahoo.com/m/c3b6ab41-5e55-3fb0-9139-d427005fd0e6/meta%2C-ai-stocks-tumble-as-ai.html?.tsrc=rss",
+      "title": "Meta Eyes an Early Equity Deal for Its AI War Chest—and Berkshire Could Be a Buyer",
+      "link": "https://finance.yahoo.com/m/640c88c4-a539-3735-a0ee-746427e88883/meta-eyes-an-early-equity.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T18:29:20+00:00",
+      "published": "2026-10-22T20:44:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "fe97636408e4cbff",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Early SpaceX investor Diamandis: Elon’s empire could hit $1 trillion revenue by 2028-29",
-      "link": "https://247wallst.com/investing/2026/10/22/early-spacex-investor-diamandis-elons-empire-could-hit-1-trillion-revenue-by-2028-29/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T18:20:49+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "275e6a2d4bd7be97",
+      "id": "d35df3480bbfe261",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "IBM Is America’s Worst Big Tech Company",
-      "link": "https://247wallst.com/investing/2026/10/22/ibm-is-americas-worst-big-tech-company-5/?.tsrc=rss",
+      "title": "Roundtable CEO, Coinbase's D'Agostino discuss USDC \"forcing function\" partnership",
+      "link": "https://www.thestreet.com/crypto/innovation/roundtable-ceo-coinbases-dagostino-discuss-usdc-forcing-function-partnership?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T18:15:38+00:00",
+      "published": "2026-10-22T20:39:53+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "fa0af523b38aaa74",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
-      "link": "https://decrypt.co/381624/teslas-profit-drops-musk-robots-driverless-cabs?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T18:06:02+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "9034be417c781b1a",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tech market, housing market, hotels & handbags",
-      "link": "https://finance.yahoo.com/video/tech-market-housing-market-hotels--handbags-175606154.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T17:56:06+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "e38617973ccd8e5a",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "CLSA Says SpaceX Merger Buzz Overshadows Tesla’s Concerns, But Musk’s Public Endorsement Could Reportedly Complicate Deal Talks",
-      "link": "https://stocktwits.com/news-articles/markets/equity/spacex-tesla-merger-buzz-musk-public-endorsement-could-complicate-deal-talks/cZxwiYoRBD9?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T17:53:12+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "be046e8053b5f8b0",
+      "id": "7dc783fae9a7eb1f",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Investors are punishing Big Tech's biggest spenders. Meta is the latest casualty.",
-      "link": "https://finance.yahoo.com/markets/article/investors-are-punishing-big-techs-biggest-spenders-meta-is-the-latest-casualty-174236447.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T17:42:36+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "e5b7be7da99f16e0",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stock Market Today: Nasdaq Slammed But CSX Rallies Hard; These Two Blue Chips Break Out (Live Coverage)",
+      "title": "Stock Market Today: Nasdaq Thrashed, Dow Up; Moderna, Meta Lead Sell-Off (Live Coverage)",
       "link": "https://finance.yahoo.com/m/a6067e2b-5ce6-3182-915b-58daa8b6d0f9/stock-market-today%3A-nasdaq.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T17:30:00+00:00",
+      "published": "2026-10-22T20:38:05+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "4a37aa512d52bc64",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Apple’s foldable iPhone has a $2,000 app problem",
+      "link": "https://finance.yahoo.com/video/apples-foldable-iphone-has-a-2000-app-problem-203418718.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T20:34:18+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "85928c0f8851e1c7",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Twist Bioscience Sinks 9%, Illumina Down 5% as AI and Genomics Stocks Slide",
+      "link": "https://www.tikr.com/blog/twist-bioscience-sinks-9-illumina-down-5-as-ai-and-genomics-stocks-slide?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T20:33:03+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "859f11b5a7a9c9fb",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Global markets retreat as tech mood sours, oil prices jump",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-back-retreat-tech-024129180.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T20:30:59+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "f054cfd593dbcd0f",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CoreWeave Sinks 10% as Bernstein Slashes Target to $51: “The Fundamentals Are Probably Stuck”",
+      "link": "https://www.tikr.com/blog/coreweave-sinks-10-as-bernstein-slashes-target-to-51-the-fundamentals-are-probably-stuck?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T20:28:39+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "5f11ab0ca6e055da",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Uranium Is Near $90 a Pound. Here's My Prediction for What's Ahead for the Fuel.",
+      "link": "https://www.fool.com/investing/2026/10/22/uranium-is-near-90-a-pound-heres-my-prediction-fo/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T19:50:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "29e2cbb34f94ade1",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "How Ross and On Holding Can Buck That Retail Funk",
+      "link": "https://finance.yahoo.com/m/cfe822c9-0291-3804-a214-b89ed09c874f/how-ross-and-on-holding-can.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T18:46:00+00:00",
+      "logo": "logos/ONON.svg"
     },
     {
       "id": "d74f89d6daba18ec",
@@ -134,28 +178,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "d7e9007cf6fcf193",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Short sellers gain $6bn amid AI data center stock selloff",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/short-sellers-gain-6bn-amid-135501347.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T13:55:01+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "ad15c6a8c58aa5e1",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN vs. TeraWulf: Which AI Infrastructure Stock Carries Less Risk Now?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/iren-vs-terawulf-ai-infrastructure-133000461.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T13:30:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "972d638b86d62d90",
       "ticker": "NU",
       "symbol": "NU",
@@ -176,6 +198,17 @@
       "source": "News",
       "published": "2026-10-22T11:05:00+00:00",
       "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "78471f3bcd5d8734",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Electric Metals (USA) Limited (EML.V) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JWjNFMHl6Y0VZNXBUYm9KbDRRdHpHanR3T1l2RTJRQnBtSXl5SEQxanp5aFkxZVQxUFNuajBRX1Nla2VSdlQ2bXJsazFMWUxWRG9V?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-22T07:33:42+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "7189643015fd01e1",
@@ -209,17 +242,6 @@
       "source": "News",
       "published": "2026-10-21T20:50:02+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "ae9168f6d0dcd38c",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco (CCJ) Laps the Stock Market: Here's Why",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-laps-stock-market-205002677.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T20:50:02+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "9af2a97a441c6c83",
@@ -321,17 +343,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "4333ae90adf9f72e",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "Investors Heavily Search On Holding AG (ONON): Here is What You Need to Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-holding-ag-120004969.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T12:00:04+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
       "id": "9514f129d81a981e",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xYnYyOVZxd2ptRXFiSmxNNWtrMWl0ZngyNllBbjE1Tk14ejc2S1JKMnhfTFRXSTY0dGFXRXdWaEZTNW5YRXZVZXROVlppOEJxNXpPVw?oc=5",
       "source": "Yahoo! Finance Canada",
       "published": "2026-10-16T05:10:06+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "9b42c9faf9c5355c",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "How Eastern Company (the) (EML) Affects Rotational Strategy Timing - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVUEwUVJFMkYtY1Jrc3ZxdUZuU1plaFBQUU1xRlN3clpsVVlZZll0SGg0U01BUXh6dndWek9GaWFLMW81d2p0TXlWckg3MERvZnFuSGZWWVFuSHFkaGpTbW93QzFBOUlIdWk1Rmt1RW53VFlMMTkzRDRwZmI0WkhfNmJ5bGY0d0VsS29IMFR2UU9kc2xwWkFPX3doMV9EajlnUjZiLVZqa3QxOFFKQkhtU2dBZGhpUDVLZzZ0NzhHcmNHUUt4Zl9SeDFGeWJGZzVhOUJrVDBDekZUYU0?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-10-11T14:14:02+00:00",
       "logo": "logos/EML.svg"
     },
     {
