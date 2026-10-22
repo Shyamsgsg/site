@@ -1,27 +1,82 @@
 {
-  "updated": "2026-10-21T21:53:43Z",
+  "updated": "2026-10-22T01:02:57Z",
   "items": [
     {
-      "id": "c1d56083c0ca8799",
+      "id": "2aabf239ca0c2d51",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Dow Jones Futures: Meta, Tesla Are Earnings Movers After SpaceX, Super Micro Lead Bullish Nasdaq Move",
-      "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures%3A-meta%2C.html?.tsrc=rss",
+      "title": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX Leads Bullish Nasdaq Move",
+      "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T21:49:00+00:00",
+      "published": "2026-10-22T00:44:28+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "2dbb51c20c92cd0d",
+      "id": "b7316278e1f10617",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla Earnings Mixed, FSD Revenue Strong; Elon Musk On Call (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/0e6f45c4-f583-3080-9285-aee877fe5b99/tesla-earnings-mixed%2C-fsd.html?.tsrc=rss",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "link": "https://finance.yahoo.com/technology/articles/tesla-says-start-selling-cybercabs-001754003.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T21:48:18+00:00",
+      "published": "2026-10-22T00:17:54+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "246e0c7bb0dce6b9",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Semi enters volume production as 2027 rollout approaches",
+      "link": "https://finance.yahoo.com/technology/articles/tesla-semi-enters-volume-production-001611911.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T00:16:11+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a59a60159be83263",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "What Tesla (TSLA) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-tesla-tsla-said-on-its-q3-earnings-call-2026-10-21/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T00:04:13+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a351f461995da899",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Cathie Wood Trimmed Ark's Alphabet Stake Even as Google Search Revenue Grew, While Ark Piled Into Rocket Lab Even After Its Neutron Launch Delay. Is Ark Betting Against the Wrong AI Winner?",
+      "link": "https://www.fool.com/investing/2026/10/21/cathie-wood-trimmed-alphabets-stake-even-as-google/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T23:50:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "f98a05b3da70686d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "SpaceX shares soar on possible tie-up with Tesla",
+      "link": "https://www.thestreet.com/technology/spacex-shares-soar-possible-merger-with-tesla?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T23:23:23+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "723adde5313a1b32",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "IBM Stock Rallies as Earnings Offer Glimmer of Recovery",
+      "link": "https://finance.yahoo.com/m/a0d7d835-5df2-3366-bdd4-4acf3f300a8f/ibm-stock-rallies-as-earnings.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-21T21:49:00+00:00",
+      "logo": "logos/GOOG.svg"
     },
     {
       "id": "30a54f9094a197b6",
@@ -35,28 +90,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "f8497ab546558379",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX Tesla Merger: Elon Musk Just Called it a Good Idea",
-      "link": "https://www.fool.com/investing/2026/10/21/spacex-tesla-merger-elon-musk-just-called-it-a-good-idea/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T21:23:01+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "b744e30998eaebdf",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX and Tesla Will Combine, Steve Westly Predicts",
-      "link": "https://finance.yahoo.com/video/spacex-tesla-combine-steve-westly-211540585.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T21:15:40+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "bfcea85d1bd4dc81",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -68,37 +101,26 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "b4f7b32739c24207",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Why Meta didn't offer 2027 revenue guidance: Q3 earnings takeaways",
-      "link": "https://finance.yahoo.com/video/why-meta-didnt-offer-2027-revenue-guidance-q3-earnings-takeaways-204412297.html?.tsrc=rss",
+      "id": "5d169213b20cc854",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "On Holding (ONON) Stock Dips While Market Gains: Key Facts",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-stock-dips-while-205002039.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T20:44:12+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-10-21T20:50:02+00:00",
+      "logo": "logos/ONON.svg"
     },
     {
-      "id": "b02c2e6ca1a4b5a6",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Kazakhstan’s AIFC Regulator Turns to Apple and Google to Enforce Coinbase, HTX Injunctions",
-      "link": "https://unchainedcrypto.com/kazakhstans-aifc-regulator-turns-to-apple-and-google-to-enforce-coinbase-htx-injunctions/?.tsrc=rss",
+      "id": "ae9168f6d0dcd38c",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco (CCJ) Laps the Stock Market: Here's Why",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-laps-stock-market-205002677.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T20:42:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "a591c2f40782be5d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stock Market Today: Dow Pops; Nasdaq Charges Higher As SpaceX Soars On Earnings, Tesla Talks",
-      "link": "https://finance.yahoo.com/m/3cb9e8ae-4da0-30bd-9cec-6a0531abd9df/stock-market-today%3A-dow-pops%3B.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T20:41:18+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-10-21T20:50:02+00:00",
+      "logo": "logos/CCJ.svg"
     },
     {
       "id": "c1cc6c06ac072ae7",
@@ -297,28 +319,6 @@
       "source": "News",
       "published": "2026-10-19T12:00:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "3590d37ed7a65f43",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Global Nuclear Energy Renaissance and Small Modular Reactor (SMR) Market Strategic Outlook, 2026-2031 | AI Data Center Demand Drives 9.5% CAGR and USD 206.9 Billion by 2031",
-      "link": "https://finance.yahoo.com/energy/articles/global-nuclear-energy-renaissance-small-094200687.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T09:42:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "6bca10159098c6c8",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "On Holding (ONON) Falls More Steeply Than Broader Market: What Investors Need to Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-falls-more-steeply-210005623.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-16T21:00:05+00:00",
-      "logo": "logos/ONON.svg"
     },
     {
       "id": "9514f129d81a981e",
