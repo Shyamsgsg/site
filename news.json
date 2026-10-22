@@ -1,49 +1,104 @@
 {
-  "updated": "2026-10-22T15:53:02Z",
+  "updated": "2026-10-22T19:01:34Z",
   "items": [
     {
-      "id": "0ebb3299901913d3",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Outlook Supported by Self-Driving Software, Robotaxi Growth, RBC Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-outlook-supported-self-driving-154658911.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T15:46:58+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "b4b39a007da40a20",
+      "id": "c7ac257f7fe2979b",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Microsoft Stock Could Be Closer to Its Next Big Breakout Than Investors Think",
-      "link": "https://247wallst.com/investing/2026/10/22/microsoft-stock-could-be-closer-to-its-next-big-breakout-than-investors-think/?.tsrc=rss",
+      "title": "Meta, AI Stocks Tumble As AI Spending Fears Reignite",
+      "link": "https://finance.yahoo.com/m/c3b6ab41-5e55-3fb0-9139-d427005fd0e6/meta%2C-ai-stocks-tumble-as-ai.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T15:30:56+00:00",
+      "published": "2026-10-22T18:29:20+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "b0392c18e056335f",
+      "id": "fe97636408e4cbff",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tech stocks fall as Nvidia boss warns of AI funding slowdown",
-      "link": "https://uk.finance.yahoo.com/news/tech-stocks-fall-nvidia-boss-152634389.html?.tsrc=rss",
+      "title": "Early SpaceX investor Diamandis: Elon’s empire could hit $1 trillion revenue by 2028-29",
+      "link": "https://247wallst.com/investing/2026/10/22/early-spacex-investor-diamandis-elons-empire-could-hit-1-trillion-revenue-by-2028-29/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T15:26:34+00:00",
+      "published": "2026-10-22T18:20:49+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "9ece7bce2910da8f",
+      "id": "275e6a2d4bd7be97",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "IBM Is America’s Worst Big Tech Company",
+      "link": "https://247wallst.com/investing/2026/10/22/ibm-is-americas-worst-big-tech-company-5/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T18:15:38+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "fa0af523b38aaa74",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Musk: People Are “Buying FSD With a Car Attached.” There’s Only One Problem.",
-      "link": "https://www.tikr.com/blog/musk-people-are-buying-fsd-with-a-car-attached-theres-only-one-problem?ref=yahoofinance&.tsrc=rss",
+      "title": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
+      "link": "https://decrypt.co/381624/teslas-profit-drops-musk-robots-driverless-cabs?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T15:26:08+00:00",
+      "published": "2026-10-22T18:06:02+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "9034be417c781b1a",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tech market, housing market, hotels & handbags",
+      "link": "https://finance.yahoo.com/video/tech-market-housing-market-hotels--handbags-175606154.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T17:56:06+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "e38617973ccd8e5a",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "CLSA Says SpaceX Merger Buzz Overshadows Tesla’s Concerns, But Musk’s Public Endorsement Could Reportedly Complicate Deal Talks",
+      "link": "https://stocktwits.com/news-articles/markets/equity/spacex-tesla-merger-buzz-musk-public-endorsement-could-complicate-deal-talks/cZxwiYoRBD9?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T17:53:12+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "be046e8053b5f8b0",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Investors are punishing Big Tech's biggest spenders. Meta is the latest casualty.",
+      "link": "https://finance.yahoo.com/markets/article/investors-are-punishing-big-techs-biggest-spenders-meta-is-the-latest-casualty-174236447.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T17:42:36+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e5b7be7da99f16e0",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Stock Market Today: Nasdaq Slammed But CSX Rallies Hard; These Two Blue Chips Break Out (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/a6067e2b-5ce6-3182-915b-58daa8b6d0f9/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T17:30:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d74f89d6daba18ec",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "The Neocloud Bloodbath: NBIS, IREN, and CRWV Selloff Continues",
+      "link": "https://247wallst.com/investing/2026/10/22/the-neocloud-bloodbath-nbis-iren-and-crwv-selloff-continues/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T17:06:31+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "9a9bbfb3aa45d7e6",
@@ -57,50 +112,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "711429ad6a76ad31",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "TeraFab's $16.8 billion bet to start producing 100K chips a month",
-      "link": "https://finance.yahoo.com/video/terafabs-168-billion-bet-to-start-producing-100k-chips-a-month-152024748.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T15:20:24+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "bf345776d666edeb",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Constellation Energy (CEG) Signs Google Nuclear Deal, Is It Still Undervalued?",
-      "link": "https://finance.yahoo.com/energy/articles/constellation-energy-ceg-signs-google-151527880.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T15:15:27+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "08c09b3917dd100c",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "OpenAI Models Land on Google Cloud: Frontier Distribution Goes Multi-Cloud While the Watts Stay Exclusive",
-      "link": "https://finance.yahoo.com/technology/ai/articles/openai-models-land-google-cloud-151018996.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T15:10:18+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "f69d4d5a6e45e9db",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Intercontinental Exchange (ICE): A High-Quality Compounder with Multiple Growth Drivers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-high-quality-150622514.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T15:06:22+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "7be3e10a183b7883",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -110,6 +121,17 @@
       "source": "News",
       "published": "2026-10-22T14:36:00+00:00",
       "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "9e9c0802273dfe47",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "BC-Most Active Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017172.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T14:30:17+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "d7e9007cf6fcf193",
@@ -154,28 +176,6 @@
       "source": "News",
       "published": "2026-10-22T11:05:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "1852fb2d0232288b",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN (IREN) Lands 300 MW Spain License And Opens IREN Europe",
-      "link": "https://finance.yahoo.com/technology/ai/articles/iren-iren-lands-300-mw-101556877.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T10:15:56+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "a82a9bc456feef27",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN’s 300 MW data center in Spain would be on of Europe’s largest",
-      "link": "https://blockspace.media/short/irens-300-mw-data-center-in-spain-would-be-on-of-europes-largest/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T03:30:00+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "7189643015fd01e1",
@@ -231,6 +231,17 @@
       "source": "News",
       "published": "2026-10-21T15:14:02+00:00",
       "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "5a211fee7d1b5ba3",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Bank of China Limited (HBND.SI) stock price, news, quote and history - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13Ynh4elBaXzNwQ1gyeHJOQ0tOSWdkb0lmcGlWeWNXb2ZDUVFZV21fRmpLWk9jckg5WEUtVDZTdWxCX0twWmhXR0VFWHBRR1NNMUpYS0J3?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "published": "2026-10-21T13:03:33+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "70692ceaad56028f",
@@ -319,17 +330,6 @@
       "source": "News",
       "published": "2026-10-20T12:00:04+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "a0def8a0bd9c61e7",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC-Prudential North Amer Idx Retail HKD (0P00018BO0.HK) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55M3lzUy1HRlpqbktkT0gwdWhCNnQwMW1MVENxb214VEFma3ZrTXhsUWE5N210dFZpUHJVOEVwVjd5X0JmVHY1OF9NNlFnVUthaUV0M1ZsRGo5UmlEZzBlbXVkeTdVUFd4bFJj?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-10-20T10:07:52+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "9514f129d81a981e",
