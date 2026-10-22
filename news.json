@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-22T01:02:57Z",
+  "updated": "2026-10-22T03:54:56Z",
   "items": [
+    {
+      "id": "1f51ab6d5eab8bfc",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Why Tesla Stock Is Putting AI Infrastructure Leaders On More Watchlists",
+      "link": "https://finance.yahoo.com/technology/ai/articles/why-tesla-stock-putting-ai-031724263.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T03:17:24+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "b511642819f14122",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "How Are Dow, S&P 500, Nasdaq Futures Trading After META, TSLA Earnings?",
+      "link": "https://stocktwits.com/news-articles/markets/equity/how-are-dow-s-and-p-500-nasdaq-futures-trading-after-meta-tsla-earnings/cZxvH4HRBwI?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T03:11:10+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "2aabf239ca0c2d51",
       "ticker": "TSLA",
@@ -9,85 +31,85 @@
       "title": "Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX Leads Bullish Nasdaq Move",
       "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T00:44:28+00:00",
+      "published": "2026-10-22T03:09:12+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "b7316278e1f10617",
+      "id": "17ca8d67ea454b31",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla says it will start selling Cybercabs by end of year",
-      "link": "https://finance.yahoo.com/technology/articles/tesla-says-start-selling-cybercabs-001754003.html?.tsrc=rss",
+      "title": "Asian stocks back in retreat as tech mood sours again",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-back-retreat-tech-024129180.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T00:17:54+00:00",
+      "published": "2026-10-22T02:41:29+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "246e0c7bb0dce6b9",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Semi enters volume production as 2027 rollout approaches",
-      "link": "https://finance.yahoo.com/technology/articles/tesla-semi-enters-volume-production-001611911.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T00:16:11+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "a59a60159be83263",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "What Tesla (TSLA) Said on Its Q3 Earnings Call",
-      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-tesla-tsla-said-on-its-q3-earnings-call-2026-10-21/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T00:04:13+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "a351f461995da899",
+      "id": "c5e322992c38ca34",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Cathie Wood Trimmed Ark's Alphabet Stake Even as Google Search Revenue Grew, While Ark Piled Into Rocket Lab Even After Its Neutron Launch Delay. Is Ark Betting Against the Wrong AI Winner?",
-      "link": "https://www.fool.com/investing/2026/10/21/cathie-wood-trimmed-alphabets-stake-even-as-google/?.tsrc=rss",
+      "title": "Was There Any Sign Snap Stock Would Run?",
+      "link": "https://www.trefis.com/articles/619667/was-there-any-sign-snap-stock-would-run/2026-10-21?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T23:50:00+00:00",
+      "published": "2026-10-22T02:22:56+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "f98a05b3da70686d",
+      "id": "7189643015fd01e1",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "October 2026 Crypto Stocks To Watch",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/october-2026-crypto-stocks-watch-021404939.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T02:14:04+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "197fa606e1953095",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "SpaceX shares soar on possible tie-up with Tesla",
-      "link": "https://www.thestreet.com/technology/spacex-shares-soar-possible-merger-with-tesla?.tsrc=rss",
+      "title": "What Would It Take For Rumble Stock To Reach Its High Again?",
+      "link": "https://www.trefis.com/articles/619708/what-would-it-take-for-rumble-stock-to-reach-its-high-again/2026-10-21?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T23:23:23+00:00",
+      "published": "2026-10-22T01:35:14+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "723adde5313a1b32",
+      "id": "b2ccb95be380fec8",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "IBM Stock Rallies as Earnings Offer Glimmer of Recovery",
-      "link": "https://finance.yahoo.com/m/a0d7d835-5df2-3366-bdd4-4acf3f300a8f/ibm-stock-rallies-as-earnings.html?.tsrc=rss",
+      "title": "Alphabet (GOOGL) Stock Looks Below Fair Value After AI Spending Plans",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-looks-below-011622856.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T21:49:00+00:00",
+      "published": "2026-10-22T01:16:22+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "30a54f9094a197b6",
+      "id": "1ab4503a4463b933",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Prediction: This Artificial Intelligence (AI) Stock Will Be the Biggest Winner of 2027",
-      "link": "https://www.fool.com/investing/2026/10/21/prediction-this-artificial-intelligence-ai-stock-w/?.tsrc=rss",
+      "title": "How Did Strategy Stock Leave Its Industry Behind?",
+      "link": "https://www.trefis.com/articles/619699/how-did-strategy-stock-leave-its-industry-behind/2026-10-21?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-21T21:36:00+00:00",
+      "published": "2026-10-22T00:59:45+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "f0a53a12472e28d6",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Responsive Playbooks and the EML Inflection - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQ0QTl2bHVibXhPSDVodmNjYUpCdnRmVmZyRW5PbU1USHdCaUNPdF81emNmOF8zMWExQ1JVcWNwSFRwcFpJMjZLUnh2VEtZcE5fbHJObmRHcC05VEFyNmhOOGY0bURtbEV3NUp5dGgxNHhvVXlsUW1WTlQtR0NGUV9uRUVsNWJtU2gzVEt0cF9hOWloQjMzNTFBQ3o1dTFnaWswYjdaNVBXWDZqNjJiZ0VmWkgwY25HYjVvMEZ3UFE?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-10-21T23:20:01+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "bfcea85d1bd4dc81",
@@ -299,17 +321,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "5d760e6234bbbb5f",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings (NU) Earned $1.1 Billion in a Quarter, Can Credit Keep Up?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-earned-1-154042168.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T02:40:42+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "d3ec8b3c05a38c36",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVUEwUVJFMkYtY1Jrc3ZxdUZuU1plaFBQUU1xRlN3clpsVVlZZll0SGg0U01BUXh6dndWek9GaWFLMW81d2p0TXlWckg3MERvZnFuSGZWWVFuSHFkaGpTbW93QzFBOUlIdWk1Rmt1RW53VFlMMTkzRDRwZmI0WkhfNmJ5bGY0d0VsS29IMFR2UU9kc2xwWkFPX3doMV9EajlnUjZiLVZqa3QxOFFKQkhtU2dBZGhpUDVLZzZ0NzhHcmNHUUt4Zl9SeDFGeWJGZzVhOUJrVDBDekZUYU0?oc=5",
       "source": "Stock Traders Daily",
       "published": "2026-10-11T14:14:02+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "aa229020b03127db",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments Records Lapse of Conditional Rights in Capital Update - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY08xM0x4M0hiTUpNMFpna194SGM1NlJ1X0hEMUVaTHlwaVVPOXZnYzJEdHZiVXUybVg1eEFaMUU2eWZ3NU9SbUtnMmpsM08zcDZJd1VPdTJLTDduRHM2UXdwb2NWY2NlUGhUUFZQbUxzMlVIUlNyT3ItX3FBU25tMVpQOG5XaFlRZUVXNW9PMklfTDNRaTkzbmZrUXl5dXpzS1JTeWVzdHVBYmV6MUk3UVVkdFBQZ3JxX0ZvNHZlOGg4cFdqbTUzV3lQTmRzNDU2T0hVa28yUmotVGNUMUk5MQ?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-10-08T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
