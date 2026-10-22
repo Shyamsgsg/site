@@ -1,93 +1,126 @@
 {
-  "updated": "2026-10-22T09:55:19Z",
+  "updated": "2026-10-22T13:07:13Z",
   "items": [
     {
-      "id": "653af5440c1a3860",
+      "id": "7680a28123c3ef5a",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as traders assess Tesla, Meta earnings",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-21-dow-sp-500-nasdaq-tesla-meta-094500493.html?.tsrc=rss",
+      "title": "Why Tesla's lower capex plans are worrying investors",
+      "link": "https://finance.yahoo.com/video/why-teslas-lower-capex-plans-are-worrying-investors-125310147.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T09:45:00+00:00",
+      "published": "2026-10-22T12:53:10+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "0eb37c4779547f16",
+      "id": "cac3610d07e12d6b",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla, Meta and IBM: 3 earnings call shout outs that left us thinking",
-      "link": "https://finance.yahoo.com/technology/ai/article/tesla-meta-and-ibm-3-earnings-call-shout-outs-that-left-us-thinking-091924234.html?.tsrc=rss",
+      "title": "Prediction: Buying Archer Aviation Today Could Set You Up for Life",
+      "link": "https://www.fool.com/investing/2026/10/22/prediction-buying-archer-today-could-set-you-up/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T09:19:24+00:00",
+      "published": "2026-10-22T12:50:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "0b90cf8985e4cf9f",
+      "id": "3fd8237af0b224d3",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "IBM Earnings Offer a Glimmer of Recovery",
-      "link": "https://finance.yahoo.com/m/a0d7d835-5df2-3366-bdd4-4acf3f300a8f/ibm-earnings-offer-a-glimmer.html?.tsrc=rss",
+      "title": "I Keep Buying Alphabet Expressly Because of Chips and Interest Rates",
+      "link": "https://247wallst.com/investing/2026/10/22/i-keep-buying-alphabet-expressly-because-of-chips-and-interest-rates/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T09:19:00+00:00",
+      "published": "2026-10-22T12:45:45+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "65d24f537536bda6",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "If a Market Correction Is Coming, History Says This Is the Smartest Investing Move You Can Make",
-      "link": "https://www.fool.com/investing/2026/10/22/if-market-correction-history-smart-investing/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T09:05:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "a70849e128a782d8",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Goldman Sachs Commits $500 Million to Launch Small Business AI Institute and Expand 10,000 Small Businesses",
-      "link": "https://finance.yahoo.com/small-business/articles/goldman-sachs-commits-500-million-090000062.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T09:00:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "f15e44f1af19cd2f",
+      "id": "197977356914787f",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Meta’s revenue beat; Tesla’s lower annual sales goal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-revenue-beat-tesla-lower-082837580.html?.tsrc=rss",
-      "source": "what’s moving markets",
-      "published": "2026-10-22T08:28:37+00:00",
+      "title": "Tesla Wants Cybercabs in Customers’ Hands by the End of 2026",
+      "link": "https://247wallst.com/investing/2026/10/22/tesla-wants-cybercabs-in-customers-hands-by-the-end-of-2026/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T12:45:39+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "31c778d21c59e6f0",
+      "id": "ba57fe2e6ab4a679",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Market Chatter: Nvidia, Tesla to Invest $2.80 Billion in Samsung Electro-Mechanics",
-      "link": "https://finance.yahoo.com/technology/articles/market-chatter-nvidia-tesla-invest-082524681.html?.tsrc=rss",
+      "title": "Stock Market Today: Dow Falls As Oil Prices Jump; Meta, Tesla Slide On Earnings (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/a6067e2b-5ce6-3182-915b-58daa8b6d0f9/stock-market-today%3A-dow-falls.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T08:25:24+00:00",
+      "published": "2026-10-22T12:41:30+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "a9f360deb6b21bf3",
+      "id": "5e2eb3c6c681d702",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Will Alphabet Stock Soar After Oct. 28? History Offers an Answer That’s Strikingly Clear.",
-      "link": "https://www.fool.com/investing/2026/10/22/will-alphabet-stock-soar-after-oct-28-history-offers-an-answer-that-s-strikingly-clear/?.tsrc=rss",
+      "title": "If Netflix Can’t Shine in Show Business, Who Can?",
+      "link": "https://finance.yahoo.com/m/10c5488f-99b8-3004-b791-801764073373/if-netflix-can%E2%80%99t-shine-in.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T08:15:02+00:00",
+      "published": "2026-10-22T12:41:00+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "1f2c2b6d944927e8",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Should You Buy Snap Stock For Its Cash?",
+      "link": "https://www.trefis.com/articles/619919/should-you-buy-snap-stock-for-its-cash/2026-10-22?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T12:32:41+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "5dc210a32c094edc",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Gix Internet: Quantum X Labs Achieved Key Milestones with NVIDIA CUDA-Q Decoder and IBM Quantum Hardware",
+      "link": "https://finance.yahoo.com/technology/ai/articles/gix-internet-quantum-x-labs-121700885.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T12:17:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "972d638b86d62d90",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "First BanCorp (FBP) Q3 Earnings Surpass Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/first-bancorp-fbp-q3-earnings-111502078.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T11:15:02+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "ed6e270112e32928",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Should You Forget ExxonMobil and Buy Cameco Stock Instead?",
+      "link": "https://www.fool.com/investing/2026/10/22/should-you-forget-exxonmobil-and-buy-cameco-stock/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T11:05:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "1852fb2d0232288b",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN (IREN) Lands 300 MW Spain License And Opens IREN Europe",
+      "link": "https://finance.yahoo.com/technology/ai/articles/iren-iren-lands-300-mw-101556877.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T10:15:56+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "a82a9bc456feef27",
@@ -164,17 +197,6 @@
       "link": "https://247wallst.com/investing/2026/10/21/terawulf-jumps-8-as-ceo-says-power-demand-remains-extremely-strong-applied-digital-surges-9-iren-climbs-6/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-21T18:09:15+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "5837de6b47bc9341",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Neoclouds in the ‘Penalty Box’: How SpaceX Pricing Could Help CoreWeave Rebound",
-      "link": "https://finance.yahoo.com/m/44db3ec0-badf-30eb-8d49-7a093c1252a4/neoclouds-in-the-%E2%80%98penalty.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T17:01:00+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -277,25 +299,14 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "50994d533ebdd31f",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "2 Cash-Heavy Stocks with Promising Prospects and 1 Facing Headwinds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-cash-heavy-stocks-promising-090150923.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T09:01:50+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "09eb0781125cbe35",
+      "id": "a0def8a0bd9c61e7",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
-      "title": "Fitch affirms A+ rating for BOC Hong Kong stock - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzl1eGVUUzMtNzZaUGx1TXZoUWxGdEFpZjh6ZUFPQkdnMU5YbVRoTHliNVJxd0tiOUIwamZ2czRRQlRsRTdZajlWV1NSSHcxWHpnSDhhQXI4cWdHM2hRbEVfMjM5SGlfd2VBSVlaN0JBTm9YOWNVXzMzTlBxSng3b2tpNWdnZ1RvYXAyWGIyZGcyRUlYNVZjVmxRQnBZT2R0aGkzWXpHdnhrWjlUU0E?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-20T07:54:37+00:00",
+      "title": "BOC-Prudential North Amer Idx Retail HKD (0P00018BO0.HK) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55M3lzUy1HRlpqbktkT0gwdWhCNnQwMW1MVENxb214VEFma3ZrTXhsUWE5N210dFZpUHJVOEVwVjd5X0JmVHY1OF9NNlFnVUthaUV0M1ZsRGo5UmlEZzBlbXVkeTdVUFd4bFJj?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-20T10:07:52+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -321,17 +332,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "d3ec8b3c05a38c36",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cosa Announces Partner-Funded Drilling Results from the Aurora Uranium Project, Athabasca Basin, Saskatchewan",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/cosa-announces-partner-funded-drilling-120000054.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-19T12:00:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "9514f129d81a981e",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -343,14 +343,14 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "9b42c9faf9c5355c",
+      "id": "aa229020b03127db",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "How Eastern Company (the) (EML) Affects Rotational Strategy Timing - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVUEwUVJFMkYtY1Jrc3ZxdUZuU1plaFBQUU1xRlN3clpsVVlZZll0SGg0U01BUXh6dndWek9GaWFLMW81d2p0TXlWckg3MERvZnFuSGZWWVFuSHFkaGpTbW93QzFBOUlIdWk1Rmt1RW53VFlMMTkzRDRwZmI0WkhfNmJ5bGY0d0VsS29IMFR2UU9kc2xwWkFPX3doMV9EajlnUjZiLVZqa3QxOFFKQkhtU2dBZGhpUDVLZzZ0NzhHcmNHUUt4Zl9SeDFGeWJGZzVhOUJrVDBDekZUYU0?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-10-11T14:14:02+00:00",
+      "title": "EML Payments Records Lapse of Conditional Rights in Capital Update - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY08xM0x4M0hiTUpNMFpna194SGM1NlJ1X0hEMUVaTHlwaVVPOXZnYzJEdHZiVXUybVg1eEFaMUU2eWZ3NU9SbUtnMmpsM08zcDZJd1VPdTJLTDduRHM2UXdwb2NWY2NlUGhUUFZQbUxzMlVIUlNyT3ItX3FBU25tMVpQOG5XaFlRZUVXNW9PMklfTDNRaTkzbmZrUXl5dXpzS1JTeWVzdHVBYmV6MUk3UVVkdFBQZ3JxX0ZvNHZlOGg4cFdqbTUzV3lQTmRzNDU2T0hVa28yUmotVGNUMUk5MQ?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-10-08T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
