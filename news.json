@@ -1,93 +1,137 @@
 {
-  "updated": "2026-10-22T13:07:13Z",
+  "updated": "2026-10-22T15:53:02Z",
   "items": [
     {
-      "id": "7680a28123c3ef5a",
+      "id": "0ebb3299901913d3",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Why Tesla's lower capex plans are worrying investors",
-      "link": "https://finance.yahoo.com/video/why-teslas-lower-capex-plans-are-worrying-investors-125310147.html?.tsrc=rss",
+      "title": "Tesla Outlook Supported by Self-Driving Software, Robotaxi Growth, RBC Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-outlook-supported-self-driving-154658911.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T12:53:10+00:00",
+      "published": "2026-10-22T15:46:58+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "cac3610d07e12d6b",
+      "id": "b4b39a007da40a20",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Microsoft Stock Could Be Closer to Its Next Big Breakout Than Investors Think",
+      "link": "https://247wallst.com/investing/2026/10/22/microsoft-stock-could-be-closer-to-its-next-big-breakout-than-investors-think/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T15:30:56+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "b0392c18e056335f",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Prediction: Buying Archer Aviation Today Could Set You Up for Life",
-      "link": "https://www.fool.com/investing/2026/10/22/prediction-buying-archer-today-could-set-you-up/?.tsrc=rss",
+      "title": "Tech stocks fall as Nvidia boss warns of AI funding slowdown",
+      "link": "https://uk.finance.yahoo.com/news/tech-stocks-fall-nvidia-boss-152634389.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T12:50:00+00:00",
+      "published": "2026-10-22T15:26:34+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "3fd8237af0b224d3",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "I Keep Buying Alphabet Expressly Because of Chips and Interest Rates",
-      "link": "https://247wallst.com/investing/2026/10/22/i-keep-buying-alphabet-expressly-because-of-chips-and-interest-rates/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T12:45:45+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "197977356914787f",
+      "id": "9ece7bce2910da8f",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla Wants Cybercabs in Customers’ Hands by the End of 2026",
-      "link": "https://247wallst.com/investing/2026/10/22/tesla-wants-cybercabs-in-customers-hands-by-the-end-of-2026/?.tsrc=rss",
+      "title": "Musk: People Are “Buying FSD With a Car Attached.” There’s Only One Problem.",
+      "link": "https://www.tikr.com/blog/musk-people-are-buying-fsd-with-a-car-attached-theres-only-one-problem?ref=yahoofinance&.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T12:45:39+00:00",
+      "published": "2026-10-22T15:26:08+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "ba57fe2e6ab4a679",
+      "id": "9a9bbfb3aa45d7e6",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco Has Lost 38% in 6 Months: Here’s Why Truist Sees 58% Upside",
+      "link": "https://www.tikr.com/blog/cameco-has-lost-38-in-6-months-heres-why-truist-sees-58-upside?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T15:24:55+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "711429ad6a76ad31",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Stock Market Today: Dow Falls As Oil Prices Jump; Meta, Tesla Slide On Earnings (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/a6067e2b-5ce6-3182-915b-58daa8b6d0f9/stock-market-today%3A-dow-falls.html?.tsrc=rss",
+      "title": "TeraFab's $16.8 billion bet to start producing 100K chips a month",
+      "link": "https://finance.yahoo.com/video/terafabs-168-billion-bet-to-start-producing-100k-chips-a-month-152024748.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T12:41:30+00:00",
+      "published": "2026-10-22T15:20:24+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "5e2eb3c6c681d702",
+      "id": "bf345776d666edeb",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "If Netflix Can’t Shine in Show Business, Who Can?",
-      "link": "https://finance.yahoo.com/m/10c5488f-99b8-3004-b791-801764073373/if-netflix-can%E2%80%99t-shine-in.html?.tsrc=rss",
+      "title": "Constellation Energy (CEG) Signs Google Nuclear Deal, Is It Still Undervalued?",
+      "link": "https://finance.yahoo.com/energy/articles/constellation-energy-ceg-signs-google-151527880.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T12:41:00+00:00",
+      "published": "2026-10-22T15:15:27+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "1f2c2b6d944927e8",
+      "id": "08c09b3917dd100c",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Should You Buy Snap Stock For Its Cash?",
-      "link": "https://www.trefis.com/articles/619919/should-you-buy-snap-stock-for-its-cash/2026-10-22?.tsrc=rss",
+      "title": "OpenAI Models Land on Google Cloud: Frontier Distribution Goes Multi-Cloud While the Watts Stay Exclusive",
+      "link": "https://finance.yahoo.com/technology/ai/articles/openai-models-land-google-cloud-151018996.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T12:32:41+00:00",
+      "published": "2026-10-22T15:10:18+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "5dc210a32c094edc",
+      "id": "f69d4d5a6e45e9db",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Gix Internet: Quantum X Labs Achieved Key Milestones with NVIDIA CUDA-Q Decoder and IBM Quantum Hardware",
-      "link": "https://finance.yahoo.com/technology/ai/articles/gix-internet-quantum-x-labs-121700885.html?.tsrc=rss",
+      "title": "Intercontinental Exchange (ICE): A High-Quality Compounder with Multiple Growth Drivers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-high-quality-150622514.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T12:17:00+00:00",
+      "published": "2026-10-22T15:06:22+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "7be3e10a183b7883",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "UUUU vs. CCJ: Which Uranium Stock Offers the Better Opportunity Today?",
+      "link": "https://finance.yahoo.com/energy/articles/uuuu-vs-ccj-uranium-stock-143600192.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T14:36:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "d7e9007cf6fcf193",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Short sellers gain $6bn amid AI data center stock selloff",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/short-sellers-gain-6bn-amid-135501347.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T13:55:01+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "ad15c6a8c58aa5e1",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN vs. TeraWulf: Which AI Infrastructure Stock Carries Less Risk Now?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/iren-vs-terawulf-ai-infrastructure-133000461.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T13:30:00+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "972d638b86d62d90",
@@ -156,17 +200,6 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "bfcea85d1bd4dc81",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Did SpaceX Just Save CoreWeave, Nebius, and the Neocloud Sector?",
-      "link": "https://www.fool.com/investing/2026/10/21/did-spacex-just-save-coreweave-nebius-and-the-neocloud-sector/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T21:05:02+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "5d169213b20cc854",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -187,17 +220,6 @@
       "source": "News",
       "published": "2026-10-21T20:50:02+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "c1cc6c06ac072ae7",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "TeraWulf Jumps 8% as CEO Says Power Demand Remains ‘Extremely Strong’; Applied Digital Surges 9%, IREN Climbs 6%",
-      "link": "https://247wallst.com/investing/2026/10/21/terawulf-jumps-8-as-ceo-says-power-demand-remains-extremely-strong-applied-digital-surges-9-iren-climbs-6/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T18:09:15+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "9af2a97a441c6c83",
@@ -310,28 +332,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "b1824fd30c148da3",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Top 3 Canadian Nuclear Stocks To Watch In October 2026",
-      "link": "https://finance.yahoo.com/energy/articles/top-3-canadian-nuclear-stocks-061224986.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T06:12:24+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "82d8b49a477d7290",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco Stock Is Nearly 40% Below Its Peak. Here’s What One AP1000 Reactor Pair Could Be Worth to Westinghouse",
-      "link": "https://www.tikr.com/blog/cameco-stock-is-nearly-40-below-its-peak-heres-what-one-ap1000-reactor-pair-could-be-worth-to-westinghouse?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T04:20:08+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "9514f129d81a981e",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -343,14 +343,14 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "aa229020b03127db",
+      "id": "9b42c9faf9c5355c",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments Records Lapse of Conditional Rights in Capital Update - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY08xM0x4M0hiTUpNMFpna194SGM1NlJ1X0hEMUVaTHlwaVVPOXZnYzJEdHZiVXUybVg1eEFaMUU2eWZ3NU9SbUtnMmpsM08zcDZJd1VPdTJLTDduRHM2UXdwb2NWY2NlUGhUUFZQbUxzMlVIUlNyT3ItX3FBU25tMVpQOG5XaFlRZUVXNW9PMklfTDNRaTkzbmZrUXl5dXpzS1JTeWVzdHVBYmV6MUk3UVVkdFBQZ3JxX0ZvNHZlOGg4cFdqbTUzV3lQTmRzNDU2T0hVa28yUmotVGNUMUk5MQ?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-10-08T07:00:00+00:00",
+      "title": "How Eastern Company (the) (EML) Affects Rotational Strategy Timing - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVUEwUVJFMkYtY1Jrc3ZxdUZuU1plaFBQUU1xRlN3clpsVVlZZll0SGg0U01BUXh6dndWek9GaWFLMW81d2p0TXlWckg3MERvZnFuSGZWWVFuSHFkaGpTbW93QzFBOUlIdWk1Rmt1RW53VFlMMTkzRDRwZmI0WkhfNmJ5bGY0d0VsS29IMFR2UU9kc2xwWkFPX3doMV9EajlnUjZiLVZqa3QxOFFKQkhtU2dBZGhpUDVLZzZ0NzhHcmNHUUt4Zl9SeDFGeWJGZzVhOUJrVDBDekZUYU0?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-10-11T14:14:02+00:00",
       "logo": "logos/EML.svg"
     },
     {
