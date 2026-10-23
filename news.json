@@ -1,49 +1,104 @@
 {
-  "updated": "2026-10-23T09:53:44Z",
+  "updated": "2026-10-23T13:03:17Z",
   "items": [
     {
-      "id": "476ff96d33da868f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "AI stock bears probably just missed this point on Tesla in their run for the exits",
-      "link": "https://finance.yahoo.com/technology/ai/article/ai-stock-bears-probably-just-missed-this-point-on-tesla-in-their-run-for-the-exits-095101368.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T09:51:01+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c09e7588ea6aa43c",
+      "id": "c6198914be7997b1",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Stocktwits Wall Street Wrap: Analysts Turn Bullish On SpaceX, Tesla, But Netflix And Chipotle Face Fresh Downgrades Amid Growth Concerns",
-      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-wall-street-wrap-analysts-turn-bullish-on-space-x-tesla-but-netflix-and-chipotle-face-fresh-downgrades-amid-growth-concerns/cZxyaiCRBx4?.tsrc=rss",
+      "title": "How Accounting Helped Tesla Beat Gross Profit Numbers",
+      "link": "https://finance.yahoo.com/m/635adce4-9dd6-3805-a9dc-c9bd568d30e6/how-accounting-helped-tesla.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-23T09:30:54+00:00",
+      "published": "2026-10-23T12:52:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "278aa058e7c3958e",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq wobble after sharp tech sell-off",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T09:30:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "2ca87a1367a1f3ab",
+      "id": "b4827241523dcdc2",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Warren Buffett's Successor, Greg Abel, Has 32% of Berkshire Hathaway's $364 Billion Portfolio Invested in 3 Unstoppable AI Stocks",
-      "link": "https://www.fool.com/investing/2026/10/23/warren-buffett-successor-greg-abel-32-berkshire-hathaway-364-billion-portfolio-invested-3-unstoppable-ai-stocks/?.tsrc=rss",
+      "title": "Same Playbook, Different Silicon: Broadcom Holds the Throne, Marvell Plays the AMD Challenger.",
+      "link": "https://247wallst.com/investing/2026/10/23/same-playbook-different-silicon-broadcom-holds-the-throne-marvell-plays-the-amd-challenger/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-23T09:26:01+00:00",
+      "published": "2026-10-23T12:45:58+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "55a30b152361a748",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Arm’s Ready-Made Blueprints: The Blueprint Attack on Marvell’s Challenger Crown",
+      "link": "https://247wallst.com/investing/2026/10/23/arms-ready-made-blueprints-the-blueprint-attack-on-marvells-challenger-crown/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T12:45:57+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "4c21d8bb4cf8fcb6",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet Solves the AI Infrastructure Bottlenecks Competitors Can’t Buy with Debt",
+      "link": "https://247wallst.com/investing/2026/10/23/alphabet-solves-the-ai-infrastructure-bottlenecks-competitors-cant-buy-with-debt/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T12:45:55+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e44e81c81441804d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Cloud AI Update",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cloud-ai-military-cloud-market-123748203.html?.tsrc=rss",
+      "source": "Military Cloud Market Soars with Advanced Network Solutions",
+      "published": "2026-10-23T12:37:48+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "00e41716b203544b",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Could a $10,000 Investment in Micron Set You Up for Life?",
+      "link": "https://www.fool.com/investing/2026/10/23/could-a-10000-investment-in-micron-set-you-up-for/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T12:33:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ce42b406003a07d6",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Stocks Down Pre-Bell Amid Tech Selloff",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-down-pre-bell-amid-121035032.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T12:10:35+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "cd8964d56d69eccd",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla And 2 Other Top Founder Led Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-2-other-top-founder-120935582.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T12:09:35+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "8913278b42a87c3b",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "What's Wrong With On Holding Stock?",
+      "link": "https://www.fool.com/investing/2026/10/23/whats-wrong-with-on-holding-stock/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T11:35:00+00:00",
+      "logo": "logos/ONON.svg"
     },
     {
       "id": "28ebdd7864fb54eb",
@@ -55,50 +110,6 @@
       "source": "News",
       "published": "2026-10-23T09:15:02+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "d669e2e076cb615b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla (TSLA) Stock Could Be Above Fair Value After Merger Talks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-could-above-091341557.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T09:13:41+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "97f68c2584b7e5cb",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Why Is Rigetti Computing Stock Falling?",
-      "link": "https://www.trefis.com/articles/620153/why-is-rigetti-computing-stock-falling/2026-10-23?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T09:02:05+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "17ab7b8ddfae2e7a",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Could You Have Seen The Run In Microsoft Stock Coming?",
-      "link": "https://www.trefis.com/articles/620174/could-you-have-seen-the-run-in-microsoft-stock-coming/2026-10-23?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T09:01:53+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "f6702e0bc79e5e12",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX CEO Elon Musk's Approval Required in Potential Merger With Tesla",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ceo-elon-musk-apos-090137739.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T09:01:37+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "6b7ac126da631e21",
@@ -263,17 +274,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-stock-dips-while-205002039.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-21T20:50:02+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "9af2a97a441c6c83",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "On Holding (ONON) Trades Full-Price Sales for Volume: Will It Pay Off by 2029?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-trades-full-price-151402792.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T15:14:02+00:00",
       "logo": "logos/ONON.svg"
     },
     {
