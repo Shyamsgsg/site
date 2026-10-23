@@ -1,49 +1,82 @@
 {
-  "updated": "2026-10-23T01:07:57Z",
+  "updated": "2026-10-23T03:54:07Z",
   "items": [
     {
-      "id": "8309984b21fc23a8",
+      "id": "336eb116b4d7c4fb",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla Ramping Megapack Production ‘As Much As Possible’ After 2027 Capacity Nearly Sold Out Amid Data Center Demand",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-ramping-megapack-production-as-much-as-possible-after-2027-capacity-nearly-sold-out-amid-data-center-demand/cZxUx9eRBDZ?.tsrc=rss",
+      "title": "I've Covered Tesla for Over a Decade. Here's Whether It's a Stock to Buy More Than 21% Below Its Record.",
+      "link": "https://www.fool.com/investing/2026/10/22/i-ve-covered-tesla-for-over-a-decade-here-s-whether-it-s-a-stock-to-buy-more-than-21-below-its-record/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-23T00:01:31+00:00",
+      "published": "2026-10-23T03:34:02+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "0bff1fe80c70e575",
+      "id": "b44ea81196528290",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google’s AI chip could become a $75 billion business",
+      "link": "https://www.thestreet.com/investing/google-ai-chip-could-become-75-billion-business?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T03:07:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "4699e881d27c62b7",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "TSLA Q3 deep dive: autonomy adoption and margin dynamics shape outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-q3-deep-dive-autonomy-230153150.html?.tsrc=rss",
+      "title": "Cathie Wood Just Bought Netflix Stock. Should You Follow Her?",
+      "link": "https://www.fool.com/investing/2026/10/22/cathie-wood-just-bought-netflix-stock-should-you-follow-her/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T23:01:53+00:00",
+      "published": "2026-10-23T02:20:02+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "21ab096efb15e790",
+      "id": "a0b332ad74b12c89",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "TSLA, SPCX Boards Confirm Special Committees On Potential Combination As Megapack Deals And Terafab Plans Deepen Ties",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-boards-confirm-special-committees-on-potential-combination-as-megapack-deals-and-terafab-plans-deepen-ties/cZxwF7cRBDj?.tsrc=rss",
+      "title": "Why Trump Can't Afford to Lose The Rare Earth Race",
+      "link": "https://finance.yahoo.com/energy/articles/why-trump-cant-afford-lose-020000523.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T22:34:48+00:00",
+      "published": "2026-10-23T02:00:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "a0d4823ea05d9321",
+      "id": "2f0ab77bb6d7d353",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Buy, Hold, or Sell Tesla Stock After Q3 Earnings & SpaceX Merger Talks?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-tesla-stock-221700584.html?.tsrc=rss",
+      "title": "Why a Merger With Tesla Could Be a Disaster for SpaceX",
+      "link": "https://www.fool.com/investing/2026/10/22/why-a-merger-with-tesla-could-be-a-disaster-for-spacex/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T22:17:00+00:00",
+      "published": "2026-10-23T01:20:02+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "65aad517efaece08",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "On Holding (ONON) Could Be 27% Undervalued Following Its Recent Pullback",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-could-27-undervalued-011553294.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T01:15:53+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "e0396d1a2ff3d1c2",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "3 Undervalued Stocks With At Least 33% Fair Value Upside",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-least-33-011311785.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T01:13:11+00:00",
+      "logo": "logos/GOOG.svg"
     },
     {
       "id": "904767c1e57aa257",
@@ -76,28 +109,6 @@
       "link": "https://finance.yahoo.com/m/640c88c4-a539-3735-a0ee-746427e88883/meta-eyes-an-early-equity.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-22T20:44:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "d35df3480bbfe261",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Roundtable CEO, Coinbase's D'Agostino discuss USDC \"forcing function\" partnership",
-      "link": "https://www.thestreet.com/crypto/innovation/roundtable-ceo-coinbases-dagostino-discuss-usdc-forcing-function-partnership?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T20:39:53+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "7dc783fae9a7eb1f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stock Market Today: Nasdaq Thrashed, Dow Up; Moderna, Meta Lead Sell-Off (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/a6067e2b-5ce6-3182-915b-58daa8b6d0f9/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T20:38:05+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -200,6 +211,17 @@
       "logo": "logos/CCJ.svg"
     },
     {
+      "id": "78471f3bcd5d8734",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Electric Metals (USA) Limited (EML.V) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JWjNFMHl6Y0VZNXBUYm9KbDRRdHpHanR3T1l2RTJRQnBtSXl5SEQxanp5aFkxZVQxUFNuajBRX1Nla2VSdlQ2bXJsazFMWUxWRG9V?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-22T07:33:42+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "7189643015fd01e1",
       "ticker": "NU",
       "symbol": "NU",
@@ -253,17 +275,6 @@
       "source": "Yahoo Finance Singapore",
       "published": "2026-10-21T13:03:33+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "70692ceaad56028f",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "2 Brilliant Stocks to Buy Now and Hold Forever",
-      "link": "https://www.fool.com/investing/2026/10/21/2-brilliant-stocks-to-buy-now-and-hold-forever/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-21T10:00:00+00:00",
-      "logo": "logos/ONON.svg"
     },
     {
       "id": "a5f49c646924b7e5",
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDVTSTE5UzFxSjBPTWpVWlFzODRsVFltLU5tX3RoSnNlbVdLVWEyS0FGamxhWW5Bd0lmTnJoNnI2bXJhWnlwazRLdnNRX2x3UzF3dE1wNldsaHVTci1KbnZRSU52Y0VLemJfTGF4NTBiY3BHTmRlLW9wRmdpcG85SWlPOU1mdHA0UTB5NndSLW5oVHF0ajJkZzJLejc3cGRWZW1hM3hOdnExUnRFRnVnTHZTZXg?oc=5",
       "source": "www.siam.in",
       "published": "2026-10-17T20:46:47+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "9514f129d81a981e",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments Limited (EML.AX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xYnYyOVZxd2ptRXFiSmxNNWtrMWl0ZngyNllBbjE1Tk14ejc2S1JKMnhfTFRXSTY0dGFXRXdWaEZTNW5YRXZVZXROVlppOEJxNXpPVw?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-10-16T05:10:06+00:00",
       "logo": "logos/EML.svg"
     },
     {
