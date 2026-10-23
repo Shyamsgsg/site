@@ -1,93 +1,126 @@
 {
-  "updated": "2026-10-23T07:07:37Z",
+  "updated": "2026-10-23T09:53:44Z",
   "items": [
     {
-      "id": "2c5c871e0bffaa4b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla's Automotive Revenue Fell 3%, and Energy Generation and Storage Tumbled 16%. Should Investors Still View Tesla as a Car Company?",
-      "link": "https://www.fool.com/investing/2026/10/23/teslas-automotive-revenue-fell-3-and-energy-genera/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T07:05:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "a54a7bbe7d0aa47f",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "TSLA Eyes Best Week In 2 Months — Analyst Sees Physical Tech’s ‘Berkshire,’ But Bear Credits Court Ruling For Q3 Beat",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-physical-tech-berkshire-bear-court-ruling-q3-beat/cZxyEIYRBxG?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T06:13:55+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "bd4664868a84dbb8",
+      "id": "476ff96d33da868f",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Stocktwits AI Roundup: Meta’s Capex, Lam’s Supply Warning Hit Tech Stocks As Netflix Disappoints",
-      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-ai-roundup-meta-s-capex-lam-s-supply-warning-hit-tech-stocks-as-netflix-disappoints/cZxy3D9RBD6?.tsrc=rss",
+      "title": "AI stock bears probably just missed this point on Tesla in their run for the exits",
+      "link": "https://finance.yahoo.com/technology/ai/article/ai-stock-bears-probably-just-missed-this-point-on-tesla-in-their-run-for-the-exits-095101368.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-23T06:01:51+00:00",
+      "published": "2026-10-23T09:51:01+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "d82fe758ec59f85d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "What Marvell Technology Holders Bought Into Before A 170% Run",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-holders-bought-170-051214720.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T05:12:14+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "3f8f7225567a52ac",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "S&P 500 best performers: Zero mag 7 stocks past 13 weeks",
-      "link": "https://www.thestreet.com/investing/sp-500-best-performers-zero-mag-7-stocks-past-13-weeks?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T04:03:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "336eb116b4d7c4fb",
+      "id": "c09e7588ea6aa43c",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "I've Covered Tesla for Over a Decade. Here's Whether It's a Stock to Buy More Than 21% Below Its Record.",
-      "link": "https://www.fool.com/investing/2026/10/22/i-ve-covered-tesla-for-over-a-decade-here-s-whether-it-s-a-stock-to-buy-more-than-21-below-its-record/?.tsrc=rss",
+      "title": "Stocktwits Wall Street Wrap: Analysts Turn Bullish On SpaceX, Tesla, But Netflix And Chipotle Face Fresh Downgrades Amid Growth Concerns",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-wall-street-wrap-analysts-turn-bullish-on-space-x-tesla-but-netflix-and-chipotle-face-fresh-downgrades-amid-growth-concerns/cZxyaiCRBx4?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-23T03:34:02+00:00",
+      "published": "2026-10-23T09:30:54+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "b44ea81196528290",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google’s AI chip could become a $75 billion business",
-      "link": "https://www.thestreet.com/investing/google-ai-chip-could-become-75-billion-business?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T03:07:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "4699e881d27c62b7",
+      "id": "278aa058e7c3958e",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Cathie Wood Just Bought Netflix Stock. Should You Follow Her?",
-      "link": "https://www.fool.com/investing/2026/10/22/cathie-wood-just-bought-netflix-stock-should-you-follow-her/?.tsrc=rss",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq wobble after sharp tech sell-off",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-23T02:20:02+00:00",
+      "published": "2026-10-23T09:30:00+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "2ca87a1367a1f3ab",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Warren Buffett's Successor, Greg Abel, Has 32% of Berkshire Hathaway's $364 Billion Portfolio Invested in 3 Unstoppable AI Stocks",
+      "link": "https://www.fool.com/investing/2026/10/23/warren-buffett-successor-greg-abel-32-berkshire-hathaway-364-billion-portfolio-invested-3-unstoppable-ai-stocks/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T09:26:01+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "28ebdd7864fb54eb",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "ERock And 2 Other High Growth Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/erock-2-other-high-growth-091502671.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T09:15:02+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "d669e2e076cb615b",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla (TSLA) Stock Could Be Above Fair Value After Merger Talks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-could-above-091341557.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T09:13:41+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "97f68c2584b7e5cb",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Why Is Rigetti Computing Stock Falling?",
+      "link": "https://www.trefis.com/articles/620153/why-is-rigetti-computing-stock-falling/2026-10-23?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T09:02:05+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "17ab7b8ddfae2e7a",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Could You Have Seen The Run In Microsoft Stock Coming?",
+      "link": "https://www.trefis.com/articles/620174/could-you-have-seen-the-run-in-microsoft-stock-coming/2026-10-23?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T09:01:53+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "f6702e0bc79e5e12",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX CEO Elon Musk's Approval Required in Potential Merger With Tesla",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ceo-elon-musk-apos-090137739.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T09:01:37+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "6b7ac126da631e21",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "3 Great Canadian Nuclear Stocks To Own In October 2026",
+      "link": "https://finance.yahoo.com/energy/articles/3-great-canadian-nuclear-stocks-071103866.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T07:11:03+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "c95040af6212dc05",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Stock Fell 8% in a Day After Its Spain Campus Rally. Here’s What Wall Street’s Targets Imply",
+      "link": "https://www.tikr.com/blog/iren-stock-fell-8-in-a-day-after-its-spain-campus-rally-heres-what-wall-streets-targets-imply?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T01:51:37+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "65aad517efaece08",
@@ -99,6 +132,17 @@
       "source": "News",
       "published": "2026-10-23T01:15:53+00:00",
       "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "a8d2a4638d1729ea",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Nebius Stock Fell 7% the Day It Announced a $3.5 Billion Citi Facility. Here’s What Its CEO Said About How Long the AI Chip Shortage Lasts",
+      "link": "https://www.tikr.com/blog/nebius-stock-fell-7-the-day-it-announced-a-3-5-billion-citi-facility-heres-what-its-ceo-said-about-how-long-the-ai-chip-shortage-lasts?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T01:09:17+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "452c3fb4dd4192fb",
@@ -145,17 +189,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "d74f89d6daba18ec",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "The Neocloud Bloodbath: NBIS, IREN, and CRWV Selloff Continues",
-      "link": "https://247wallst.com/investing/2026/10/22/the-neocloud-bloodbath-nbis-iren-and-crwv-selloff-continues/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T17:06:31+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "9a9bbfb3aa45d7e6",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -178,17 +211,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "9e9c0802273dfe47",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "BC-Most Active Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017172.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T14:30:17+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "972d638b86d62d90",
       "ticker": "NU",
       "symbol": "NU",
@@ -198,17 +220,6 @@
       "source": "News",
       "published": "2026-10-22T11:15:02+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "ed6e270112e32928",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Should You Forget ExxonMobil and Buy Cameco Stock Instead?",
-      "link": "https://www.fool.com/investing/2026/10/22/should-you-forget-exxonmobil-and-buy-cameco-stock/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T11:05:00+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "78471f3bcd5d8734",
@@ -318,17 +329,6 @@
       "link": "https://247wallst.com/investing/etf/2026/10/20/leverage-shares-is-shutting-down-13-single-stock-leveraged-etfs-none-drew-enough-money-to-survive/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-20T20:03:25+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "005ccf146c1e520c",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Why Nubank (NU) Stock Is Up Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-nubank-nu-stock-today-195750570.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-20T19:57:50+00:00",
       "logo": "logos/NU.svg"
     },
     {
