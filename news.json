@@ -1,16 +1,104 @@
 {
-  "updated": "2026-10-23T19:00:11Z",
+  "updated": "2026-10-23T21:50:42Z",
   "items": [
     {
-      "id": "0dd2682d697df067",
+      "id": "74330a0d3487678f",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Prediction: Here's What a $5,000 Investment in Rivian Will Be Worth in 5 Years",
-      "link": "https://www.fool.com/investing/2026/10/23/prediction-heres-what-a-5000-investment-in-rivian/?.tsrc=rss",
+      "title": "Tesla Stock Lags Apple Because Of ‘Communications Problem,’ Says Investor Gary Black",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-stock-lags-apple-because-of-communications-problem-says-investor-gary-black/cZxytEHRBUE?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-23T18:50:00+00:00",
+      "published": "2026-10-23T21:11:56+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "b78066ef36cbce64",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Notice to Market: Nu Holdings Ltd.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/notice-market-nu-holdings-ltd-210300960.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T21:03:00+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "fd3631dfb7f022c9",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "S&P 500 Posts Slight Weekly Drop Amid AI Spending Worries",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-slight-weekly-205011245.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T20:50:11+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "bc75f5e01054fef4",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Dow Jones Futures: Microsoft, Google, Amazon Lead Earnings Wave; What To Do In Mixed Market",
+      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures%3A-microsoft%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T20:49:37+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "2bc11a078d7e4d57",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "US Equity Indexes Close Mixed This Week as Investors Rotate into Treasury Bonds, Defensives as AI Trade Falters",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-close-mixed-203519679.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T20:35:19+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a0c40cfecc7d78ac",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Meta and Google About to Run the Old Playbook Again, Will “Sell Space Inside Their Models.”",
+      "link": "https://www.tikr.com/blog/meta-and-google-about-to-run-the-old-playbook-again-will-sell-space-inside-their-models?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T20:33:58+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "68009169707bac47",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Big Tech's AI spending has Wall Street worried",
+      "link": "https://finance.yahoo.com/video/big-techs-ai-spending-has-wall-street-worried-201632600.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T20:16:32+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "88247f8f24b3d316",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Musk: Optimus and Cybercab “Will Be the Vast Majority of Tesla’s Value” as Earnings Loom",
+      "link": "https://www.tikr.com/blog/musk-optimus-and-cybercab-will-be-the-vast-majority-of-teslas-value-as-earnings-loom?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T20:05:02+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a744f982907345b2",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN (IREN) Stock Looks Near Fair Value On Sales",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-stock-looks-near-191314943.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T19:13:14+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "b6c8eaf1c863d7f9",
@@ -22,17 +110,6 @@
       "source": "News",
       "published": "2026-10-23T18:33:48+00:00",
       "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "7c74956fdafb8a9a",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Investing.com’s stocks of the week",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-182933712.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T18:29:33+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "d82493e9515d24c0",
@@ -57,28 +134,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "992de9a96c9e86ea",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk's $1B Skydance investment: Why the timing matters",
-      "link": "https://finance.yahoo.com/video/elon-musks-1b-skydance-investment-why-the-timing-matters-174916919.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T17:49:16+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "37ffb63101de2c3b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Sector Update: Tech Stocks Advance Friday Afternoon",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-advance-friday-174020772.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T17:40:20+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "5886f5f0ad00bad5",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -90,39 +145,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "81ad512be5b6317e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet (GOOGL): Investing Behind AI Demand and TPU Growth",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-investing-behind-ai-165149716.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T16:51:49+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "4747b8b681a14c19",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Apple and Alphabet are sending Wall Street different signals",
-      "link": "https://www.thestreet.com/investing/stocks/apple-and-alphabet-are-sending-wall-street-different-signals?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T16:47:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "11f34b5d3c8ffd5e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Marvell Technology Faces a Multi-Front War Against Taiwan’s Custom Silicon Ecosystem",
-      "link": "https://247wallst.com/investing/2026/10/23/marvell-technology-faces-a-multi-front-war-against-taiwans-custom-silicon-ecosystem/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T16:45:03+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "3ee2c026a8c9e1ef",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -131,17 +153,6 @@
       "link": "https://247wallst.com/investing/2026/10/23/short-sellers-just-made-6-billion-betting-against-ai-data-center-stocks/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-23T14:50:02+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "5f104ee32bd6edc4",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "AI Pivot Fails to Slow Bitcoin Mining Competition as Hashrate Surges",
-      "link": "https://www.cryptoprowl.com/releases/ai-pivot-fails-to-slow-bitcoin-mining-competition-as-hashrate-surges-7396?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T13:33:00+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -255,17 +266,6 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "7189643015fd01e1",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "October 2026 Crypto Stocks To Watch",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/october-2026-crypto-stocks-watch-021404939.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T02:14:04+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "f0a53a12472e28d6",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -288,6 +288,39 @@
       "logo": "logos/ONON.svg"
     },
     {
+      "id": "5a211fee7d1b5ba3",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Bank of China Limited (HBND.SI) stock price, news, quote and history - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13Ynh4elBaXzNwQ1gyeHJOQ0tOSWdkb0lmcGlWeWNXb2ZDUVFZV21fRmpLWk9jckg5WEUtVDZTdWxCX0twWmhXR0VFWHBRR1NNMUpYS0J3?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "published": "2026-10-21T13:03:33+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "a5f49c646924b7e5",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Goldman Sachs raises target for BOC Hong Kong stock to HKD 59.70 - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN3AzbHpYdDE5N1dIRk9ySGdzYVFLb0Iwemo5MU1mM01OQUpnT3V0a19SMVRFSjJWdEFjLU1tUWVIUnJPY1g5b1JCaUZsSzN6ZUhzdFRKZWExZHItVVNadE9FS3VMazhQS2NwY1hrV3BNdl9weEZTUVoxUDhKU0RRWS0wQk9TWS1wb2ppeG50cFZmTlNrTm5DYjhsSVNTWTZsOWRqaEJTY25rNnFiMFdPTC1zMFRtdXQ2QlNCUkl4LUVSWTRhNmc?oc=5",
+      "source": "AD HOC NEWS",
+      "published": "2026-10-21T08:09:37+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "d062ffaf6fcdf4b8",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Price-Driven Insight from (BOC) for Rule-Based Strategy - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQkRxS0M1WWU1SGRqbkYyVTNuYlBJTUplSXlDdy0xLW1FZmVRb05tR1p1Mk5OYUFIdWF1bS1sUFVnX0ZRaDk5bGhLa0dKdHNwT0xXV0wzOUxiRDg4Y3NnZDMyYmY0dm1BNjhNM1I3Q3cwc1dsOEtmTjE4Qnl4YzVaa21jSzBfa0Y5cnNMTHplQVBKbjE5Nm01RXZQcUlOX3FhbF9tb2JQSWx2SC1WdkN6ZG9uMnFobmJyODdDaEtpOUYwcUdtUGVscjVyay1LUQ?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-10-21T05:06:01+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "7d29badcf350d2c5",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -299,25 +332,14 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "5cefbd2d164963c9",
+      "id": "afb97d787274e005",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
-      "title": "Bougainville Copper Ltd (ASX: BOC) Share Price, BOC Stock News, BOC Share Price & Updates - kalkine.ca",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1peXZSbzBKLWlYT2wtaXlETDc3b0paZkc1VU1nbXZjc0lJWXVnMXc4ZTNHeDk1Z2VkLXo4QVdDWEVWRXBTSnUtMDkwNA?oc=5",
-      "source": "kalkine.ca",
-      "published": "2026-10-19T23:00:00+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "3b7f6850e0716846",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC International kept HKD 6.96 target for China Telecom stock - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzlISWtuSU1hVy15dndmQWFZME1oV0VDM01WSGtjTkhTX3FlY2Zxa0ota1R6M3l6bkVBdVlIN1VsR0UwZWxRUExvVDRMOXNMV0tia1gtZHZkUmtmUkNxa1c0bDFWTEVtRGJWcGNMQmdRMEx4M3RqWnE3dXNrcVhTZVc0bHcxR0hvZGhzbkJEeHlqTWE5SmRONUI3WmV1dG5RYU9qNG5wNmlrOFh0dkVtR2NHWmMyTDJtWDUtQ0hSRzNWYVE?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-19T08:55:43+00:00",
+      "title": "BOC Hong Kong stock: UBS target puts BOC Hong Kong stock 13.11 percent below HKD 57.50 - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQUVmazhUbFBXVFZPdGdFb0R2Q2l4MjdLTTFEN0hSTGU0dWxUanNwRVY3dl8weXlCbDJBSDRjazNqUXZfTFJHTjN2UFhuZ05nc3NfSXExRHJNVW0zb2NZQnpFRDBqNDRKcmdJd2NQcFV4MEhfalVsajNuLWI2MUNxSmRDTnlPTnkzeFJhUWJuUW52Zk9NSDRFZFJCRFh3cDhoSmxyRzJMWXRzUjIwczI0aWRaeE1oNHlSTWl1V3hUTlBYdV9oemNvQjZXSThOZUpYOWJEcUk1ZE1SZkxMdjU5YnNn?oc=5",
+      "source": "AD HOC NEWS",
+      "published": "2026-10-20T13:19:55+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -330,28 +352,6 @@
       "source": "www.siam.in",
       "published": "2026-10-17T20:46:47+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "43be7dbac9091d51",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Who's Buying or Selling Bang & Olufsen AS (CEUX:BOc) Stock Today? - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BVkU2TFItT2h0VkhkejFOMktOVWhHOTVnN3BIdjlpU2UzUUhwOV9WclpyUmpLamJaMDdmakVvN3QyX1FBZFowV2U0V0dGTmhnRVhrYXhtSm1wcTlmLURiT2R3?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-10-16T22:38:31+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "54163083e0fe3267",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Bang & Olufsen AS (CEUX:BOc) Stock News, Headlines & Updates - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lb0t6VXdINGllNFBQcHJ6NGJPX2JydlJzZ2lxanJXMFp4SzVuUmVTUjkxWFZMb0NsUWM3NmViemd2YmlNVDdDRVROMDctTVJlaC14T3R1NWI5a0Mx?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-10-16T21:55:09+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "100f84de1493c850",
