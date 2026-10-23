@@ -1,16 +1,60 @@
 {
-  "updated": "2026-10-22T21:50:54Z",
+  "updated": "2026-10-23T01:07:57Z",
   "items": [
     {
-      "id": "f693e59637497a99",
+      "id": "8309984b21fc23a8",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Musk wants to merge SpaceX and Tesla: Here's what to know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/musks-wants-merge-spacex-tesla-205406983.html?.tsrc=rss",
+      "title": "Tesla Ramping Megapack Production ‘As Much As Possible’ After 2027 Capacity Nearly Sold Out Amid Data Center Demand",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-ramping-megapack-production-as-much-as-possible-after-2027-capacity-nearly-sold-out-amid-data-center-demand/cZxUx9eRBDZ?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T21:10:54+00:00",
+      "published": "2026-10-23T00:01:31+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "0bff1fe80c70e575",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "TSLA Q3 deep dive: autonomy adoption and margin dynamics shape outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-q3-deep-dive-autonomy-230153150.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T23:01:53+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "21ab096efb15e790",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "TSLA, SPCX Boards Confirm Special Committees On Potential Combination As Megapack Deals And Terafab Plans Deepen Ties",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-boards-confirm-special-committees-on-potential-combination-as-megapack-deals-and-terafab-plans-deepen-ties/cZxwF7cRBDj?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T22:34:48+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a0d4823ea05d9321",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Buy, Hold, or Sell Tesla Stock After Q3 Earnings & SpaceX Merger Talks?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-tesla-stock-221700584.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T22:17:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "904767c1e57aa257",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "When Could Quantum Computers or AI Break Bitcoin? An Updated Threat Window",
+      "link": "https://unchainedcrypto.com/when-could-quantum-computers-or-ai-break-bitcoin-an-updated-threat-window/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-22T22:00:43+00:00",
+      "logo": "logos/GOOG.svg"
     },
     {
       "id": "452c3fb4dd4192fb",
@@ -20,19 +64,8 @@
       "title": "Stock Market Today, Oct. 22: CoreWeave Slides on Bernstein Downgrade and Financing Worries",
       "link": "https://www.fool.com/coverage/stock-market-today/2026/10/22/stock-market-today-oct-22-coreweave-slides-on-bernstein-downgrade-and-financing-worries/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-22T21:09:31+00:00",
+      "published": "2026-10-22T21:51:12+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "edb7a10aab80df9f",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla, SpaceX, Meta, Lockheed Martin, Lam Research, Spotify, and More Stocks That Explain Today’s Market",
-      "link": "https://finance.yahoo.com/m/add35572-856e-31cb-981d-91d3cc20d822/tesla%2C-spacex%2C-meta%2C-lockheed.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T20:53:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "c0a0abc81f787ba7",
@@ -66,39 +99,6 @@
       "source": "News",
       "published": "2026-10-22T20:38:05+00:00",
       "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "4a37aa512d52bc64",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Apple’s foldable iPhone has a $2,000 app problem",
-      "link": "https://finance.yahoo.com/video/apples-foldable-iphone-has-a-2000-app-problem-203418718.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T20:34:18+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "85928c0f8851e1c7",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Twist Bioscience Sinks 9%, Illumina Down 5% as AI and Genomics Stocks Slide",
-      "link": "https://www.tikr.com/blog/twist-bioscience-sinks-9-illumina-down-5-as-ai-and-genomics-stocks-slide?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T20:33:03+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "859f11b5a7a9c9fb",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Global markets retreat as tech mood sours, oil prices jump",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-back-retreat-tech-024129180.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T20:30:59+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "f054cfd593dbcd0f",
@@ -198,17 +198,6 @@
       "source": "News",
       "published": "2026-10-22T11:05:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "78471f3bcd5d8734",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Electric Metals (USA) Limited (EML.V) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JWjNFMHl6Y0VZNXBUYm9KbDRRdHpHanR3T1l2RTJRQnBtSXl5SEQxanp5aFkxZVQxUFNuajBRX1Nla2VSdlQ2bXJsazFMWUxWRG9V?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-10-22T07:33:42+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "7189643015fd01e1",
@@ -341,6 +330,17 @@
       "source": "ad-hoc-news.de",
       "published": "2026-10-20T13:19:55+00:00",
       "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "91710b3977690be7",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Eastern Company (EML) Slips 2.92% to $24.31 as Shares Test Lower Support Zone - High Yield Stocks - www.siam.in",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDVTSTE5UzFxSjBPTWpVWlFzODRsVFltLU5tX3RoSnNlbVdLVWEyS0FGamxhWW5Bd0lmTnJoNnI2bXJhWnlwazRLdnNRX2x3UzF3dE1wNldsaHVTci1KbnZRSU52Y0VLemJfTGF4NTBiY3BHTmRlLW9wRmdpcG85SWlPOU1mdHA0UTB5NndSLW5oVHF0ajJkZzJLejc3cGRWZW1hM3hOdnExUnRFRnVnTHZTZXg?oc=5",
+      "source": "www.siam.in",
+      "published": "2026-10-17T20:46:47+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "9514f129d81a981e",
