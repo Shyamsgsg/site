@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-23T02:26:45+00:00",
+  "updated": "2026-10-23T03:01:08+00:00",
   "source": "Yahoo Finance (query1.finance.yahoo.com/v8/finance/chart)",
   "fx": {
-    "AUDUSD": 0.7018,
-    "AUDUSD_change_pct": -0.1607,
+    "AUDUSD": 0.7019,
+    "AUDUSD_change_pct": -0.1465,
     "USDSGD": 1.2773,
     "USDSGD_change_pct": 0.018
   },
@@ -39,13 +39,13 @@
       "stale": false
     },
     "GTK.AX": {
-      "price": 3.58,
+      "price": 3.56,
       "previous_close": 3.61,
-      "change_pct": -0.831,
+      "change_pct": -1.385,
       "currency": "AUD",
       "exchange": "ASX",
       "long_name": "Gentrack Group Limited",
-      "market_time": "2026-10-23T02:04:33+00:00",
+      "market_time": "2026-10-23T02:39:57+00:00",
       "stale": false
     },
     "ONON": {
@@ -99,13 +99,13 @@
       "stale": false
     },
     "AUDUSD=X": {
-      "price": 0.7018,
+      "price": 0.7019,
       "previous_close": 0.70293,
-      "change_pct": -0.1607,
+      "change_pct": -0.1465,
       "currency": "USD",
       "exchange": "CCY",
       "long_name": "AUD/USD",
-      "market_time": "2026-10-23T02:25:28+00:00",
+      "market_time": "2026-10-23T02:59:29+00:00",
       "stale": false
     },
     "SGD=X": {
@@ -115,7 +115,7 @@
       "currency": "SGD",
       "exchange": "CCY",
       "long_name": "USD/SGD",
-      "market_time": "2026-10-23T02:26:44+00:00",
+      "market_time": "2026-10-23T03:01:08+00:00",
       "stale": false
     },
     "^GSPC": {
