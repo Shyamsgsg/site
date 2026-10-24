@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-24T03:53:15Z",
+  "updated": "2026-10-24T07:03:30Z",
   "items": [
+    {
+      "id": "2b542c73738f9607",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Cathie Wood-Led Ark Invest Sells PLTR, GOOG, SHOP Stocks — But Loads Up On PACB, FRNM And Other Biotech Firms",
+      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-sells-goog-pltr-crwd-buys-biotech-stocks/cZUGfEJRBUO?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-24T05:29:55+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a4ca3f99e8f5d94d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Wells Fargo, Arm and Intuit Reject Tokenized Shares on OKX-ICE",
+      "link": "https://www.cryptoprowl.com/releases/wells-fargo-arm-and-intuit-reject-tokenized-shares-on-okx-ice-7440?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-24T03:59:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "42350a805656aa3e",
       "ticker": "TSLA",
@@ -65,28 +87,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-investing-behind-ai-165149716.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-24T00:31:49+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "7a5fd0087dc5078d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Amazon Stock And Other Mega Cap Tech Names For The AI Infrastructure Reset",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amazon-stock-other-mega-cap-001944653.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-24T00:19:44+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "38ecab9f99362988",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Review & Preview: The Dow’s Turn",
-      "link": "https://finance.yahoo.com/m/e0fe5a77-6816-38a8-b2cb-9878c9cd341d/review-%26-preview%3A-the-dow%E2%80%99s.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T23:55:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
