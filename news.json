@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-24T07:03:30Z",
+  "updated": "2026-10-24T09:49:47Z",
   "items": [
+    {
+      "id": "424b3cebf1078b6a",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Billionaire Ken Griffin Says We May Be in a Bubble. Here’s What History Says Happens Next.",
+      "link": "https://www.fool.com/investing/2026/10/24/billionaire-ken-griffin-says-we-may-be-in-a-bubble-here-s-what-history-says-happens-next/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-24T09:30:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "1e8474e33c2ac0c7",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk threatens Democrats who plan to launch investigations into him if they win back congressional power",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-threatens-democrats-plan-093000408.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-24T09:30:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "0bb1de841beb4a6b",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "3 EV Stocks To Watch With Revenue Growth Up To 33%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-ev-stocks-watch-revenue-091208015.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-24T09:12:08+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "1def186e039ef593",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "3 Canadian Growth Stocks With Earnings Growth Up To 65%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-earnings-071210194.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-24T07:12:10+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "af725cfe5a501fdf",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "The tech ‘death spiral’ that could destroy the AI boom",
+      "link": "https://www.telegraph.co.uk/business/2026/10/24/warning-signs-flash-for-ai-boom-as-risky-debt-piles-up/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-24T07:00:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
     {
       "id": "2b542c73738f9607",
       "ticker": "GOOG",
@@ -46,17 +101,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "4afa43236f4be6c1",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Mercari And 2 Other High Growth Insider Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mercari-2-other-high-growth-011401968.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-24T01:14:01+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "4ebec58ffa82ae20",
       "ticker": "GOOG",
       "symbol": "GOOG",
@@ -65,28 +109,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/bet-alphabet-holders-made-011025851.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-24T01:10:25+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "de6cb9766b923bdf",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla wants to sell a car with no steering wheel this year",
-      "link": "https://www.thestreet.com/automotive/tesla-wants-to-sell-a-car-with-no-steering-wheel-this-year?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-24T01:03:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "81ad512be5b6317e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet (GOOGL): Investing Behind AI Demand and TPU Growth",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-investing-behind-ai-165149716.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-24T00:31:49+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -154,17 +176,6 @@
       "source": "Yahoo! Finance Canada",
       "published": "2026-10-23T15:45:00+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "3ee2c026a8c9e1ef",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Short Sellers Just Made $6 Billion Betting Against AI Data Center Stocks",
-      "link": "https://247wallst.com/investing/2026/10/23/short-sellers-just-made-6-billion-betting-against-ai-data-center-stocks/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T14:50:02+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "8913278b42a87c3b",
@@ -255,17 +266,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "aa9d98654761d807",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco Sinks 11% in a Month While Uranium Hits a 19-Year High: “Defined by Delivery”",
-      "link": "https://www.tikr.com/blog/cameco-sinks-11-in-a-month-while-uranium-hits-a-19-year-high-defined-by-delivery?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T14:58:25+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "972d638b86d62d90",
       "ticker": "NU",
       "symbol": "NU",
@@ -343,14 +343,14 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "afb97d787274e005",
+      "id": "ce36819fc428cfc8",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
-      "title": "BOC Hong Kong stock: UBS target puts BOC Hong Kong stock 13.11 percent below HKD 57.50 - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQUVmazhUbFBXVFZPdGdFb0R2Q2l4MjdLTTFEN0hSTGU0dWxUanNwRVY3dl8weXlCbDJBSDRjazNqUXZfTFJHTjN2UFhuZ05nc3NfSXExRHJNVW0zb2NZQnpFRDBqNDRKcmdJd2NQcFV4MEhfalVsajNuLWI2MUNxSmRDTnlPTnkzeFJhUWJuUW52Zk9NSDRFZFJCRFh3cDhoSmxyRzJMWXRzUjIwczI0aWRaeE1oNHlSTWl1V3hUTlBYdV9oemNvQjZXSThOZUpYOWJEcUk1ZE1SZkxMdjU5YnNn?oc=5",
-      "source": "AD HOC NEWS",
-      "published": "2026-10-20T13:19:55+00:00",
+      "title": "BOC-Prudential MSCIACAPACexJpnIdxInvmUSD (0P0001JCNM) latest stock news and headlines - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PN1JJLUc1WE8xZUFkbjdkU25uUkpmTGV5YUJyY3lfbmdCN19hc21BVWwtbF9TdWRtNFJBd3EzeGtFQ2NDQUw3Z0M4OWJwajJRZDJHU1B4NEozTHNmSGJDbw?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "2026-10-20T20:00:00+00:00",
       "logo": "logos/BOC.svg"
     },
     {
