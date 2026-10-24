@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T18:52:31Z",
+  "updated": "2026-10-24T21:47:42Z",
   "items": [
     {
       "id": "6decc1e49beb8d91",
@@ -222,17 +222,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "fe87a991290e7083",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EMMERSON PLC (EML) Equity Price and Quote - London Stock Exchange",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
-      "source": "London Stock Exchange",
-      "published": "2026-10-22T20:53:32+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "5f11ab0ca6e055da",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -288,17 +277,6 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "f0a53a12472e28d6",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Responsive Playbooks and the EML Inflection - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQ0QTl2bHVibXhPSDVodmNjYUpCdnRmVmZyRW5PbU1USHdCaUNPdF81emNmOF8zMWExQ1JVcWNwSFRwcFpJMjZLUnh2VEtZcE5fbHJObmRHcC05VEFyNmhOOGY0bURtbEV3NUp5dGgxNHhvVXlsUW1WTlQtR0NGUV9uRUVsNWJtU2gzVEt0cF9hOWloQjMzNTFBQ3o1dTFnaWswYjdaNVBXWDZqNjJiZ0VmWkgwY25HYjVvMEZ3UFE?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-10-21T23:20:01+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "5d169213b20cc854",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -332,17 +310,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "7d29badcf350d2c5",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX1pFVHhmVUN2d2pRXzVxNjlCMmtPcm44c3B4NWVuNFc1U2tmZG5GY2J1X2pkWl9MMHBVOWxScHFYZGljWTRibzJiLWhqaVlfU2VtMXcxdXhTQl93ZHFaZlBlV0FfZ3lPS29JVF9DT1F2bXFQYk4wYi1OaWpJZ2poQmFpRE1TVEIyd2ZfeUQ4WVd2YVdhOFZaY3hZVzdncVB1d1hRdXdOVG9MMFBCY25jUnRCYm8zMmtxZTBpekUtd18tN0lWZW1Pc2plZWZUTTBmbll1NE9DVDk3UGpxd1dkUVlDSE10TUHSAecBQVVfeXFMT19aRVR4ZlVDdndqUV81cTY5QjJrT3JuOHNweDVlbjRXNVNrZmRuRmNidV9qZFpfTDBwVTlsUnBxWGRpY1k0Ym8yYi1oamlZX1NlbTF3MXV4U0Jfd2RxWmZQZVdBX2d5T0tvSVRfQ09Rdm1xUGJOMGItTmlqSWdqaEJhaURNU1RCMndmX3lEOFlXdmFXYThWWmN4WVc3Z3FQdXdYUXV3TlRvTDBQQmNuY1J0QmJvMzJrcWUwaXpFLXdfLTdJVmVtT3NqZWVmVE0wZm5ZdTRPQ1Q5N1BqcXdXZFFZQ0hNdE1B?oc=5",
-      "source": "Simply Wall Street",
-      "published": "2026-10-20T21:27:46+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "ce36819fc428cfc8",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -352,6 +319,39 @@
       "source": "Yahoo Finance UK",
       "published": "2026-10-20T20:00:00+00:00",
       "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "8a5da30ec073805f",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
+      "source": "Morningstar",
+      "published": "2026-09-21T07:00:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "f8a705231d0ef310",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
+      "source": "Simply Wall Street",
+      "published": "2026-09-04T07:00:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "805631fb9c66006e",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Shares Undervalued Despite Our Fair Value Reduction - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDhjaGI1NUZ2MnNCbjFIZlRTSzJSM3d3Z0d6aTNUSjNBcXdLTkNiajFSV2dveEVKenRIVXRjMUtQQW81THBSRm9JMGF2bDBieW53bUJHUmIwRDEydjhHREJzcENPbFRUU0NSemlIeWFuTXM4alpZWUh2UHJuZDU5allyWFpCcFFCeHRpRXlvdmNDWjR4NklyczJGbkM4UnlQUkZIVThzYk5RNG8?oc=5",
+      "source": "Morningstar",
+      "published": "2026-08-19T07:00:00+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "100f84de1493c850",
