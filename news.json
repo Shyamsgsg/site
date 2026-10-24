@@ -1,16 +1,93 @@
 {
-  "updated": "2026-10-23T21:50:42Z",
+  "updated": "2026-10-24T01:10:09Z",
   "items": [
     {
-      "id": "74330a0d3487678f",
+      "id": "de6cb9766b923bdf",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla Stock Lags Apple Because Of ‘Communications Problem,’ Says Investor Gary Black",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-stock-lags-apple-because-of-communications-problem-says-investor-gary-black/cZxytEHRBUE?.tsrc=rss",
+      "title": "Tesla wants to sell a car with no steering wheel this year",
+      "link": "https://www.thestreet.com/automotive/tesla-wants-to-sell-a-car-with-no-steering-wheel-this-year?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-23T21:11:56+00:00",
+      "published": "2026-10-24T01:03:00+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "cbf912ac4d32e687",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Stocktwits Zero To Sixty: Tesla And SpaceX Form Merger Committees As Profits Drop, While Rivian Buys AI Startup And GM, Ford Advance EV Plans",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-tesla-and-space-x-form-merger-committees-as-profits-drop-while-rivian-buys-ai-startup-and-gm-ford-advance-ev-plans/cZUG5xVRBU9?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-24T00:58:58+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "81ad512be5b6317e",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet (GOOGL): Investing Behind AI Demand and TPU Growth",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-investing-behind-ai-165149716.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-24T00:31:49+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "7a5fd0087dc5078d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Amazon Stock And Other Mega Cap Tech Names For The AI Infrastructure Reset",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amazon-stock-other-mega-cap-001944653.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-24T00:19:44+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ee8e86439cb4afb1",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches ‘Financeable’ Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week",
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-jensen-huang-mark-zuckerberg-agree-ai-faces-bottlenecks-but-differ-on-why/cZUGPmZRBUB?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-24T00:07:10+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "3b42b6ab08727b82",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "3 Defense Stocks Investors May Prefer Over Musk Linked Aerospace Bets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-defense-stocks-investors-may-231049052.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T23:10:49+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "054eb5ec85698ad3",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Dow Jones Futures: Microsoft, Google, Amazon Lead Earnings Wave; What To Do Amid Mixed Signals",
+      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures%3A-microsoft%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T23:09:22+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d57db060b5854434",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Eric Schmidt Rejects AI Bubble Fears, Says Anthropic Is Growing Twice as Fast as Google Did",
+      "link": "https://finance.yahoo.com/technology/ai/articles/eric-schmidt-rejects-ai-bubble-220014912.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-23T22:00:14+00:00",
+      "logo": "logos/GOOG.svg"
     },
     {
       "id": "b78066ef36cbce64",
@@ -24,72 +101,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "fd3631dfb7f022c9",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "S&P 500 Posts Slight Weekly Drop Amid AI Spending Worries",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-slight-weekly-205011245.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T20:50:11+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "bc75f5e01054fef4",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Dow Jones Futures: Microsoft, Google, Amazon Lead Earnings Wave; What To Do In Mixed Market",
-      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures%3A-microsoft%2C.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T20:49:37+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "2bc11a078d7e4d57",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "US Equity Indexes Close Mixed This Week as Investors Rotate into Treasury Bonds, Defensives as AI Trade Falters",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-close-mixed-203519679.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T20:35:19+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "a0c40cfecc7d78ac",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Meta and Google About to Run the Old Playbook Again, Will “Sell Space Inside Their Models.”",
-      "link": "https://www.tikr.com/blog/meta-and-google-about-to-run-the-old-playbook-again-will-sell-space-inside-their-models?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T20:33:58+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "68009169707bac47",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Big Tech's AI spending has Wall Street worried",
-      "link": "https://finance.yahoo.com/video/big-techs-ai-spending-has-wall-street-worried-201632600.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T20:16:32+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "88247f8f24b3d316",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Musk: Optimus and Cybercab “Will Be the Vast Majority of Tesla’s Value” as Earnings Loom",
-      "link": "https://www.tikr.com/blog/musk-optimus-and-cybercab-will-be-the-vast-majority-of-teslas-value-as-earnings-loom?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T20:05:02+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "a744f982907345b2",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -99,17 +110,6 @@
       "source": "News",
       "published": "2026-10-23T19:13:14+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "b6c8eaf1c863d7f9",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Apple Is Up 28% This Year: Take Profits, or Hold On for the Ride?",
-      "link": "https://247wallst.com/investing/2026/10/23/apple-is-up-28-this-year-take-profits-or-hold-on-for-the-ride/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T18:33:48+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "d82493e9515d24c0",
@@ -200,6 +200,17 @@
       "logo": "logos/ONON.svg"
     },
     {
+      "id": "fe87a991290e7083",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EMMERSON PLC (EML) Equity Price and Quote - London Stock Exchange",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
+      "source": "London Stock Exchange",
+      "published": "2026-10-22T20:53:32+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "5f11ab0ca6e055da",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -288,17 +299,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "5a211fee7d1b5ba3",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Bank of China Limited (HBND.SI) stock price, news, quote and history - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13Ynh4elBaXzNwQ1gyeHJOQ0tOSWdkb0lmcGlWeWNXb2ZDUVFZV21fRmpLWk9jckg5WEUtVDZTdWxCX0twWmhXR0VFWHBRR1NNMUpYS0J3?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "published": "2026-10-21T13:03:33+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "a5f49c646924b7e5",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -343,15 +343,15 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "91710b3977690be7",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Eastern Company (EML) Slips 2.92% to $24.31 as Shares Test Lower Support Zone - High Yield Stocks - www.siam.in",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDVTSTE5UzFxSjBPTWpVWlFzODRsVFltLU5tX3RoSnNlbVdLVWEyS0FGamxhWW5Bd0lmTnJoNnI2bXJhWnlwazRLdnNRX2x3UzF3dE1wNldsaHVTci1KbnZRSU52Y0VLemJfTGF4NTBiY3BHTmRlLW9wRmdpcG85SWlPOU1mdHA0UTB5NndSLW5oVHF0ajJkZzJLejc3cGRWZW1hM3hOdnExUnRFRnVnTHZTZXg?oc=5",
-      "source": "www.siam.in",
-      "published": "2026-10-17T20:46:47+00:00",
-      "logo": "logos/EML.svg"
+      "id": "a0def8a0bd9c61e7",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC-Prudential North Amer Idx Retail HKD (0P00018BO0.HK) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55M3lzUy1HRlpqbktkT0gwdWhCNnQwMW1MVENxb214VEFma3ZrTXhsUWE5N210dFZpUHJVOEVwVjd5X0JmVHY1OF9NNlFnVUthaUV0M1ZsRGo5UmlEZzBlbXVkeTdVUFd4bFJj?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-20T10:07:52+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "100f84de1493c850",
