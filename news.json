@@ -1,6 +1,39 @@
 {
-  "updated": "2026-10-25T03:53:54Z",
+  "updated": "2026-10-25T07:04:57Z",
   "items": [
+    {
+      "id": "5c700f19c3b52b76",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "GM Just Announced a $20 Billion Buyback. Tesla Trades at 350 Times Earnings. Here's Which Auto Stock I'd Buy Today.",
+      "link": "https://www.fool.com/investing/2026/10/25/gm-just-announced-a-20-billion-buyback-tesla-trade/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-25T06:25:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "7e1f2f9f3fdc61cc",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Dow Jones Futures: Microsoft, Google, Amazon Lead Earnings In Doom-And-Bloom Market",
+      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures%3A-microsoft%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-25T04:00:44+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "5130ff553b3d3167",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google’s Ex-CEO Says China Trails US by 6 Months in AI Race, but Could Still Win Due to This Strategy: ‘We’re Already Losing’",
+      "link": "https://finance.yahoo.com/technology/ai/articles/google-ex-ceo-says-china-033016284.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-25T03:30:16+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "6c31db948417f893",
       "ticker": "TSLA",
@@ -77,39 +110,6 @@
       "source": "News",
       "published": "2026-10-24T18:20:00+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "ce95533445df9b28",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Broadcom Stock Is Down 7% in a Year. Cheap for a Reason or Too Cheap to Ignore?",
-      "link": "https://www.tikr.com/blog/broadcom-stock-is-down-7-in-a-year-cheap-for-a-reason-or-too-cheap-to-ignore?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-24T17:54:13+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "8437fb3f5a530104",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Bro went from a 700-person village in Slovakia to Google then built an app that makes $2k/day",
-      "link": "https://starterstory.videonest.co/videos/2342774/bro-went-from-a-700-person-village-in-slovakia-to-GBHFM1OXyh?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-24T17:31:23+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "90f1566ca68ee09a",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "3 EV Supply Chain Stocks Facing The China Threat In US Manufacturing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-ev-supply-chain-stocks-161234798.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-24T16:12:34+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "1def186e039ef593",
@@ -233,17 +233,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "fe87a991290e7083",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EMMERSON PLC (EML) Equity Price and Quote - London Stock Exchange",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
-      "source": "London Stock Exchange",
-      "published": "2026-10-22T20:53:32+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "5f11ab0ca6e055da",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -351,6 +340,17 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
       "source": "Simply Wall Street",
       "published": "2026-09-04T07:00:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "805631fb9c66006e",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Shares Undervalued Despite Our Fair Value Reduction - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDhjaGI1NUZ2MnNCbjFIZlRTSzJSM3d3Z0d6aTNUSjNBcXdLTkNiajFSV2dveEVKenRIVXRjMUtQQW81THBSRm9JMGF2bDBieW53bUJHUmIwRDEydjhHREJzcENPbFRUU0NSemlIeWFuTXM4alpZWUh2UHJuZDU5allyWFpCcFFCeHRpRXlvdmNDWjR4NklyczJGbkM4UnlQUkZIVThzYk5RNG8?oc=5",
+      "source": "Morningstar",
+      "published": "2026-08-19T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
