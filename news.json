@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-24T21:47:42Z",
+  "updated": "2026-10-25T01:00:06Z",
   "items": [
+    {
+      "id": "16297d0b6f33f3f4",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Goldman Sachs raises target for BOC Hong Kong stock to HKD 59.70 - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR1FiVENnaXA5NVVQNV9SR3huZHc1ZFpYOTRVT0RyZmZESEtKV3puem05UzI1cVZXZWpEYzRiRzh0S2tuS0o5VHdKdDRPMEZXOVItMTFWNzdYM0tLRE9hLUgtV2NQWlphc0p0bXI2dHE2eVVRTWlDVnpEMzJTMXNILUZSbkRyc2VqZ0h6d21vLUlnQWJXNjV4ZEtDNUZrTVJiTGI0c2VFbVAwOHUtWEhDVGFBWEY3dmY3WnphRDMxY3Q?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-25T00:26:00+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "8b35a69a9450bb9d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Is the AI Bubble About to Burst? Plus, Apple Bets on Doorbells.",
+      "link": "https://www.fool.com/investing/2026/10/24/is-the-ai-bubble-about-to-burst-plus-apple-bets-on-doorbells/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-25T00:22:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "1a62e9b1966f293c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX’s $1 Trillion Revenue Ambition: Can Elon Musk Deliver?",
+      "link": "https://www.fool.com/investing/2026/10/24/spacexs-1-trillion-revenue-ambition-can-elon-musk-deliver/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-25T00:20:02+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a1c2ad87a57c4f6e",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Booking vs. Chewy: Do Pet Treats or Plane Tickets Make for a Better Stock in 2026?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/24/booking-vs-chewy-do-pet-treats-or-plane-tickets-make-for-a-better-stock-in-2026/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-24T23:12:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "6decc1e49beb8d91",
       "ticker": "IREN",
@@ -35,17 +79,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "fa6b11a7141d5605",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Chamath: “$0.70-75 of Every Dollar” of AI Spend Is VC Money. The Real Winners Are Already Publicly Traded",
-      "link": "https://www.tikr.com/blog/chamath-0-70-75-of-every-dollar-of-ai-spend-is-vc-money-the-real-winners-are-already-publicly-traded?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-24T16:18:16+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "90f1566ca68ee09a",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -55,17 +88,6 @@
       "source": "News",
       "published": "2026-10-24T16:12:34+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "fcc893070336c060",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "The $500 Billion Question: Can Google Cloud’s Massive AI Backlog Outrun Its Mind-Boggling CapEx Boom on Oct. 28?",
-      "link": "https://247wallst.com/investing/2026/10/24/the-500-billion-question-can-google-clouds-massive-ai-backlog-outrun-its-mind-boggling-capex-boom-on-oct-28/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-24T15:39:39+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "3420f4c1dfabb3ac",
@@ -87,17 +109,6 @@
       "link": "https://www.tikr.com/blog/we-already-know-tesla-is-failing-one-key-metric-before-it-reports-earnings?ref=yahoofinance&.tsrc=rss",
       "source": "News",
       "published": "2026-10-24T15:08:16+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "9c85370989f1061a",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla (TSLA) Q3 Earnings Reveal A Sharper Margin Squeeze",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-q3-earnings-reveal-141249001.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-24T14:12:49+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -222,6 +233,17 @@
       "logo": "logos/ONON.svg"
     },
     {
+      "id": "fe87a991290e7083",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EMMERSON PLC (EML) Equity Price and Quote - London Stock Exchange",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
+      "source": "London Stock Exchange",
+      "published": "2026-10-22T20:53:32+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "5f11ab0ca6e055da",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -277,6 +299,17 @@
       "logo": "logos/EML.svg"
     },
     {
+      "id": "f0a53a12472e28d6",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Responsive Playbooks and the EML Inflection - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQ0QTl2bHVibXhPSDVodmNjYUpCdnRmVmZyRW5PbU1USHdCaUNPdF81emNmOF8zMWExQ1JVcWNwSFRwcFpJMjZLUnh2VEtZcE5fbHJObmRHcC05VEFyNmhOOGY0bURtbEV3NUp5dGgxNHhvVXlsUW1WTlQtR0NGUV9uRUVsNWJtU2gzVEt0cF9hOWloQjMzNTFBQ3o1dTFnaWswYjdaNVBXWDZqNjJiZ0VmWkgwY25HYjVvMEZ3UFE?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-10-21T23:20:01+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "5d169213b20cc854",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -310,47 +343,14 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "ce36819fc428cfc8",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC-Prudential MSCIACAPACexJpnIdxInvmUSD (0P0001JCNM) latest stock news and headlines - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PN1JJLUc1WE8xZUFkbjdkU25uUkpmTGV5YUJyY3lfbmdCN19hc21BVWwtbF9TdWRtNFJBd3EzeGtFQ2NDQUw3Z0M4OWJwajJRZDJHU1B4NEozTHNmSGJDbw?oc=5",
-      "source": "Yahoo Finance UK",
-      "published": "2026-10-20T20:00:00+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "8a5da30ec073805f",
+      "id": "7f427c1bc365d9e6",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
-      "source": "Morningstar",
-      "published": "2026-09-21T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "f8a705231d0ef310",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
+      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
       "source": "Simply Wall Street",
-      "published": "2026-09-04T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "805631fb9c66006e",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Shares Undervalued Despite Our Fair Value Reduction - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDhjaGI1NUZ2MnNCbjFIZlRTSzJSM3d3Z0d6aTNUSjNBcXdLTkNiajFSV2dveEVKenRIVXRjMUtQQW81THBSRm9JMGF2bDBieW53bUJHUmIwRDEydjhHREJzcENPbFRUU0NSemlIeWFuTXM4alpZWUh2UHJuZDU5allyWFpCcFFCeHRpRXlvdmNDWjR4NklyczJGbkM4UnlQUkZIVThzYk5RNG8?oc=5",
-      "source": "Morningstar",
-      "published": "2026-08-19T07:00:00+00:00",
+      "published": "2026-10-20T21:27:45+00:00",
       "logo": "logos/EML.svg"
     },
     {
