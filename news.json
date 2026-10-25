@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-25T09:50:01Z",
+  "updated": "2026-10-25T12:59:31Z",
   "items": [
+    {
+      "id": "8a9c34604d5727eb",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Why Are Investors Buying Credit Default Swaps to Hedge AI-Related Debt?",
+      "link": "https://investorshub.advfn.com/market-news/article/38472/why-are-investors-buying-credit-default-swaps-to-hedge-ai-related-debt?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-25T11:54:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e0458218560fd584",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Dow Jones Futures Loom; Microsoft, Google, Amazon Earnings Due In Doom-And-Bloom Market",
+      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures-loom%3B.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-25T11:48:29+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "5801ccd593e7bf06",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Good News for Tesla Investors: 3 Key Benchmarks Elon Musk's Company Delivered On in the Third Quarter",
+      "link": "https://www.fool.com/investing/2026/10/25/good-news-for-tesla-investors-3-key-benchmarks-elo/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-25T11:10:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "73a6d3c074a6ff75",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "4 California billionaires saw their wealth soar 322% over the past two years — but paid 0.04% a year in state income tax",
+      "link": "https://finance.yahoo.com/economy/policy/articles/4-california-billionaires-saw-wealth-104500749.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-25T10:45:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e20e2a3bbbd62787",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "The Enterprise Agent Price Nobody Will Show You",
+      "link": "https://finance.yahoo.com/technology/ai/articles/enterprise-agent-price-nobody-show-095924809.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-25T09:59:24+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "c495c71ebd6940f2",
       "ticker": "TSLA",
@@ -11,17 +66,6 @@
       "source": "News",
       "published": "2026-10-25T09:07:00+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "79ac980ef17bd711",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet's 2 Classes of Common Stock Trade About 1% Apart. Here's the One I'd Buy.",
-      "link": "https://www.fool.com/investing/2026/10/25/alphabet-s-2-classes-of-common-stock-trade-about-1-apart-here-s-the-one-i-d-buy/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-25T07:54:01+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "5c700f19c3b52b76",
@@ -35,28 +79,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "7e1f2f9f3fdc61cc",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Dow Jones Futures: Microsoft, Google, Amazon Lead Earnings In Doom-And-Bloom Market",
-      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures%3A-microsoft%2C.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-25T04:00:44+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "5130ff553b3d3167",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google’s Ex-CEO Says China Trails US by 6 Months in AI Race, but Could Still Win Due to This Strategy: ‘We’re Already Losing’",
-      "link": "https://finance.yahoo.com/technology/ai/articles/google-ex-ceo-says-china-033016284.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-25T03:30:16+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "6c31db948417f893",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -65,17 +87,6 @@
       "link": "https://finance.yahoo.com/energy/articles/elon-musk-says-tesla-megapacks-023019501.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-25T02:30:19+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "b9edca2462596658",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Bank of America resets Tesla forecast as Robotaxi miles double",
-      "link": "https://www.thestreet.com/automotive/bank-of-america-keeps-buy-tesla-forecast-as-robotaxi-miles-double?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-25T01:03:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -88,17 +99,6 @@
       "source": "ad-hoc-news.de",
       "published": "2026-10-25T00:26:00+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "8b35a69a9450bb9d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Is the AI Bubble About to Burst? Plus, Apple Bets on Doorbells.",
-      "link": "https://www.fool.com/investing/2026/10/24/is-the-ai-bubble-about-to-burst-plus-apple-bets-on-doorbells/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-25T00:22:02+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "5088fb1bbca3cfed",
