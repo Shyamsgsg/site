@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T12:48:00+00:00",
+  "updated": "2026-10-25T12:46:56+00:00",
   "source": "Yahoo Finance (query1.finance.yahoo.com/v8/finance/chart)",
   "fx": {
     "AUDUSD": 0.7038,
@@ -105,7 +105,7 @@
       "currency": "USD",
       "exchange": "CCY",
       "long_name": "AUD/USD",
-      "market_time": "2026-10-24T12:46:44+00:00",
+      "market_time": "2026-10-25T05:50:45+00:00",
       "stale": false
     },
     "SGD=X": {
@@ -115,7 +115,7 @@
       "currency": "SGD",
       "exchange": "CCY",
       "long_name": "USD/SGD",
-      "market_time": "2026-10-24T12:36:13+00:00",
+      "market_time": "2026-10-25T05:21:14+00:00",
       "stale": false
     },
     "^GSPC": {
