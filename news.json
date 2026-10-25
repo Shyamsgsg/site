@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-25T07:04:57Z",
+  "updated": "2026-10-25T09:50:01Z",
   "items": [
+    {
+      "id": "c495c71ebd6940f2",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Wants to Give Every American Child a Share of SpaceX. Here's What It Would Cost -- and What It Means for Everyone Else Holding the Stock",
+      "link": "https://www.fool.com/investing/2026/10/25/elon-musk-wants-to-give-every-american-child-a-sha/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-25T09:07:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "79ac980ef17bd711",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet's 2 Classes of Common Stock Trade About 1% Apart. Here's the One I'd Buy.",
+      "link": "https://www.fool.com/investing/2026/10/25/alphabet-s-2-classes-of-common-stock-trade-about-1-apart-here-s-the-one-i-d-buy/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-25T07:54:01+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "5c700f19c3b52b76",
       "ticker": "TSLA",
@@ -79,26 +101,15 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "1a62e9b1966f293c",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX’s $1 Trillion Revenue Ambition: Can Elon Musk Deliver?",
-      "link": "https://www.fool.com/investing/2026/10/24/spacexs-1-trillion-revenue-ambition-can-elon-musk-deliver/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-25T00:20:02+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "a1c2ad87a57c4f6e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Booking vs. Chewy: Do Pet Treats or Plane Tickets Make for a Better Stock in 2026?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/10/24/booking-vs-chewy-do-pet-treats-or-plane-tickets-make-for-a-better-stock-in-2026/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-24T23:12:02+00:00",
-      "logo": "logos/GOOG.svg"
+      "id": "5088fb1bbca3cfed",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Fengrun Interval Bd (0P0001CWWK.SZ) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1STTB2dmdGc3NzT3ZFUmRoMF9jQ1VnYzNxSTFLNVI3M3poQWU0amE3S0dCQV81NTg0cmltVXBaOW5ZRlptcDRRUkJlMVplNkNmb0NmN1N6LWxfLWdQdDQ3cDAtcVEyS1JTRUZF?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-24T19:02:53+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "6decc1e49beb8d91",
@@ -233,6 +244,17 @@
       "logo": "logos/ONON.svg"
     },
     {
+      "id": "fe87a991290e7083",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EMMERSON PLC (EML) Equity Price and Quote - London Stock Exchange",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
+      "source": "London Stock Exchange",
+      "published": "2026-10-22T20:53:32+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "5f11ab0ca6e055da",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -288,6 +310,17 @@
       "logo": "logos/EML.svg"
     },
     {
+      "id": "f0a53a12472e28d6",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Responsive Playbooks and the EML Inflection - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQ0QTl2bHVibXhPSDVodmNjYUpCdnRmVmZyRW5PbU1USHdCaUNPdF81emNmOF8zMWExQ1JVcWNwSFRwcFpJMjZLUnh2VEtZcE5fbHJObmRHcC05VEFyNmhOOGY0bURtbEV3NUp5dGgxNHhvVXlsUW1WTlQtR0NGUV9uRUVsNWJtU2gzVEt0cF9hOWloQjMzNTFBQ3o1dTFnaWswYjdaNVBXWDZqNjJiZ0VmWkgwY25HYjVvMEZ3UFE?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-10-21T23:20:01+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "5d169213b20cc854",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -310,47 +343,14 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "d062ffaf6fcdf4b8",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Price-Driven Insight from (BOC) for Rule-Based Strategy - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQkRxS0M1WWU1SGRqbkYyVTNuYlBJTUplSXlDdy0xLW1FZmVRb05tR1p1Mk5OYUFIdWF1bS1sUFVnX0ZRaDk5bGhLa0dKdHNwT0xXV0wzOUxiRDg4Y3NnZDMyYmY0dm1BNjhNM1I3Q3cwc1dsOEtmTjE4Qnl4YzVaa21jSzBfa0Y5cnNMTHplQVBKbjE5Nm01RXZQcUlOX3FhbF9tb2JQSWx2SC1WdkN6ZG9uMnFobmJyODdDaEtpOUYwcUdtUGVscjVyay1LUQ?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-10-21T05:06:01+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "8a5da30ec073805f",
+      "id": "7f427c1bc365d9e6",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
-      "source": "Morningstar",
-      "published": "2026-09-21T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "f8a705231d0ef310",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
+      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
       "source": "Simply Wall Street",
-      "published": "2026-09-04T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "805631fb9c66006e",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Shares Undervalued Despite Our Fair Value Reduction - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDhjaGI1NUZ2MnNCbjFIZlRTSzJSM3d3Z0d6aTNUSjNBcXdLTkNiajFSV2dveEVKenRIVXRjMUtQQW81THBSRm9JMGF2bDBieW53bUJHUmIwRDEydjhHREJzcENPbFRUU0NSemlIeWFuTXM4alpZWUh2UHJuZDU5allyWFpCcFFCeHRpRXlvdmNDWjR4NklyczJGbkM4UnlQUkZIVThzYk5RNG8?oc=5",
-      "source": "Morningstar",
-      "published": "2026-08-19T07:00:00+00:00",
+      "published": "2026-10-20T21:27:45+00:00",
       "logo": "logos/EML.svg"
     },
     {
