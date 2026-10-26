@@ -1,6 +1,127 @@
 {
-  "updated": "2026-10-26T19:08:02Z",
+  "updated": "2026-10-26T21:51:35Z",
   "items": [
+    {
+      "id": "366c980ab35fa095",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Tech Earnings Are the Market’s Biggest Story This Week: Here’s Why Microsoft, Amazon, Intel, SanDisk, and Alphabet Will Drive the Stock Market’s Next Move",
+      "link": "https://247wallst.com/videos/tech-earnings-are-the-markets-biggest-story-this-week-heres-why-microsoft-amazon-intel-sandisk-and-alphabet-will-drive-the-stock-markets-next-move/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T21:15:14+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "7b2b9aefc471d853",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Why Google might avoid an earnings 'reckoning' this week",
+      "link": "https://finance.yahoo.com/markets/stocks/article/why-google-might-avoid-an-earnings-reckoning-this-week-210350868.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T21:03:50+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "1d86c8c8dabb036c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",
+      "link": "https://finance.yahoo.com/m/4f45ec30-6388-381f-b8f7-2aed6d460b6f/dow-jones-futures%3A-elon.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T20:57:39+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ec077c724a66a1d3",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "We Support Zuckerberg's Vision: Cassidy",
+      "link": "https://finance.yahoo.com/video/support-zuckerbergs-vision-cassidy-205316701.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T20:53:16+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ad0b59b0c8451548",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Tesla Isn’t a Hyperscaler. Why the AI Bears Are Misreading Its $5 Billion Capex Cut.",
+      "link": "https://www.fool.com/investing/2026/10/26/tesla-isnt-a-hyperscaler-why-the-ai-bears-are-misreading-its-5-billion-capex-cut/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T20:53:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "b523a40487cf07a1",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Stock, Upgraded On SpaceX Prospects, Moves Into A Buy Zone",
+      "link": "https://finance.yahoo.com/m/01cd1ea9-015f-3e37-8ef6-7e8f380f0327/tesla-stock%2C-upgraded-on.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T20:51:45+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "77148b8e12402cb2",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Fort Bend County sweetens pot to land $10B Tesla solar plant",
+      "link": "https://finance.yahoo.com/economy/policy/articles/fort-bend-county-sweetens-pot-204327337.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T20:43:27+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "34acef0a2d79674e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Stock Market Today: Dow Up, These Stocks Gain On Musk Talk; DoorDash Dives (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T20:39:36+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c4a612539fd063be",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco vs. Centrus vs. BWX Technologies: Ranking the 3 Nuclear Stocks That Get Paid Before a Reactor Is Built.",
+      "link": "https://www.fool.com/investing/2026/10/26/cameco-vs-centrus-vs-bwx-technologies-ranking-the/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T20:25:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "9f3cf039a700fa62",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Meta, SpaceX, Tesla, Microsoft, CoreWeave, FICO, and More Stocks That Explain Today’s Market",
+      "link": "https://finance.yahoo.com/m/f34285b4-f496-3c4f-b29d-49e2d71f092d/meta%2C-spacex%2C-tesla%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T20:21:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "de26f23b42f299e1",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "AI Headlines Pile Up as Wall Street Navigates a Volatile Week",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-headlines-pile-wall-street-190200236.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T19:02:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
     {
       "id": "bbc08c8e26e4e42a",
       "ticker": "NU",
@@ -11,17 +132,6 @@
       "source": "News",
       "published": "2026-10-26T18:42:31+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "2a721be1a777077a",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Scott Galloway on Tesla and SpaceX: “Tesla’s the Patient and SpaceX Is the Organ Donor”",
-      "link": "https://www.tikr.com/blog/scott-galloway-on-tesla-and-spacex-teslas-the-patient-and-spacex-is-the-organ-donor?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T18:35:42+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "ba7949a38d4c8a5d",
@@ -35,81 +145,15 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "6047681b89aa910b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "This Bearish Spread Will Pay Off If Tesla Stock Trends Lower",
-      "link": "https://finance.yahoo.com/m/aab70ddf-af1e-395f-9b9c-13a0184500f6/this-bearish-spread-will-pay.html?.tsrc=rss",
+      "id": "86689aa19ee9c90b",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "News Failure: Neocloud Stocks Defy Musk's Warning",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/news-failure-neocloud-stocks-defy-182700918.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-26T18:19:17+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "b3a2a0b11d41410f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Nvidia Is Sold Out: Jensen “Can’t Give You Chips for 2028,” Says Palo Alto CEO",
-      "link": "https://www.tikr.com/blog/nvidia-is-sold-out-jensen-cant-give-you-chips-for-2028-says-palo-alto-ceo?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T18:16:59+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "810c3f1fc7b34b90",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Stock Market Today: Dow Up As Anthropic Filing Boosts Tech; This Energy Stock Tests Entry Point (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T18:11:56+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "bec54f836e486f0e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google Cloud Has “a Meaningful Shot” at Lapping Microsoft, and Nobody Is Pricing It",
-      "link": "https://www.tikr.com/blog/google-cloud-has-a-meaningful-shot-at-lapping-microsoft-and-nobody-is-pricing-it?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T18:08:20+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "a0156faa91c26374",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Skydance Sinks 6% Despite Citi Buy Call and Elon Musk’s Reported $1B Investment; Roku and Disney Dip",
-      "link": "https://247wallst.com/investing/2026/10/26/skydance-sinks-6-despite-citi-buy-call-and-elon-musks-reported-1b-investment-roku-and-disney-dip/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T18:00:25+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "e87f92b2bf71d5a6",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Prediction: Earnings Will “Double” at Amazon, Alphabet and Meta in Five Years",
-      "link": "https://www.tikr.com/blog/prediction-earnings-will-double-at-amazon-alphabet-and-meta-in-five-years?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T17:58:35+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "e401bf72b85059db",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Update: Equities Rise Intraday as Traders Weigh Anthropic IPO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-traders-weigh-175224069.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T17:52:24+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-10-26T18:27:00+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "5f08d98a08ff7bb8",
@@ -132,39 +176,6 @@
       "source": "News",
       "published": "2026-10-26T16:33:07+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "c4ecc3eabd247705",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN (IREN) Could Be 65% Undervalued As Debt Fears Hit Neocloud Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-could-65-undervalued-160901523.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T16:09:01+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "eb8fa071091977e6",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN’s radical AI pivot: Is this 43% plunge a buying opportunity or a value trap?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-radical-ai-pivot-43-151820853.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T15:18:20+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "8a4347b851ba3b83",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "AI Stocks Will Rise Or Fall On These Midterm Election Races",
-      "link": "https://finance.yahoo.com/m/377f004b-177c-3c4e-a8ce-913f99021087/ai-stocks-will-rise-or-fall.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T14:59:51+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "da93daa23c133fdb",
@@ -200,6 +211,17 @@
       "logo": "logos/CCJ.svg"
     },
     {
+      "id": "19047adcb04f2375",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "A bond business serving all 50 states and D.C. has a new owner - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVGFTRHBFMVEtX1doNF9lT1JjekRUSEMwZG1US24wOWdhMHFJcGtHaTlRU1lRdHZWS2c5NEplRHBwUDJBY2lIcnkwM1VLa1AxN3R1NlFrZERvLTI5UkcwaDZQdk54ZFNfTkNXNkNlNDd5ZTNEdHFoTnhaUGZ2MjRlNGJERUhSdWVSNjljUE4tbU5JOXdENlp6V2ROcTIzTHhvamE4N3lHdUp6ZUFVNXF6V3NkUm1OQQ?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-10-26T12:36:00+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "690ab8865b462f4c",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -231,17 +253,6 @@
       "source": "News",
       "published": "2026-10-26T08:07:02+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "16297d0b6f33f3f4",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Goldman Sachs raises target for BOC Hong Kong stock to HKD 59.70 - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR1FiVENnaXA5NVVQNV9SR3huZHc1ZFpYOTRVT0RyZmZESEtKV3puem05UzI1cVZXZWpEYzRiRzh0S2tuS0o5VHdKdDRPMEZXOVItMTFWNzdYM0tLRE9hLUgtV2NQWlphc0p0bXI2dHE2eVVRTWlDVnpEMzJTMXNILUZSbkRyc2VqZ0h6d21vLUlnQWJXNjV4ZEtDNUZrTVJiTGI0c2VFbVAwOHUtWEhDVGFBWEY3dmY3WnphRDMxY3Q?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-25T00:26:00+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "1def186e039ef593",
@@ -277,17 +288,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "6b7ac126da631e21",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "3 Great Canadian Nuclear Stocks To Own In October 2026",
-      "link": "https://finance.yahoo.com/energy/articles/3-great-canadian-nuclear-stocks-071103866.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T07:11:03+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "65aad517efaece08",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -321,17 +321,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "78471f3bcd5d8734",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Electric Metals (USA) Limited (EML.V) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JWjNFMHl6Y0VZNXBUYm9KbDRRdHpHanR3T1l2RTJRQnBtSXl5SEQxanp5aFkxZVQxUFNuajBRX1Nla2VSdlQ2bXJsazFMWUxWRG9V?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-10-22T07:33:42+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "f0a53a12472e28d6",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -352,6 +341,17 @@
       "source": "News",
       "published": "2026-10-21T20:50:02+00:00",
       "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "7f427c1bc365d9e6",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
+      "source": "Simply Wall Street",
+      "published": "2026-10-20T21:27:45+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "100f84de1493c850",
