@@ -1,6 +1,83 @@
 {
-  "updated": "2026-10-26T07:14:31Z",
+  "updated": "2026-10-26T10:03:30Z",
   "items": [
+    {
+      "id": "6d884536cfbc80fe",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google, Microsoft, Amazon, and the Fed step up to a skittish market: What to watch this week",
+      "link": "https://finance.yahoo.com/markets/article/google-microsoft-amazon-and-the-fed-step-up-to-a-skittish-market-what-to-watch-this-week-100000081.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T10:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d17cbb792f1d4d32",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Musk Predicts “Guppy-Level Death” For Neocloud Companies As CoreWeave Stock Falls 38% In October",
+      "link": "https://247wallst.com/investing/2026/10/26/musk-predicts-guppy-level-death-for-neocloud-companies-as-coreweave-stock-falls-38-in-october/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T09:46:54+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "3c8ad8a75d9712cc",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet Has $514 Billion in Cloud Orders. Here’s What Matters More Than That Number on Oct. 28.",
+      "link": "https://www.fool.com/investing/2026/10/26/alphabet-has-usd514-billion-in-cloud-orders-here-s-what-matters-more-than-that-number-on-oct-28/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T09:30:01+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a19b1ffcf36338a6",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Stocktwits Tech Watch: More Big Earnings, Apple’s Touch-Screen MacBook And Intel Results In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-tech-watch-more-big-earnings-apple-s-touch-screen-mac-book-and-intel-results-in-focus/cZUdHpARByQ?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T08:47:26+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "5ca38d3ffb6a5a57",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Stock markets mixed ahead of tech earnings, central bank decisions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-sink-traders-brace-tech-022128987.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T08:24:01+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "acaaabe1d1b6a037",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco Stock Is Down 42% From Its Record. Here's How I'd Buy It Around Its Oct. 30 Report.",
+      "link": "https://www.fool.com/investing/2026/10/26/cameco-stock-is-down-42-from-its-record-here-s-how-i-d-buy-it-around-its-oct-30-report/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T08:07:02+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "b30693d6200f8c85",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "An EV Business Revival and Potential SpaceX Merger: Is Tesla Stock a Buy?",
+      "link": "https://www.fool.com/investing/2026/10/26/an-ev-business-revival-and-potential-spacex-merger/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T07:59:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "f7115ec813a7762c",
       "ticker": "TSLA",
@@ -13,28 +90,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "3eed52147b956024",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "How Low Can Snowflake Stock Go?",
-      "link": "https://www.trefis.com/stock/snow/articles/620456/how-low-can-snowflake-stock-go/2026-10-26?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T05:31:43+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "67102a92c997eebf",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Dow Jones Futures Rise With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?",
-      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures-rise-with.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T04:20:36+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "928db28e543881f4",
       "ticker": "NU",
       "symbol": "NU",
@@ -44,28 +99,6 @@
       "source": "News",
       "published": "2026-10-26T03:08:36+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "38de07a19612ac2e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Big Tech Earnings Are a No-Win Test as Investors Punish Both Capex Cuts and Hikes",
-      "link": "https://beincrypto.com/big-tech-earnings-no-win-test/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T03:02:03+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "b6a7b3cb88bdb8fa",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stocks sink as traders brace for tech earnings, central bank decisions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-sink-traders-brace-tech-022128987.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T02:21:28+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "c80a1e90de6a87dc",
@@ -121,17 +154,6 @@
       "source": "News",
       "published": "2026-10-26T01:11:01+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "96500de1a4b344b9",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Is Betting on a Flying Car to Combat Its Stock Slump",
-      "link": "https://www.barchart.com/story/news/8445744/tesla-is-betting-on-a-flying-car-to-combat-its-stock-slump?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-25T20:21:14+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "b75f1b636bb334c2",
@@ -197,17 +219,6 @@
       "link": "https://www.telegraph.co.uk/business/2026/10/24/warning-signs-flash-for-ai-boom-as-risky-debt-piles-up/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-24T07:00:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "a744f982907345b2",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN (IREN) Stock Looks Near Fair Value On Sales",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-stock-looks-near-191314943.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T19:13:14+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -286,17 +297,6 @@
       "source": "News",
       "published": "2026-10-22T18:46:00+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "9a9bbfb3aa45d7e6",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco Has Lost 38% in 6 Months: Here’s Why Truist Sees 58% Upside",
-      "link": "https://www.tikr.com/blog/cameco-has-lost-38-in-6-months-heres-why-truist-sees-58-upside?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T15:24:55+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "78471f3bcd5d8734",
