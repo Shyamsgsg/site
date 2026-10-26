@@ -1,60 +1,225 @@
 {
-  "updated": "2026-10-26T10:03:30Z",
+  "updated": "2026-10-26T14:59:17Z",
   "items": [
     {
-      "id": "6d884536cfbc80fe",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google, Microsoft, Amazon, and the Fed step up to a skittish market: What to watch this week",
-      "link": "https://finance.yahoo.com/markets/article/google-microsoft-amazon-and-the-fed-step-up-to-a-skittish-market-what-to-watch-this-week-100000081.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T10:00:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "d17cbb792f1d4d32",
+      "id": "62c9970913260838",
       "ticker": "IREN",
       "symbol": "IREN",
       "company": "IREN Ltd",
-      "title": "Musk Predicts “Guppy-Level Death” For Neocloud Companies As CoreWeave Stock Falls 38% In October",
-      "link": "https://247wallst.com/investing/2026/10/26/musk-predicts-guppy-level-death-for-neocloud-companies-as-coreweave-stock-falls-38-in-october/?.tsrc=rss",
+      "title": "Applied Digital Keeps Cratering: This Analyst Keeps Insisting It’s Going to Jump by 390%",
+      "link": "https://247wallst.com/investing/2026/10/26/applied-digital-keeps-cratering-this-analyst-keeps-insisting-its-going-to-jump-by-390/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-26T09:46:54+00:00",
+      "published": "2026-10-26T14:45:17+00:00",
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "3c8ad8a75d9712cc",
+      "id": "f5303294610acbbf",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "BC-Most Active Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017076.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T14:30:17+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "37e26ce3a896eef8",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Stock Market Today: Dow Rises As Oil Prices Fall; Anthropic IPO Boosts These AI Stocks (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T14:29:54+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c2abe8692a413ecc",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Alphabet Has $514 Billion in Cloud Orders. Here’s What Matters More Than That Number on Oct. 28.",
-      "link": "https://www.fool.com/investing/2026/10/26/alphabet-has-usd514-billion-in-cloud-orders-here-s-what-matters-more-than-that-number-on-oct-28/?.tsrc=rss",
+      "title": "Anthropic's IPO filing sheds new light on who stands to make money from public debut",
+      "link": "https://finance.yahoo.com/markets/article/anthropics-ipo-filing-sheds-new-light-on-who-stands-to-make-money-from-public-debut-142141184.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-26T09:30:01+00:00",
+      "published": "2026-10-26T14:21:41+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "a19b1ffcf36338a6",
+      "id": "b523a40487cf07a1",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Stock, Upgraded On SpaceX Prospects, Moves Into A Buy Zone",
+      "link": "https://finance.yahoo.com/m/01cd1ea9-015f-3e37-8ef6-7e8f380f0327/tesla-stock%2C-upgraded-on.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T14:19:26+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "20c4b995bcaaf5fe",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Stocktwits Tech Watch: More Big Earnings, Apple’s Touch-Screen MacBook And Intel Results In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-tech-watch-more-big-earnings-apple-s-touch-screen-mac-book-and-intel-results-in-focus/cZUdHpARByQ?.tsrc=rss",
+      "title": "Verizon Lifts Outlook, Inks Amazon Deal Worth More Than $2 Billion",
+      "link": "https://www.wsj.com/business/earnings/verizon-lifts-outlook-inks-amazon-deal-worth-more-than-2-billion-989c8e0f?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-26T08:47:26+00:00",
+      "published": "2026-10-26T14:15:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "5ca38d3ffb6a5a57",
+      "id": "32c337d1b24db51d",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Stock markets mixed ahead of tech earnings, central bank decisions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-sink-traders-brace-tech-022128987.html?.tsrc=rss",
+      "title": "AI Critic Claims “200 Billion Dollars Worth” of Nvidia Chips Sit in Warehouses",
+      "link": "https://www.tikr.com/blog/ai-critic-claims-200-billion-dollars-worth-of-nvidia-chips-sit-in-warehouses?ref=yahoofinance&.tsrc=rss",
       "source": "News",
-      "published": "2026-10-26T08:24:01+00:00",
+      "published": "2026-10-26T14:14:20+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "807caa8a9efa75a2",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Open a second bank account in case of cyber attack, FCA chief warns",
+      "link": "https://uk.finance.yahoo.com/news/open-second-bank-account-case-141050115.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T14:10:50+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "820a8854c60da9e8",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CoreWeave, AI landlord stocks sink to lowest levels in more than a year as the price of insuring CoreWeave's debt doubles",
+      "link": "https://finance.yahoo.com/markets/article/coreweave-ai-landlord-stocks-sink-to-lowest-levels-in-more-than-a-year-as-the-price-of-insuring-coreweaves-debt-doubles-140909005.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T14:09:09+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "da93daa23c133fdb",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Tech stocks rise after Anthropic IPO filing: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/tech-rise-after-anthropic-ipo-filing-alphacheck-140040601.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T14:00:40+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "b5d1a7b0e61a5b4d",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Rises 6% as Barclays Upgrade Cites SpaceX Merger Potential; Lucid Drops 4%, Rivian Slips",
+      "link": "https://247wallst.com/investing/2026/10/26/tesla-rises-6-as-barclays-upgrade-cites-spacex-merger-potential-lucid-drops-4-rivian-slips/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T13:58:53+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "b2449e5d25069a32",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "StoneCo Sinks 29%, Inter & Co Down 36%, PagSeguro Down 25% on Lula’s Unexpected Election Win",
+      "link": "https://www.tikr.com/blog/stoneco-sinks-29-inter-co-down-36-pagseguro-down-25-on-lulas-unexpected-election-win?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T13:53:15+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "d79421f6cfea7598",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla upgraded, Block downgraded: Wall Street's top analyst calls",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-upgraded-applovin-initiated-wall-135331262.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T13:42:11+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "f2529c08e6d27122",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Brazilian Stocks Tumble as Lula Wins Surprise Fourth Term: Nu Holdings Sinks 25%, Petrobras Tumbles 21%, MercadoLibre Drops 15%",
+      "link": "https://247wallst.com/investing/2026/10/26/brazilian-stocks-tumble-as-lula-wins-surprise-fourth-term-nu-holdings-sinks-25-petrobras-tumbles-21-mercadolibre-drops-15/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T13:22:06+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "36f4521bbefb08ef",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CoreWeave Drops 5% as Musk Warns of Neocloud ‘Guppy-Level Death’; IREN Slides 3%, Nebius Slips 2%",
+      "link": "https://247wallst.com/investing/2026/10/26/coreweave-drops-5-as-musk-warns-of-neocloud-guppy-level-death-iren-slides-3-nebius-slips-2/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T13:18:52+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "91b07cecc579e708",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Wealthyhood x BoC Helps Cyprus Investors Recover Shares Held in CSE Special Account - Cyprus Inform",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjBjY25xbG0yeXl1QzdLQWVTd3Y1RFR0YUtuNWV0SG9JakhabExGRlNWOGwxbXI0d0hjSU1aWXRKVFdHMGxfaFlXcDQ3YTlRSzVzT2dqeE9QTDNpRGdSa1h6TkUxYmRSRFNldGdiZ3NIOFJpSHJJOXkwQng2Q2pEUG1idnpDUUFpcVJJX1pZWjJKTk55amp5eUdRbnVGNV8wTzhVVjJ0V3luNm55V2lkR3J0UDdkMktqVWUw?oc=5",
+      "source": "Cyprus Inform",
+      "published": "2026-10-26T13:04:04+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "cd564c88159068f9",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Can Cameco’s 89x Premium Valuation Survive Another Big Miss on Oct. 30?",
+      "link": "https://247wallst.com/investing/2026/10/26/can-camecos-89x-premium-valuation-survive-another-big-miss-on-oct-30/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T12:53:19+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "12e977c65a73328f",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "This Week In Digital Payment - AI Revolutionizes Global Commerce Transforming The Payment Landscape",
+      "link": "https://finance.yahoo.com/technology/ai/articles/week-digital-payment-ai-revolutionizes-123819121.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T12:38:19+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "690ab8865b462f4c",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "After selling an insurance business, Boston Omaha keeps 2.67 million Sky Harbour shares. - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYU1WQnI4TUIwOHJZN25NZXNkd0VYR2lmR2xGSG5IQktoV0Y1M0FSdWNZc3RxR3VBLUVKMGh0U0hxSGNrRVBNYWZiUDRuWFZiOTZmU1ZOMWpUT3lsNExDU0xoMy00X0toalZOVXpINzc2NHV5Qlp3NnZtXzdObnp0YnlTN0ZWa0JZNHJiQzR0dXNnbEZEbHBtT2F4QS1uZ0wwc0lWLUVZWEc4UUk3MVhkMm5oX3ZTVlJS?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-10-26T12:30:00+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "4e9b39005d381265",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Wealthyhood x BoC helps Cypriot investors unlock shares stuck in the Cyprus Stock Exchange’s Special Account - www.stockwatch.com.cy",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOREZKdzhvb0QxZ3pldGFuTkMyNlpuRFozV1VuVUlsYW9Ecy1MSGhORTZva0djcloyZlFYNU9RY1F4Q2hOSWJ5dkh0QTAyVDdLV1I4ZWdpc19PS3dEZktsWEsyM19tZ3pzWnlibEhMbnhkblA3TE9wWWFRT2dDRlhHLXJLWVJnRm1QVVVhU3NOT2RrVXB6M19tRU9RWlBfMXZ5VTcxNjBEcV9kS19HWXA3YlVnekVEUVdiMWgwejdPeloxS1JMckxXaXFCcEdGbHJLNHlCdC1UcktnUDBYUGc?oc=5",
+      "source": "www.stockwatch.com.cy",
+      "published": "2026-10-26T11:37:00+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "acaaabe1d1b6a037",
@@ -68,105 +233,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "b30693d6200f8c85",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "An EV Business Revival and Potential SpaceX Merger: Is Tesla Stock a Buy?",
-      "link": "https://www.fool.com/investing/2026/10/26/an-ev-business-revival-and-potential-spacex-merger/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T07:59:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "f7115ec813a7762c",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "TSLA Stock Rises Overnight: Cybercabs Swarm Austin F1, Fresh Roadster Details Surface — But Analyst Sees 38% Downside",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-cybercabs-austin-f1-roadster-details-analyst-downside/cZUdAawRBy5?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T06:00:58+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "928db28e543881f4",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "How Investors Are Reacting To Nu (NU) Brazil Election Uncertainty",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-nu-nu-brazil-030836457.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T03:08:36+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "c80a1e90de6a87dc",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings (NU) Faces Political And Leadership Questions, Does It Look Fairly Valued?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-faces-political-020748131.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T02:07:48+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "c8f2fd76c126ce2d",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SPCX, SMCI, NOK, TSLA, NFLX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
-      "link": "https://stocktwits.com/news-articles/markets/equity/spcx-smci-nok-tsla-nflx-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cZUdmy9RBUu?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T02:02:17+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "75ee2b706242db43",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CRWV, IREN, NBIS Extend Slide: Elon Musk Says Buying A Neocloud Is ‘Pointless’",
-      "link": "https://stocktwits.com/news-articles/markets/equity/crwv-iren-nbis-extend-slide-elon-musk-says-buying-a-neocloud-is-pointless/cZUdlrjRBUM?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T01:57:06+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "a489c5040084d907",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Met Xi Jinping and Took Tesla FSD to China — Now His CFO Says Getting the Green Light for Unsupervised Driving Is ‘Hard’",
-      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-met-xi-jinping-013004695.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T01:30:04+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "2927f74d1d245337",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Why Is NU Stock Plunging Nearly 12% Overnight?",
-      "link": "https://stocktwits.com/news-articles/markets/equity/why-is-nu-stock-plunging-nearly-12-overnight/cZUdkmJRBUr?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T01:11:01+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "b75f1b636bb334c2",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings Earned More Than $1 Billion in a Quarter for the First Time. Now It's Launching in the U.S.",
-      "link": "https://www.fool.com/investing/2026/10/25/nu-holdings-1-billion-quarter-launching-us/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-25T20:05:00+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "16297d0b6f33f3f4",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -178,28 +244,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "5088fb1bbca3cfed",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Fengrun Interval Bd (0P0001CWWK.SZ) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1STTB2dmdGc3NzT3ZFUmRoMF9jQ1VnYzNxSTFLNVI3M3poQWU0amE3S0dCQV81NTg0cmltVXBaOW5ZRlptcDRRUkJlMVplNkNmb0NmN1N6LWxfLWdQdDQ3cDAtcVEyS1JTRUZF?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-10-24T19:02:53+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "6decc1e49beb8d91",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "5 of the Fastest-Growing Stocks in the Market",
-      "link": "https://www.fool.com/investing/2026/10/24/5-of-the-fastest-growing-stocks-in-the-market/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-24T18:20:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "1def186e039ef593",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -209,28 +253,6 @@
       "source": "News",
       "published": "2026-10-24T07:12:10+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "af725cfe5a501fdf",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "The tech ‘death spiral’ that could destroy the AI boom",
-      "link": "https://www.telegraph.co.uk/business/2026/10/24/warning-signs-flash-for-ai-boom-as-risky-debt-piles-up/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-24T07:00:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "3ee957208ceb8bd6",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Feb 2027 12.500 call (BOC270219C00012500) Stock Historical Prices & Data - Yahoo Finance - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43Y1RfTFA2YUswMlAtZG5oSHFJMEI3Zks0YkdTU1RwUFBLZVFZbnhLemxBSVZOSXhOc0ZrZ2dDY0w2MHVQcWdKQXNEWk9DQjBXTDZKeDFReVNjZThnQjlCRzJCaENiRFh4N1RjYnhqdw?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-10-23T15:45:00+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "8913278b42a87c3b",
@@ -277,17 +299,6 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "5f11ab0ca6e055da",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Uranium Is Near $90 a Pound. Here's My Prediction for What's Ahead for the Fuel.",
-      "link": "https://www.fool.com/investing/2026/10/22/uranium-is-near-90-a-pound-heres-my-prediction-fo/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T19:50:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "29e2cbb34f94ade1",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -330,17 +341,6 @@
       "source": "News",
       "published": "2026-10-21T20:50:02+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "a5f49c646924b7e5",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Goldman Sachs raises target for BOC Hong Kong stock to HKD 59.70 - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN3AzbHpYdDE5N1dIRk9ySGdzYVFLb0Iwemo5MU1mM01OQUpnT3V0a19SMVRFSjJWdEFjLU1tUWVIUnJPY1g5b1JCaUZsSzN6ZUhzdFRKZWExZHItVVNadE9FS3VMazhQS2NwY1hrV3BNdl9weEZTUVoxUDhKU0RRWS0wQk9TWS1wb2ppeG50cFZmTlNrTm5DYjhsSVNTWTZsOWRqaEJTY25rNnFiMFdPTC1zMFRtdXQ2QlNCUkl4LUVSWTRhNmc?oc=5",
-      "source": "AD HOC NEWS",
-      "published": "2026-10-21T08:09:37+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "7f427c1bc365d9e6",
