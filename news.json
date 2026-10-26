@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-26T03:56:44Z",
+  "updated": "2026-10-26T07:14:31Z",
   "items": [
+    {
+      "id": "f7115ec813a7762c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "TSLA Stock Rises Overnight: Cybercabs Swarm Austin F1, Fresh Roadster Details Surface — But Analyst Sees 38% Downside",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-cybercabs-austin-f1-roadster-details-analyst-downside/cZUdAawRBy5?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T06:00:58+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "3eed52147b956024",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "How Low Can Snowflake Stock Go?",
+      "link": "https://www.trefis.com/stock/snow/articles/620456/how-low-can-snowflake-stock-go/2026-10-26?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T05:31:43+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "67102a92c997eebf",
       "ticker": "GOOG",
@@ -9,7 +31,7 @@
       "title": "Dow Jones Futures Rise With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?",
       "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures-rise-with.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-26T03:37:36+00:00",
+      "published": "2026-10-26T04:20:36+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -90,17 +112,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "a5cfe7c558c005d7",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "U.S. stock futures edge higher after bruising tech losses; Fed, earnings on tap",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-edge-higher-011151135.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T01:11:51+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "2927f74d1d245337",
       "ticker": "NU",
       "symbol": "NU",
@@ -120,17 +131,6 @@
       "link": "https://www.barchart.com/story/news/8445744/tesla-is-betting-on-a-flying-car-to-combat-its-stock-slump?.tsrc=rss",
       "source": "News",
       "published": "2026-10-25T20:21:14+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "65a610572769c872",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Became the First Person Ever Confirmed With a Net Worth Above $1 Trillion in June 2026. Here's Why That Milestone Still Matters for Tesla and SpaceX Shareholders.",
-      "link": "https://www.fool.com/investing/2026/10/25/elon-musk-became-the-first-person-ever-confirmed-w/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-25T20:20:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
