@@ -1,82 +1,148 @@
 {
-  "updated": "2026-10-26T16:15:28Z",
+  "updated": "2026-10-26T19:08:02Z",
   "items": [
     {
-      "id": "c3f4a240454be679",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "As Anthropic’s IPO Looms, The Company Faces A Significant Risk From A Surprising Place, Midterm State And Local Elections",
-      "link": "https://247wallst.com/investing/2026/10/26/as-anthropics-ipo-looms-the-company-faces-a-significant-risk-from-a-surprising-place-midterm-state-and-local-elections/?.tsrc=rss",
+      "id": "bbc08c8e26e4e42a",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Warren Buffett's former fintech investment plunges 20%",
+      "link": "https://www.thestreet.com/investing/stocks/warren-buffetts-former-fintech-investment-plunges-20-nubank-nu?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-26T15:59:09+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-10-26T18:42:31+00:00",
+      "logo": "logos/NU.svg"
     },
     {
-      "id": "fb71370ecb6f235e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Bill Gates: Meta’s Muse Is “the First Truly Great Consumer AI Product”",
-      "link": "https://www.tikr.com/blog/bill-gates-metas-muse-is-the-first-truly-great-consumer-ai-product?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T15:52:42+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "4e8fc2008a542482",
+      "id": "2a721be1a777077a",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "I Wouldn't Buy Tesla Stock Betting on a SpaceX Deal. Here's Why.",
-      "link": "https://www.fool.com/investing/2026/10/26/i-wouldn-t-buy-tesla-stock-betting-on-a-spacex-deal-here-s-why/?.tsrc=rss",
+      "title": "Scott Galloway on Tesla and SpaceX: “Tesla’s the Patient and SpaceX Is the Organ Donor”",
+      "link": "https://www.tikr.com/blog/scott-galloway-on-tesla-and-spacex-teslas-the-patient-and-spacex-is-the-organ-donor?ref=yahoofinance&.tsrc=rss",
       "source": "News",
-      "published": "2026-10-26T15:43:01+00:00",
+      "published": "2026-10-26T18:35:42+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "e985e87187779630",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Meta Seeks About $95 Billion for AI Buildout as Nvidia, AMD and Broadcom Consider Investing in Their Own Customer",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62594709/meta-95-billion-ai-expansion-chipmaker-investments?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "id": "ba7949a38d4c8a5d",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CoreWeave’s “Final Boss Battle”: AI Tenants Demand Penalties",
+      "link": "https://www.tikr.com/blog/coreweaves-final-boss-battle-ai-tenants-demand-penalties?ref=yahoofinance&.tsrc=rss",
       "source": "News",
-      "published": "2026-10-26T15:41:52+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-10-26T18:29:39+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
-      "id": "fb7139428ba11ff9",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "$8 Trillion in Big Tech Earnings, Fed Decision and Inflation Data: Bitcoin's Next Big Test?",
-      "link": "https://www.ccn.com/news/crypto/bitcoin-80k-fed-decision-8-trillion-tech-earnings-crash-risk/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T15:32:18+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "0aab03ce64a9b5a1",
+      "id": "6047681b89aa910b",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Trucking Needs More Than a Choice Between Diesel and EV Trucks",
-      "link": "https://finance.yahoo.com/energy/articles/trucking-needs-more-choice-between-153000121.html?.tsrc=rss",
+      "title": "This Bearish Spread Will Pay Off If Tesla Stock Trends Lower",
+      "link": "https://finance.yahoo.com/m/aab70ddf-af1e-395f-9b9c-13a0184500f6/this-bearish-spread-will-pay.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-26T15:30:00+00:00",
+      "published": "2026-10-26T18:19:17+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "ba89b7f5b9ea5d51",
+      "id": "b3a2a0b11d41410f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Nvidia Is Sold Out: Jensen “Can’t Give You Chips for 2028,” Says Palo Alto CEO",
+      "link": "https://www.tikr.com/blog/nvidia-is-sold-out-jensen-cant-give-you-chips-for-2028-says-palo-alto-ceo?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T18:16:59+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "810c3f1fc7b34b90",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla stock jumps as Barclays bets a SpaceX takeout bump is coming",
-      "link": "https://finance.yahoo.com/markets/stocks/article/tesla-stock-jumps-as-barclays-bets-a-spacex-takeout-bump-is-coming-152118597.html?.tsrc=rss",
+      "title": "Stock Market Today: Dow Up As Anthropic Filing Boosts Tech; This Energy Stock Tests Entry Point (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-26T15:21:18+00:00",
+      "published": "2026-10-26T18:11:56+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "bec54f836e486f0e",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google Cloud Has “a Meaningful Shot” at Lapping Microsoft, and Nobody Is Pricing It",
+      "link": "https://www.tikr.com/blog/google-cloud-has-a-meaningful-shot-at-lapping-microsoft-and-nobody-is-pricing-it?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T18:08:20+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a0156faa91c26374",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Skydance Sinks 6% Despite Citi Buy Call and Elon Musk’s Reported $1B Investment; Roku and Disney Dip",
+      "link": "https://247wallst.com/investing/2026/10/26/skydance-sinks-6-despite-citi-buy-call-and-elon-musks-reported-1b-investment-roku-and-disney-dip/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T18:00:25+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "e87f92b2bf71d5a6",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Prediction: Earnings Will “Double” at Amazon, Alphabet and Meta in Five Years",
+      "link": "https://www.tikr.com/blog/prediction-earnings-will-double-at-amazon-alphabet-and-meta-in-five-years?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T17:58:35+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e401bf72b85059db",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Update: Equities Rise Intraday as Traders Weigh Anthropic IPO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-traders-weigh-175224069.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T17:52:24+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "5f08d98a08ff7bb8",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Brazilian Stocks Tumble After Lula’s Shock Win. It Could Create a Buying Opportunity.",
+      "link": "https://finance.yahoo.com/m/dfd0b482-18fe-3682-bc92-a8600f8517e0/brazilian-stocks-tumble-after.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T16:47:00+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "58099f98d7818fd0",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "NU Stock Suffers Worst Day On Record In Brazil Market Rout – Monness Crespi Initiates Coverage With ‘Buy’ Rating",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nu-stock-worst-day-on-record-in-brazil-market-rout-with-buy-rating/cZU34E4RByy?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T16:33:07+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "c4ecc3eabd247705",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN (IREN) Could Be 65% Undervalued As Debt Fears Hit Neocloud Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-could-65-undervalued-160901523.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T16:09:01+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "eb8fa071091977e6",
@@ -90,17 +156,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "597d7d69c4dfc70a",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla rises after Barclays upgrade highlights potential SpaceX merger",
-      "link": "https://www.proactiveinvestors.com/companies/news/1100697/tesla-rises-after-barclays-upgrade-highlights-potential-spacex-merger-1100697.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T15:12:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "8a4347b851ba3b83",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -112,28 +167,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "62c9970913260838",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Applied Digital Keeps Cratering: This Analyst Keeps Insisting It’s Going to Jump by 390%",
-      "link": "https://247wallst.com/investing/2026/10/26/applied-digital-keeps-cratering-this-analyst-keeps-insisting-its-going-to-jump-by-390/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T14:45:17+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "449c72f418309c90",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Meta, SpaceX, CoreWeave, XP Inc., Verizon, Exxon, and More Stocks That Explain Today’s Market",
-      "link": "https://finance.yahoo.com/m/f34285b4-f496-3c4f-b29d-49e2d71f092d/meta%2C-spacex%2C-coreweave%2C-xp.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T14:33:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "da93daa23c133fdb",
       "ticker": "NU",
       "symbol": "NU",
@@ -142,28 +175,6 @@
       "link": "https://finance.yahoo.com/markets/article/tech-rise-after-anthropic-ipo-filing-alphacheck-140040601.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-26T14:00:40+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "b2449e5d25069a32",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "StoneCo Sinks 29%, Inter & Co Down 36%, PagSeguro Down 25% on Lula’s Unexpected Election Win",
-      "link": "https://www.tikr.com/blog/stoneco-sinks-29-inter-co-down-36-pagseguro-down-25-on-lulas-unexpected-election-win?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T13:53:15+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "f2529c08e6d27122",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Brazilian Stocks Tumble as Lula Wins Surprise Fourth Term: Nu Holdings Sinks 25%, Petrobras Tumbles 21%, MercadoLibre Drops 15%",
-      "link": "https://247wallst.com/investing/2026/10/26/brazilian-stocks-tumble-as-lula-wins-surprise-fourth-term-nu-holdings-sinks-25-petrobras-tumbles-21-mercadolibre-drops-15/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T13:22:06+00:00",
       "logo": "logos/NU.svg"
     },
     {
@@ -187,17 +198,6 @@
       "source": "News",
       "published": "2026-10-26T12:53:19+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "12e977c65a73328f",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "This Week In Digital Payment - AI Revolutionizes Global Commerce Transforming The Payment Landscape",
-      "link": "https://finance.yahoo.com/technology/ai/articles/week-digital-payment-ai-revolutionizes-123819121.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T12:38:19+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "690ab8865b462f4c",
@@ -253,6 +253,17 @@
       "source": "News",
       "published": "2026-10-24T07:12:10+00:00",
       "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "05fc5eb6cf4d3592",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Third-quarter results are scheduled after the market closes Nov. 10; the call follows at 9 a.m. ET Nov. 11. - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa200Qi1NVVBsRnFReGd6dHNURWpuMWZvT1h3TEVqb2h3MjFIanA3S0hnczFVY3Y5YkpmbE0tc2E2b3NWRzMtcVhxQWtqTUoxRmlxdmVQWENjQUxNQ0tYVEo4Y29idnBUeGlONy1rSHJmZjFWSzNtaERrUE15QjBEMTl4S2FQOGFZa2N2LVFBTG4wdDI3aW5oVTFtVXNoS0ZSNHFfWE9DNURab2VDVVVHbXFUZzJhUXphalc2ZnlB?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-10-23T20:55:00+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "8913278b42a87c3b",
@@ -341,17 +352,6 @@
       "source": "News",
       "published": "2026-10-21T20:50:02+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "7f427c1bc365d9e6",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
-      "source": "Simply Wall Street",
-      "published": "2026-10-20T21:27:45+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "100f84de1493c850",
