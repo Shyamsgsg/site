@@ -1,15 +1,59 @@
 {
-  "updated": "2026-10-25T21:47:13Z",
+  "updated": "2026-10-26T01:15:20Z",
   "items": [
     {
-      "id": "55effbff1beb2e8c",
+      "id": "2927f74d1d245337",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Why Is NU Stock Plunging Nearly 12% Overnight?",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-is-nu-stock-plunging-nearly-12-overnight/cZUdkmJRBUr?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T01:11:01+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "0132307017105e1a",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "3 Genius Quantum Computing Stocks to Buy Now",
-      "link": "https://www.fool.com/investing/2026/10/25/3-genius-quantum-computing-stocks-to-buy-now/?.tsrc=rss",
+      "title": "Samsung’s Galaxy Fit 4 could undercut Fitbit by $120",
+      "link": "https://www.thestreet.com/investing/samsungs-next-fitbit-rival-could-have-a-120-advantage?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-25T21:05:00+00:00",
+      "published": "2026-10-26T01:03:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "c72051d114b0cf2e",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Dow Jones Futures: Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?",
+      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures%3A-microsoft%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T01:02:22+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "57b836aa98096c9c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Microsoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days.",
+      "link": "https://www.fool.com/investing/2026/10/25/microsoft-alphabet-and-amazon-make-up-about-15-of-the-s-and-p-500-all-3-report-earnings-within-2-days/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T00:27:01+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "41fc9521478c9cf2",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Stock Futures Are Rising Ahead of Fed Decision",
+      "link": "https://finance.yahoo.com/m/6aa0a251-3626-3c5e-9bb0-32356c21ae2b/stock-futures-are-rising.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-25T22:12:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -33,39 +77,6 @@
       "source": "News",
       "published": "2026-10-25T20:05:00+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "6094a19b33c61be2",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stock Futures Set to Trade Ahead of Fed Decision",
-      "link": "https://finance.yahoo.com/m/6aa0a251-3626-3c5e-9bb0-32356c21ae2b/stock-futures-set-to-trade.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-25T19:44:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "7ae4b252d1c72c3e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Dow Jones Futures Due With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?",
-      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures-due-with.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-25T19:33:52+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c2ca244744ca3013",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to Watch This Week",
-      "link": "https://finance.yahoo.com/m/0d4242d7-b2c9-3bd4-9e03-715369986b85/the-fed%2C-inflation%2C-verizon%2C.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-25T19:12:00+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "5fa4b8399b6b2f05",
@@ -220,17 +231,6 @@
       "source": "News",
       "published": "2026-10-23T11:35:00+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "28ebdd7864fb54eb",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "ERock And 2 Other High Growth Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/erock-2-other-high-growth-091502671.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T09:15:02+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "6b7ac126da631e21",
