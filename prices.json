@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-26T20:02:51+00:00",
+  "updated": "2026-10-26T21:02:52+00:00",
   "source": "Yahoo Finance (query1.finance.yahoo.com/v8/finance/chart)",
   "fx": {
     "AUDUSD": 0.702,
     "AUDUSD_change_pct": 0.0028,
-    "USDSGD": 1.2807,
-    "USDSGD_change_pct": 0.3133
+    "USDSGD": 1.2802,
+    "USDSGD_change_pct": 0.2741
   },
   "quotes": {
     "NU": {
@@ -15,7 +15,7 @@
       "currency": "USD",
       "exchange": "NYSE",
       "long_name": "Nu Holdings Ltd.",
-      "market_time": "2026-10-26T19:59:59+00:00",
+      "market_time": "2026-10-26T20:00:02+00:00",
       "stale": false
     },
     "BOC.AX": {
@@ -49,13 +49,13 @@
       "stale": false
     },
     "ONON": {
-      "price": 33.185,
+      "price": 33.17,
       "previous_close": 32.509998,
-      "change_pct": 2.0763,
+      "change_pct": 2.0301,
       "currency": "USD",
       "exchange": "NYSE",
       "long_name": "On Holding AG",
-      "market_time": "2026-10-26T19:59:59+00:00",
+      "market_time": "2026-10-26T20:00:02+00:00",
       "stale": false
     },
     "IREN": {
@@ -75,7 +75,7 @@
       "currency": "USD",
       "exchange": "NYSE",
       "long_name": "Cameco Corporation",
-      "market_time": "2026-10-26T19:59:59+00:00",
+      "market_time": "2026-10-26T20:00:02+00:00",
       "stale": false
     },
     "GOOG": {
@@ -105,27 +105,27 @@
       "currency": "USD",
       "exchange": "CCY",
       "long_name": "AUD/USD",
-      "market_time": "2026-10-26T20:02:45+00:00",
+      "market_time": "2026-10-26T21:02:46+00:00",
       "stale": false
     },
     "SGD=X": {
-      "price": 1.2807,
+      "price": 1.2802,
       "previous_close": 1.2767,
-      "change_pct": 0.3133,
+      "change_pct": 0.2741,
       "currency": "SGD",
       "exchange": "CCY",
       "long_name": "USD/SGD",
-      "market_time": "2026-10-26T20:02:50+00:00",
+      "market_time": "2026-10-26T21:01:32+00:00",
       "stale": false
     },
     "^GSPC": {
-      "price": 7676.79,
+      "price": 7676.77,
       "previous_close": 7623.680176,
-      "change_pct": 0.6966,
+      "change_pct": 0.6964,
       "currency": "USD",
       "exchange": "SNP",
       "long_name": "S&P 500",
-      "market_time": "2026-10-26T20:02:50+00:00",
+      "market_time": "2026-10-26T20:43:43+00:00",
       "stale": false
     }
   },
