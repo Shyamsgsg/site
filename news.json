@@ -1,6 +1,116 @@
 {
-  "updated": "2026-10-26T14:59:17Z",
+  "updated": "2026-10-26T16:15:28Z",
   "items": [
+    {
+      "id": "c3f4a240454be679",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "As Anthropic’s IPO Looms, The Company Faces A Significant Risk From A Surprising Place, Midterm State And Local Elections",
+      "link": "https://247wallst.com/investing/2026/10/26/as-anthropics-ipo-looms-the-company-faces-a-significant-risk-from-a-surprising-place-midterm-state-and-local-elections/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T15:59:09+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "fb71370ecb6f235e",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Bill Gates: Meta’s Muse Is “the First Truly Great Consumer AI Product”",
+      "link": "https://www.tikr.com/blog/bill-gates-metas-muse-is-the-first-truly-great-consumer-ai-product?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T15:52:42+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "4e8fc2008a542482",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "I Wouldn't Buy Tesla Stock Betting on a SpaceX Deal. Here's Why.",
+      "link": "https://www.fool.com/investing/2026/10/26/i-wouldn-t-buy-tesla-stock-betting-on-a-spacex-deal-here-s-why/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T15:43:01+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "e985e87187779630",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Meta Seeks About $95 Billion for AI Buildout as Nvidia, AMD and Broadcom Consider Investing in Their Own Customer",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62594709/meta-95-billion-ai-expansion-chipmaker-investments?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T15:41:52+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "fb7139428ba11ff9",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "$8 Trillion in Big Tech Earnings, Fed Decision and Inflation Data: Bitcoin's Next Big Test?",
+      "link": "https://www.ccn.com/news/crypto/bitcoin-80k-fed-decision-8-trillion-tech-earnings-crash-risk/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T15:32:18+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "0aab03ce64a9b5a1",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Trucking Needs More Than a Choice Between Diesel and EV Trucks",
+      "link": "https://finance.yahoo.com/energy/articles/trucking-needs-more-choice-between-153000121.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T15:30:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ba89b7f5b9ea5d51",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla stock jumps as Barclays bets a SpaceX takeout bump is coming",
+      "link": "https://finance.yahoo.com/markets/stocks/article/tesla-stock-jumps-as-barclays-bets-a-spacex-takeout-bump-is-coming-152118597.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T15:21:18+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "eb8fa071091977e6",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN’s radical AI pivot: Is this 43% plunge a buying opportunity or a value trap?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-radical-ai-pivot-43-151820853.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T15:18:20+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "597d7d69c4dfc70a",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla rises after Barclays upgrade highlights potential SpaceX merger",
+      "link": "https://www.proactiveinvestors.com/companies/news/1100697/tesla-rises-after-barclays-upgrade-highlights-potential-spacex-merger-1100697.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T15:12:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "8a4347b851ba3b83",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "AI Stocks Will Rise Or Fall On These Midterm Election Races",
+      "link": "https://finance.yahoo.com/m/377f004b-177c-3c4e-a8ce-913f99021087/ai-stocks-will-rise-or-fall.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T14:59:51+00:00",
+      "logo": "logos/IREN.svg"
+    },
     {
       "id": "62c9970913260838",
       "ticker": "IREN",
@@ -13,91 +123,14 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "f5303294610acbbf",
+      "id": "449c72f418309c90",
       "ticker": "IREN",
       "symbol": "IREN",
       "company": "IREN Ltd",
-      "title": "BC-Most Active Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017076.html?.tsrc=rss",
+      "title": "Meta, SpaceX, CoreWeave, XP Inc., Verizon, Exxon, and More Stocks That Explain Today’s Market",
+      "link": "https://finance.yahoo.com/m/f34285b4-f496-3c4f-b29d-49e2d71f092d/meta%2C-spacex%2C-coreweave%2C-xp.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-26T14:30:17+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "37e26ce3a896eef8",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Stock Market Today: Dow Rises As Oil Prices Fall; Anthropic IPO Boosts These AI Stocks (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T14:29:54+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "c2abe8692a413ecc",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Anthropic's IPO filing sheds new light on who stands to make money from public debut",
-      "link": "https://finance.yahoo.com/markets/article/anthropics-ipo-filing-sheds-new-light-on-who-stands-to-make-money-from-public-debut-142141184.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T14:21:41+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "b523a40487cf07a1",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Stock, Upgraded On SpaceX Prospects, Moves Into A Buy Zone",
-      "link": "https://finance.yahoo.com/m/01cd1ea9-015f-3e37-8ef6-7e8f380f0327/tesla-stock%2C-upgraded-on.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T14:19:26+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "20c4b995bcaaf5fe",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Verizon Lifts Outlook, Inks Amazon Deal Worth More Than $2 Billion",
-      "link": "https://www.wsj.com/business/earnings/verizon-lifts-outlook-inks-amazon-deal-worth-more-than-2-billion-989c8e0f?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T14:15:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "32c337d1b24db51d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "AI Critic Claims “200 Billion Dollars Worth” of Nvidia Chips Sit in Warehouses",
-      "link": "https://www.tikr.com/blog/ai-critic-claims-200-billion-dollars-worth-of-nvidia-chips-sit-in-warehouses?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T14:14:20+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "807caa8a9efa75a2",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Open a second bank account in case of cyber attack, FCA chief warns",
-      "link": "https://uk.finance.yahoo.com/news/open-second-bank-account-case-141050115.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T14:10:50+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "820a8854c60da9e8",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CoreWeave, AI landlord stocks sink to lowest levels in more than a year as the price of insuring CoreWeave's debt doubles",
-      "link": "https://finance.yahoo.com/markets/article/coreweave-ai-landlord-stocks-sink-to-lowest-levels-in-more-than-a-year-as-the-price-of-insuring-coreweaves-debt-doubles-140909005.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T14:09:09+00:00",
+      "published": "2026-10-26T14:33:00+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -112,17 +145,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "b5d1a7b0e61a5b4d",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Rises 6% as Barclays Upgrade Cites SpaceX Merger Potential; Lucid Drops 4%, Rivian Slips",
-      "link": "https://247wallst.com/investing/2026/10/26/tesla-rises-6-as-barclays-upgrade-cites-spacex-merger-potential-lucid-drops-4-rivian-slips/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T13:58:53+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "b2449e5d25069a32",
       "ticker": "NU",
       "symbol": "NU",
@@ -134,17 +156,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "d79421f6cfea7598",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla upgraded, Block downgraded: Wall Street's top analyst calls",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-upgraded-applovin-initiated-wall-135331262.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T13:42:11+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "f2529c08e6d27122",
       "ticker": "NU",
       "symbol": "NU",
@@ -154,17 +165,6 @@
       "source": "News",
       "published": "2026-10-26T13:22:06+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "36f4521bbefb08ef",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CoreWeave Drops 5% as Musk Warns of Neocloud ‘Guppy-Level Death’; IREN Slides 3%, Nebius Slips 2%",
-      "link": "https://247wallst.com/investing/2026/10/26/coreweave-drops-5-as-musk-warns-of-neocloud-guppy-level-death-iren-slides-3-nebius-slips-2/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T13:18:52+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "91b07cecc579e708",
