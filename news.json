@@ -1,6 +1,138 @@
 {
-  "updated": "2026-10-27T01:09:44Z",
+  "updated": "2026-10-27T03:54:30Z",
   "items": [
+    {
+      "id": "20300359695ea557",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Why Did CRWV, IREN, NIO Stocks Slump To 52-Week Lows Today?",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-did-crwv-iren-nio-stocks-slump-to-52-week-lows-today/cZUIuhrRBz0?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T03:30:17+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "6ca3ca8447fa1782",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Anthropic IPO Filing Lifts Chips, but Valuation Doubts Split Wall Street",
+      "link": "https://beincrypto.com/anthropic-ipo-filing-lifts-chip-stocks/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T03:21:13+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "9e94e352f66f61b4",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla (TSLA) Is Nearing A Sellout Of Megapack Systems Through 2027",
+      "link": "https://finance.yahoo.com/energy/articles/tesla-tsla-nearing-sellout-megapack-031850274.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T03:18:50+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a9d08650da728259",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Says Merging SpaceX and Tesla Would Be a Good Idea. Here's What Investors Should Know.",
+      "link": "https://www.fool.com/investing/2026/10/26/elon-musk-says-merging-spacex-and-tesla-would-be-a/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T02:46:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ab584ff58a100b3c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Dow, S&P 500, Nasdaq Futures Climb As Tech Stocks Get A Boost From Anthropic IPO Listing: SOFI, BB, PYPL, CLS In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-climb-as-tech-stocks-get-a-boost-from-anthropic-ipo-sofi-bb-pypl-cls-in-focus/cZUIteBRBzL?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T02:45:54+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "77897ca6bf6ec07f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "VSE Corporation, Viavi Solutions, Moog, Bloom Energy, and Comfort Systems stocks trade up, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vse-corporation-viavi-solutions-moog-023847073.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T02:38:47+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "9c42f86983a8cf17",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Ally Jason Calacanis Targets 40% Tesla Rally — But His Nearly $1M Uber Bet Aims Higher",
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-ally-jason-calacanis-tesla-rally-1m-uber-bet-aims-higher/cZUIsMORBzh?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T02:30:07+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "0f941e094457df3b",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla’s Cybercab Fleet Expands Tenfold in Just a Month, Elon Musk Says Driverless Mileage Is Growing ‘Like a Rocket Going to Orbit’",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-cybercab-fleet-expands-tenfold-023005579.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T02:30:05+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "e8f7edc1e946b444",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "DXP, Graham Corporation, MSC Industrial, CACI, and Powell shares are soaring, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dxp-graham-corporation-msc-industrial-020647802.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T02:06:47+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e6384fc315f0f48c",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings (NU) Stock May Be 23% Undervalued On Brazil Election Uncertainty",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-stock-may-020528290.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T02:05:28+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "26420e76f557293e",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Elon Musk Warning Triggers Selloff Across Major Neocloud Stocks",
+      "link": "https://www.tikr.com/blog/elon-musk-warning-neocloud-stocks-selloff-coreweave?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T02:03:02+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "0e1592ba0fadc24c",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Bougainville Copper Moves to Restore ASX Trading After Reporting Lapses - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaVI4dnhLclJnUFlVLTIwRXNWYnluMTNFY0UxZEk0bGJUcFBCay1vX0prSVBacXpxX1ZwZnM4V0J5cWR3MERHWlBYSXAyWFRPYmV2Ykl1NkdCMzhrZUVqZ256bENvNkdEUWVodHNoRlJvSC1ERkd5UFN4WnFzalkzNG5Ic1JlRWswS0NWYzRKcmVjNUs4OXRpRmxLQWVma3hMWTh2MVBCYzFrOS1NR2tYUzF6am9majBfaUVkQkF6ZEl5T3E2cVIwZm9VSXNqVG1Mck5HOEtrYnh3VFkzYkZlWjdEVEViSDg?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-10-27T01:18:23+00:00",
+      "logo": "logos/BOC.svg"
+    },
     {
       "id": "ed7296ab95fd23b4",
       "ticker": "NU",
@@ -11,61 +143,6 @@
       "source": "News",
       "published": "2026-10-27T00:54:47+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "c31ea5bdce4fe25e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Review & Preview: On Your Marks",
-      "link": "https://finance.yahoo.com/m/ccfd8b60-4bf1-3f4e-a4b5-4297fcd1c323/review-%26-preview%3A-on-your.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T23:55:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "99cda7a103f5cc92",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "TSLA Analyst Ratings Hit Highest Since 2023; ARK Reiterates $4,400 Long-Term Price Target And 80% Robotaxi Thesis",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-ratings-hit-highest-since-2023-ark-reiterates-4-400-tesla-2031-target-and-80-robotaxi-thesis/cZU3KLWRBzB?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T23:35:04+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "06866d418c2522c5",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Kevin O’Leary Says Tesla-SpaceX Merger Is Inevitable After Flying Roadster Demo — ‘If You Own Tesla, You’re Gonna Own New Company’",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kevin-o-leary-says-tesla-233006194.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T23:30:06+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "ce1b5e2a69b79b97",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "CORRECTING and REPLACING Waymo, Google and Microsoft Alums Raise $30M to Build the Data Layer for Physical AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/waymo-google-microsoft-alums-raise-160000050.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T23:19:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "821b6ac4a12f982b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Anthropic Leasing Data Centers To Limit Third-Party Reliance Ahead Of IPO",
-      "link": "https://www.bisnow.com/news/national/data-center-development/anthropic-leasing-data-centers-to-limit-reliance-on-amazon-microsoft-and-google?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T22:52:59+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "cada9d04a9ae9364",
@@ -79,17 +156,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "324b15ff72faaf59",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Will Alphabet Stock Surge After Oct. 28?",
-      "link": "https://www.fool.com/investing/2026/10/26/will-alphabet-stock-surge-after-oct-28/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T22:25:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "87e9859ae138edc6",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -99,28 +165,6 @@
       "source": "News",
       "published": "2026-10-26T21:39:11+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "ec077c724a66a1d3",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "We Support Zuckerberg's Vision: Cassidy",
-      "link": "https://finance.yahoo.com/video/support-zuckerbergs-vision-cassidy-205316701.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T20:53:16+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "b523a40487cf07a1",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Stock, Upgraded On SpaceX Prospects, Moves Into A Buy Zone",
-      "link": "https://finance.yahoo.com/m/01cd1ea9-015f-3e37-8ef6-7e8f380f0327/tesla-stock%2C-upgraded-on.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T20:51:45+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "c4a612539fd063be",
@@ -167,37 +211,15 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "ba7949a38d4c8a5d",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CoreWeave’s “Final Boss Battle”: AI Tenants Demand Penalties",
-      "link": "https://www.tikr.com/blog/coreweaves-final-boss-battle-ai-tenants-demand-penalties?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T18:29:39+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "86689aa19ee9c90b",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "News Failure: Neocloud Stocks Defy Musk's Warning",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/news-failure-neocloud-stocks-defy-182700918.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T18:27:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "5f08d98a08ff7bb8",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Brazilian Stocks Tumble After Lula’s Shock Win. It Could Create a Buying Opportunity.",
-      "link": "https://finance.yahoo.com/m/dfd0b482-18fe-3682-bc92-a8600f8517e0/brazilian-stocks-tumble-after.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T16:47:00+00:00",
-      "logo": "logos/NU.svg"
+      "id": "37ddcec356722bd5",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Boston Omaha Corporation (BOC) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HWXNmUGx4MUhGdFhwNk1lUlRXOXNqdDB4aE02MHdIWm1UbF8tdGZEVndHQ3N0V19KWFdtYXYxZmt2Nkh2aUdYWE9LTzhvazlQ?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-26T16:31:52+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "91b07cecc579e708",
@@ -222,17 +244,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "19047adcb04f2375",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "A bond business serving all 50 states and D.C. has a new owner - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVGFTRHBFMVEtX1doNF9lT1JjekRUSEMwZG1US24wOWdhMHFJcGtHaTlRU1lRdHZWS2c5NEplRHBwUDJBY2lIcnkwM1VLa1AxN3R1NlFrZERvLTI5UkcwaDZQdk54ZFNfTkNXNkNlNDd5ZTNEdHFoTnhaUGZ2MjRlNGJERUhSdWVSNjljUE4tbU5JOXdENlp6V2ROcTIzTHhvamE4N3lHdUp6ZUFVNXF6V3NkUm1OQQ?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-10-26T12:36:00+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "690ab8865b462f4c",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -241,17 +252,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYU1WQnI4TUIwOHJZN25NZXNkd0VYR2lmR2xGSG5IQktoV0Y1M0FSdWNZc3RxR3VBLUVKMGh0U0hxSGNrRVBNYWZiUDRuWFZiOTZmU1ZOMWpUT3lsNExDU0xoMy00X0toalZOVXpINzc2NHV5Qlp3NnZtXzdObnp0YnlTN0ZWa0JZNHJiQzR0dXNnbEZEbHBtT2F4QS1uZ0wwc0lWLUVZWEc4UUk3MVhkMm5oX3ZTVlJS?oc=5",
       "source": "Stock Titan",
       "published": "2026-10-26T12:30:00+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "4e9b39005d381265",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Wealthyhood x BoC helps Cypriot investors unlock shares stuck in the Cyprus Stock Exchange’s Special Account - www.stockwatch.com.cy",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOREZKdzhvb0QxZ3pldGFuTkMyNlpuRFozV1VuVUlsYW9Ecy1MSGhORTZva0djcloyZlFYNU9RY1F4Q2hOSWJ5dkh0QTAyVDdLV1I4ZWdpc19PS3dEZktsWEsyM19tZ3pzWnlibEhMbnhkblA3TE9wWWFRT2dDRlhHLXJLWVJnRm1QVVVhU3NOT2RrVXB6M19tRU9RWlBfMXZ5VTcxNjBEcV9kS19HWXA3YlVnekVEUVdiMWgwejdPeloxS1JMckxXaXFCcEdGbHJLNHlCdC1UcktnUDBYUGc?oc=5",
-      "source": "www.stockwatch.com.cy",
-      "published": "2026-10-26T11:37:00+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -321,17 +321,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "78471f3bcd5d8734",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Electric Metals (USA) Limited (EML.V) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JWjNFMHl6Y0VZNXBUYm9KbDRRdHpHanR3T1l2RTJRQnBtSXl5SEQxanp5aFkxZVQxUFNuajBRX1Nla2VSdlQ2bXJsazFMWUxWRG9V?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-10-22T07:33:42+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "5d169213b20cc854",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -351,6 +340,17 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
       "source": "Morningstar",
       "published": "2026-09-21T07:00:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "f8a705231d0ef310",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
+      "source": "Simply Wall Street",
+      "published": "2026-09-04T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
