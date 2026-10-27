@@ -1,6 +1,105 @@
 {
-  "updated": "2026-10-27T03:54:30Z",
+  "updated": "2026-10-27T07:09:18Z",
   "items": [
+    {
+      "id": "47cc1e48c8409c93",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Brazil Stocks Plunged. Should You Buy the Dip in MercadoLibre?",
+      "link": "https://www.fool.com/investing/2026/10/27/brazil-stocks-plunged-should-you-buy-the-dip-in-mercadolibre/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T06:50:02+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "f8b3aadb5ea0b52e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon built the most ridiculous Tesla yet",
+      "link": "https://myfirstmillion.videonest.co/videos/2346241/elon-built-the-most-ridiculous-tesla-yet-Ei3_0WSwUs?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T06:33:02+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "b18db9084183fda0",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SPCX Stock Up Nearly 10% Since IPO — Analyst Sees 82% Upside Without Tesla Merger, Even If Revenue Misses Lofty Goals",
+      "link": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-analyst-upside-without-tesla-merger-even-if-revenue-misses-goals/cZUIUX2RBzF?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T05:58:53+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "5da1bd25f38b3073",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet earnings: what to look for from GOOGL",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-earnings-look-googl-054247427.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T05:42:47+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "6a64dba637dfc08c",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Bougainville Copper (ASX:BOC) Shares Fall on Return From Trading Suspension: What’s Happening? - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTBFS2lXOGZYMTFpOTMwZjh1RHVrUlNIM2VzVllwdGxwRHROblJCVE5SMXZrNGdDMGFrWWVWYkNpa24yMHR4WGMycTk2eFpXbjdIWGkyRF9NWE4yVHljQUtxUzNmeFRhSy1KU3hDOTdQeURJb2gyMEZvdGQ0SGlNUWJsMUVIcmZHUGxUcHNFUHBTOFd2Vk15RGg3VU1PMnA1M3M5YU53SmU0cEVJYUJCeUZvOEtFcDMxOVZxek8xSGM?oc=5",
+      "source": "Kalkine",
+      "published": "2026-10-27T05:28:00+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "98e5c478d37c2e9d",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Could Go Beyond Robotaxis Into Underground Travel And Electric Aviation — TSLA Could ‘Own’ Transportation, ARK Says",
+      "link": "https://finance.yahoo.com/technology/articles/tesla-could-beyond-robotaxis-underground-043247703.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T04:32:47+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "20b78a9221f0dc38",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "3 Growth Stocks With Earnings Growth Up To 49%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-042510238.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T04:25:10+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "63f3b5d7ab212468",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Cathie Wood’s ARK Scoops Up 2 Brazilian Stocks Amid Selloff On Lula’s Win; Michael Burry Sees ‘Opportunity’ In One",
+      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-s-ark-scoops-up-2-brazilian-stocks-amid-selloff-on-lula-s-win-michael-burry-sees-opportunity-in-one/cZUIvrBRBzk?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T04:20:38+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "a71313096111cbc3",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "IBM Introduces Identity and Control for AI Agents, Securing Frontier Intelligence for the Enterprise",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ibm-introduces-identity-control-ai-040100163.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T04:01:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "20300359695ea557",
       "ticker": "IREN",
@@ -24,28 +123,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "9e94e352f66f61b4",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla (TSLA) Is Nearing A Sellout Of Megapack Systems Through 2027",
-      "link": "https://finance.yahoo.com/energy/articles/tesla-tsla-nearing-sellout-megapack-031850274.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T03:18:50+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "a9d08650da728259",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Says Merging SpaceX and Tesla Would Be a Good Idea. Here's What Investors Should Know.",
-      "link": "https://www.fool.com/investing/2026/10/26/elon-musk-says-merging-spacex-and-tesla-would-be-a/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T02:46:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "ab584ff58a100b3c",
       "ticker": "GOOG",
       "symbol": "GOOG",
@@ -54,50 +131,6 @@
       "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-climb-as-tech-stocks-get-a-boost-from-anthropic-ipo-sofi-bb-pypl-cls-in-focus/cZUIteBRBzL?.tsrc=rss",
       "source": "News",
       "published": "2026-10-27T02:45:54+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "77897ca6bf6ec07f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "VSE Corporation, Viavi Solutions, Moog, Bloom Energy, and Comfort Systems stocks trade up, what you need to know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vse-corporation-viavi-solutions-moog-023847073.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T02:38:47+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "9c42f86983a8cf17",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Ally Jason Calacanis Targets 40% Tesla Rally — But His Nearly $1M Uber Bet Aims Higher",
-      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-ally-jason-calacanis-tesla-rally-1m-uber-bet-aims-higher/cZUIsMORBzh?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T02:30:07+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "0f941e094457df3b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla’s Cybercab Fleet Expands Tenfold in Just a Month, Elon Musk Says Driverless Mileage Is Growing ‘Like a Rocket Going to Orbit’",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-cybercab-fleet-expands-tenfold-023005579.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T02:30:05+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "e8f7edc1e946b444",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "DXP, Graham Corporation, MSC Industrial, CACI, and Powell shares are soaring, what you need to know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dxp-graham-corporation-msc-industrial-020647802.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T02:06:47+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -123,17 +156,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "0e1592ba0fadc24c",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Bougainville Copper Moves to Restore ASX Trading After Reporting Lapses - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaVI4dnhLclJnUFlVLTIwRXNWYnluMTNFY0UxZEk0bGJUcFBCay1vX0prSVBacXpxX1ZwZnM4V0J5cWR3MERHWlBYSXAyWFRPYmV2Ykl1NkdCMzhrZUVqZ256bENvNkdEUWVodHNoRlJvSC1ERkd5UFN4WnFzalkzNG5Ic1JlRWswS0NWYzRKcmVjNUs4OXRpRmxLQWVma3hMWTh2MVBCYzFrOS1NR2tYUzF6am9majBfaUVkQkF6ZEl5T3E2cVIwZm9VSXNqVG1Mck5HOEtrYnh3VFkzYkZlWjdEVEViSDg?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-10-27T01:18:23+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "ed7296ab95fd23b4",
       "ticker": "NU",
       "symbol": "NU",
@@ -142,17 +164,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-nubank-nu-stock-trading-005447231.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-27T00:54:47+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "cada9d04a9ae9364",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Why Nu Holdings Stock Got Crushed on Monday",
-      "link": "https://www.fool.com/investing/2026/10/26/why-nu-holdings-stock-got-crushed-on-monday/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T22:34:13+00:00",
       "logo": "logos/NU.svg"
     },
     {
@@ -198,17 +209,6 @@
       "source": "News",
       "published": "2026-10-26T19:02:00+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "bbc08c8e26e4e42a",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Warren Buffett's former fintech investment plunges 20%",
-      "link": "https://www.thestreet.com/investing/stocks/warren-buffetts-former-fintech-investment-plunges-20-nubank-nu?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T18:42:31+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "37ddcec356722bd5",
@@ -321,6 +321,17 @@
       "logo": "logos/ONON.svg"
     },
     {
+      "id": "f0a53a12472e28d6",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Responsive Playbooks and the EML Inflection - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQ0QTl2bHVibXhPSDVodmNjYUpCdnRmVmZyRW5PbU1USHdCaUNPdF81emNmOF8zMWExQ1JVcWNwSFRwcFpJMjZLUnh2VEtZcE5fbHJObmRHcC05VEFyNmhOOGY0bURtbEV3NUp5dGgxNHhvVXlsUW1WTlQtR0NGUV9uRUVsNWJtU2gzVEt0cF9hOWloQjMzNTFBQ3o1dTFnaWswYjdaNVBXWDZqNjJiZ0VmWkgwY25HYjVvMEZ3UFE?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-10-21T23:20:01+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "5d169213b20cc854",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -332,25 +343,14 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "8a5da30ec073805f",
+      "id": "7f427c1bc365d9e6",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
-      "source": "Morningstar",
-      "published": "2026-09-21T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "f8a705231d0ef310",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
+      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
       "source": "Simply Wall Street",
-      "published": "2026-09-04T07:00:00+00:00",
+      "published": "2026-10-20T21:27:45+00:00",
       "logo": "logos/EML.svg"
     },
     {
