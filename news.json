@@ -1,38 +1,104 @@
 {
-  "updated": "2026-10-26T21:51:35Z",
+  "updated": "2026-10-27T01:09:44Z",
   "items": [
     {
-      "id": "366c980ab35fa095",
+      "id": "ed7296ab95fd23b4",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Why Nubank (NU) stock is trading lower today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-nubank-nu-stock-trading-005447231.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T00:54:47+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "c31ea5bdce4fe25e",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Tech Earnings Are the Market’s Biggest Story This Week: Here’s Why Microsoft, Amazon, Intel, SanDisk, and Alphabet Will Drive the Stock Market’s Next Move",
-      "link": "https://247wallst.com/videos/tech-earnings-are-the-markets-biggest-story-this-week-heres-why-microsoft-amazon-intel-sandisk-and-alphabet-will-drive-the-stock-markets-next-move/?.tsrc=rss",
+      "title": "Review & Preview: On Your Marks",
+      "link": "https://finance.yahoo.com/m/ccfd8b60-4bf1-3f4e-a4b5-4297fcd1c323/review-%26-preview%3A-on-your.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-26T21:15:14+00:00",
+      "published": "2026-10-26T23:55:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "7b2b9aefc471d853",
+      "id": "99cda7a103f5cc92",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "TSLA Analyst Ratings Hit Highest Since 2023; ARK Reiterates $4,400 Long-Term Price Target And 80% Robotaxi Thesis",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-ratings-hit-highest-since-2023-ark-reiterates-4-400-tesla-2031-target-and-80-robotaxi-thesis/cZU3KLWRBzB?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T23:35:04+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "06866d418c2522c5",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Kevin O’Leary Says Tesla-SpaceX Merger Is Inevitable After Flying Roadster Demo — ‘If You Own Tesla, You’re Gonna Own New Company’",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kevin-o-leary-says-tesla-233006194.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T23:30:06+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ce1b5e2a69b79b97",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Why Google might avoid an earnings 'reckoning' this week",
-      "link": "https://finance.yahoo.com/markets/stocks/article/why-google-might-avoid-an-earnings-reckoning-this-week-210350868.html?.tsrc=rss",
+      "title": "CORRECTING and REPLACING Waymo, Google and Microsoft Alums Raise $30M to Build the Data Layer for Physical AI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/waymo-google-microsoft-alums-raise-160000050.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-26T21:03:50+00:00",
+      "published": "2026-10-26T23:19:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "1d86c8c8dabb036c",
+      "id": "821b6ac4a12f982b",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",
-      "link": "https://finance.yahoo.com/m/4f45ec30-6388-381f-b8f7-2aed6d460b6f/dow-jones-futures%3A-elon.html?.tsrc=rss",
+      "title": "Anthropic Leasing Data Centers To Limit Third-Party Reliance Ahead Of IPO",
+      "link": "https://www.bisnow.com/news/national/data-center-development/anthropic-leasing-data-centers-to-limit-reliance-on-amazon-microsoft-and-google?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-26T20:57:39+00:00",
+      "published": "2026-10-26T22:52:59+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "cada9d04a9ae9364",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Why Nu Holdings Stock Got Crushed on Monday",
+      "link": "https://www.fool.com/investing/2026/10/26/why-nu-holdings-stock-got-crushed-on-monday/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T22:34:13+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "324b15ff72faaf59",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Will Alphabet Stock Surge After Oct. 28?",
+      "link": "https://www.fool.com/investing/2026/10/26/will-alphabet-stock-surge-after-oct-28/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T22:25:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "87e9859ae138edc6",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Azincourt Energy Advances Labrador Uranium Exploration With New Snegamook Drilling Results",
+      "link": "https://finance.yahoo.com/energy/articles/azincourt-energy-advances-labrador-uranium-213911390.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-26T21:39:11+00:00",
+      "logo": "logos/CCJ.svg"
     },
     {
       "id": "ec077c724a66a1d3",
@@ -46,17 +112,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "ad0b59b0c8451548",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Tesla Isn’t a Hyperscaler. Why the AI Bears Are Misreading Its $5 Billion Capex Cut.",
-      "link": "https://www.fool.com/investing/2026/10/26/tesla-isnt-a-hyperscaler-why-the-ai-bears-are-misreading-its-5-billion-capex-cut/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T20:53:02+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "b523a40487cf07a1",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -65,28 +120,6 @@
       "link": "https://finance.yahoo.com/m/01cd1ea9-015f-3e37-8ef6-7e8f380f0327/tesla-stock%2C-upgraded-on.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-26T20:51:45+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "77148b8e12402cb2",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Fort Bend County sweetens pot to land $10B Tesla solar plant",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fort-bend-county-sweetens-pot-204327337.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T20:43:27+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "34acef0a2d79674e",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Stock Market Today: Dow Up, These Stocks Gain On Musk Talk; DoorDash Dives (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up%2C.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T20:39:36+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -167,28 +200,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "58099f98d7818fd0",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "NU Stock Suffers Worst Day On Record In Brazil Market Rout – Monness Crespi Initiates Coverage With ‘Buy’ Rating",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nu-stock-worst-day-on-record-in-brazil-market-rout-with-buy-rating/cZU34E4RByy?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T16:33:07+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "da93daa23c133fdb",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Tech stocks rise after Anthropic IPO filing: AlphaCheck",
-      "link": "https://finance.yahoo.com/markets/article/tech-rise-after-anthropic-ipo-filing-alphacheck-140040601.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T14:00:40+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "91b07cecc579e708",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -255,17 +266,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "1def186e039ef593",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "3 Canadian Growth Stocks With Earnings Growth Up To 65%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-earnings-071210194.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-24T07:12:10+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "05fc5eb6cf4d3592",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -321,14 +321,14 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "f0a53a12472e28d6",
+      "id": "78471f3bcd5d8734",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "Responsive Playbooks and the EML Inflection - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQ0QTl2bHVibXhPSDVodmNjYUpCdnRmVmZyRW5PbU1USHdCaUNPdF81emNmOF8zMWExQ1JVcWNwSFRwcFpJMjZLUnh2VEtZcE5fbHJObmRHcC05VEFyNmhOOGY0bURtbEV3NUp5dGgxNHhvVXlsUW1WTlQtR0NGUV9uRUVsNWJtU2gzVEt0cF9hOWloQjMzNTFBQ3o1dTFnaWswYjdaNVBXWDZqNjJiZ0VmWkgwY25HYjVvMEZ3UFE?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-10-21T23:20:01+00:00",
+      "title": "Electric Metals (USA) Limited (EML.V) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JWjNFMHl6Y0VZNXBUYm9KbDRRdHpHanR3T1l2RTJRQnBtSXl5SEQxanp5aFkxZVQxUFNuajBRX1Nla2VSdlQ2bXJsazFMWUxWRG9V?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-22T07:33:42+00:00",
       "logo": "logos/EML.svg"
     },
     {
@@ -343,14 +343,14 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "7f427c1bc365d9e6",
+      "id": "8a5da30ec073805f",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
-      "source": "Simply Wall Street",
-      "published": "2026-10-20T21:27:45+00:00",
+      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
+      "source": "Morningstar",
+      "published": "2026-09-21T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
