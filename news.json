@@ -1,27 +1,148 @@
 {
-  "updated": "2026-10-27T13:09:33Z",
+  "updated": "2026-10-27T16:03:27Z",
   "items": [
     {
-      "id": "f7143f002186ef16",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Is Tesla Stock Safer Or Riskier Than A Year Ago?",
-      "link": "https://www.trefis.com/stock/tsla/articles/620791/is-tesla-stock-safer-or-riskier-than-a-year-ago/2026-10-27?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T12:54:23+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "b94d5ea192e9672d",
+      "id": "ad4e76d2931a7be9",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Prediction: The Stock Market Could Crash in 2027, and Elon Musk Just Explained Why",
-      "link": "https://www.fool.com/investing/2026/10/27/prediction-the-stock-market-could-crash-in-2027-an/?.tsrc=rss",
+      "title": "Oracle, in effort to reduce reliance on Nvidia, adds AI chips from Google, Cerebras, and SambaNova",
+      "link": "https://finance.yahoo.com/technology/article/oracle-in-effort-to-reduce-reliance-on-nvidia-adds-ai-chips-from-google-cerebras-and-sambanova-160000593.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-27T12:50:00+00:00",
+      "published": "2026-10-27T16:00:00+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "b0081fc0b0df2a99",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla's Q3 Per-Car Fiscal Metrics Show Minor but Important Progress",
+      "link": "https://www.fool.com/investing/2026/10/27/teslas-q3-per-car-fiscal-metrics-show-minor-but-im/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T15:36:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ccf7fc26d13af14a",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Purecore Publishes Uranium Market Report Tracking AI-Driven Nuclear Demand",
+      "link": "https://finance.yahoo.com/energy/articles/purecore-publishes-uranium-market-report-153500614.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T15:35:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "7c9cfc651fff22aa",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Microsoft, Amazon, and Intel Earnings Are on Deck This Week",
+      "link": "https://247wallst.com/videos/tech-earnings-are-the-markets-biggest-story-this-week-heres-why-microsoft-amazon-intel-sandisk-and-alphabet-will-drive-the-stock-markets-next-move/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T15:22:14+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "3ab1bb27c5c42c6d",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Global Battery Thermal Management System Market Size and Forecast to 2033 | AI-Based Control, Fast Charging, and LFP Adoption Drive 11.1% CAGR and a USD 10.97 Billion Opportunity",
+      "link": "https://finance.yahoo.com/technology/articles/global-battery-thermal-management-system-151800719.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T15:18:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a93053ffbf7ddbec",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "Is the China risk real for On Holding after Mbappé backlash?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/china-risk-real-holding-mbapp-151741883.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T15:17:41+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "f7ded0006ac4a380",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Sunrun (RUN) Joins 1 GW Virtual Power Plant Push With Home Battery Capacity",
+      "link": "https://finance.yahoo.com/energy/articles/sunrun-run-joins-1-gw-151456539.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T15:14:56+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "486ff1fae1da7aaf",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Nucleus Research Releases 2026 Embedded Analytics Technology Value Matrix",
+      "link": "https://finance.yahoo.com/technology/articles/nucleus-research-releases-2026-embedded-151100957.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T15:11:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "0d0235331768b0cf",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC adjusts target to HKD 47.60 for Lenovo stock - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMm5TeW1wTFZnVjBMSDU4dDU2WGZfczJkM0hQbndENjF1WXp4NWFBVm1BOVREaklxeENTSzY4MVVPWDB3bGoycy1zMjUzZGpoSkVqTWRmdElDRjVnOW5pcWd3Y1FwalY3MHJiS1EwU1lYWnJ2a2JFcnRxb2djM3FyZTF2bk9pR09LRzR1Q0VuamZLRC1rTjBaSjZvS29MNlZXS1ExTFRwN0tmMHJrY1RqYQ?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-27T15:00:39+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "108d35661381ea83",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Micron, Musk, and Memory. A Big Prediction Is Lifting the Stock.",
+      "link": "https://finance.yahoo.com/m/b0f951ad-0007-3f46-b955-d434bdc85134/micron%2C-musk%2C-and-memory.-a.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T14:35:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "40b460918c587ac4",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
+      "link": "https://www.fool.com/investing/2026/10/27/cathie-wood-goes-bargain-hunting-3-stocks-she-just/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T14:32:00+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "25b37b32a7814358",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Earnings season, Anthropic IPO, and decoding the Microsoft buyouts",
+      "link": "https://finance.yahoo.com/video/earnings-season-anthropic-ipo-and-decoding-the-microsoft-buyouts-140247088.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T14:02:47+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a85c8143f1987fcc",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Zacks Investment Ideas feature highlights: Nebius, IREN, CoreWeave and Meta Platforms",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-124600030.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T12:46:00+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "058ed684a399a91a",
@@ -35,69 +156,14 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "356c734aa297c1d3",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Cloud AI Today",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cloud-ai-today-akamai-expands-123805299.html?.tsrc=rss",
-      "source": "Akamai Expands AI Capabilities with New Cloud Solutions",
-      "published": "2026-10-27T12:38:05+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "91498550fc98d105",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "GRO Advisory Founder Dahlia Abadir Announces GRO Collective, a Fractional Leadership Bench for Private Equity Firms and Consumer Brands",
-      "link": "https://finance.yahoo.com/small-business/articles/gro-advisory-founder-dahlia-abadir-123700248.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T12:37:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "0ed1109a7b4fee43",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Big Tech Is About to Report. Nvidia Investors Should Watch One Number.",
-      "link": "https://www.fool.com/investing/2026/10/27/big-tech-is-about-to-report-nvidia-investors-should-watch-one-number/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T12:30:01+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "0d5b3fbc53cb2751",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Anthropic’s Founders Will Keep Control With a Single Share of Stock",
-      "link": "https://247wallst.com/investing/2026/10/27/anthropics-founders-will-keep-control-with-a-single-share-of-stock/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T12:21:19+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "108d35661381ea83",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Micron, Musk, and Memory. A Big Prediction Is Lifting the Stock.",
-      "link": "https://finance.yahoo.com/m/b0f951ad-0007-3f46-b955-d434bdc85134/micron%2C-musk%2C-and-memory.-a.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T12:21:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "af2a713d20fb731d",
+      "id": "873617e20aa11529",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
       "title": "Canadian Stock Market Today: TSX Futures Steady As Traders Brace For BoC Hike - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQblo1dzNKQkItV1ZLbm40bVloYWlrSC1lSU9DX3dSeURVV1lRd1BWLVhOSXY4ZjlnaVpaaU81TVAxMHRQdnd5ZTdhTnpHX2EtWk5oUjdZZGtZQm9rSTFaVHU1ZU4zNzNhYnU3R0RwSThld09CRGpQV3JKaV83b2Zock04bU12cVNhYlRlTTBuUWIxbnpZdkwwYk9zTWoxRGc4cjVWbWc5NFhPRHMwN1dBTENXSjh0R2lmNXozNU8xTVhGdlRibHJuQW5R0gHPAUFVX3lxTE0tYUh5MkxKb0RZbVRaejlYb2t1dzRUN1VZNEt1SmlBMWxRU29IM0ZYVFRINzZ2azd6TDNUR2liRmI1QzFicjVTcGdSLVRGNE0wUzRNUEJBU2ZfNUlOaXJTc2FiY25NZldVbXQ3MnYwaVVXR3JPUjV6anNWWEhyTnJVOGdsUUFaTGZma0x4RUlpa0NvZjJMUnlKb2FJRjRISFdKcV83MElFdjFxaVgyQlhnTUV6dmRSMFkzdWFkZmJmOUJhR2IyV1lCZ0xtQUFJMA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWFIeTJMSm9EWW1UWno5WG9rdXc0VDdVWTRLdUppQTFsUVNvSDNGWFRUSDc2dms3ekwzVEdpYkZiNUMxYnI1U3BnUi1URjRNMFM0TVBCQVNmXzVJTmlyU3NhYmNuTWZXVW10NzJ2MGlVV0dyT1I1empzVlhIck5yVThnbFFBWkxmZmtMeEVJaWtDb2YyTFJ5Sm9hSUY0SEhXSnFfNzBJRXYxcWlYMkJYZ01FenZkUjBZM3VhZGZiZjlCYUdiMldZQmdMbUFBSTDSAc8BQVVfeXFMTS1hSHkyTEpvRFltVFp6OVhva3V3NFQ3VVk0S3VKaUExbFFTb0gzRlhUVEg3NnZrN3pMM1RHaWJGYjVDMWJyNVNwZ1ItVEY0TTBTNE1QQkFTZl81SU5pclNzYWJjbk1mV1VtdDcydjBpVVdHck9SNXpqc1ZYSHJOclU4Z2xRQVpMZmZrTHhFSWlrQ29mMkxSeUpvYUlGNEhIV0pxXzcwSUV2MXFpWDJCWGdNRXp2ZFIwWTN1YWRmYmY5QmFHYjJXWUJnTG1BQUkw?oc=5",
       "source": "Simply Wall Street",
-      "published": "2026-10-27T12:14:30+00:00",
+      "published": "2026-10-27T12:14:31+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -112,17 +178,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "8f40efa1e2ed9274",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Only 5 of 60 Analysts Still Say Sell Tesla, the Fewest in 11 Years",
-      "link": "https://247wallst.com/investing/2026/10/27/only-5-of-60-analysts-still-say-sell-tesla-the-fewest-in-11-years/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T12:10:28+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "7df0afb0c04e9798",
       "ticker": "NU",
       "symbol": "NU",
@@ -134,15 +189,15 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "0b28395d56219fdf",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Purecore Publishes Uranium Market Report Tracking AI-Driven Nuclear Demand",
-      "link": "https://finance.yahoo.com/energy/articles/purecore-publishes-uranium-market-report-113000538.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T11:30:00+00:00",
-      "logo": "logos/CCJ.svg"
+      "id": "50dc048943ae473a",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Canadian Stock Market Today: TSX Futures Steady On Oil Support And BoC Rate Focus - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRFVrazRtYURibzJ0elh3WnkzSGw0Tks0bWVBRWs0dHQtc0Rua3pHaVR1MU9aVUFoUXFxY0twdk5tYlY2VFZJaF80cXdGNmJLRUkwRWlLb2tJbm55bEVWSjNKRURJV1daLUpjTDdvY0JzajcwTlRnaTQwNjl3d2NsMk85ZVhrQUpGTXlkdm5TQk1iZ1lReEZCTGNYN0c?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-27T12:08:14+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "246eedb41a63e6af",
@@ -200,28 +255,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "e6384fc315f0f48c",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings (NU) Stock May Be 23% Undervalued On Brazil Election Uncertainty",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-stock-may-020528290.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T02:05:28+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "26420e76f557293e",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Elon Musk Warning Triggers Selloff Across Major Neocloud Stocks",
-      "link": "https://www.tikr.com/blog/elon-musk-warning-neocloud-stocks-selloff-coreweave?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T02:03:02+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "87e9859ae138edc6",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -242,28 +275,6 @@
       "source": "News",
       "published": "2026-10-26T20:25:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "37ddcec356722bd5",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Boston Omaha Corporation (BOC) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HWXNmUGx4MUhGdFhwNk1lUlRXOXNqdDB4aE02MHdIWm1UbF8tdGZEVndHQ3N0V19KWFdtYXYxZmt2Nkh2aUdYWE9LTzhvazlQ?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-10-26T16:31:52+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "91b07cecc579e708",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Wealthyhood x BoC Helps Cyprus Investors Recover Shares Held in CSE Special Account - Cyprus Inform",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjBjY25xbG0yeXl1QzdLQWVTd3Y1RFR0YUtuNWV0SG9JakhabExGRlNWOGwxbXI0d0hjSU1aWXRKVFdHMGxfaFlXcDQ3YTlRSzVzT2dqeE9QTDNpRGdSa1h6TkUxYmRSRFNldGdiZ3NIOFJpSHJJOXkwQng2Q2pEUG1idnpDUUFpcVJJX1pZWjJKTk55amp5eUdRbnVGNV8wTzhVVjJ0V3luNm55V2lkR3J0UDdkMktqVWUw?oc=5",
-      "source": "Cyprus Inform",
-      "published": "2026-10-26T13:04:04+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "cd564c88159068f9",
@@ -319,17 +330,6 @@
       "source": "London Stock Exchange",
       "published": "2026-10-22T20:53:32+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "29e2cbb34f94ade1",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "How Ross and On Holding Can Buck That Retail Funk",
-      "link": "https://finance.yahoo.com/m/cfe822c9-0291-3804-a214-b89ed09c874f/how-ross-and-on-holding-can.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-22T18:46:00+00:00",
-      "logo": "logos/ONON.svg"
     },
     {
       "id": "f0a53a12472e28d6",
