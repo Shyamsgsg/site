@@ -1,60 +1,137 @@
 {
-  "updated": "2026-10-27T16:03:27Z",
+  "updated": "2026-10-27T19:03:17Z",
   "items": [
     {
-      "id": "ad4e76d2931a7be9",
+      "id": "df0cf0204fe3df70",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Oracle, in effort to reduce reliance on Nvidia, adds AI chips from Google, Cerebras, and SambaNova",
-      "link": "https://finance.yahoo.com/technology/article/oracle-in-effort-to-reduce-reliance-on-nvidia-adds-ai-chips-from-google-cerebras-and-sambanova-160000593.html?.tsrc=rss",
+      "title": "Crusoe CEO defends CoreWeave amid selloff",
+      "link": "https://finance.yahoo.com/technology/ai/articles/crusoe-ceo-defends-coreweave-amid-185254030.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-27T16:00:00+00:00",
+      "published": "2026-10-27T18:52:54+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "b0081fc0b0df2a99",
+      "id": "df881401771d2aa4",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla's Q3 Per-Car Fiscal Metrics Show Minor but Important Progress",
-      "link": "https://www.fool.com/investing/2026/10/27/teslas-q3-per-car-fiscal-metrics-show-minor-but-im/?.tsrc=rss",
+      "title": "3 Types of Investors Who Should Avoid SpaceX and Tesla Stocks as the Companies Explore a Potential Merger",
+      "link": "https://www.fool.com/investing/2026/10/27/3-types-of-investors-who-should-avoid-spacex-and-t/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-27T15:36:00+00:00",
+      "published": "2026-10-27T18:50:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "ccf7fc26d13af14a",
+      "id": "1c1cc8def8730f36",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
+      "link": "https://decrypt.co/381998/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-total-26?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T18:46:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "400226389474c082",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Stock Market Today: Dow Steady While These Oil Plays Dive; Broadcom Pops After Anthropic Report (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/6294d29d-51d6-3bfe-87d4-877203694b78/stock-market-today%3A-dow.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T18:35:18+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ec3931ae47e0f0c4",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Oracle Stock Climbs On OpenAI, Google Partnership Expansions. Here's The Next Test.",
+      "link": "https://finance.yahoo.com/m/50c0990f-b090-34b4-9ad7-c05902c7977f/oracle-stock-climbs-on.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T18:01:42+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "108d35661381ea83",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Micron, Musk, and Memory. A Big Prediction Is Lifting the Stock.",
+      "link": "https://finance.yahoo.com/m/b0f951ad-0007-3f46-b955-d434bdc85134/micron%2C-musk%2C-and-memory.-a.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T17:56:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a54187cbf3847520",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Bitcoin Outperforms Grayscale’s AI Compute ETF As AI Cloud Stocks Slide",
+      "link": "https://stocktwits.com/news-articles/markets/equity/bitcoin-outperforms-grayscale-s-ai-compute-etf-as-ai-cloud-stocks-slide/cZUehy1RBCA?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T17:34:30+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "8b3068e3bde3b697",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN And 2 Top AI Stocks To Watch",
+      "link": "https://finance.yahoo.com/technology/ai/articles/iren-2-top-ai-stocks-170802846.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T17:08:02+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "531f742e8d8e4464",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Rises 4% as ARK Reiterates $4,400 Long-Term Price Target on Robotaxi Thesis; Rivian Gains 3%, Lucid Holds Steady",
+      "link": "https://247wallst.com/investing/2026/10/27/tesla-rises-4-as-ark-reiterates-4400-long-term-price-target-on-robotaxi-thesis-rivian-gains-3-lucid-holds-steady/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T16:55:17+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "6d7c33a639ef2479",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tech firms gain on Anthropic IPO optimism; HSBC slumps in London",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-firms-track-wall-st-024224619.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T16:53:20+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "6595bcb84d0e7f56",
       "ticker": "CCJ",
       "symbol": "CCJ",
       "company": "Cameco",
       "title": "Purecore Publishes Uranium Market Report Tracking AI-Driven Nuclear Demand",
-      "link": "https://finance.yahoo.com/energy/articles/purecore-publishes-uranium-market-report-153500614.html?.tsrc=rss",
+      "link": "https://finance.yahoo.com/energy/articles/purecore-publishes-uranium-market-report-153500201.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-27T15:35:00+00:00",
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "7c9cfc651fff22aa",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Microsoft, Amazon, and Intel Earnings Are on Deck This Week",
-      "link": "https://247wallst.com/videos/tech-earnings-are-the-markets-biggest-story-this-week-heres-why-microsoft-amazon-intel-sandisk-and-alphabet-will-drive-the-stock-markets-next-move/?.tsrc=rss",
+      "id": "f00c07e8556da76f",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings vs. Dave: Which Fintech Stock Is the Better Buy Right Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-vs-dave-fintech-152300126.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-27T15:22:14+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "3ab1bb27c5c42c6d",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Global Battery Thermal Management System Market Size and Forecast to 2033 | AI-Based Control, Fast Charging, and LFP Adoption Drive 11.1% CAGR and a USD 10.97 Billion Opportunity",
-      "link": "https://finance.yahoo.com/technology/articles/global-battery-thermal-management-system-151800719.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T15:18:00+00:00",
-      "logo": "logos/TSLA.svg"
+      "published": "2026-10-27T15:23:00+00:00",
+      "logo": "logos/NU.svg"
     },
     {
       "id": "a93053ffbf7ddbec",
@@ -68,28 +145,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "f7ded0006ac4a380",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Sunrun (RUN) Joins 1 GW Virtual Power Plant Push With Home Battery Capacity",
-      "link": "https://finance.yahoo.com/energy/articles/sunrun-run-joins-1-gw-151456539.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T15:14:56+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "486ff1fae1da7aaf",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Nucleus Research Releases 2026 Embedded Analytics Technology Value Matrix",
-      "link": "https://finance.yahoo.com/technology/articles/nucleus-research-releases-2026-embedded-151100957.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T15:11:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "0d0235331768b0cf",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -101,17 +156,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "108d35661381ea83",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Micron, Musk, and Memory. A Big Prediction Is Lifting the Stock.",
-      "link": "https://finance.yahoo.com/m/b0f951ad-0007-3f46-b955-d434bdc85134/micron%2C-musk%2C-and-memory.-a.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T14:35:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "40b460918c587ac4",
       "ticker": "NU",
       "symbol": "NU",
@@ -121,17 +165,6 @@
       "source": "News",
       "published": "2026-10-27T14:32:00+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "25b37b32a7814358",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Earnings season, Anthropic IPO, and decoding the Microsoft buyouts",
-      "link": "https://finance.yahoo.com/video/earnings-season-anthropic-ipo-and-decoding-the-microsoft-buyouts-140247088.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T14:02:47+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "a85c8143f1987fcc",
@@ -200,17 +233,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "246eedb41a63e6af",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CLS Stock Soars Premarket After Blowout Q3 — Retail Calls It ‘Very Inexpensive’ As Celestica Touts AI ‘Supercycle’",
-      "link": "https://stocktwits.com/news-articles/markets/equity/cls-stock-blowout-q3-retail-very-inexpensive-celestica-ai-supercycle/cZUeR2HRBzv?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T08:17:54+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "47cc1e48c8409c93",
       "ticker": "NU",
       "symbol": "NU",
@@ -231,28 +253,6 @@
       "source": "Kalkine",
       "published": "2026-10-27T05:28:00+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "63f3b5d7ab212468",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Cathie Wood’s ARK Scoops Up 2 Brazilian Stocks Amid Selloff On Lula’s Win; Michael Burry Sees ‘Opportunity’ In One",
-      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-s-ark-scoops-up-2-brazilian-stocks-amid-selloff-on-lula-s-win-michael-burry-sees-opportunity-in-one/cZUIvrBRBzk?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T04:20:38+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "20300359695ea557",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Why Did CRWV, IREN, NIO Stocks Slump To 52-Week Lows Today?",
-      "link": "https://stocktwits.com/news-articles/markets/equity/why-did-crwv-iren-nio-stocks-slump-to-52-week-lows-today/cZUIuhrRBz0?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T03:30:17+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "87e9859ae138edc6",
@@ -332,25 +332,25 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "f0a53a12472e28d6",
+      "id": "8a5da30ec073805f",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "Responsive Playbooks and the EML Inflection - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQ0QTl2bHVibXhPSDVodmNjYUpCdnRmVmZyRW5PbU1USHdCaUNPdF81emNmOF8zMWExQ1JVcWNwSFRwcFpJMjZLUnh2VEtZcE5fbHJObmRHcC05VEFyNmhOOGY0bURtbEV3NUp5dGgxNHhvVXlsUW1WTlQtR0NGUV9uRUVsNWJtU2gzVEt0cF9hOWloQjMzNTFBQ3o1dTFnaWswYjdaNVBXWDZqNjJiZ0VmWkgwY25HYjVvMEZ3UFE?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-10-21T23:20:01+00:00",
+      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
+      "source": "Morningstar",
+      "published": "2026-09-21T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
-      "id": "7f427c1bc365d9e6",
+      "id": "f8a705231d0ef310",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
+      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
       "source": "Simply Wall Street",
-      "published": "2026-10-20T21:27:45+00:00",
+      "published": "2026-09-04T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
