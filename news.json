@@ -1,71 +1,159 @@
 {
-  "updated": "2026-10-27T19:03:17Z",
+  "updated": "2026-10-27T21:52:38Z",
   "items": [
     {
-      "id": "df0cf0204fe3df70",
+      "id": "5d341a7383809863",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Crusoe CEO defends CoreWeave amid selloff",
-      "link": "https://finance.yahoo.com/technology/ai/articles/crusoe-ceo-defends-coreweave-amid-185254030.html?.tsrc=rss",
+      "title": "Stock Market Today, Oct. 27: Meta Raises Largest-Ever Equity Offering to Nearly $98 Billion to Fund AI Infrastructure Bet",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/27/stock-market-today-oct-27-meta-raises-largest-ever-equity-offering-to-nearly-usd98-billion-to-fund-ai-infrastructure-bet/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-27T18:52:54+00:00",
+      "published": "2026-10-27T21:36:42+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "df881401771d2aa4",
+      "id": "f3b1a6a7d8f6ef10",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
+      "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T21:34:18+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "cbf8c0a391c5a8c9",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Stocks making big moves yesterday: Equifax, Nubank, Verizon, Borr Drilling, and Booz Allen Hamilton",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-212647307.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T21:26:47+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "bb936aa93fffc502",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Stock Market Today, Oct. 27: CoreWeave Surges on Denmark Data Center Launch",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/27/stock-market-today-oct-27-coreweave-surges-on-denmark-data-center-launch/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T21:23:20+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "0e95e7b6ae45e216",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Artificial Intelligence (AI) in Pharmacovigilance Global Market Report 2026 | Capitalize on 19.6% CAGR to 2030 as Oracle, Microsoft, Google and IQVIA Accelerate Automation",
+      "link": "https://finance.yahoo.com/healthcare/articles/artificial-intelligence-ai-pharmacovigilance-global-211000913.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T21:10:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "39b436d58b52e05d",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "3 Types of Investors Who Should Avoid SpaceX and Tesla Stocks as the Companies Explore a Potential Merger",
-      "link": "https://www.fool.com/investing/2026/10/27/3-types-of-investors-who-should-avoid-spacex-and-t/?.tsrc=rss",
+      "title": "Has Space Exploration Technologies (SPCX) Become Fully Valued Following Its $3.42b Shelf Filing?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-spcx-become-210745055.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-27T18:50:00+00:00",
+      "published": "2026-10-27T21:07:45+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "1c1cc8def8730f36",
+      "id": "87cbeeab19a7a997",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
-      "link": "https://decrypt.co/381998/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-total-26?.tsrc=rss",
+      "title": "Global Green Information Technology (IT) for Insurers Market Report 2026 | Capitalize on 13.6% CAGR as Microsoft, AWS, Google, and Dell Scale Green Cloud Adoption",
+      "link": "https://finance.yahoo.com/technology/articles/global-green-information-technology-insurers-210200646.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-27T18:46:02+00:00",
+      "published": "2026-10-27T21:02:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "400226389474c082",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stock Market Today: Dow Steady While These Oil Plays Dive; Broadcom Pops After Anthropic Report (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/6294d29d-51d6-3bfe-87d4-877203694b78/stock-market-today%3A-dow.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T18:35:18+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "ec3931ae47e0f0c4",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Oracle Stock Climbs On OpenAI, Google Partnership Expansions. Here's The Next Test.",
-      "link": "https://finance.yahoo.com/m/50c0990f-b090-34b4-9ad7-c05902c7977f/oracle-stock-climbs-on.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T18:01:42+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "108d35661381ea83",
+      "id": "e9510c57e26ecb71",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Micron, Musk, and Memory. A Big Prediction Is Lifting the Stock.",
-      "link": "https://finance.yahoo.com/m/b0f951ad-0007-3f46-b955-d434bdc85134/micron%2C-musk%2C-and-memory.-a.html?.tsrc=rss",
+      "title": "Tesla Stock Rises In A Buy Range; Musk Touts Cybercab Fleet Expansion",
+      "link": "https://finance.yahoo.com/m/85f94354-9e71-320a-a15d-a3a35ca2bddb/tesla-stock-rises-in-a-buy.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-27T17:56:00+00:00",
+      "published": "2026-10-27T20:43:04+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ac8e89e3b886f290",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Nebius vs. CoreWeave: Which neocloud stock has more debt?",
+      "link": "https://www.thestreet.com/investing/stocks/nebius-vs-coreweave-neocloud-debt-balance-sheet?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T20:30:40+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "beae387b8d2c7033",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "On to Release Third Quarter 2026 Results on Tuesday, November 10, 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/release-third-quarter-2026-results-203000625.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T20:30:00+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "dc715fc2f1748d79",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tech stocks post best 3-day rally in 5 weeks",
+      "link": "https://finance.yahoo.com/video/tech-stocks-post-best-3-day-rally-in-5-weeks-202221064.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T20:22:21+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "352ecf96be029398",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tech firms gain ahead of Fed decision, results from AI giants",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-firms-track-wall-st-024224619.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T20:20:24+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "21bc6fa70c43a47a",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "American Express vs. Nu: Which Financial Stock Is a Better Buy?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/27/american-express-vs-nu-which-financial-stock-is-a-better-buy/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T20:20:02+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "3fd19481200d6f39",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Money 20/20 USA: Hopper’s Adi Soloducho on Closing the Cardholder Loyalty Gap",
+      "link": "https://finance.yahoo.com/video/money-20-20-usa-hopper-175929982.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T17:59:29+00:00",
+      "logo": "logos/NU.svg"
     },
     {
       "id": "a54187cbf3847520",
@@ -90,34 +178,12 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "531f742e8d8e4464",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Rises 4% as ARK Reiterates $4,400 Long-Term Price Target on Robotaxi Thesis; Rivian Gains 3%, Lucid Holds Steady",
-      "link": "https://247wallst.com/investing/2026/10/27/tesla-rises-4-as-ark-reiterates-4400-long-term-price-target-on-robotaxi-thesis-rivian-gains-3-lucid-holds-steady/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T16:55:17+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "6d7c33a639ef2479",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tech firms gain on Anthropic IPO optimism; HSBC slumps in London",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-firms-track-wall-st-024224619.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T16:53:20+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "6595bcb84d0e7f56",
+      "id": "ccf7fc26d13af14a",
       "ticker": "CCJ",
       "symbol": "CCJ",
       "company": "Cameco",
       "title": "Purecore Publishes Uranium Market Report Tracking AI-Driven Nuclear Demand",
-      "link": "https://finance.yahoo.com/energy/articles/purecore-publishes-uranium-market-report-153500201.html?.tsrc=rss",
+      "link": "https://finance.yahoo.com/energy/articles/purecore-publishes-uranium-market-report-153500614.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-27T15:35:00+00:00",
       "logo": "logos/CCJ.svg"
@@ -156,47 +222,14 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "40b460918c587ac4",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
-      "link": "https://www.fool.com/investing/2026/10/27/cathie-wood-goes-bargain-hunting-3-stocks-she-just/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T14:32:00+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "a85c8143f1987fcc",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Zacks Investment Ideas feature highlights: Nebius, IREN, CoreWeave and Meta Platforms",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-124600030.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T12:46:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "058ed684a399a91a",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Limited Fell by 33% in 2026 But 3 Analysts Believe It Will Nearly Quadruple in Price From Here",
-      "link": "https://247wallst.com/investing/2026/10/27/iren-limited-fell-by-33-in-2026-but-3-analysts-believe-it-will-nearly-quadruple-in-price-from-here/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T12:45:44+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "873617e20aa11529",
+      "id": "af2a713d20fb731d",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
       "title": "Canadian Stock Market Today: TSX Futures Steady As Traders Brace For BoC Hike - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWFIeTJMSm9EWW1UWno5WG9rdXc0VDdVWTRLdUppQTFsUVNvSDNGWFRUSDc2dms3ekwzVEdpYkZiNUMxYnI1U3BnUi1URjRNMFM0TVBCQVNmXzVJTmlyU3NhYmNuTWZXVW10NzJ2MGlVV0dyT1I1empzVlhIck5yVThnbFFBWkxmZmtMeEVJaWtDb2YyTFJ5Sm9hSUY0SEhXSnFfNzBJRXYxcWlYMkJYZ01FenZkUjBZM3VhZGZiZjlCYUdiMldZQmdMbUFBSTDSAc8BQVVfeXFMTS1hSHkyTEpvRFltVFp6OVhva3V3NFQ3VVk0S3VKaUExbFFTb0gzRlhUVEg3NnZrN3pMM1RHaWJGYjVDMWJyNVNwZ1ItVEY0TTBTNE1QQkFTZl81SU5pclNzYWJjbk1mV1VtdDcydjBpVVdHck9SNXpqc1ZYSHJOclU4Z2xRQVpMZmZrTHhFSWlrQ29mMkxSeUpvYUlGNEhIV0pxXzcwSUV2MXFpWDJCWGdNRXp2ZFIwWTN1YWRmYmY5QmFHYjJXWUJnTG1BQUkw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQblo1dzNKQkItV1ZLbm40bVloYWlrSC1lSU9DX3dSeURVV1lRd1BWLVhOSXY4ZjlnaVpaaU81TVAxMHRQdnd5ZTdhTnpHX2EtWk5oUjdZZGtZQm9rSTFaVHU1ZU4zNzNhYnU3R0RwSThld09CRGpQV3JKaV83b2Zock04bU12cVNhYlRlTTBuUWIxbnpZdkwwYk9zTWoxRGc4cjVWbWc5NFhPRHMwN1dBTENXSjh0R2lmNXozNU8xTVhGdlRibHJuQW5R0gHPAUFVX3lxTE0tYUh5MkxKb0RZbVRaejlYb2t1dzRUN1VZNEt1SmlBMWxRU29IM0ZYVFRINzZ2azd6TDNUR2liRmI1QzFicjVTcGdSLVRGNE0wUzRNUEJBU2ZfNUlOaXJTc2FiY25NZldVbXQ3MnYwaVVXR3JPUjV6anNWWEhyTnJVOGdsUUFaTGZma0x4RUlpa0NvZjJMUnlKb2FJRjRISFdKcV83MElFdjFxaVgyQlhnTUV6dmRSMFkzdWFkZmJmOUJhR2IyV1lCZ0xtQUFJMA?oc=5",
       "source": "Simply Wall Street",
-      "published": "2026-10-27T12:14:31+00:00",
+      "published": "2026-10-27T12:14:30+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -211,17 +244,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "7df0afb0c04e9798",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "US Stock Market Today: S&P 500 Futures Ease As Traders Weigh Fed Path",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-120912894.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T12:09:12+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "50dc048943ae473a",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -231,17 +253,6 @@
       "source": "Yahoo Finance",
       "published": "2026-10-27T12:08:14+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "47cc1e48c8409c93",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Brazil Stocks Plunged. Should You Buy the Dip in MercadoLibre?",
-      "link": "https://www.fool.com/investing/2026/10/27/brazil-stocks-plunged-should-you-buy-the-dip-in-mercadolibre/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T06:50:02+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "6a64dba637dfc08c",
@@ -310,17 +321,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "65aad517efaece08",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "On Holding (ONON) Could Be 27% Undervalued Following Its Recent Pullback",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-could-27-undervalued-011553294.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T01:15:53+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
       "id": "fe87a991290e7083",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -332,25 +332,25 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "8a5da30ec073805f",
+      "id": "f0a53a12472e28d6",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
-      "source": "Morningstar",
-      "published": "2026-09-21T07:00:00+00:00",
+      "title": "Responsive Playbooks and the EML Inflection - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQ0QTl2bHVibXhPSDVodmNjYUpCdnRmVmZyRW5PbU1USHdCaUNPdF81emNmOF8zMWExQ1JVcWNwSFRwcFpJMjZLUnh2VEtZcE5fbHJObmRHcC05VEFyNmhOOGY0bURtbEV3NUp5dGgxNHhvVXlsUW1WTlQtR0NGUV9uRUVsNWJtU2gzVEt0cF9hOWloQjMzNTFBQ3o1dTFnaWswYjdaNVBXWDZqNjJiZ0VmWkgwY25HYjVvMEZ3UFE?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-10-21T23:20:01+00:00",
       "logo": "logos/EML.svg"
     },
     {
-      "id": "f8a705231d0ef310",
+      "id": "7f427c1bc365d9e6",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
+      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
       "source": "Simply Wall Street",
-      "published": "2026-09-04T07:00:00+00:00",
+      "published": "2026-10-20T21:27:45+00:00",
       "logo": "logos/EML.svg"
     },
     {
