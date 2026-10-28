@@ -1,60 +1,126 @@
 {
-  "updated": "2026-10-28T10:05:49Z",
+  "updated": "2026-10-28T13:19:07Z",
   "items": [
     {
-      "id": "42712e1eef92b379",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google, Microsoft, and Amazon have to justify the AI spending boom this week",
-      "link": "https://finance.yahoo.com/technology/article/google-microsoft-and-amazon-have-to-justify-the-ai-spending-boom-this-week-100000898.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T10:00:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "d83e9c33b82109f3",
+      "id": "a6e2683cc0fe0f98",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "GM is pitching itself more as a tech company like Tesla",
-      "link": "https://finance.yahoo.com/technology/article/gm-is-pitching-itself-more-as-a-tech-company-like-tesla-100000323.html?.tsrc=rss",
+      "title": "American Advanced Materials Raises $12.5 Million to Make Globally-Competitive Titanium Sponge in America and Announces Signed Letters of Intent with Industry Buyers Worth Over $1 Billion",
+      "link": "https://finance.yahoo.com/technology/ai/articles/american-advanced-materials-raises-12-130800903.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-28T10:00:00+00:00",
+      "published": "2026-10-28T13:08:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "764bf2e1326997e0",
+      "id": "918dc95bf7a24179",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Google and Apple Fined in Korea Over Prohibited App Market Practices",
-      "link": "https://finance.yahoo.com/technology/articles/google-apple-fined-korea-over-095328221.html?.tsrc=rss",
+      "title": "Oct. 27 Has Historically Marked the Stock Market’s Autumn Bottom",
+      "link": "https://247wallst.com/investing/2026/10/28/oct-27-has-historically-marked-the-stock-markets-autumn-bottom/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-28T09:53:28+00:00",
+      "published": "2026-10-28T13:03:16+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "7e2ea5a970bb058d",
+      "id": "ad86c42325504655",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck",
-      "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
+      "title": "Invoca Launches Messaging Agents For Google Ads to Win the Moments That Shape High-Stakes Purchases",
+      "link": "https://finance.yahoo.com/technology/ai/articles/invoca-launches-messaging-agents-google-130000702.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-28T09:52:44+00:00",
+      "published": "2026-10-28T13:00:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "5b9785f2ec709bdb",
+      "id": "50fac3316b704afb",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "South Korea fines Google and Apple over unfair app market practices",
-      "link": "https://finance.yahoo.com/technology/articles/south-korea-fines-google-apple-095158608.html?.tsrc=rss",
+      "title": "Stock Market Today: Dow Wavers Ahead Of Rate Decision, Warsh Comments; Robinhood Plunges (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/8aa305ef-cc61-37d7-bc76-82a4a4324c5b/stock-market-today%3A-dow.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-28T09:51:58+00:00",
+      "published": "2026-10-28T12:57:12+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "4da53dfbc97c63b4",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google Debuts Crypto Security System As A.I. Threat Intensifies",
+      "link": "https://www.cryptoprowl.com/releases/google-debuts-crypto-security-system-as-ai-threat-intensifies-7494?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T12:54:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "15ea81a3d119ee8e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Just Reclaimed $400 as SpaceX Merger Hopes Build",
+      "link": "https://247wallst.com/investing/2026/10/28/tesla-just-reclaimed-400-as-spacex-merger-hopes-build/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T12:48:32+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "5bcf585ce8dd0284",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Electric Vehicles Update - Indonesia's Battery Market Growth and Its Future Opportunities",
+      "link": "https://finance.yahoo.com/energy/articles/electric-vehicles-indonesias-battery-market-123712453.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T12:37:12+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "e2d20f89b933f308",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Canadian Stock Market Today: TSX Futures Edge Higher As Fed And BoC Decisions Loom - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG1pa1pSNWY5akZBVkl5TFJ3ZGF6X1AwME92cEFWQnZ5QVlOb1F2MWVVTmk4OUZZcGk2ZHdoNkNWcE9sSG9wNG9IN01EZnphZFNNOUlJcVdfOTZTSHUta3duLTJkX0xNMlktWHVqakthN090cUI1REpyZ3JNYzBTLW45bEhjS1BrWXlZdXhVcEM5aUhSZHk0YWdPcDY?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-28T12:06:58+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "0cd93f8b402bb20a",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Stock Heads for Third Day of Gains. It’s About More Than SpaceX.",
+      "link": "https://finance.yahoo.com/m/f3514d3f-678c-31b8-b499-e6d96ed30fb3/tesla-stock-heads-for-third.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T11:50:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "96edb99bb75134fe",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Three billionaires called the AI top. Each has a reason to.",
+      "link": "https://finance.yahoo.com/video/three-billionaires-called-ai-top-110000440.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T11:00:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "b621161cd9fcbecb",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "UBS (UBS) Q3 Earnings Miss Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-ubs-q3-earnings-miss-101003451.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T10:10:03+00:00",
+      "logo": "logos/NU.svg"
     },
     {
       "id": "5597ec31c53dc126",
@@ -79,28 +145,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "282e6ec2f9040bb9",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla-SpaceX Merger Needs No Premium, Investor Says — But Floats $500 To Sway Angry Holders Missing Bigger Payoff",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-merger-no-premium-investor-floats-500-sway-angry-holders/cZU9dpmRB6h?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T06:05:31+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "587a468768da42d4",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Says Tesla Robotaxi Expansion to Miami, Tampa Beaches Is ‘Coming Soon’ After Ron DeSantis’ Call for Expansion",
-      "link": "https://finance.yahoo.com/technology/articles/elon-musk-says-tesla-robotaxi-053520197.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T05:35:20+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "2b69dcc321ebe703",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -110,17 +154,6 @@
       "source": "News",
       "published": "2026-10-28T03:10:45+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "f3d4a525a0764be5",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "TSLA Stock Is October’s Mag 7 King — But 2 Motorcycle Stocks Race Past Tesla Even As Chinese EV Stocks See Red",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-october-mag-7-king-2-motorcycle-stocks-race-past-tesla-chinese-ev-stocks-red/cZU9G6nRB6e?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T03:08:37+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "52e02a579d95c81e",
@@ -211,34 +244,12 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "3fd19481200d6f39",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Money 20/20 USA: Hopper’s Adi Soloducho on Closing the Cardholder Loyalty Gap",
-      "link": "https://finance.yahoo.com/video/money-20-20-usa-hopper-175929982.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T17:59:29+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "a54187cbf3847520",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Bitcoin Outperforms Grayscale’s AI Compute ETF As AI Cloud Stocks Slide",
-      "link": "https://stocktwits.com/news-articles/markets/equity/bitcoin-outperforms-grayscale-s-ai-compute-etf-as-ai-cloud-stocks-slide/cZUehy1RBCA?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T17:34:30+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "6595bcb84d0e7f56",
+      "id": "ccf7fc26d13af14a",
       "ticker": "CCJ",
       "symbol": "CCJ",
       "company": "Cameco",
       "title": "Purecore Publishes Uranium Market Report Tracking AI-Driven Nuclear Demand",
-      "link": "https://finance.yahoo.com/energy/articles/purecore-publishes-uranium-market-report-153500201.html?.tsrc=rss",
+      "link": "https://finance.yahoo.com/energy/articles/purecore-publishes-uranium-market-report-153500614.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-27T15:35:00+00:00",
       "logo": "logos/CCJ.svg"
@@ -255,14 +266,14 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "af2a713d20fb731d",
+      "id": "873617e20aa11529",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
       "title": "Canadian Stock Market Today: TSX Futures Steady As Traders Brace For BoC Hike - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQblo1dzNKQkItV1ZLbm40bVloYWlrSC1lSU9DX3dSeURVV1lRd1BWLVhOSXY4ZjlnaVpaaU81TVAxMHRQdnd5ZTdhTnpHX2EtWk5oUjdZZGtZQm9rSTFaVHU1ZU4zNzNhYnU3R0RwSThld09CRGpQV3JKaV83b2Zock04bU12cVNhYlRlTTBuUWIxbnpZdkwwYk9zTWoxRGc4cjVWbWc5NFhPRHMwN1dBTENXSjh0R2lmNXozNU8xTVhGdlRibHJuQW5R0gHPAUFVX3lxTE0tYUh5MkxKb0RZbVRaejlYb2t1dzRUN1VZNEt1SmlBMWxRU29IM0ZYVFRINzZ2azd6TDNUR2liRmI1QzFicjVTcGdSLVRGNE0wUzRNUEJBU2ZfNUlOaXJTc2FiY25NZldVbXQ3MnYwaVVXR3JPUjV6anNWWEhyTnJVOGdsUUFaTGZma0x4RUlpa0NvZjJMUnlKb2FJRjRISFdKcV83MElFdjFxaVgyQlhnTUV6dmRSMFkzdWFkZmJmOUJhR2IyV1lCZ0xtQUFJMA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWFIeTJMSm9EWW1UWno5WG9rdXc0VDdVWTRLdUppQTFsUVNvSDNGWFRUSDc2dms3ekwzVEdpYkZiNUMxYnI1U3BnUi1URjRNMFM0TVBCQVNmXzVJTmlyU3NhYmNuTWZXVW10NzJ2MGlVV0dyT1I1empzVlhIck5yVThnbFFBWkxmZmtMeEVJaWtDb2YyTFJ5Sm9hSUY0SEhXSnFfNzBJRXYxcWlYMkJYZ01FenZkUjBZM3VhZGZiZjlCYUdiMldZQmdMbUFBSTDSAc8BQVVfeXFMTS1hSHkyTEpvRFltVFp6OVhva3V3NFQ3VVk0S3VKaUExbFFTb0gzRlhUVEg3NnZrN3pMM1RHaWJGYjVDMWJyNVNwZ1ItVEY0TTBTNE1QQkFTZl81SU5pclNzYWJjbk1mV1VtdDcydjBpVVdHck9SNXpqc1ZYSHJOclU4Z2xRQVpMZmZrTHhFSWlrQ29mMkxSeUpvYUlGNEhIV0pxXzcwSUV2MXFpWDJCWGdNRXp2ZFIwWTN1YWRmYmY5QmFHYjJXWUJnTG1BQUkw?oc=5",
       "source": "Simply Wall Street",
-      "published": "2026-10-27T12:14:30+00:00",
+      "published": "2026-10-27T12:14:31+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -274,17 +285,6 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRFVrazRtYURibzJ0elh3WnkzSGw0Tks0bWVBRWs0dHQtc0Rua3pHaVR1MU9aVUFoUXFxY0twdk5tYlY2VFZJaF80cXdGNmJLRUkwRWlLb2tJbm55bEVWSjNKRURJV1daLUpjTDdvY0JzajcwTlRnaTQwNjl3d2NsMk85ZVhrQUpGTXlkdm5TQk1iZ1lReEZCTGNYN0c?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-10-27T12:08:14+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "6a64dba637dfc08c",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Bougainville Copper (ASX:BOC) Shares Fall on Return From Trading Suspension: What’s Happening? - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTBFS2lXOGZYMTFpOTMwZjh1RHVrUlNIM2VzVllwdGxwRHROblJCVE5SMXZrNGdDMGFrWWVWYkNpa24yMHR4WGMycTk2eFpXbjdIWGkyRF9NWE4yVHljQUtxUzNmeFRhSy1KU3hDOTdQeURJb2gyMEZvdGQ0SGlNUWJsMUVIcmZHUGxUcHNFUHBTOFd2Vk15RGg3VU1PMnA1M3M5YU53SmU0cEVJYUJCeUZvOEtFcDMxOVZxek8xSGM?oc=5",
-      "source": "Kalkine",
-      "published": "2026-10-27T05:28:00+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -308,17 +308,6 @@
       "source": "News",
       "published": "2026-10-26T20:25:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "05fc5eb6cf4d3592",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Third-quarter results are scheduled after the market closes Nov. 10; the call follows at 9 a.m. ET Nov. 11. - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa200Qi1NVVBsRnFReGd6dHNURWpuMWZvT1h3TEVqb2h3MjFIanA3S0hnczFVY3Y5YkpmbE0tc2E2b3NWRzMtcVhxQWtqTUoxRmlxdmVQWENjQUxNQ0tYVEo4Y29idnBUeGlONy1rSHJmZjFWSzNtaERrUE15QjBEMTl4S2FQOGFZa2N2LVFBTG4wdDI3aW5oVTFtVXNoS0ZSNHFfWE9DNURab2VDVVVHbXFUZzJhUXphalc2ZnlB?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-10-23T20:55:00+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "fe87a991290e7083",
@@ -351,6 +340,17 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
       "source": "Simply Wall Street",
       "published": "2026-10-20T21:27:45+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "a538d1290699bf23",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Eastern Company (EML) Slips 2.92% to $24.31 as Shares Test Lower Support Zone - Bullish Percent Index - dars.gov.et",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUkRNN2xlVHFLMmpZNnlQZzBMYzZOMUN5ZGJCWmt3dzlEbktXcEZzNnpibG8yOVRhSFNhZV9tQVlBOU1UNHBMV1NJczdZS1ZfQ3gxcnlnZHQ3bk9ZcGs4dkMtWjZWczBGWmVTaGZOV2E0RGwxakZ0cGFjMlFCSFhTc1Zzay12clNPSHVQRXFlT2V5Wll3cG5DVDNDeDdxWFNoRE9UZlF0NVd6SE1Pa0pyUjMxUQ?oc=5",
+      "source": "dars.gov.et",
+      "published": "2026-10-17T20:45:03+00:00",
       "logo": "logos/EML.svg"
     },
     {
