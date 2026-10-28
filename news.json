@@ -1,6 +1,94 @@
 {
-  "updated": "2026-10-28T04:03:09Z",
+  "updated": "2026-10-28T07:21:24Z",
   "items": [
+    {
+      "id": "a0d0c00086daea41",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "KPN nominates Mayte Oosterveld and Natasja Laheij to Supervisory Board",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kpn-nominates-mayte-oosterveld-natasja-070000193.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T07:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "5597ec31c53dc126",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "MU, SNDK, Neocloud Stocks Extend Gains On Anthropic Boost, SK Hynix Q3 Stunner; Jim Cramer Urges Caution",
+      "link": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-neocloud-stocks-extend-gains-on-anthropic-boost-sk-hynix-q3-stunner-jim-cramer-urges-caution/cZU93s9RB61?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T06:46:05+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "5ce87387dca0b51a",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "Mbappé China Backlash Could Be A Game Changer For On Holding (ONON)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mbapp-china-backlash-could-game-060844753.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T06:08:44+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "282e6ec2f9040bb9",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla-SpaceX Merger Needs No Premium, Investor Says — But Floats $500 To Sway Angry Holders Missing Bigger Payoff",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-merger-no-premium-investor-floats-500-sway-angry-holders/cZU9dpmRB6h?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T06:05:31+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "65a8c12516b2cd96",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62643298/stock-market-will-sp-500-open-up-or-down-today-67?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T05:36:20+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "587a468768da42d4",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Says Tesla Robotaxi Expansion to Miami, Tampa Beaches Is ‘Coming Soon’ After Ron DeSantis’ Call for Expansion",
+      "link": "https://finance.yahoo.com/technology/articles/elon-musk-says-tesla-robotaxi-053520197.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T05:35:20+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "96f8e12a651b16dd",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Tech stocks soar as SK hynix adds to rising AI confidence",
+      "link": "https://www.euronews.com/2026/10/28/tech-stocks-soar-as-sk-hynix-adds-to-rising-ai-confidence?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T05:32:04+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "27b4c5c4a5a65cc3",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jio-shares-surge-21-market-052032079.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T05:20:32+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "2b69dcc321ebe703",
       "ticker": "ONON",
@@ -13,17 +101,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "7e2ea5a970bb058d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck",
-      "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T03:09:28+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "f3d4a525a0764be5",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -33,39 +110,6 @@
       "source": "News",
       "published": "2026-10-28T03:08:37+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "eb9634828c4a114f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "OpenAI plans to buy Google AI chips to expand computing capacity",
-      "link": "https://finance.yahoo.com/technology/ai/articles/openai-plans-buy-google-ai-025209648.html?.tsrc=rss",
-      "source": "The Information",
-      "published": "2026-10-28T02:52:09+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "6545513c80057f48",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Samsung's AI boom comes with a $100 billion warning",
-      "link": "https://www.thestreet.com/investing/samsungs-ai-boom-comes-with-a-100-billion-warning?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T02:47:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "2e803ded48595cd9",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Tech stocks soar as SK hynix adds to rising AI confidence",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-soar-sk-hynix-024123086.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T02:41:23+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "27acb91306f847c7",
@@ -88,28 +132,6 @@
       "source": "News",
       "published": "2026-10-27T23:17:18+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "abb25e8e6913ad6b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "TSLA Stock Rises As Cybercabs Overtake Model Ys In Authorized Texas Robotaxi Fleet",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-rises-as-cybercabs-overtake-model-ys-in-authorized-texas-robotaxi-fleet/cZUen2iRBCz?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T22:39:57+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "4a8dcac8fafb1401",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Scott Galloway Warns Tesla Is the ‘Patient’ and SpaceX Its ‘Organ Donor’ in Elon Musk’s $3.5 Trillion Merger Plan: 'Real Merger With a Fake Premise'",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-warns-tesla-patient-213018121.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T21:30:18+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "cbf8c0a391c5a8c9",
@@ -211,37 +233,15 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "8b3068e3bde3b697",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN And 2 Top AI Stocks To Watch",
-      "link": "https://finance.yahoo.com/technology/ai/articles/iren-2-top-ai-stocks-170802846.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T17:08:02+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "6595bcb84d0e7f56",
+      "id": "ccf7fc26d13af14a",
       "ticker": "CCJ",
       "symbol": "CCJ",
       "company": "Cameco",
       "title": "Purecore Publishes Uranium Market Report Tracking AI-Driven Nuclear Demand",
-      "link": "https://finance.yahoo.com/energy/articles/purecore-publishes-uranium-market-report-153500201.html?.tsrc=rss",
+      "link": "https://finance.yahoo.com/energy/articles/purecore-publishes-uranium-market-report-153500614.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-27T15:35:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "a93053ffbf7ddbec",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "Is the China risk real for On Holding after Mbappé backlash?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/china-risk-real-holding-mbapp-151741883.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T15:17:41+00:00",
-      "logo": "logos/ONON.svg"
     },
     {
       "id": "0d0235331768b0cf",
@@ -255,14 +255,14 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "873617e20aa11529",
+      "id": "af2a713d20fb731d",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
       "title": "Canadian Stock Market Today: TSX Futures Steady As Traders Brace For BoC Hike - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWFIeTJMSm9EWW1UWno5WG9rdXc0VDdVWTRLdUppQTFsUVNvSDNGWFRUSDc2dms3ekwzVEdpYkZiNUMxYnI1U3BnUi1URjRNMFM0TVBCQVNmXzVJTmlyU3NhYmNuTWZXVW10NzJ2MGlVV0dyT1I1empzVlhIck5yVThnbFFBWkxmZmtMeEVJaWtDb2YyTFJ5Sm9hSUY0SEhXSnFfNzBJRXYxcWlYMkJYZ01FenZkUjBZM3VhZGZiZjlCYUdiMldZQmdMbUFBSTDSAc8BQVVfeXFMTS1hSHkyTEpvRFltVFp6OVhva3V3NFQ3VVk0S3VKaUExbFFTb0gzRlhUVEg3NnZrN3pMM1RHaWJGYjVDMWJyNVNwZ1ItVEY0TTBTNE1QQkFTZl81SU5pclNzYWJjbk1mV1VtdDcydjBpVVdHck9SNXpqc1ZYSHJOclU4Z2xRQVpMZmZrTHhFSWlrQ29mMkxSeUpvYUlGNEhIV0pxXzcwSUV2MXFpWDJCWGdNRXp2ZFIwWTN1YWRmYmY5QmFHYjJXWUJnTG1BQUkw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQblo1dzNKQkItV1ZLbm40bVloYWlrSC1lSU9DX3dSeURVV1lRd1BWLVhOSXY4ZjlnaVpaaU81TVAxMHRQdnd5ZTdhTnpHX2EtWk5oUjdZZGtZQm9rSTFaVHU1ZU4zNzNhYnU3R0RwSThld09CRGpQV3JKaV83b2Zock04bU12cVNhYlRlTTBuUWIxbnpZdkwwYk9zTWoxRGc4cjVWbWc5NFhPRHMwN1dBTENXSjh0R2lmNXozNU8xTVhGdlRibHJuQW5R0gHPAUFVX3lxTE0tYUh5MkxKb0RZbVRaejlYb2t1dzRUN1VZNEt1SmlBMWxRU29IM0ZYVFRINzZ2azd6TDNUR2liRmI1QzFicjVTcGdSLVRGNE0wUzRNUEJBU2ZfNUlOaXJTc2FiY25NZldVbXQ3MnYwaVVXR3JPUjV6anNWWEhyTnJVOGdsUUFaTGZma0x4RUlpa0NvZjJMUnlKb2FJRjRISFdKcV83MElFdjFxaVgyQlhnTUV6dmRSMFkzdWFkZmJmOUJhR2IyV1lCZ0xtQUFJMA?oc=5",
       "source": "Simply Wall Street",
-      "published": "2026-10-27T12:14:31+00:00",
+      "published": "2026-10-27T12:14:30+00:00",
       "logo": "logos/BOC.svg"
     },
     {
