@@ -1,17 +1,6 @@
 {
-  "updated": "2026-10-27T21:52:38Z",
+  "updated": "2026-10-28T01:22:14Z",
   "items": [
-    {
-      "id": "5d341a7383809863",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stock Market Today, Oct. 27: Meta Raises Largest-Ever Equity Offering to Nearly $98 Billion to Fund AI Infrastructure Bet",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/27/stock-market-today-oct-27-meta-raises-largest-ever-equity-offering-to-nearly-usd98-billion-to-fund-ai-infrastructure-bet/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T21:36:42+00:00",
-      "logo": "logos/GOOG.svg"
-    },
     {
       "id": "f3b1a6a7d8f6ef10",
       "ticker": "GOOG",
@@ -20,8 +9,74 @@
       "title": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
       "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-27T21:34:18+00:00",
+      "published": "2026-10-28T01:09:29+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ffb9638fd28a0a03",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Anthropic Held More Cash Than Nvidia and Apple Combined Ahead of IPO",
+      "link": "https://beincrypto.com/anthropic-cash-nvidia-apple-combined-ipo/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T00:39:58+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "3c69b520e049abb6",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Earnings from Google and Microsoft and a Fed rate decision: What to Watch",
+      "link": "https://finance.yahoo.com/video/earnings-google-microsoft-fed-rate-000000143.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T00:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "52e02a579d95c81e",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "3 Canadian Growth Stocks To Own In October 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-own-231718702.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T23:17:18+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "abb25e8e6913ad6b",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "TSLA Stock Rises As Cybercabs Overtake Model Ys In Authorized Texas Robotaxi Fleet",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-rises-as-cybercabs-overtake-model-ys-in-authorized-texas-robotaxi-fleet/cZUen2iRBCz?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T22:39:57+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "748940a3724e521c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "'We're Trading Them Like Baseball Cards': Mark Cuban Warns ‘Everything’s a Meme Stock’ as AAPL, GOOGL and MU Fuel Market Bubble Fears",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/were-trading-them-baseball-cards-220034335.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T22:00:34+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "4a8dcac8fafb1401",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Scott Galloway Warns Tesla Is the ‘Patient’ and SpaceX Its ‘Organ Donor’ in Elon Musk’s $3.5 Trillion Merger Plan: 'Real Merger With a Fake Premise'",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-warns-tesla-patient-213018121.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T21:30:18+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "cbf8c0a391c5a8c9",
@@ -46,17 +101,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "0e95e7b6ae45e216",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Artificial Intelligence (AI) in Pharmacovigilance Global Market Report 2026 | Capitalize on 19.6% CAGR to 2030 as Oracle, Microsoft, Google and IQVIA Accelerate Automation",
-      "link": "https://finance.yahoo.com/healthcare/articles/artificial-intelligence-ai-pharmacovigilance-global-211000913.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T21:10:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "39b436d58b52e05d",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -68,15 +112,26 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "87cbeeab19a7a997",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Global Green Information Technology (IT) for Insurers Market Report 2026 | Capitalize on 13.6% CAGR as Microsoft, AWS, Google, and Dell Scale Green Cloud Adoption",
-      "link": "https://finance.yahoo.com/technology/articles/global-green-information-technology-insurers-210200646.html?.tsrc=rss",
+      "id": "c0fddd36ff31983d",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "On Holding (ONON) Stock Dips While Market Gains: Key Facts",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-stock-dips-while-205001850.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-27T21:02:00+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-10-27T20:50:01+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "87faf017e0e5adfd",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings Ltd. (NU) Stock Dips While Market Gains: Key Facts",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-nu-stock-204503207.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-27T20:45:03+00:00",
+      "logo": "logos/NU.svg"
     },
     {
       "id": "e9510c57e26ecb71",
@@ -110,28 +165,6 @@
       "source": "News",
       "published": "2026-10-27T20:30:00+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "dc715fc2f1748d79",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tech stocks post best 3-day rally in 5 weeks",
-      "link": "https://finance.yahoo.com/video/tech-stocks-post-best-3-day-rally-in-5-weeks-202221064.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T20:22:21+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "352ecf96be029398",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tech firms gain ahead of Fed decision, results from AI giants",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-firms-track-wall-st-024224619.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T20:20:24+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "21bc6fa70c43a47a",
@@ -178,26 +211,15 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "ccf7fc26d13af14a",
+      "id": "6595bcb84d0e7f56",
       "ticker": "CCJ",
       "symbol": "CCJ",
       "company": "Cameco",
       "title": "Purecore Publishes Uranium Market Report Tracking AI-Driven Nuclear Demand",
-      "link": "https://finance.yahoo.com/energy/articles/purecore-publishes-uranium-market-report-153500614.html?.tsrc=rss",
+      "link": "https://finance.yahoo.com/energy/articles/purecore-publishes-uranium-market-report-153500201.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-27T15:35:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "f00c07e8556da76f",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings vs. Dave: Which Fintech Stock Is the Better Buy Right Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-vs-dave-fintech-152300126.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T15:23:00+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "a93053ffbf7ddbec",
@@ -222,14 +244,14 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "af2a713d20fb731d",
+      "id": "873617e20aa11529",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
       "title": "Canadian Stock Market Today: TSX Futures Steady As Traders Brace For BoC Hike - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQblo1dzNKQkItV1ZLbm40bVloYWlrSC1lSU9DX3dSeURVV1lRd1BWLVhOSXY4ZjlnaVpaaU81TVAxMHRQdnd5ZTdhTnpHX2EtWk5oUjdZZGtZQm9rSTFaVHU1ZU4zNzNhYnU3R0RwSThld09CRGpQV3JKaV83b2Zock04bU12cVNhYlRlTTBuUWIxbnpZdkwwYk9zTWoxRGc4cjVWbWc5NFhPRHMwN1dBTENXSjh0R2lmNXozNU8xTVhGdlRibHJuQW5R0gHPAUFVX3lxTE0tYUh5MkxKb0RZbVRaejlYb2t1dzRUN1VZNEt1SmlBMWxRU29IM0ZYVFRINzZ2azd6TDNUR2liRmI1QzFicjVTcGdSLVRGNE0wUzRNUEJBU2ZfNUlOaXJTc2FiY25NZldVbXQ3MnYwaVVXR3JPUjV6anNWWEhyTnJVOGdsUUFaTGZma0x4RUlpa0NvZjJMUnlKb2FJRjRISFdKcV83MElFdjFxaVgyQlhnTUV6dmRSMFkzdWFkZmJmOUJhR2IyV1lCZ0xtQUFJMA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWFIeTJMSm9EWW1UWno5WG9rdXc0VDdVWTRLdUppQTFsUVNvSDNGWFRUSDc2dms3ekwzVEdpYkZiNUMxYnI1U3BnUi1URjRNMFM0TVBCQVNmXzVJTmlyU3NhYmNuTWZXVW10NzJ2MGlVV0dyT1I1empzVlhIck5yVThnbFFBWkxmZmtMeEVJaWtDb2YyTFJ5Sm9hSUY0SEhXSnFfNzBJRXYxcWlYMkJYZ01FenZkUjBZM3VhZGZiZjlCYUdiMldZQmdMbUFBSTDSAc8BQVVfeXFMTS1hSHkyTEpvRFltVFp6OVhva3V3NFQ3VVk0S3VKaUExbFFTb0gzRlhUVEg3NnZrN3pMM1RHaWJGYjVDMWJyNVNwZ1ItVEY0TTBTNE1QQkFTZl81SU5pclNzYWJjbk1mV1VtdDcydjBpVVdHck9SNXpqc1ZYSHJOclU4Z2xRQVpMZmZrTHhFSWlrQ29mMkxSeUpvYUlGNEhIV0pxXzcwSUV2MXFpWDJCWGdNRXp2ZFIwWTN1YWRmYmY5QmFHYjJXWUJnTG1BQUkw?oc=5",
       "source": "Simply Wall Street",
-      "published": "2026-10-27T12:14:30+00:00",
+      "published": "2026-10-27T12:14:31+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -288,17 +310,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "cd564c88159068f9",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Can Cameco’s 89x Premium Valuation Survive Another Big Miss on Oct. 30?",
-      "link": "https://247wallst.com/investing/2026/10/26/can-camecos-89x-premium-valuation-survive-another-big-miss-on-oct-30/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-26T12:53:19+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "05fc5eb6cf4d3592",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -308,17 +319,6 @@
       "source": "Stock Titan",
       "published": "2026-10-23T20:55:00+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "8913278b42a87c3b",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "What's Wrong With On Holding Stock?",
-      "link": "https://www.fool.com/investing/2026/10/23/whats-wrong-with-on-holding-stock/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-23T11:35:00+00:00",
-      "logo": "logos/ONON.svg"
     },
     {
       "id": "fe87a991290e7083",
@@ -332,25 +332,25 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "f0a53a12472e28d6",
+      "id": "8a5da30ec073805f",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "Responsive Playbooks and the EML Inflection - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQ0QTl2bHVibXhPSDVodmNjYUpCdnRmVmZyRW5PbU1USHdCaUNPdF81emNmOF8zMWExQ1JVcWNwSFRwcFpJMjZLUnh2VEtZcE5fbHJObmRHcC05VEFyNmhOOGY0bURtbEV3NUp5dGgxNHhvVXlsUW1WTlQtR0NGUV9uRUVsNWJtU2gzVEt0cF9hOWloQjMzNTFBQ3o1dTFnaWswYjdaNVBXWDZqNjJiZ0VmWkgwY25HYjVvMEZ3UFE?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-10-21T23:20:01+00:00",
+      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
+      "source": "Morningstar",
+      "published": "2026-09-21T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
-      "id": "7f427c1bc365d9e6",
+      "id": "f8a705231d0ef310",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
+      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
       "source": "Simply Wall Street",
-      "published": "2026-10-20T21:27:45+00:00",
+      "published": "2026-09-04T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
