@@ -1,15 +1,59 @@
 {
-  "updated": "2026-10-28T07:21:24Z",
+  "updated": "2026-10-28T10:05:49Z",
   "items": [
     {
-      "id": "a0d0c00086daea41",
+      "id": "42712e1eef92b379",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "KPN nominates Mayte Oosterveld and Natasja Laheij to Supervisory Board",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kpn-nominates-mayte-oosterveld-natasja-070000193.html?.tsrc=rss",
+      "title": "Google, Microsoft, and Amazon have to justify the AI spending boom this week",
+      "link": "https://finance.yahoo.com/technology/article/google-microsoft-and-amazon-have-to-justify-the-ai-spending-boom-this-week-100000898.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-28T07:00:00+00:00",
+      "published": "2026-10-28T10:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d83e9c33b82109f3",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "GM is pitching itself more as a tech company like Tesla",
+      "link": "https://finance.yahoo.com/technology/article/gm-is-pitching-itself-more-as-a-tech-company-like-tesla-100000323.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T10:00:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "764bf2e1326997e0",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google and Apple Fined in Korea Over Prohibited App Market Practices",
+      "link": "https://finance.yahoo.com/technology/articles/google-apple-fined-korea-over-095328221.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T09:53:28+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "7e2ea5a970bb058d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck",
+      "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T09:52:44+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "5b9785f2ec709bdb",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "South Korea fines Google and Apple over unfair app market practices",
+      "link": "https://finance.yahoo.com/technology/articles/south-korea-fines-google-apple-095158608.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T09:51:58+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -46,17 +90,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "65a8c12516b2cd96",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62643298/stock-market-will-sp-500-open-up-or-down-today-67?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T05:36:20+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "587a468768da42d4",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -66,28 +99,6 @@
       "source": "News",
       "published": "2026-10-28T05:35:20+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "96f8e12a651b16dd",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Tech stocks soar as SK hynix adds to rising AI confidence",
-      "link": "https://www.euronews.com/2026/10/28/tech-stocks-soar-as-sk-hynix-adds-to-rising-ai-confidence?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T05:32:04+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "27b4c5c4a5a65cc3",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jio-shares-surge-21-market-052032079.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T05:20:32+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "2b69dcc321ebe703",
@@ -109,17 +120,6 @@
       "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-october-mag-7-king-2-motorcycle-stocks-race-past-tesla-chinese-ev-stocks-red/cZU9G6nRB6e?.tsrc=rss",
       "source": "News",
       "published": "2026-10-28T03:08:37+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "27acb91306f847c7",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "‘Where Are The Cybercabs?’ Tesla Investor Ross Gerber Takes Aim at Elon Musk as Amazon’s Zoox Eyes Expansion With Santa Monica Deal for 150 Robotaxis",
-      "link": "https://finance.yahoo.com/technology/articles/where-cybercabs-tesla-investor-ross-023011208.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T02:30:11+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -233,12 +233,12 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "ccf7fc26d13af14a",
+      "id": "6595bcb84d0e7f56",
       "ticker": "CCJ",
       "symbol": "CCJ",
       "company": "Cameco",
       "title": "Purecore Publishes Uranium Market Report Tracking AI-Driven Nuclear Demand",
-      "link": "https://finance.yahoo.com/energy/articles/purecore-publishes-uranium-market-report-153500614.html?.tsrc=rss",
+      "link": "https://finance.yahoo.com/energy/articles/purecore-publishes-uranium-market-report-153500201.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-27T15:35:00+00:00",
       "logo": "logos/CCJ.svg"
@@ -332,25 +332,25 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "8a5da30ec073805f",
+      "id": "f0a53a12472e28d6",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
-      "source": "Morningstar",
-      "published": "2026-09-21T07:00:00+00:00",
+      "title": "Responsive Playbooks and the EML Inflection - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQ0QTl2bHVibXhPSDVodmNjYUpCdnRmVmZyRW5PbU1USHdCaUNPdF81emNmOF8zMWExQ1JVcWNwSFRwcFpJMjZLUnh2VEtZcE5fbHJObmRHcC05VEFyNmhOOGY0bURtbEV3NUp5dGgxNHhvVXlsUW1WTlQtR0NGUV9uRUVsNWJtU2gzVEt0cF9hOWloQjMzNTFBQ3o1dTFnaWswYjdaNVBXWDZqNjJiZ0VmWkgwY25HYjVvMEZ3UFE?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-10-21T23:20:01+00:00",
       "logo": "logos/EML.svg"
     },
     {
-      "id": "f8a705231d0ef310",
+      "id": "7f427c1bc365d9e6",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
+      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
       "source": "Simply Wall Street",
-      "published": "2026-09-04T07:00:00+00:00",
+      "published": "2026-10-20T21:27:45+00:00",
       "logo": "logos/EML.svg"
     },
     {
