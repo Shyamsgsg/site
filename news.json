@@ -1,16 +1,137 @@
 {
-  "updated": "2026-10-28T16:08:25Z",
+  "updated": "2026-10-28T19:11:01Z",
   "items": [
     {
-      "id": "cb4c00109e953496",
+      "id": "1704c81cabee31f8",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Top Midday Stories: GE Vernova to Acquire Trench Group for $9 Billion; Wendy's Receives $1.4 Billion Takeover Offer From Trian-Led Group",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-ge-vernova-154712319.html?.tsrc=rss",
+      "title": "Alphabet Is Only Up 3% This Year: Will Today’s Earnings Report Make or Break GOOGL Stock?",
+      "link": "https://247wallst.com/investing/2026/10/28/alphabet-is-only-up-3-this-year-will-todays-earnings-report-make-or-break-googl-stock/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-28T15:47:12+00:00",
+      "published": "2026-10-28T18:54:39+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "106c1920e503b381",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Stock Market Today: Nasdaq, Small Caps Down After Fed Keeps Rates Steady (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/8aa305ef-cc61-37d7-bc76-82a4a4324c5b/stock-market-today%3A-nasdaq%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T18:47:57+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "086f3355d6569b60",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk once backed Buffett’s 5-minute fix for national debt: ‘This is the way’",
+      "link": "https://www.thestreet.com/economy/elon-musk-backs-warren-buffett-3-percent-gdp-limit-to-fix-national-debt-deficit?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T18:45:17+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a07dbe3f3d4ec0c4",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Bradesco Sinks 5% on Itau BBA Downgrade as Brazilian Bank Stocks Slide",
+      "link": "https://www.tikr.com/blog/bradesco-sinks-5-on-itau-bba-downgrade-as-brazilian-bank-stocks-slide?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T18:39:24+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "f8529cb2d63601c0",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Cuebiq’s Brennan Lake: Location Data Can Now Steer CTV Bidding In Real Time",
+      "link": "https://www.beet.tv/2026/10/cuebiqs-brennan-lake-location-data-can-now-steer-ctv-bidding-in-real-time.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T18:33:17+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "fe1c183f1f87e1fd",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SK Hynix Says Its Memory is Sold Out Until 2029",
+      "link": "https://app.moby.co/home/news/news-sk-hynix-says-its-memory-is-sold-out-until-2029?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T18:05:13+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "3b775e2453d35255",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "CoreWeave Just Fell 31% in a Month: What Will It Take to Get CRWV Stock Back Above $70?",
+      "link": "https://247wallst.com/investing/2026/10/28/coreweave-just-fell-31-in-a-month-what-will-it-take-to-get-crwv-stock-back-above-70/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T18:03:41+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "5cf4e4ef824b96eb",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX Retreats As Russia's Putin Says This About Elon Musk",
+      "link": "https://finance.yahoo.com/m/33f29059-f908-3ca5-8fbe-4fe10f1ee5dd/spacex-retreats-as-russia%27s.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T17:10:09+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "3a457d7147c8e812",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "CCJ Falls 27.6% in 6 Months as Execution Risks Test the Nuclear Thesis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ccj-falls-27-6-6-165100664.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T16:51:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "e4dbdacde3d9db67",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco's Raised Revenue Outlook Faces a Crucial Execution Test Ahead",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/camecos-raised-revenue-outlook-faces-165000681.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T16:50:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "ea3b8525e1e4d7b8",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Is Cameco Worth Buying as Premium Valuation Meets Execution Risk?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-worth-buying-premium-valuation-164500892.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T16:45:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "24eac0adef8f432c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Gains Another 4% as ARK Restates $4,400 Robotaxi Target and Musk Teases “A Storm of Cybercabs”",
+      "link": "https://www.tikr.com/blog/tesla-gains-another-4-as-ark-restates-4400-robotaxi-target-and-musk-teases-a-storm-of-cybercabs?ref=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T16:33:58+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "e07264a9e5f245e3",
@@ -35,37 +156,15 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "00398823dd70e144",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Apple Is at a Record Going Into Earnings. Wall Street’s Target Is Below It",
-      "link": "https://247wallst.com/investing/2026/10/28/apple-is-at-a-record-going-into-earnings-wall-streets-target-is-below-it/?.tsrc=rss",
+      "id": "78dc8dacd8f4dbe4",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN closes $363 million refinancing of deployed GPUs with Wingspire",
+      "link": "https://blockspace.media/insight/iren-closes-wingspire-gpu-refinancing/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-28T15:33:01+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "3ddf12e6d48c3ae5",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "ChatGPT Latest Stock Portfolio: 5 Stock Picks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-latest-stock-portfolio-5-152756705.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T15:27:56+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "e6c125f02a995845",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stock Market Today: Dow Gains Meekly As Alphabet Rises Ahead Of Earnings (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/8aa305ef-cc61-37d7-bc76-82a4a4324c5b/stock-market-today%3A-dow-gains.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T15:20:20+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-10-28T15:21:32+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "2f962e330e12c8ff",
@@ -79,50 +178,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "27f39314da8c56e0",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Global Battery Passport Market Report 2026 | Capitalize on 34.2% CAGR to 2030 as Tesla, Siemens, SAP and Circulor Scale EU Compliance, AI and Blockchain",
-      "link": "https://finance.yahoo.com/technology/ai/articles/global-battery-passport-market-report-144100592.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T14:41:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "f94cf9222cc36e85",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "HOG or TSLA: Which Is the Better Value Stock Right Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hog-tsla-better-value-stock-144001104.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T14:40:01+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "da5305af53043611",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Global Front-of-the-Meter Battery Market Report 2026 | Capitalize on 22.8% CAGR Through 2030 | Tesla, BYD, CATL and Siemens Dominate",
-      "link": "https://finance.yahoo.com/energy/articles/global-front-meter-battery-market-143900550.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T14:39:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "2f8849c2088738ea",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Cancels Cybertruck in Two Countries: An Omen for the Vehicle's Future?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-cancels-cybertruck-two-countries-143025387.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T14:30:25+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "d03568701133c18c",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -131,17 +186,6 @@
       "link": "https://finance.yahoo.com/m/bd4f990c-7105-3233-afd3-4c5c6b889642/coreweave-is-steadying-after.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-28T14:00:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "f35def54dbbeb59a",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN and Wingspire Equipment Finance Complete $363 Million Financing for High-Density AI Compute Assets",
-      "link": "https://finance.yahoo.com/technology/ai/articles/iren-wingspire-equipment-finance-complete-131700873.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T13:17:00+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -167,17 +211,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "db6d603c899456a8",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco Gains Before Earnings After a 92% Profit Drop: “Normal Quarterly Variability”",
-      "link": "https://www.tikr.com/blog/cameco-gains-before-earnings-after-a-92-profit-drop-normal-quarterly-variability?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T08:07:23+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "5ce87387dca0b51a",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -198,17 +231,6 @@
       "source": "News",
       "published": "2026-10-28T03:10:45+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "52e02a579d95c81e",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "3 Canadian Growth Stocks To Own In October 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-own-231718702.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T23:17:18+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "cbf8c0a391c5a8c9",
@@ -255,26 +277,15 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "21bc6fa70c43a47a",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "American Express vs. Nu: Which Financial Stock Is a Better Buy?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/10/27/american-express-vs-nu-which-financial-stock-is-a-better-buy/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T20:20:02+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "6595bcb84d0e7f56",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Purecore Publishes Uranium Market Report Tracking AI-Driven Nuclear Demand",
-      "link": "https://finance.yahoo.com/energy/articles/purecore-publishes-uranium-market-report-153500201.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T15:35:00+00:00",
-      "logo": "logos/CCJ.svg"
+      "id": "37ddcec356722bd5",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Boston Omaha Corporation (BOC) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HWXNmUGx4MUhGdFhwNk1lUlRXOXNqdDB4aE02MHdIWm1UbF8tdGZEVndHQ3N0V19KWFdtYXYxZmt2Nkh2aUdYWE9LTzhvazlQ?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-27T17:04:28+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "0d0235331768b0cf",
@@ -288,25 +299,14 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "af2a713d20fb731d",
+      "id": "873617e20aa11529",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
       "title": "Canadian Stock Market Today: TSX Futures Steady As Traders Brace For BoC Hike - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQblo1dzNKQkItV1ZLbm40bVloYWlrSC1lSU9DX3dSeURVV1lRd1BWLVhOSXY4ZjlnaVpaaU81TVAxMHRQdnd5ZTdhTnpHX2EtWk5oUjdZZGtZQm9rSTFaVHU1ZU4zNzNhYnU3R0RwSThld09CRGpQV3JKaV83b2Zock04bU12cVNhYlRlTTBuUWIxbnpZdkwwYk9zTWoxRGc4cjVWbWc5NFhPRHMwN1dBTENXSjh0R2lmNXozNU8xTVhGdlRibHJuQW5R0gHPAUFVX3lxTE0tYUh5MkxKb0RZbVRaejlYb2t1dzRUN1VZNEt1SmlBMWxRU29IM0ZYVFRINzZ2azd6TDNUR2liRmI1QzFicjVTcGdSLVRGNE0wUzRNUEJBU2ZfNUlOaXJTc2FiY25NZldVbXQ3MnYwaVVXR3JPUjV6anNWWEhyTnJVOGdsUUFaTGZma0x4RUlpa0NvZjJMUnlKb2FJRjRISFdKcV83MElFdjFxaVgyQlhnTUV6dmRSMFkzdWFkZmJmOUJhR2IyV1lCZ0xtQUFJMA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWFIeTJMSm9EWW1UWno5WG9rdXc0VDdVWTRLdUppQTFsUVNvSDNGWFRUSDc2dms3ekwzVEdpYkZiNUMxYnI1U3BnUi1URjRNMFM0TVBCQVNmXzVJTmlyU3NhYmNuTWZXVW10NzJ2MGlVV0dyT1I1empzVlhIck5yVThnbFFBWkxmZmtMeEVJaWtDb2YyTFJ5Sm9hSUY0SEhXSnFfNzBJRXYxcWlYMkJYZ01FenZkUjBZM3VhZGZiZjlCYUdiMldZQmdMbUFBSTDSAc8BQVVfeXFMTS1hSHkyTEpvRFltVFp6OVhva3V3NFQ3VVk0S3VKaUExbFFTb0gzRlhUVEg3NnZrN3pMM1RHaWJGYjVDMWJyNVNwZ1ItVEY0TTBTNE1QQkFTZl81SU5pclNzYWJjbk1mV1VtdDcydjBpVVdHck9SNXpqc1ZYSHJOclU4Z2xRQVpMZmZrTHhFSWlrQ29mMkxSeUpvYUlGNEhIV0pxXzcwSUV2MXFpWDJCWGdNRXp2ZFIwWTN1YWRmYmY5QmFHYjJXWUJnTG1BQUkw?oc=5",
       "source": "Simply Wall Street",
-      "published": "2026-10-27T12:14:30+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "50dc048943ae473a",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Steady On Oil Support And BoC Rate Focus - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRFVrazRtYURibzJ0elh3WnkzSGw0Tks0bWVBRWs0dHQtc0Rua3pHaVR1MU9aVUFoUXFxY0twdk5tYlY2VFZJaF80cXdGNmJLRUkwRWlLb2tJbm55bEVWSjNKRURJV1daLUpjTDdvY0JzajcwTlRnaTQwNjl3d2NsMk85ZVhrQUpGTXlkdm5TQk1iZ1lReEZCTGNYN0c?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-27T12:08:14+00:00",
+      "published": "2026-10-27T12:14:31+00:00",
       "logo": "logos/BOC.svg"
     },
     {
