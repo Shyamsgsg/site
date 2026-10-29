@@ -1,49 +1,104 @@
 {
-  "updated": "2026-10-28T21:57:18Z",
+  "updated": "2026-10-29T01:20:18Z",
   "items": [
     {
-      "id": "bc10ea4c8fc132d3",
+      "id": "2105760b7f8abf30",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow And Fortinet Dive On Earnings",
+      "title": "Dow Jones Futures: Microsoft Rises, But Google, ServiceNow, Fortinet Dive On Earnings",
       "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-28T21:40:35+00:00",
+      "published": "2026-10-29T01:16:18+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "8232d71376569de3",
+      "id": "c0eb1ae899b2633d",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Alphabet CFO walks through the company's Q3 results",
-      "link": "https://finance.yahoo.com/video/alphabet-cfo-walks-through-the-companys-q3-results-213801069.html?.tsrc=rss",
+      "title": "U.S. stock futures drop as Alphabet slides on soft earnings, Microsoft firms",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-drop-alphabet-010136494.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-28T21:38:01+00:00",
+      "published": "2026-10-29T01:01:36+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "31a3e431590037d0",
+      "id": "8e82d8e28b056421",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Shares in Google owner Alphabet plummet on profit miss, ad slowdown",
-      "link": "https://finance.yahoo.com/technology/ai/articles/shares-google-owner-alphabet-sink-204437200.html?.tsrc=rss",
+      "title": "OpenAI Reportedly Plans to Buy Google's AI Chips. Should You Sell Nvidia Stock?",
+      "link": "https://www.fool.com/investing/2026/10/28/openai-reportedly-plans-to-buy-google-s-ai-chips-should-you-sell-nvidia-stock/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-28T21:37:18+00:00",
+      "published": "2026-10-29T00:57:01+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "43593ab27f18a6bb",
+      "id": "b9e810b2b3d00900",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Google Earnings Miss As Cloud Computing Booms, Search Growth Slows",
-      "link": "https://finance.yahoo.com/m/2ceb516e-5124-34fb-8d66-afe8db47a14a/google-earnings-miss-as-cloud.html?.tsrc=rss",
+      "title": "Google Pitches Banks on Splitting Crypto Keys Across Clouds With New Custody Service",
+      "link": "https://unchainedcrypto.com/google-pitches-banks-on-splitting-crypto-keys-across-clouds-with-new-custody-service/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-28T21:32:50+00:00",
+      "published": "2026-10-29T00:35:00+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ca948569190586f2",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco And 2 Other Canadian Growth Stocks To Watch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-2-other-canadian-growth-001433229.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T00:14:33+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "28e1a613fe92020d",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "33 Wall Street Giants Block Tokenized Stocks, But Apple and Tesla Stay Silent",
+      "link": "https://beincrypto.com/wall-street-giants-block-tokenized-stock/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T00:08:14+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "1036d980270b8357",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN’s $363M GPU Raise, Morgan Stanley’s Bullish TeraWulf Price Target, and SK Hynix’s Earnings",
+      "link": "https://blockspace.media/podcast/irens-363m-gpu-raise-morgan-stanleys-bullish-terawulf-price-target-and-sk-hynixs-earnings/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T22:19:30+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "c1d534ec08a2f4a4",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "3 Reasons investors love Nubank (NU)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-investors-love-nubank-220634124.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T22:06:34+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "5c66785a43efc388",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Just Borrowed $363M Against Its Nvidia GPUs. Here’s Why",
+      "link": "https://blockspace.media/short/iren-just-borrowed-363m-against-its-nvidia-gpus-heres-why/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-28T20:31:07+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "5cf4e4ef824b96eb",
@@ -101,17 +156,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "086f3355d6569b60",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk once backed Buffett’s 5-minute fix for national debt: ‘This is the way’",
-      "link": "https://www.thestreet.com/economy/elon-musk-backs-warren-buffett-3-percent-gdp-limit-to-fix-national-debt-deficit?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T18:45:17+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "a07dbe3f3d4ec0c4",
       "ticker": "NU",
       "symbol": "NU",
@@ -153,39 +197,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-worth-buying-premium-valuation-164500892.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-28T16:45:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "e07264a9e5f245e3",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Stock Climbs After It Borrows Against Its GPU Fleet To Fund AI Expansion",
-      "link": "https://stocktwits.com/news-articles/markets/equity/iren-stock-climbs-after-it-borrows-against-its-gpu-fleet-to-fund-ai-expansion/cZU9kcSR9GO?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T15:41:47+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "78dc8dacd8f4dbe4",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN closes $363 million refinancing of deployed GPUs with Wingspire",
-      "link": "https://blockspace.media/insight/iren-closes-wingspire-gpu-refinancing/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T15:21:32+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "2f962e330e12c8ff",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Energy Fuels Set to Report Q3 Earnings: Buy, Sell or Hold the Stock?",
-      "link": "https://finance.yahoo.com/energy/articles/energy-fuels-set-report-q3-145400927.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T14:54:00+00:00",
       "logo": "logos/CCJ.svg"
     },
     {
@@ -266,17 +277,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "87faf017e0e5adfd",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings Ltd. (NU) Stock Dips While Market Gains: Key Facts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-nu-stock-204503207.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T20:45:03+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "beae387b8d2c7033",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -321,36 +321,36 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "f0a53a12472e28d6",
+      "id": "8a5da30ec073805f",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "Responsive Playbooks and the EML Inflection - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQ0QTl2bHVibXhPSDVodmNjYUpCdnRmVmZyRW5PbU1USHdCaUNPdF81emNmOF8zMWExQ1JVcWNwSFRwcFpJMjZLUnh2VEtZcE5fbHJObmRHcC05VEFyNmhOOGY0bURtbEV3NUp5dGgxNHhvVXlsUW1WTlQtR0NGUV9uRUVsNWJtU2gzVEt0cF9hOWloQjMzNTFBQ3o1dTFnaWswYjdaNVBXWDZqNjJiZ0VmWkgwY25HYjVvMEZ3UFE?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-10-21T23:20:01+00:00",
+      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
+      "source": "Morningstar",
+      "published": "2026-09-21T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
-      "id": "7f427c1bc365d9e6",
+      "id": "f8a705231d0ef310",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
+      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
       "source": "Simply Wall Street",
-      "published": "2026-10-20T21:27:45+00:00",
+      "published": "2026-09-04T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
-      "id": "a538d1290699bf23",
+      "id": "51375114ce2bd04f",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "Eastern Company (EML) Slips 2.92% to $24.31 as Shares Test Lower Support Zone - Bullish Percent Index - dars.gov.et",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUkRNN2xlVHFLMmpZNnlQZzBMYzZOMUN5ZGJCWmt3dzlEbktXcEZzNnpibG8yOVRhSFNhZV9tQVlBOU1UNHBMV1NJczdZS1ZfQ3gxcnlnZHQ3bk9ZcGs4dkMtWjZWczBGWmVTaGZOV2E0RGwxakZ0cGFjMlFCSFhTc1Zzay12clNPSHVQRXFlT2V5Wll3cG5DVDNDeDdxWFNoRE9UZlF0NVd6SE1Pa0pyUjMxUQ?oc=5",
-      "source": "dars.gov.et",
-      "published": "2026-10-17T20:45:03+00:00",
+      "title": "EML Payments Earnings: Fair Value Cut to Reflect Cash Cost of Retaining Staff - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOTNvUHUtejExaHpLTUJleGlnaG5IMUk4bFM1dkEyVzN2VlBpaGRiUF8zckVSZDgyM2ZXS2hXVnJLZW1hcFJGemFMMGhJdWo5ODctVnowbEdvbHRsVG5JaXV1aUQyRlBNeFNBVDNMc244MGdkU0dhQWxNYm9Ealk3cFRFb0xMSUIybjJxaVFrb3VSbURUZ0p0RUVLaHBzRzJ2LXJTdUdVMmlFaER6T3kzUjZGY0hIWUYzaUxUM0NGZWpfRlZYdEdj?oc=5",
+      "source": "Morningstar",
+      "published": "2026-08-19T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
