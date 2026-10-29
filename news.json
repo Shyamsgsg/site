@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-29T01:20:18Z",
+  "updated": "2026-10-29T04:05:09Z",
   "items": [
+    {
+      "id": "fe5be0537b1282e6",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CRWV, NBIS, IREN, APLD Stocks Drop After Microsoft Capex Falls Short On Delayed Third-Party Capacity",
+      "link": "https://stocktwits.com/news-articles/markets/equity/crwv-nbis-iren-apld-stocks-drop-after-microsoft-capex-falls-short-on-delayed-third-party-capacity/cZUQeHWR9bT?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T03:35:48+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "6c01554d1480faba",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "MITTI LABS & SALESFORCE PARTNER TO SCALE WATER-SAVING RICE FARMING PRACTICES THAT REDUCE METHANE EMISSIONS",
+      "link": "https://finance.yahoo.com/energy/articles/mitti-labs-salesforce-partner-scale-033000347.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T03:30:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "2105760b7f8abf30",
       "ticker": "GOOG",
@@ -9,41 +31,63 @@
       "title": "Dow Jones Futures: Microsoft Rises, But Google, ServiceNow, Fortinet Dive On Earnings",
       "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-29T01:16:18+00:00",
+      "published": "2026-10-29T03:06:19+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "c0eb1ae899b2633d",
+      "id": "11d5ecef3c190f25",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "U.S. stock futures drop as Alphabet slides on soft earnings, Microsoft firms",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-drop-alphabet-010136494.html?.tsrc=rss",
+      "title": "Dow, S&P 500, Nasdaq Futures Mixed After Fed Holds Rates Steady: GOOG, GOOGL, IOVA, MSFT, NOW In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-mixed-after-fed-holds-rates-steady-goog-googl-iova-msft-now-in-focus/cZUQ4vlR9Gz?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-29T01:01:36+00:00",
+      "published": "2026-10-29T02:59:32+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "8e82d8e28b056421",
+      "id": "98c8fd26b282e7c6",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "OpenAI Reportedly Plans to Buy Google's AI Chips. Should You Sell Nvidia Stock?",
-      "link": "https://www.fool.com/investing/2026/10/28/openai-reportedly-plans-to-buy-google-s-ai-chips-should-you-sell-nvidia-stock/?.tsrc=rss",
+      "title": "Stealth Bear Market Hits Crypto Stocks as Coinbase, Circle, Robinhood Fall 40-56%",
+      "link": "https://beincrypto.com/stealth-bear-market-crypto-stocks-coinbase/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-29T00:57:01+00:00",
+      "published": "2026-10-29T02:54:21+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "b9e810b2b3d00900",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google Pitches Banks on Splitting Crypto Keys Across Clouds With New Custody Service",
-      "link": "https://unchainedcrypto.com/google-pitches-banks-on-splitting-crypto-keys-across-clouds-with-new-custody-service/?.tsrc=rss",
+      "id": "28de56a2249725ed",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "Monster Beverage vs. On Holding: Which Is the Better Growth Stock?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/28/monster-beverage-vs-on-holding-which-is-the-better-growth-stock/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-29T00:35:00+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-10-29T02:05:02+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "ed66352bf62ceddc",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN (IREN) Secures $363 Million Against GPUs And AI Contracts",
+      "link": "https://finance.yahoo.com/technology/ai/articles/iren-iren-secures-363-million-011520078.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T01:15:20+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "a9fdd6b5d70d9d74",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk vs. Tesla? His Midterm Money Could Work Against His Own Cars",
+      "link": "https://finance.yahoo.com/economy/policy/articles/elon-musk-vs-tesla-midterm-010409773.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T01:04:09+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "ca948569190586f2",
@@ -112,28 +156,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "4880622e8df3acea",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Neocloud Stocks Like CoreWeave Rebound Despite Elon Musk Predicting 'Guppy-Level Death'",
-      "link": "https://finance.yahoo.com/m/6151cb22-1b1a-391b-a195-a7411fe60f0d/neocloud-stocks-like.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T20:17:50+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "e84ee3a53b1e9e7a",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Elon Musk Says Neoclouds Face a \"Guppy Level\" Death. IREN Is Down 64% From Its High. Is He Talking About This Stock?",
-      "link": "https://www.fool.com/investing/2026/10/28/elon-musk-says-neoclouds-face-a-guppy-level-death/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T20:15:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "5f6c0b20ae76eb6c",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -142,17 +164,6 @@
       "link": "https://www.fool.com/investing/2026/10/28/2-ai-stocks-to-buy-if-the-market-sells-off-before/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-28T19:57:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "5a9222154528578a",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Top Stock Reports for Tesla, Netflix & American Express",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-tesla-netflix-190800305.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T19:08:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -277,28 +288,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "beae387b8d2c7033",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "On to Release Third Quarter 2026 Results on Tuesday, November 10, 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/release-third-quarter-2026-results-203000625.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-27T20:30:00+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "37ddcec356722bd5",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Boston Omaha Corporation (BOC) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HWXNmUGx4MUhGdFhwNk1lUlRXOXNqdDB4aE02MHdIWm1UbF8tdGZEVndHQ3N0V19KWFdtYXYxZmt2Nkh2aUdYWE9LTzhvazlQ?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-10-27T17:04:28+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "af2a713d20fb731d",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -310,6 +299,17 @@
       "logo": "logos/BOC.svg"
     },
     {
+      "id": "50dc048943ae473a",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Canadian Stock Market Today: TSX Futures Steady On Oil Support And BoC Rate Focus - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRFVrazRtYURibzJ0elh3WnkzSGw0Tks0bWVBRWs0dHQtc0Rua3pHaVR1MU9aVUFoUXFxY0twdk5tYlY2VFZJaF80cXdGNmJLRUkwRWlLb2tJbm55bEVWSjNKRURJV1daLUpjTDdvY0JzajcwTlRnaTQwNjl3d2NsMk85ZVhrQUpGTXlkdm5TQk1iZ1lReEZCTGNYN0c?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-27T12:08:14+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "fe87a991290e7083",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -318,6 +318,17 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
       "source": "London Stock Exchange",
       "published": "2026-10-22T20:53:32+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "72faeb474c2ced1b",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Eastern Company (EML) Slips 2.92% to $24.31 as Shares Test Lower Support Zone - High Yield Stocks - https://www.siam.in/",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDVTSTE5UzFxSjBPTWpVWlFzODRsVFltLU5tX3RoSnNlbVdLVWEyS0FGamxhWW5Bd0lmTnJoNnI2bXJhWnlwazRLdnNRX2x3UzF3dE1wNldsaHVTci1KbnZRSU52Y0VLemJfTGF4NTBiY3BHTmRlLW9wRmdpcG85SWlPOU1mdHA0UTB5NndSLW5oVHF0ajJkZzJLejc3cGRWZW1hM3hOdnExUnRFRnVnTHZTZXg?oc=5",
+      "source": "https://www.siam.in/",
+      "published": "2026-10-17T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
       "source": "Simply Wall Street",
       "published": "2026-09-04T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "51375114ce2bd04f",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments Earnings: Fair Value Cut to Reflect Cash Cost of Retaining Staff - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOTNvUHUtejExaHpLTUJleGlnaG5IMUk4bFM1dkEyVzN2VlBpaGRiUF8zckVSZDgyM2ZXS2hXVnJLZW1hcFJGemFMMGhJdWo5ODctVnowbEdvbHRsVG5JaXV1aUQyRlBNeFNBVDNMc244MGdkU0dhQWxNYm9Ealk3cFRFb0xMSUIybjJxaVFrb3VSbURUZ0p0RUVLaHBzRzJ2LXJTdUdVMmlFaER6T3kzUjZGY0hIWUYzaUxUM0NGZWpfRlZYdEdj?oc=5",
-      "source": "Morningstar",
-      "published": "2026-08-19T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
