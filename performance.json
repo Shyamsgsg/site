@@ -257,10 +257,10 @@
   },
   {
    "date": "2026-10-29",
-   "index": 92.133765,
+   "index": 92.135853,
    "spx": 7720.39,
-   "audusd": 0.7033,
-   "usdsgd": 1.2798,
+   "audusd": 0.7034,
+   "usdsgd": 1.2794,
    "prices": {
     "NU": 12.05,
     "BOC.AX": 0.15,
@@ -274,6 +274,6 @@
    }
   }
  ],
- "updated": "2026-10-29T20:35:10+00:00",
+ "updated": "2026-10-29T21:32:11+00:00",
  "method": "Time-weighted, chain-linked daily index (base 100 at inception close). USD, equities only."
 }
