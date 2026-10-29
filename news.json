@@ -1,60 +1,148 @@
 {
-  "updated": "2026-10-29T10:08:08Z",
+  "updated": "2026-10-29T13:21:06Z",
   "items": [
     {
-      "id": "d2b2b7464996e1eb",
+      "id": "a600f9abda294f65",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Alphabet and Microsoft are on both sides of the AI boom's biggest bills: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/alphabet-and-microsoft-are-on-both-sides-of-the-ai-booms-biggest-bills-chart-of-the-day-100000027.html?.tsrc=rss",
+      "title": "How SpaceX Hurt Alphabet’s Third-Quarter Earnings",
+      "link": "https://finance.yahoo.com/m/eb0b6d60-bc93-3c2f-9186-d1300c87e9d7/how-spacex-hurt-alphabet%E2%80%99s.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-29T10:00:00+00:00",
+      "published": "2026-10-29T13:17:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "beb64c5ba88e4b41",
+      "id": "a9820e9b3941a60c",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Zuckerberg’s Instagram Takes Aim At YouTube With New 90-Minute Video Test. It Could Be A Tough Sell For Creators",
-      "link": "https://247wallst.com/investing/2026/10/29/zuckerbergs-instagram-takes-aim-at-youtube-with-new-90-minute-video-test-it-could-be-a-tough-sell-for-creators/?.tsrc=rss",
+      "title": "Tesla Stock Gets Dragged Down by Alphabet’s Misery",
+      "link": "https://finance.yahoo.com/m/538805bb-efe9-3dce-af1e-783f67bd3993/tesla-stock-gets-dragged-down.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-29T09:47:50+00:00",
+      "published": "2026-10-29T13:12:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "4c395b9bba6371bd",
+      "id": "55b6b85e0756d441",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Google and Samsung Spook the Market as Tech Sells Off",
-      "link": "https://finance.yahoo.com/m/859e98ba-d6dc-3fff-b070-13657d369c4c/google-and-samsung-spook-the.html?.tsrc=rss",
+      "title": "Marvell Sinks 13%, Lumentum Jumps 6% on Reported Acquisition Talks; Coherent Holds Flat, Applied Optoelectronics Drops 3%",
+      "link": "https://247wallst.com/investing/2026/10/29/marvell-sinks-13-lumentum-jumps-6-on-reported-acquisition-talks-coherent-holds-flat-applied-optoelectronics-drops-3/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-29T09:38:28+00:00",
+      "published": "2026-10-29T13:11:35+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "fbf8fc1fa68ea588",
+      "id": "10aa7e9a2a0460bf",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Alphabet, Microsoft earnings in focus; Warsh on AI, rates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-microsoft-earnings-focus-warsh-092810907.html?.tsrc=rss",
-      "source": "what’s moving markets",
-      "published": "2026-10-29T09:28:10+00:00",
+      "title": "Alphabet Sinks 11% as AI Spending Pushes Cash Flow Negative Again; Microsoft and Meta Edge Higher, Amazon Slips",
+      "link": "https://247wallst.com/investing/2026/10/29/alphabet-sinks-11-as-ai-spending-pushes-cash-flow-negative-again-microsoft-and-meta-edge-higher-amazon-slips/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T13:07:37+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "6d5784fe0381811f",
+      "id": "fb9b92865da771d7",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Canadian Stock Market Today: TSX Futures Edge Higher On BoC Hike And GDP Test - Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMVVVYUNrbG92RjQ1MUN5ajRBYXhJMnd2eVdFaDhRUVlrVnVJR00tY0dJQkhQeUpuaGFvby1pUmswSFg0ekd0bWZzMlFCdjlUdHVvMjhIdHJyc0YxSS15bDU3b3YyQXd1dmFhdEhqUV90YnAycGNWTXpBLS1XSXp6XzV0LTRMM1RDd3dzbkY3VFNOV0x2VzhxYm5ZZlpvM3otQWd5RG9VbC1qckoxZDM3dHRvS3RpMGVrZG50cXFXUTVMc3RicnfSAcsBQVVfeXFMTWZXNjhlRGJJS1cwa01Bdmw0UFZBdnN6NUp5SndfcUxhY2VGTFlCS1ZYNTA1OUVKMXhnWXBmeGRLWmxZenlVdVU4elFKdklvS1hpVU5ZU0NDbU5WWUZlMFJGTWxJb1JpTlNhWGVjZTB1N1BtcDlpZUV3U0NfTjZJcTNpaGVyeFZCSmNJUk1Eby0xeThBRERZaV9zdi1zNF9TOTVxNHNTeE05RkphNi1ieEVnRHNIOFM3Y0hTUkdTejZGOGtJbDBtWm03TGM?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-10-29T12:56:01+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "4c0aedb6c28de52c",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Opinion: While the Odds of a SpaceX-Tesla Merger Are Climbing, Combining 2 Wrongs Won't Make a Right on Wall Street",
-      "link": "https://www.fool.com/investing/2026/10/29/opinion-odds-of-spacex-tesla-merger-climbing-combining-2-wrongs-wont-make-right-on-wall-street/?.tsrc=rss",
+      "title": "Should You Buy Tesla Stock Right Now? The Answer Might Surprise You.",
+      "link": "https://www.fool.com/investing/2026/10/29/should-you-buy-tesla-stock-right-answer-surprise/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-29T09:26:02+00:00",
+      "published": "2026-10-29T12:49:00+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "f2c3a2c421320c73",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Big Batteries Haven't Peaked Yet; These Energy-Storage Players Dominate",
+      "link": "https://finance.yahoo.com/m/d6f4706e-d7dd-3fbc-9c66-0d907146ed43/big-batteries-haven%27t-peaked.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T12:36:11+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "e98853abbd1a8f74",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Canadian Stock Market Today: TSX Futures Edge Up As BoC Hike Reshapes Rate Expectations - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN1NSU1RmN1dhVk0zUUlTbHVqX0xzUE9qS3M3ZDBBUFJNeE1DT2NqekFROWJMaW5SU1djakhBY2pPbVRlVFlwTjV2Ykc1M0ZoZmkxeUNqaHpCclZ2cU91TWl0NTByaDJ2X2ZuZVVGU3dFMXpzZ2JEV1RDei00b1NnOFk2QnpqMWl5b1U0aTJEd3hmLTJEc1QzVVZFX1p5X3ozWWlFTEpiYWVYdw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-29T12:11:30+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "25929224994cab9f",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Musk's Massive Marketing Miss Cost $10 Trillion",
+      "link": "https://www.trefis.com/stock/tsla/articles/620704/musks-massive-marketing-miss-cost-10-trillion/2026-10-29?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T12:09:57+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "2c6f4cb78696bbf6",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "How Tesla Blundered",
+      "link": "https://www.trefis.com/stock/tsla/articles/620616/how-tesla-blundered/2026-10-29?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T12:09:47+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "e8353472392c27d9",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Investors Heavily Search Nu Holdings Ltd. (NU): Here is What You Need to Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-nu-holdings-120003218.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T12:00:03+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "ae8c5f8263bbd7c7",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Standard Uranium Confirms Strong Radioactivity up to 48,000 cps at Surface and Discovers New Showings at the Corvo Uranium Project",
+      "link": "https://finance.yahoo.com/energy/articles/standard-uranium-confirms-strong-radioactivity-113000265.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T11:30:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "ba8a1f2fabffe03a",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Mike Alfred joins Opendoor Board of Directors",
+      "link": "https://finance.yahoo.com/real-estate/articles/mike-alfred-joins-opendoor-board-103000753.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T10:30:00+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "d86ff27e7e9c85ca",
@@ -66,39 +154,6 @@
       "source": "News",
       "published": "2026-10-29T09:04:31+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "747060c849c3f97a",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Stellantis Q3 Earnings Call Highlights",
-      "link": "https://www.marketbeat.com/instant-alerts/transcript-stellantis-q3-earnings-call-highlights-2026-10-29/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T09:04:31+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "379521f437e3ab78",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Jensen Huang Foresees Booming AI Demand, but Elon Musk's Warning Highlights a Different Risk",
-      "link": "https://www.fool.com/investing/2026/10/29/jensen-huang-sees-booming-ai-demand-but-elon-musks/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T07:33:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "b5fe31a842b08246",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Is Flying in Europe, and We Aren't Talking About the Roadster -- 1 Big Concern Remains",
-      "link": "https://www.fool.com/investing/2026/10/29/tesla-is-flying-in-europe-and-we-arent-talking-abo/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T05:50:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "c3819176998ba182",
@@ -178,17 +233,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "5c66785a43efc388",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Just Borrowed $363M Against Its Nvidia GPUs. Here’s Why",
-      "link": "https://blockspace.media/short/iren-just-borrowed-363m-against-its-nvidia-gpus-heres-why/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T20:31:07+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "a07dbe3f3d4ec0c4",
       "ticker": "NU",
       "symbol": "NU",
@@ -211,17 +255,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "e4dbdacde3d9db67",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco's Raised Revenue Outlook Faces a Crucial Execution Test Ahead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/camecos-raised-revenue-outlook-faces-165000681.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T16:50:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "e2d20f89b933f308",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -231,17 +264,6 @@
       "source": "Yahoo Finance",
       "published": "2026-10-28T12:06:58+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "b621161cd9fcbecb",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "UBS (UBS) Q3 Earnings Miss Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-ubs-q3-earnings-miss-101003451.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T10:10:03+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "667d6efb0b51fede",
@@ -288,28 +310,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "0d0235331768b0cf",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC adjusts target to HKD 47.60 for Lenovo stock - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMm5TeW1wTFZnVjBMSDU4dDU2WGZfczJkM0hQbndENjF1WXp4NWFBVm1BOVREaklxeENTSzY4MVVPWDB3bGoycy1zMjUzZGpoSkVqTWRmdElDRjVnOW5pcWd3Y1FwalY3MHJiS1EwU1lYWnJ2a2JFcnRxb2djM3FyZTF2bk9pR09LRzR1Q0VuamZLRC1rTjBaSjZvS29MNlZXS1ExTFRwN0tmMHJrY1RqYQ?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-10-27T15:00:39+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "873617e20aa11529",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Steady As Traders Brace For BoC Hike - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWFIeTJMSm9EWW1UWno5WG9rdXc0VDdVWTRLdUppQTFsUVNvSDNGWFRUSDc2dms3ekwzVEdpYkZiNUMxYnI1U3BnUi1URjRNMFM0TVBCQVNmXzVJTmlyU3NhYmNuTWZXVW10NzJ2MGlVV0dyT1I1empzVlhIck5yVThnbFFBWkxmZmtMeEVJaWtDb2YyTFJ5Sm9hSUY0SEhXSnFfNzBJRXYxcWlYMkJYZ01FenZkUjBZM3VhZGZiZjlCYUdiMldZQmdMbUFBSTDSAc8BQVVfeXFMTS1hSHkyTEpvRFltVFp6OVhva3V3NFQ3VVk0S3VKaUExbFFTb0gzRlhUVEg3NnZrN3pMM1RHaWJGYjVDMWJyNVNwZ1ItVEY0TTBTNE1QQkFTZl81SU5pclNzYWJjbk1mV1VtdDcydjBpVVdHck9SNXpqc1ZYSHJOclU4Z2xRQVpMZmZrTHhFSWlrQ29mMkxSeUpvYUlGNEhIV0pxXzcwSUV2MXFpWDJCWGdNRXp2ZFIwWTN1YWRmYmY5QmFHYjJXWUJnTG1BQUkw?oc=5",
-      "source": "Simply Wall Street",
-      "published": "2026-10-27T12:14:31+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "fe87a991290e7083",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -321,36 +321,36 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "f0a53a12472e28d6",
+      "id": "72faeb474c2ced1b",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "Responsive Playbooks and the EML Inflection - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQ0QTl2bHVibXhPSDVodmNjYUpCdnRmVmZyRW5PbU1USHdCaUNPdF81emNmOF8zMWExQ1JVcWNwSFRwcFpJMjZLUnh2VEtZcE5fbHJObmRHcC05VEFyNmhOOGY0bURtbEV3NUp5dGgxNHhvVXlsUW1WTlQtR0NGUV9uRUVsNWJtU2gzVEt0cF9hOWloQjMzNTFBQ3o1dTFnaWswYjdaNVBXWDZqNjJiZ0VmWkgwY25HYjVvMEZ3UFE?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-10-21T23:20:01+00:00",
+      "title": "Eastern Company (EML) Slips 2.92% to $24.31 as Shares Test Lower Support Zone - High Yield Stocks - https://www.siam.in/",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDVTSTE5UzFxSjBPTWpVWlFzODRsVFltLU5tX3RoSnNlbVdLVWEyS0FGamxhWW5Bd0lmTnJoNnI2bXJhWnlwazRLdnNRX2x3UzF3dE1wNldsaHVTci1KbnZRSU52Y0VLemJfTGF4NTBiY3BHTmRlLW9wRmdpcG85SWlPOU1mdHA0UTB5NndSLW5oVHF0ajJkZzJLejc3cGRWZW1hM3hOdnExUnRFRnVnTHZTZXg?oc=5",
+      "source": "https://www.siam.in/",
+      "published": "2026-10-17T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
-      "id": "7f427c1bc365d9e6",
+      "id": "8a5da30ec073805f",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
+      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
+      "source": "Morningstar",
+      "published": "2026-09-21T07:00:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "f8a705231d0ef310",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
       "source": "Simply Wall Street",
-      "published": "2026-10-20T21:27:45+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "a538d1290699bf23",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Eastern Company (EML) Slips 2.92% to $24.31 as Shares Test Lower Support Zone - Bullish Percent Index - dars.gov.et",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUkRNN2xlVHFLMmpZNnlQZzBMYzZOMUN5ZGJCWmt3dzlEbktXcEZzNnpibG8yOVRhSFNhZV9tQVlBOU1UNHBMV1NJczdZS1ZfQ3gxcnlnZHQ3bk9ZcGs4dkMtWjZWczBGWmVTaGZOV2E0RGwxakZ0cGFjMlFCSFhTc1Zzay12clNPSHVQRXFlT2V5Wll3cG5DVDNDeDdxWFNoRE9UZlF0NVd6SE1Pa0pyUjMxUQ?oc=5",
-      "source": "dars.gov.et",
-      "published": "2026-10-17T20:45:03+00:00",
+      "published": "2026-09-04T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
