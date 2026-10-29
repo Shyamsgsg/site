@@ -1,49 +1,93 @@
 {
-  "updated": "2026-10-29T07:22:19Z",
+  "updated": "2026-10-29T10:08:08Z",
   "items": [
     {
-      "id": "b5d85f5ef8a6df91",
+      "id": "d2b2b7464996e1eb",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Bitcoin weakens to $80k as hawkish Fed, mixed tech earnings weigh",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-weakens-80k-hawkish-fed-070745462.html?.tsrc=rss",
+      "title": "Alphabet and Microsoft are on both sides of the AI boom's biggest bills: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/alphabet-and-microsoft-are-on-both-sides-of-the-ai-booms-biggest-bills-chart-of-the-day-100000027.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-29T07:07:45+00:00",
+      "published": "2026-10-29T10:00:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "9cdcf30e814701c7",
+      "id": "beb64c5ba88e4b41",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "INTC, AMD, AVGO, MU Decline On Samsung’s Profit Miss, Lighter Capex From Microsoft, Alphabet",
-      "link": "https://stocktwits.com/news-articles/markets/equity/intc-amd-avgo-mu-decline-on-samsung-s-profit-miss-lighter-capex-from-microsoft-alphabet/cZUQgW3R9ba?.tsrc=rss",
+      "title": "Zuckerberg’s Instagram Takes Aim At YouTube With New 90-Minute Video Test. It Could Be A Tough Sell For Creators",
+      "link": "https://247wallst.com/investing/2026/10/29/zuckerbergs-instagram-takes-aim-at-youtube-with-new-90-minute-video-test-it-could-be-a-tough-sell-for-creators/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-29T07:02:37+00:00",
+      "published": "2026-10-29T09:47:50+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "d2dfe3267bde41f8",
+      "id": "4c395b9bba6371bd",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Shares mixed after Google parent Alphabet's earnings disappoint",
-      "link": "https://www.euronews.com/2026/10/29/shares-and-us-futures-mixed-after-google-parent-alphabets-earnings-disappoint?.tsrc=rss",
+      "title": "Google and Samsung Spook the Market as Tech Sells Off",
+      "link": "https://finance.yahoo.com/m/859e98ba-d6dc-3fff-b070-13657d369c4c/google-and-samsung-spook-the.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-29T07:02:16+00:00",
+      "published": "2026-10-29T09:38:28+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "f13bee2b65b2581b",
+      "id": "fbf8fc1fa68ea588",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Is Berkshire Hathaway (BRK.B) Cheap After Fresh AI Deal Interest?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-cheap-062834683.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T06:28:34+00:00",
+      "title": "Alphabet, Microsoft earnings in focus; Warsh on AI, rates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-microsoft-earnings-focus-warsh-092810907.html?.tsrc=rss",
+      "source": "what’s moving markets",
+      "published": "2026-10-29T09:28:10+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "6d5784fe0381811f",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Opinion: While the Odds of a SpaceX-Tesla Merger Are Climbing, Combining 2 Wrongs Won't Make a Right on Wall Street",
+      "link": "https://www.fool.com/investing/2026/10/29/opinion-odds-of-spacex-tesla-merger-climbing-combining-2-wrongs-wont-make-right-on-wall-street/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T09:26:02+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "d86ff27e7e9c85ca",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "What Urban Edge Properties (UE) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-urban-edge-properties-ue-said-on-its-q3-earnings-call-2026-10-29/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T09:04:31+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "747060c849c3f97a",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Stellantis Q3 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-stellantis-q3-earnings-call-highlights-2026-10-29/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T09:04:31+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "379521f437e3ab78",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Jensen Huang Foresees Booming AI Demand, but Elon Musk's Warning Highlights a Different Risk",
+      "link": "https://www.fool.com/investing/2026/10/29/jensen-huang-sees-booming-ai-demand-but-elon-musks/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T07:33:00+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "b5fe31a842b08246",
@@ -101,17 +145,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "a9fdd6b5d70d9d74",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk vs. Tesla? His Midterm Money Could Work Against His Own Cars",
-      "link": "https://finance.yahoo.com/economy/policy/articles/elon-musk-vs-tesla-midterm-010409773.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T01:04:09+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "ca948569190586f2",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -121,17 +154,6 @@
       "source": "News",
       "published": "2026-10-29T00:14:33+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "28e1a613fe92020d",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "33 Wall Street Giants Block Tokenized Stocks, But Apple and Tesla Stay Silent",
-      "link": "https://beincrypto.com/wall-street-giants-block-tokenized-stock/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T00:08:14+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "1036d980270b8357",
@@ -167,17 +189,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "5cf4e4ef824b96eb",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX Retreats As Russia's Putin Says This About Elon Musk",
-      "link": "https://finance.yahoo.com/m/33f29059-f908-3ca5-8fbe-4fe10f1ee5dd/spacex-retreats-as-russia%27s.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T20:24:34+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "a07dbe3f3d4ec0c4",
       "ticker": "NU",
       "symbol": "NU",
@@ -208,17 +219,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/camecos-raised-revenue-outlook-faces-165000681.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-28T16:50:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "ea3b8525e1e4d7b8",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Is Cameco Worth Buying as Premium Valuation Meets Execution Risk?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-worth-buying-premium-valuation-164500892.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T16:45:00+00:00",
       "logo": "logos/CCJ.svg"
     },
     {
