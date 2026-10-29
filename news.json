@@ -1,49 +1,71 @@
 {
-  "updated": "2026-10-29T19:13:00Z",
+  "updated": "2026-10-29T21:59:11Z",
   "items": [
     {
-      "id": "bc23c86b4ada2117",
+      "id": "4a0f82299387310d",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Update: US Equity Indexes Drop as Communication Services Plummets Following Alphabet's Disappointing Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-communication-190014998.html?.tsrc=rss",
+      "title": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
+      "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-29T19:00:14+00:00",
+      "published": "2026-10-29T21:43:40+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "431c542722961e7b",
+      "id": "388dd390a34176ed",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Stock Market Today: Nasdaq Knocked Into The Red Amid AI Jitters; Amazon Earnings Next (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/4da37b6f-4b10-3831-ae14-fde89c3f573b/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "title": "Google's AI chips could change what ChatGPT costs you",
+      "link": "https://www.thestreet.com/technology/googles-ai-chips-could-change-what-chatgpt-costs-you?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-29T18:58:31+00:00",
+      "published": "2026-10-29T21:33:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "82a21b083e047177",
+      "id": "91f2ca42732f45bf",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Alphabet Just Lost $500 Billion in Market Value. A Once-in-a-Generation Artificial Intelligence (AI) Opportunity Could Be Hiding in Plain Sight.",
-      "link": "https://www.fool.com/investing/2026/10/29/alphabet-just-lost-500-billion-in-market-value-a-o/?.tsrc=rss",
+      "title": "Morningstar Releases New Details On Over 350K SF In Q3 Office Leases",
+      "link": "https://www.bisnow.com/news/chicago/office/morningstar-releases-new-details-on-over-350k-sf-in-q3-office-leases?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-29T18:50:00+00:00",
+      "published": "2026-10-29T21:21:34+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "a4a5cee9a2080268",
+      "id": "53e2e39251483b7b",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Constellation Just Signed 20-Year Deals With Amazon and Google. Where Will the Nuclear Energy Stock Be in 10 Years?",
-      "link": "https://www.fool.com/investing/2026/10/29/constellation-sign-deals-amazon-google-energy/?.tsrc=rss",
+      "title": "Amazon shares sink as it spends heavily on AI",
+      "link": "https://www.axios.com/2026/10/29/amazon-stock-earnings-ai#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-media?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-29T18:50:00+00:00",
+      "published": "2026-10-29T21:17:51+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "4cee9e21ed058191",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "5 Best Autonomous Vehicle Stocks To Buy backed by Hedge Funds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-autonomous-vehicle-stocks-194343488.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T19:43:43+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "6b88e68eefc53c9e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk, crypto just placed huge midterm bets, and traders should pay attention",
+      "link": "https://www.thestreet.com/crypto/markets/elon-musk-crypto-just-placed-huge-midterm-bets-and-traders-should-pay-attention?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-29T19:06:44+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "a715c8b80162507c",
@@ -65,28 +87,6 @@
       "link": "https://www.tikr.com/blog/musk-robot-ram-needs-will-exceed-everything-else-on-earth-what-that-means-for-micron?ref=yahoofinance&.tsrc=rss",
       "source": "News",
       "published": "2026-10-29T17:38:45+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "cab26d6ab57f6abf",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Just Gained 13% in a Month: Take Profits, or Buy More?",
-      "link": "https://www.tikr.com/blog/tesla-just-gained-13-in-a-month-take-profits-or-buy-more?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T17:34:32+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "d6af8517f4758698",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Founder-Led Giants Redefining Technology and Global Market Growth",
-      "link": "https://finance.yahoo.com/technology/articles/founder-led-giants-redefining-technology-173300946.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T17:33:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -310,6 +310,17 @@
       "logo": "logos/ONON.svg"
     },
     {
+      "id": "53967035a1a34556",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Eastern Company (The) Estimates – NASDAQ:EML - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GWDlFaWdnXzBEc1VPM3Z1SHEyUFFFV3ZRMmVDckNDX0NRWGZ2YW4tQkZ5alVqdi1IcVdiU1MxRmZTWGhtaUJHUTNNVmpNLXdfLTNNOU5EdXkwdmI1dXhVQm9sTExGVFFMZ21GUTFlZDhvVGNnSVlF?oc=5",
+      "source": "TradingView",
+      "published": "2026-10-25T01:19:09+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "fe87a991290e7083",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -321,36 +332,25 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "72faeb474c2ced1b",
+      "id": "f0a53a12472e28d6",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "Eastern Company (EML) Slips 2.92% to $24.31 as Shares Test Lower Support Zone - High Yield Stocks - https://www.siam.in/",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDVTSTE5UzFxSjBPTWpVWlFzODRsVFltLU5tX3RoSnNlbVdLVWEyS0FGamxhWW5Bd0lmTnJoNnI2bXJhWnlwazRLdnNRX2x3UzF3dE1wNldsaHVTci1KbnZRSU52Y0VLemJfTGF4NTBiY3BHTmRlLW9wRmdpcG85SWlPOU1mdHA0UTB5NndSLW5oVHF0ajJkZzJLejc3cGRWZW1hM3hOdnExUnRFRnVnTHZTZXg?oc=5",
-      "source": "https://www.siam.in/",
-      "published": "2026-10-17T07:00:00+00:00",
+      "title": "Responsive Playbooks and the EML Inflection - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQ0QTl2bHVibXhPSDVodmNjYUpCdnRmVmZyRW5PbU1USHdCaUNPdF81emNmOF8zMWExQ1JVcWNwSFRwcFpJMjZLUnh2VEtZcE5fbHJObmRHcC05VEFyNmhOOGY0bURtbEV3NUp5dGgxNHhvVXlsUW1WTlQtR0NGUV9uRUVsNWJtU2gzVEt0cF9hOWloQjMzNTFBQ3o1dTFnaWswYjdaNVBXWDZqNjJiZ0VmWkgwY25HYjVvMEZ3UFE?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-10-21T23:20:01+00:00",
       "logo": "logos/EML.svg"
     },
     {
-      "id": "8a5da30ec073805f",
+      "id": "5ac47598a8165996",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
-      "source": "Morningstar",
-      "published": "2026-09-21T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "f8a705231d0ef310",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
-      "source": "Simply Wall Street",
-      "published": "2026-09-04T07:00:00+00:00",
+      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-10-20T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
