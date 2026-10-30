@@ -1,38 +1,60 @@
 {
-  "updated": "2026-10-30T07:21:38Z",
+  "updated": "2026-10-30T10:08:34Z",
   "items": [
     {
-      "id": "8bd2265ac56f7115",
+      "id": "1dc985e4c5fdfeb7",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Tech firms take fresh hit as earnings misses fan AI fears",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tech-firms-fresh-hit-earnings-024928854.html?.tsrc=rss",
+      "title": "YouTube isn't just dominating TV — it's dominating Google",
+      "link": "https://finance.yahoo.com/technology/article/youtube-isnt-just-dominating-tv--its-dominating-google-100000529.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T07:11:21+00:00",
+      "published": "2026-10-30T10:00:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "41d3b7f99865ac2e",
+      "id": "ddb79fab7ae03edc",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Selling the map, not the chips: How Gartner is cashing in on AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/selling-map-not-chips-gartner-071042597.html?.tsrc=rss",
+      "title": "Google is happy AI is cannibalizing its most profitable business",
+      "link": "https://finance.yahoo.com/technology/article/google-is-happy-ai-is-cannibalizing-its-most-profitable-business-100000654.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T07:10:42+00:00",
+      "published": "2026-10-30T10:00:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "f0df4087977c9f69",
+      "id": "0cb7d575dcbe4593",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Alphabet tumbles 12% on capex: Why Oracle is bucking the tech sell-off",
-      "link": "https://finance.yahoo.com/technology/articles/alphabet-tumbles-12-capex-why-070723105.html?.tsrc=rss",
+      "title": "Tech firms take fresh hit as disappointing earnings fan AI fears",
+      "link": "https://www.euronews.com/2026/10/30/tech-firms-take-fresh-hit-as-disappointing-earnings-fan-ai-fears?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T07:07:23+00:00",
+      "published": "2026-10-30T09:36:52+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "abfd9a4750092d28",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Nasdaq futures tumble; Binance suffers massive hack",
+      "link": "https://finance.yahoo.com/markets/articles/nasdaq-futures-tumble-binance-suffers-093034414.html?.tsrc=rss",
+      "source": "what’s moving markets",
+      "published": "2026-10-30T09:30:34+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "9ec59d55c402e640",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Why Is Tesla (TSLA) Reworking Cybertruck Plans And Battery Rules Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-reworking-cybertruck-090955904.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T09:09:55+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "18275cb5bf8b89e3",
@@ -44,17 +66,6 @@
       "source": "News",
       "published": "2026-10-30T06:50:00+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "c09ef07dbb4e089b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62727776/stock-market-will-sp-500-open-up-or-down-today-69?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T06:21:23+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "95b21035cbbc4b76",
@@ -77,28 +88,6 @@
       "source": "News",
       "published": "2026-10-30T05:39:53+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "1943cb3ce87e39c7",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla-SpaceX Merger ‘Does Make Strategic Sense,’ Analyst Says — But SpaceX Needs Nearly 2x The Growth",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-merger-strategic-sense-analyst-says-spacex-needs-2x-growth/cZUhgVVR9Rm?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T02:44:46+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "83624958786f032b",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong xStock Price | BOCHKX Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10Szl0V1ZraWQzeDRwem1NN3hPa2JBRk9lMW5HanFhT1czN2tQcmtjdzMyc1FfcmFKSTFSSHFILWxRdm9LbFQ1Q2YtWmdzUHBzMjdhN0JwY0huNkky?oc=5",
-      "source": "CryptoRank",
-      "published": "2026-10-29T22:37:33+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "5bb4c2d4ce83f0ed",
@@ -200,12 +189,12 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "d813cab6586911a7",
+      "id": "e98853abbd1a8f74",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
       "title": "Canadian Stock Market Today: TSX Futures Edge Up As BoC Hike Reshapes Rate Expectations - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLURvZ182UHh1OFQ2VEpyVllib3FHY1dIczJEVXJ3dVpVb2VhMDVrVldnbWtWMXN4U0hFQ1o1UjYzX0dqSEhpZXRBaEYxUWluUmU5MUl3VEpKYWlOREpFbENhbEhOTzF5QTZRbDRtWHN2NHF2dnBudWRCNHZaRFFxWXU2MmtiZ2JEaTVTQ19UNmxvT2dMQkVtR2d5c0k?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN1NSU1RmN1dhVk0zUUlTbHVqX0xzUE9qS3M3ZDBBUFJNeE1DT2NqekFROWJMaW5SU1djakhBY2pPbVRlVFlwTjV2Ykc1M0ZoZmkxeUNqaHpCclZ2cU91TWl0NTByaDJ2X2ZuZVVGU3dFMXpzZ2JEV1RDei00b1NnOFk2QnpqMWl5b1U0aTJEd3hmLTJEc1QzVVZFX1p5X3ozWWlFTEpiYWVYdw?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-10-29T12:11:30+00:00",
       "logo": "logos/BOC.svg"
@@ -277,14 +266,25 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "85e70775f6a5d648",
+      "id": "e2d20f89b933f308",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
-      "title": "TSX hits one-week high as tech rallies, BoC raises rates - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWlZJS05XRDUyckF2dXIwMGNSaFBLREF4NTZSZW9SclJPa0phcWJTODRHZGh0ZlVYMUJzWHFMaTlzVDMzazlqMk5YWXZyMl84LXZjbUtXdi1ENGtBSVZRNEpia0FPWGhvSzN3eWxwSmtDSElEY0xFV1RLeW1oU2VjZmZTSGFxSFZtaE5uT2w3d25zLURfaERzTjFlUktwbnc?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-28T20:22:30+00:00",
+      "title": "Canadian Stock Market Today: TSX Futures Edge Higher As Fed And BoC Decisions Loom - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG1pa1pSNWY5akZBVkl5TFJ3ZGF6X1AwME92cEFWQnZ5QVlOb1F2MWVVTmk4OUZZcGk2ZHdoNkNWcE9sSG9wNG9IN01EZnphZFNNOUlJcVdfOTZTSHUta3duLTJkX0xNMlktWHVqakthN090cUI1REpyZ3JNYzBTLW45bEhjS1BrWXlZdXhVcEM5aUhSZHk0YWdPcDY?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-28T12:06:58+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "667d6efb0b51fede",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Stocks end higher as Fed holds key rate steady, BoC hikes - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVXBEX0J3RWpYc3VZaGNfeU1jXzBJd2g0MjVndGhxeVJ3TE9qa2p5RzlRVXI2eUpZOW9DSC1SQW4yRENUaV9YY2RMRlpmcHBuLWdJYXZGb3BnU1ZLYTBCLVY0ZFUyWWxTS216dGdKRWlvQ19fV3lJU0pKWVZnWnZTSkNuMGdWYmd5RkFQMG1fLVVZLWEzYmpRc05RVmxmMXNxNF9qMVdkSlJJaWNKVUVvMGR3S2M2Y2I2ZnZvQXIyWndVVjRvNXF5cXZ6SjhNWThlaUpGTjcxTURQYVZMTFRnSHJUMA?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-10-28T09:07:31+00:00",
       "logo": "logos/BOC.svg"
     },
     {
