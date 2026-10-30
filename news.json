@@ -1,71 +1,159 @@
 {
-  "updated": "2026-10-30T16:05:22Z",
+  "updated": "2026-10-30T19:06:26Z",
   "items": [
     {
-      "id": "025ecdf7f3c3831d",
+      "id": "875f789ef1e8545f",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Top AdTech stocks to watch as third quarter earnings approach",
-      "link": "https://finance.yahoo.com/media-advertising/articles/top-adtech-stocks-watch-third-155346477.html?.tsrc=rss",
-      "source": "B Riley",
-      "published": "2026-10-30T15:53:46+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c1fd05e9511181a8",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
+      "title": "Tech stocks crushed as Nasdaq tumbles nearly 1,000 points",
       "link": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T15:50:14+00:00",
+      "published": "2026-10-30T18:53:08+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "97b9fc21e7f0d73a",
+      "id": "eaa237be975bfc96",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Machine Translation Market Research Report 2026-2036 Featuring Google, Microsoft, iFLYTEK, NetEase Youdao, Phrase, Lilt and More | LLMs, Live Speech, and AI Localization Drive 15.2% CAGR to USD 8.93 Billion",
-      "link": "https://finance.yahoo.com/technology/ai/articles/machine-translation-market-research-report-154500703.html?.tsrc=rss",
+      "title": "Googling for Reddit answers is about to get harder",
+      "link": "https://www.thestreet.com/latest-news/reddit-google-ai-search-traffic?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T15:45:00+00:00",
+      "published": "2026-10-30T18:47:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "7df4bbb157a1aa19",
+      "id": "b9e99bcc2893a779",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Amazon Needs AWS Growth Acceleration to Offset Rising Capital Spending, RBC Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-needs-aws-growth-acceleration-153710716.html?.tsrc=rss",
+      "title": "Stock Market Today: Nasdaq Slumps On Weak Intel Report; CBOE, Vertex Pharma Jump (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T15:37:10+00:00",
+      "published": "2026-10-30T18:39:21+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "27b07557c4b87720",
+      "id": "2f3da0b2fdf0eb05",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Investing.com’s stocks of the week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-182821119.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T18:28:21+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e21331e2f6c6662b",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco Q3 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-cameco-q3-earnings-call-highlights-2026-10-30/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T18:15:33+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "161caa0268681608",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Rivian’s R2 Could Fill A ‘Relatively Unique Position And Product Void’ Between Tesla And Ford, Says Jefferies – Sees 45% Upside Potential",
-      "link": "https://stocktwits.com/news-articles/markets/equity/rivian-r2-could-fill-relatively-unique-position-and-product-void-between-tesla-and-ford-says-jefferies/cZUhU4WR9Tr?.tsrc=rss",
+      "title": "Tesla-SpaceX Merger Could Face The Biggest Regulatory Risk In China, BofA Warns",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-merger-could-face-the-biggest-regulatory-risk-in-china-bof-a-warns/cZULbGrR9cb?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T15:34:54+00:00",
+      "published": "2026-10-30T17:58:59+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "59bed0cf53b0d5a8",
+      "id": "68b55e3ef5feaeee",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco (CCJ) Q3 2026 Earnings Call Transcript",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/10/30/cameco-ccj-q3-2026-earnings-call-transcript/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T17:58:06+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "7d47436aff400f4c",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Iren (IREN) Stock Sees Modest Fair Value Cut As Analysts Weigh AI Funding Risks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-stock-sees-modest-171422114.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T17:14:22+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "0ca19097e20eb516",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla's Profits Took a Hit. Is It Building Something Worth the Cost?",
-      "link": "https://www.fool.com/investing/2026/10/30/teslas-profits-took-a-hit-is-it-building-something/?.tsrc=rss",
+      "title": "Tesla Could Be About to Unlock a Brand-New Revenue Stream. Time to Buy the Stock?",
+      "link": "https://www.fool.com/investing/2026/10/30/tesla-could-be-about-to-unlock-a-brand-new-revenue-stream-time-to-buy-the-stock/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T14:20:00+00:00",
+      "published": "2026-10-30T17:09:01+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "cb5aa09cde8845dc",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Micron Became One of the 10 Biggest Holdings in S&P 500 Index Funds. What Does That Mean for the Stock?",
+      "link": "https://www.fool.com/investing/2026/10/30/micron-became-one-of-the-10-biggest-holdings-in-s-and-p-500-index-funds-what-does-that-mean-for-the-stock/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T17:01:01+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "d4507337f190cb27",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco Corporation Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-cameco-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T16:57:46+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "027e6fe0ba6dd82a",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "What Just Happened To Alnylam Stock?",
+      "link": "https://www.trefis.com/stock/alny/articles/621578/what-just-happened-to-alnylam-stock/2026-10-30?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T16:51:31+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c61ce428bdc45607",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings Slides After Brazil's Election: Is the Sell-Off Overdone?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-slides-brazils-election-154000216.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T15:40:00+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "44b5abfdfa907eed",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Centrus Energy to Report Q3 Earnings: What's in Store for the Stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-report-q3-earnings-153500387.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T15:35:00+00:00",
+      "logo": "logos/CCJ.svg"
     },
     {
       "id": "32845411f895ee5c",
@@ -79,28 +167,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "9de879037a97f570",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "If You Invest $1,000 in Tesla Today, Here’s What It Could Be Worth by 2030",
-      "link": "https://247wallst.com/investing/2026/10/30/if-you-invest-1000-in-tesla-today-heres-what-it-could-be-worth-by-2030/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T14:03:48+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "442860b386cbd2ec",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "This Is the Biggest Risk to a Tesla-SpaceX Merger",
-      "link": "https://finance.yahoo.com/m/38368385-2ed5-33ad-98b0-01af6d4dbd00/this-is-the-biggest-risk-to-a.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T14:03:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "ec4f27d859301202",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -110,28 +176,6 @@
       "source": "News",
       "published": "2026-10-30T13:39:00+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "f2dd405934d5c003",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Stock Market Today: Nasdaq Futures Plunge 2% as Big Tech Sells Off",
-      "link": "https://247wallst.com/investing/2026/10/30/stock-market-today-nasdaq-futures-plunge-2-as-big-tech-sells-off/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T13:32:17+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "bc7c8c066cc4ccaf",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco: Q3 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-q3-earnings-snapshot-112946714.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T11:29:46+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "ffbcdc77592ff77f",
@@ -189,39 +233,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "3e6e3418f6904846",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Cipher Digital Gears Up to Report Q3 Earnings: What's in Store?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-gears-report-q3-150400080.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T15:04:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "61289aebfb6b2f45",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "AtkinsRéalis Group And 2 Canadian Nuclear Stocks To Watch",
-      "link": "https://finance.yahoo.com/energy/articles/atkinsr-alis-group-2-canadian-141628373.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T14:16:28+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "24c9cb31b05715e1",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Standard Uranium reports readings of up to 48,000 cps at Corvo",
-      "link": "https://www.proactiveinvestors.com/companies/news/1100932/standard-uranium-reports-readings-of-up-to-48-000-cps-at-corvo-1100932.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T13:31:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "3125290a5cbee2fa",
       "ticker": "NU",
       "symbol": "NU",
@@ -242,17 +253,6 @@
       "source": "Simply Wall St",
       "published": "2026-10-29T12:56:01+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "e8353472392c27d9",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Investors Heavily Search Nu Holdings Ltd. (NU): Here is What You Need to Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-nu-holdings-120003218.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T12:00:03+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "28de56a2249725ed",
