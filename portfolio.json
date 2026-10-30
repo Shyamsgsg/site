@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-30T02:34:12+00:00",
+  "updated": "2026-10-30T03:32:43+00:00",
   "show_values": false,
   "positions": 9,
   "weights": {
-    "NU": 8.349,
-    "BOC": 0.0256,
-    "EML": 7.4662,
-    "GTK": 8.5796,
-    "ONON": 19.7278,
-    "IREN": 11.1924,
-    "CCJ": 8.3656,
-    "GOOG": 6.094,
-    "TSLA": 30.2
+    "NU": 8.3653,
+    "BOC": 0.0257,
+    "EML": 7.317,
+    "GTK": 8.565,
+    "ONON": 19.7662,
+    "IREN": 11.2142,
+    "CCJ": 8.3819,
+    "GOOG": 6.1058,
+    "TSLA": 30.2589
   },
   "performance": {
     "inception_date": "2026-10-10",
-    "since_inception_pct": -7.7271,
+    "since_inception_pct": -7.9067,
     "ytd_year": 2026,
     "ytd_base_date": "2026-10-10",
-    "ytd_pct": -7.7271,
-    "day_pct": -1.3279,
-    "index": 92.2729,
+    "ytd_pct": -7.9067,
+    "day_pct": -1.5332,
+    "index": 92.0933,
     "as_of": "2026-10-30",
     "spx_since_inception_pct": -1.1669,
     "spx_ytd_pct": -1.1669,
@@ -103,7 +103,7 @@
       ],
       [
         "2026-10-30",
-        92.2729,
+        92.0933,
         98.8331
       ]
     ]
