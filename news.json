@@ -1,49 +1,82 @@
 {
-  "updated": "2026-10-30T04:06:08Z",
+  "updated": "2026-10-30T07:21:38Z",
   "items": [
     {
-      "id": "24c8f1a832965581",
+      "id": "8bd2265ac56f7115",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Is AI Killing Google's Golden Goose?",
-      "link": "https://www.fool.com/investing/2026/10/29/is-ai-killing-google-s-golden-goose/?.tsrc=rss",
+      "title": "Tech firms take fresh hit as earnings misses fan AI fears",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tech-firms-fresh-hit-earnings-024928854.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T03:35:02+00:00",
+      "published": "2026-10-30T07:11:21+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "b72352d77b61bdc0",
+      "id": "41d3b7f99865ac2e",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Alphabet (GOOGL) Stock Price Sinks As Q3 Results Deepen AI Cash Flow Doubts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-price-sinks-031605698.html?.tsrc=rss",
+      "title": "Selling the map, not the chips: How Gartner is cashing in on AI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/selling-map-not-chips-gartner-071042597.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T03:16:05+00:00",
+      "published": "2026-10-30T07:10:42+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "88694d5e6ee3b8d1",
+      "id": "f0df4087977c9f69",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
-      "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures-fall%2C.html?.tsrc=rss",
+      "title": "Alphabet tumbles 12% on capex: Why Oracle is bucking the tech sell-off",
+      "link": "https://finance.yahoo.com/technology/articles/alphabet-tumbles-12-capex-why-070723105.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T03:04:55+00:00",
+      "published": "2026-10-30T07:07:23+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "c4c2058515a08b6b",
+      "id": "18275cb5bf8b89e3",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "The Case Against a SpaceX and Tesla Merger",
+      "link": "https://www.fool.com/investing/2026/10/30/the-case-against-a-spacex-and-tesla-merger/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T06:50:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c09ef07dbb4e089b",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "KOSPI Falls Far Harder Than Nikkei as AI Earnings Scare Hits Chipmakers",
-      "link": "https://beincrypto.com/kospi-falls-harder-than-nikkei/?.tsrc=rss",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62727776/stock-market-will-sp-500-open-up-or-down-today-69?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T02:50:46+00:00",
+      "published": "2026-10-30T06:21:23+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "95b21035cbbc4b76",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "‘This Is a Knife Fight:’ Inside China’s Ruthless EV Blitz Upending the World",
+      "link": "https://finance.yahoo.com/m/c98ba448-fbf5-3d3b-9314-94f45d1669d7/%E2%80%98this-is-a-knife-fight%3A%E2%80%99.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T06:00:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "dcd914362b2344cf",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Stocktwits Space Race Monthly: SPCX Holds Up Better Than ASTS, RKLB And PL In October — But VSAT Takes The Crown",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-space-race-monthly-spcx-asts-rklb-pl-october-vsat-crown/cZUhSakR9RM?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T05:39:53+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "1943cb3ce87e39c7",
@@ -66,39 +99,6 @@
       "source": "CryptoRank",
       "published": "2026-10-29T22:37:33+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "0266e29f17924376",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "How Much Anthropic Matters to SpaceX and Other Gems From SpaceX’s Filing",
-      "link": "https://finance.yahoo.com/m/c55955fb-2fe2-3d22-b550-e4153e867414/how-much-anthropic-matters-to.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T21:03:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "b2a2f66727da522d",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Rivian Earnings Show There Is Still Life in the EV Market",
-      "link": "https://finance.yahoo.com/m/1a80829c-dd18-3b7c-9cb5-19f348c81f78/rivian-earnings-show-there-is.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T20:30:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "4cee9e21ed058191",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "5 Best Autonomous Vehicle Stocks To Buy backed by Hedge Funds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-autonomous-vehicle-stocks-194343488.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T19:43:43+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "5bb4c2d4ce83f0ed",
@@ -310,17 +310,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "53967035a1a34556",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Eastern Company (The) Estimates – NASDAQ:EML - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GWDlFaWdnXzBEc1VPM3Z1SHEyUFFFV3ZRMmVDckNDX0NRWGZ2YW4tQkZ5alVqdi1IcVdiU1MxRmZTWGhtaUJHUTNNVmpNLXdfLTNNOU5EdXkwdmI1dXhVQm9sTExGVFFMZ21GUTFlZDhvVGNnSVlF?oc=5",
-      "source": "TradingView",
-      "published": "2026-10-25T01:19:09+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "fe87a991290e7083",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -332,25 +321,36 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "f0a53a12472e28d6",
+      "id": "72faeb474c2ced1b",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "Responsive Playbooks and the EML Inflection - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQ0QTl2bHVibXhPSDVodmNjYUpCdnRmVmZyRW5PbU1USHdCaUNPdF81emNmOF8zMWExQ1JVcWNwSFRwcFpJMjZLUnh2VEtZcE5fbHJObmRHcC05VEFyNmhOOGY0bURtbEV3NUp5dGgxNHhvVXlsUW1WTlQtR0NGUV9uRUVsNWJtU2gzVEt0cF9hOWloQjMzNTFBQ3o1dTFnaWswYjdaNVBXWDZqNjJiZ0VmWkgwY25HYjVvMEZ3UFE?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-10-21T23:20:01+00:00",
+      "title": "Eastern Company (EML) Slips 2.92% to $24.31 as Shares Test Lower Support Zone - High Yield Stocks - https://www.siam.in/",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDVTSTE5UzFxSjBPTWpVWlFzODRsVFltLU5tX3RoSnNlbVdLVWEyS0FGamxhWW5Bd0lmTnJoNnI2bXJhWnlwazRLdnNRX2x3UzF3dE1wNldsaHVTci1KbnZRSU52Y0VLemJfTGF4NTBiY3BHTmRlLW9wRmdpcG85SWlPOU1mdHA0UTB5NndSLW5oVHF0ajJkZzJLejc3cGRWZW1hM3hOdnExUnRFRnVnTHZTZXg?oc=5",
+      "source": "https://www.siam.in/",
+      "published": "2026-10-17T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
-      "id": "5ac47598a8165996",
+      "id": "8a5da30ec073805f",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-10-20T07:00:00+00:00",
+      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
+      "source": "Morningstar",
+      "published": "2026-09-21T07:00:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "f8a705231d0ef310",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
+      "source": "Simply Wall Street",
+      "published": "2026-09-04T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
