@@ -1,49 +1,82 @@
 {
-  "updated": "2026-10-30T19:06:26Z",
+  "updated": "2026-10-30T21:54:22Z",
   "items": [
     {
-      "id": "875f789ef1e8545f",
+      "id": "6f68e5558fa1e41f",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Tech stocks crushed as Nasdaq tumbles nearly 1,000 points",
+      "title": "Cracks are emerging in the AI spending boom",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cracks-emerging-ai-spending-boom-211740864.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T21:17:40+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "f6381a00da85931e",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Nasdaq sheds more than 700 points as tech stocks slump",
       "link": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T18:53:08+00:00",
+      "published": "2026-10-30T21:15:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "eaa237be975bfc96",
+      "id": "44a127f3e9c31c45",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Googling for Reddit answers is about to get harder",
-      "link": "https://www.thestreet.com/latest-news/reddit-google-ai-search-traffic?.tsrc=rss",
+      "title": "Anthropic turns profitable but could go back into losses: Seaport analyst",
+      "link": "https://finance.yahoo.com/video/anthropic-turns-profitable-but-could-go-back-into-losses-seaport-analyst-210940618.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T18:47:00+00:00",
+      "published": "2026-10-30T21:09:40+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "b9e99bcc2893a779",
+      "id": "c03599d86c4fbe81",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Stock Market Today: Nasdaq Slumps On Weak Intel Report; CBOE, Vertex Pharma Jump (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "title": "Evercose ISI downgrades Reddit, says monetization may not offset traffic weakness",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/evercose-isi-downgrades-reddit-says-205339666.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T18:39:21+00:00",
+      "published": "2026-10-30T20:53:39+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "2f3da0b2fdf0eb05",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Investing.com’s stocks of the week",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-182821119.html?.tsrc=rss",
+      "id": "a68139a03d8830de",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "B. Riley’s $64 Target Says IREN’s Selloff Went Too Far",
+      "link": "https://www.tikr.com/blog/b-rileys-64-target-says-irens-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261030-4f8m8346&.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T18:28:21+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-10-30T20:38:26+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "c3b17684ec62f1f3",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco Sinks 9% on Q3 Adjusted Loss as CEO Insists “Customer Requirements Do Not Disappear”",
+      "link": "https://www.tikr.com/blog/cameco-sinks-9-on-q3-adjusted-loss-as-ceo-insists-customer-requirements-do-not-disappear?ref=yahoofinance&tlnk=yf-261030-8chc2vmj&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T20:22:29+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "f1b1c17e91c314b0",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "In A Bad Week For The AI Trade, This One Mag Seven Stock Holds Strong",
+      "link": "https://finance.yahoo.com/m/c6ea6dfa-fdb1-342d-acc1-568d7e2d17a5/in-a-bad-week-for-the-ai.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T20:04:31+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "e21331e2f6c6662b",
@@ -123,17 +156,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "027e6fe0ba6dd82a",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "What Just Happened To Alnylam Stock?",
-      "link": "https://www.trefis.com/stock/alny/articles/621578/what-just-happened-to-alnylam-stock/2026-10-30?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T16:51:31+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "c61ce428bdc45607",
       "ticker": "NU",
       "symbol": "NU",
@@ -143,17 +165,6 @@
       "source": "News",
       "published": "2026-10-30T15:40:00+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "44b5abfdfa907eed",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Centrus Energy to Report Q3 Earnings: What's in Store for the Stock?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-report-q3-earnings-153500387.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T15:35:00+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "32845411f895ee5c",
@@ -200,6 +211,17 @@
       "logo": "logos/BOC.svg"
     },
     {
+      "id": "83624958786f032b",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Hong Kong xStock Price | BOCHKX Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10Szl0V1ZraWQzeDRwem1NN3hPa2JBRk9lMW5HanFhT1czN2tQcmtjdzMyc1FfcmFKSTFSSHFILWxRdm9LbFQ1Q2YtWmdzUHBzMjdhN0JwY0huNkky?oc=5",
+      "source": "CryptoRank",
+      "published": "2026-10-29T22:37:33+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "5bb4c2d4ce83f0ed",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -219,17 +241,6 @@
       "link": "https://www.fool.com/investing/2026/10/29/3-ai-stocks-to-buy-and-hold-through-2030/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-29T16:50:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "5031d609118d91ef",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Neocloud Stocks Have Sunk by More Than 30% This Month. What Does That Mean for Anthropic's IPO?",
-      "link": "https://www.fool.com/investing/2026/10/29/neocloud-stocks-have-sunk-by-more-than-30-this-mon/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T16:40:00+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -255,6 +266,17 @@
       "logo": "logos/BOC.svg"
     },
     {
+      "id": "d813cab6586911a7",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Canadian Stock Market Today: TSX Futures Edge Up As BoC Hike Reshapes Rate Expectations - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLURvZ182UHh1OFQ2VEpyVllib3FHY1dIczJEVXJ3dVpVb2VhMDVrVldnbWtWMXN4U0hFQ1o1UjYzX0dqSEhpZXRBaEYxUWluUmU5MUl3VEpKYWlOREpFbENhbEhOTzF5QTZRbDRtWHN2NHF2dnBudWRCNHZaRFFxWXU2MmtiZ2JEaTVTQ19UNmxvT2dMQkVtR2d5c0k?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-29T12:11:30+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "28de56a2249725ed",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -264,28 +286,6 @@
       "source": "News",
       "published": "2026-10-29T02:05:02+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "e2d20f89b933f308",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Higher As Fed And BoC Decisions Loom - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG1pa1pSNWY5akZBVkl5TFJ3ZGF6X1AwME92cEFWQnZ5QVlOb1F2MWVVTmk4OUZZcGk2ZHdoNkNWcE9sSG9wNG9IN01EZnphZFNNOUlJcVdfOTZTSHUta3duLTJkX0xNMlktWHVqakthN090cUI1REpyZ3JNYzBTLW45bEhjS1BrWXlZdXhVcEM5aUhSZHk0YWdPcDY?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-28T12:06:58+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "667d6efb0b51fede",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Stocks end higher as Fed holds key rate steady, BoC hikes - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVXBEX0J3RWpYc3VZaGNfeU1jXzBJd2g0MjVndGhxeVJ3TE9qa2p5RzlRVXI2eUpZOW9DSC1SQW4yRENUaV9YY2RMRlpmcHBuLWdJYXZGb3BnU1ZLYTBCLVY0ZFUyWWxTS216dGdKRWlvQ19fV3lJU0pKWVZnWnZTSkNuMGdWYmd5RkFQMG1fLVVZLWEzYmpRc05RVmxmMXNxNF9qMVdkSlJJaWNKVUVvMGR3S2M2Y2I2ZnZvQXIyWndVVjRvNXF5cXZ6SjhNWThlaUpGTjcxTURQYVZMTFRnSHJUMA?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-10-28T09:07:31+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "5ce87387dca0b51a",
@@ -310,6 +310,17 @@
       "logo": "logos/ONON.svg"
     },
     {
+      "id": "53967035a1a34556",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Eastern Company (The) Estimates – NASDAQ:EML - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GWDlFaWdnXzBEc1VPM3Z1SHEyUFFFV3ZRMmVDckNDX0NRWGZ2YW4tQkZ5alVqdi1IcVdiU1MxRmZTWGhtaUJHUTNNVmpNLXdfLTNNOU5EdXkwdmI1dXhVQm9sTExGVFFMZ21GUTFlZDhvVGNnSVlF?oc=5",
+      "source": "TradingView",
+      "published": "2026-10-25T01:19:09+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "fe87a991290e7083",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -321,36 +332,25 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "72faeb474c2ced1b",
+      "id": "f0a53a12472e28d6",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "Eastern Company (EML) Slips 2.92% to $24.31 as Shares Test Lower Support Zone - High Yield Stocks - https://www.siam.in/",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDVTSTE5UzFxSjBPTWpVWlFzODRsVFltLU5tX3RoSnNlbVdLVWEyS0FGamxhWW5Bd0lmTnJoNnI2bXJhWnlwazRLdnNRX2x3UzF3dE1wNldsaHVTci1KbnZRSU52Y0VLemJfTGF4NTBiY3BHTmRlLW9wRmdpcG85SWlPOU1mdHA0UTB5NndSLW5oVHF0ajJkZzJLejc3cGRWZW1hM3hOdnExUnRFRnVnTHZTZXg?oc=5",
-      "source": "https://www.siam.in/",
-      "published": "2026-10-17T07:00:00+00:00",
+      "title": "Responsive Playbooks and the EML Inflection - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQ0QTl2bHVibXhPSDVodmNjYUpCdnRmVmZyRW5PbU1USHdCaUNPdF81emNmOF8zMWExQ1JVcWNwSFRwcFpJMjZLUnh2VEtZcE5fbHJObmRHcC05VEFyNmhOOGY0bURtbEV3NUp5dGgxNHhvVXlsUW1WTlQtR0NGUV9uRUVsNWJtU2gzVEt0cF9hOWloQjMzNTFBQ3o1dTFnaWswYjdaNVBXWDZqNjJiZ0VmWkgwY25HYjVvMEZ3UFE?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-10-21T23:20:01+00:00",
       "logo": "logos/EML.svg"
     },
     {
-      "id": "8a5da30ec073805f",
+      "id": "5ac47598a8165996",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
-      "source": "Morningstar",
-      "published": "2026-09-21T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "f8a705231d0ef310",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
-      "source": "Simply Wall Street",
-      "published": "2026-09-04T07:00:00+00:00",
+      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-10-20T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
