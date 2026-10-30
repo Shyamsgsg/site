@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-30T03:32:43+00:00",
+  "updated": "2026-10-30T04:32:50+00:00",
   "source": "Yahoo Finance (query1.finance.yahoo.com/v8/finance/chart)",
   "fx": {
-    "AUDUSD": 0.7042,
-    "AUDUSD_change_pct": -0.2267,
+    "AUDUSD": 0.7045,
+    "AUDUSD_change_pct": -0.1842,
     "USDSGD": 1.2778,
     "USDSGD_change_pct": -0.249
   },
@@ -25,7 +25,7 @@
       "currency": "AUD",
       "exchange": "ASX",
       "long_name": "Bougainville Copper Limited",
-      "market_time": "2026-10-30T03:09:09+00:00",
+      "market_time": "2026-10-30T03:30:54+00:00",
       "stale": false
     },
     "EML.AX": {
@@ -35,17 +35,17 @@
       "currency": "AUD",
       "exchange": "ASX",
       "long_name": "EML Payments Limited",
-      "market_time": "2026-10-30T03:00:26+00:00",
+      "market_time": "2026-10-30T04:06:17+00:00",
       "stale": false
     },
     "GTK.AX": {
-      "price": 3.325,
+      "price": 3.34,
       "previous_close": 3.35,
-      "change_pct": -0.7463,
+      "change_pct": -0.2985,
       "currency": "AUD",
       "exchange": "ASX",
       "long_name": "Gentrack Group Limited",
-      "market_time": "2026-10-30T03:12:29+00:00",
+      "market_time": "2026-10-30T04:12:27+00:00",
       "stale": false
     },
     "ONON": {
@@ -99,13 +99,13 @@
       "stale": false
     },
     "AUDUSD=X": {
-      "price": 0.7042,
+      "price": 0.7045,
       "previous_close": 0.7058,
-      "change_pct": -0.2267,
+      "change_pct": -0.1842,
       "currency": "USD",
       "exchange": "CCY",
       "long_name": "AUD/USD",
-      "market_time": "2026-10-30T03:30:44+00:00",
+      "market_time": "2026-10-30T04:32:45+00:00",
       "stale": false
     },
     "SGD=X": {
@@ -115,7 +115,7 @@
       "currency": "SGD",
       "exchange": "CCY",
       "long_name": "USD/SGD",
-      "market_time": "2026-10-30T03:32:43+00:00",
+      "market_time": "2026-10-30T04:32:49+00:00",
       "stale": false
     },
     "^GSPC": {
@@ -125,7 +125,7 @@
       "currency": "USD",
       "exchange": "SNP",
       "long_name": "S&P 500",
-      "market_time": "2026-10-29T20:00:00+00:00",
+      "market_time": "2026-10-29T20:32:46+00:00",
       "stale": false
     }
   },
