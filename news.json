@@ -1,71 +1,126 @@
 {
-  "updated": "2026-10-30T13:17:53Z",
+  "updated": "2026-10-30T16:05:22Z",
   "items": [
     {
-      "id": "31e769fb5b1f3575",
+      "id": "025ecdf7f3c3831d",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Amazon Could Be Building Toward Its Next Big Stock Market Breakout",
-      "link": "https://247wallst.com/investing/2026/10/30/amazon-could-be-building-toward-its-next-big-stock-market-breakout/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T13:04:06+00:00",
+      "title": "Top AdTech stocks to watch as third quarter earnings approach",
+      "link": "https://finance.yahoo.com/media-advertising/articles/top-adtech-stocks-watch-third-155346477.html?.tsrc=rss",
+      "source": "B Riley",
+      "published": "2026-10-30T15:53:46+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "bec4eea20ac15dbc",
+      "id": "c1fd05e9511181a8",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "AI, Agentic Commerce and the New Rules of Chargeback Management",
-      "link": "https://wwd.com/sourcing-journal/industry-news/chargeback-gurus-tim-tynan-new-rules-chargeback-management-1239392202/?.tsrc=rss",
+      "title": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
+      "link": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T13:00:00+00:00",
+      "published": "2026-10-30T15:50:14+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "3f8ebfc9a2c35ef5",
+      "id": "97b9fc21e7f0d73a",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Should You Buy Adobe Stock For Its Cash?",
-      "link": "https://www.trefis.com/stock/adbe/articles/621518/should-you-buy-adobe-stock-for-its-cash-2/2026-10-30?.tsrc=rss",
+      "title": "Machine Translation Market Research Report 2026-2036 Featuring Google, Microsoft, iFLYTEK, NetEase Youdao, Phrase, Lilt and More | LLMs, Live Speech, and AI Localization Drive 15.2% CAGR to USD 8.93 Billion",
+      "link": "https://finance.yahoo.com/technology/ai/articles/machine-translation-market-research-report-154500703.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T12:59:20+00:00",
+      "published": "2026-10-30T15:45:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "b9b33eb5e01b4fba",
+      "id": "7df4bbb157a1aa19",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Why Should You Pay Attention To QBTS Stock?",
-      "link": "https://www.trefis.com/stock/qbts/articles/621492/why-should-you-pay-attention-to-qbts-stock/2026-10-30?.tsrc=rss",
+      "title": "Amazon Needs AWS Growth Acceleration to Offset Rising Capital Spending, RBC Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-needs-aws-growth-acceleration-153710716.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T12:59:17+00:00",
+      "published": "2026-10-30T15:37:10+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "546dc7f5409f02dd",
+      "id": "27b07557c4b87720",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Why Beijing could block the SpaceX-Tesla merger",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-beijing-could-block-spacex-125025186.html?.tsrc=rss",
+      "title": "Rivian’s R2 Could Fill A ‘Relatively Unique Position And Product Void’ Between Tesla And Ford, Says Jefferies – Sees 45% Upside Potential",
+      "link": "https://stocktwits.com/news-articles/markets/equity/rivian-r2-could-fill-relatively-unique-position-and-product-void-between-tesla-and-ford-says-jefferies/cZUhU4WR9Tr?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T12:50:25+00:00",
+      "published": "2026-10-30T15:34:54+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "987cf460c5a2d735",
+      "id": "59bed0cf53b0d5a8",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Telecom Stocks: Can AI, Robotics Break The SpaceX Standoff?",
-      "link": "https://finance.yahoo.com/m/3bc40a58-8fe3-37f6-9487-c86659f326d2/telecom-stocks%3A-can-ai%2C.html?.tsrc=rss",
+      "title": "Tesla's Profits Took a Hit. Is It Building Something Worth the Cost?",
+      "link": "https://www.fool.com/investing/2026/10/30/teslas-profits-took-a-hit-is-it-building-something/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T12:20:57+00:00",
+      "published": "2026-10-30T14:20:00+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "32845411f895ee5c",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "3 Great Growth Stocks To Own In October 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-great-growth-stocks-own-141447623.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T14:14:47+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "9de879037a97f570",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "If You Invest $1,000 in Tesla Today, Here’s What It Could Be Worth by 2030",
+      "link": "https://247wallst.com/investing/2026/10/30/if-you-invest-1000-in-tesla-today-heres-what-it-could-be-worth-by-2030/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T14:03:48+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "442860b386cbd2ec",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "This Is the Biggest Risk to a Tesla-SpaceX Merger",
+      "link": "https://finance.yahoo.com/m/38368385-2ed5-33ad-98b0-01af6d4dbd00/this-is-the-biggest-risk-to-a.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T14:03:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ec4f27d859301202",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "MSTR Q3 Earnings Beat Estimates on Bitcoin Gains Despite Revenue Miss",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/mstr-q3-earnings-beat-estimates-133900070.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T13:39:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "f2dd405934d5c003",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Stock Market Today: Nasdaq Futures Plunge 2% as Big Tech Sells Off",
+      "link": "https://247wallst.com/investing/2026/10/30/stock-market-today-nasdaq-futures-plunge-2-as-big-tech-sells-off/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T13:32:17+00:00",
+      "logo": "logos/CCJ.svg"
     },
     {
       "id": "bc7c8c066cc4ccaf",
@@ -77,28 +132,6 @@
       "source": "News",
       "published": "2026-10-30T11:29:46+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "b398ed16a7c399dd",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "What Sent Eli Lilly Stock Higher?",
-      "link": "https://www.trefis.com/stock/lly/articles/621588/what-sent-eli-lilly-stock-higher/2026-10-30?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T11:15:51+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "1d20a51a4bd5f26f",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "CVNA Q3 Earnings Miss on Higher Costs Despite Record Sales",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cvna-q3-earnings-miss-higher-110800806.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T11:08:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "ffbcdc77592ff77f",
@@ -120,17 +153,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaDFJTXozNnJEU1lycU43NUh0cGc1aXBsR1QwZjlOUjVQbkpSbVk2aXhDbV9janZ0N3Fxd1BVQnJFT2lEcE9leTlNRE1VV3FMYVpib2ppZk1Hajh5VkF4MEFFQm00SEt1YUptMHR6ZVJsTUhZdndCNkFLeTBxSE01NUttSVZwbjB1bnVmbGFqZUVqWUFlWVVLaGNTbWxPWVRhNExpUHM5WFV2TzdxOHFHcGNXak9kbVVEaGZuTVVKTmctbGxyVzZN?oc=5",
       "source": "VZ VermögensZentrum",
       "published": "2026-10-30T09:35:27+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "83624958786f032b",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong xStock Price | BOCHKX Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10Szl0V1ZraWQzeDRwem1NN3hPa2JBRk9lMW5HanFhT1czN2tQcmtjdzMyc1FfcmFKSTFSSHFILWxRdm9LbFQ1Q2YtWmdzUHBzMjdhN0JwY0huNkky?oc=5",
-      "source": "CryptoRank",
-      "published": "2026-10-29T22:37:33+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -189,17 +211,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "b177536ee2a70be0",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Alphabet Sinks 12% on Search Miss and $9 Billion Cash Burn: “Is This the Quarter We Feared?”",
-      "link": "https://www.tikr.com/blog/alphabet-sinks-12-on-search-miss-and-9-billion-cash-burn-is-this-the-quarter-we-feared?ref=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T14:05:16+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "24c9cb31b05715e1",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -233,17 +244,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "d813cab6586911a7",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Up As BoC Hike Reshapes Rate Expectations - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLURvZ182UHh1OFQ2VEpyVllib3FHY1dIczJEVXJ3dVpVb2VhMDVrVldnbWtWMXN4U0hFQ1o1UjYzX0dqSEhpZXRBaEYxUWluUmU5MUl3VEpKYWlOREpFbENhbEhOTzF5QTZRbDRtWHN2NHF2dnBudWRCNHZaRFFxWXU2MmtiZ2JEaTVTQ19UNmxvT2dMQkVtR2d5c0k?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-29T12:11:30+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "e8353472392c27d9",
       "ticker": "NU",
       "symbol": "NU",
@@ -252,28 +252,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-nu-holdings-120003218.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-29T12:00:03+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "ae8c5f8263bbd7c7",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Standard Uranium Confirms Strong Radioactivity up to 48,000 cps at Surface and Discovers New Showings at the Corvo Uranium Project",
-      "link": "https://finance.yahoo.com/energy/articles/standard-uranium-confirms-strong-radioactivity-113000265.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T11:30:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "c3819176998ba182",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "SoFi Technologies And 2 Other Top Crypto Stocks",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/sofi-technologies-2-other-top-052110298.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T05:21:10+00:00",
       "logo": "logos/NU.svg"
     },
     {
@@ -286,6 +264,28 @@
       "source": "News",
       "published": "2026-10-29T02:05:02+00:00",
       "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "e2d20f89b933f308",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Canadian Stock Market Today: TSX Futures Edge Higher As Fed And BoC Decisions Loom - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG1pa1pSNWY5akZBVkl5TFJ3ZGF6X1AwME92cEFWQnZ5QVlOb1F2MWVVTmk4OUZZcGk2ZHdoNkNWcE9sSG9wNG9IN01EZnphZFNNOUlJcVdfOTZTSHUta3duLTJkX0xNMlktWHVqakthN090cUI1REpyZ3JNYzBTLW45bEhjS1BrWXlZdXhVcEM5aUhSZHk0YWdPcDY?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-28T12:06:58+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "667d6efb0b51fede",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Stocks end higher as Fed holds key rate steady, BoC hikes - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVXBEX0J3RWpYc3VZaGNfeU1jXzBJd2g0MjVndGhxeVJ3TE9qa2p5RzlRVXI2eUpZOW9DSC1SQW4yRENUaV9YY2RMRlpmcHBuLWdJYXZGb3BnU1ZLYTBCLVY0ZFUyWWxTS216dGdKRWlvQ19fV3lJU0pKWVZnWnZTSkNuMGdWYmd5RkFQMG1fLVVZLWEzYmpRc05RVmxmMXNxNF9qMVdkSlJJaWNKVUVvMGR3S2M2Y2I2ZnZvQXIyWndVVjRvNXF5cXZ6SjhNWThlaUpGTjcxTURQYVZMTFRnSHJUMA?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-10-28T09:07:31+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "5ce87387dca0b51a",
