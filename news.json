@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-31T01:22:41Z",
+  "updated": "2026-10-31T04:01:44Z",
   "items": [
+    {
+      "id": "5ff7df3ae0aba945",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Elon Musk Warns Of AI Shakeout, While Zuckerberg, Pichai, Nadella, Jassy Discuss The Costs: MAG 7 Voices This Week",
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-warns-of-ai-shakeout-while-zuckerberg-pichai-nadella-jassy-discuss-the-costs-mag-7-voices-this-week/cZUKmssR9cO?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T02:45:16+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "f5b08cfe3aace306",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Broadcom Heads These 3 Top Undervalued Stocks To Watch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-heads-3-top-undervalued-021202308.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T02:12:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "e048a6f0ffc15234",
       "ticker": "GOOG",
@@ -44,28 +66,6 @@
       "source": "News",
       "published": "2026-10-31T00:10:18+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "9041e60ec78e2166",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Review & Preview: Ending on a Down Note",
-      "link": "https://finance.yahoo.com/m/b0499f52-933b-3c3a-a9fe-a4d478f02828/review-%26-preview%3A-ending-on-a.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T23:55:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c2c4cf21b97ac127",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Veteran fund manager revamps Alphabet stock price target after brutal sell-off",
-      "link": "https://www.thestreet.com/investing/stocks/veteran-fund-manager-revamps-alphabet-stock-price-target-after-brutal-selloff-googl?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T22:25:51+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "04718d85f31f237c",
@@ -211,6 +211,17 @@
       "logo": "logos/BOC.svg"
     },
     {
+      "id": "83624958786f032b",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Hong Kong xStock Price | BOCHKX Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10Szl0V1ZraWQzeDRwem1NN3hPa2JBRk9lMW5HanFhT1czN2tQcmtjdzMyc1FfcmFKSTFSSHFILWxRdm9LbFQ1Q2YtWmdzUHBzMjdhN0JwY0huNkky?oc=5",
+      "source": "CryptoRank",
+      "published": "2026-10-29T22:37:33+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "5bb4c2d4ce83f0ed",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -255,6 +266,17 @@
       "logo": "logos/BOC.svg"
     },
     {
+      "id": "d813cab6586911a7",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Canadian Stock Market Today: TSX Futures Edge Up As BoC Hike Reshapes Rate Expectations - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLURvZ182UHh1OFQ2VEpyVllib3FHY1dIczJEVXJ3dVpVb2VhMDVrVldnbWtWMXN4U0hFQ1o1UjYzX0dqSEhpZXRBaEYxUWluUmU5MUl3VEpKYWlOREpFbENhbEhOTzF5QTZRbDRtWHN2NHF2dnBudWRCNHZaRFFxWXU2MmtiZ2JEaTVTQ19UNmxvT2dMQkVtR2d5c0k?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-29T12:11:30+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "28de56a2249725ed",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -264,28 +286,6 @@
       "source": "News",
       "published": "2026-10-29T02:05:02+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "e2d20f89b933f308",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Higher As Fed And BoC Decisions Loom - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG1pa1pSNWY5akZBVkl5TFJ3ZGF6X1AwME92cEFWQnZ5QVlOb1F2MWVVTmk4OUZZcGk2ZHdoNkNWcE9sSG9wNG9IN01EZnphZFNNOUlJcVdfOTZTSHUta3duLTJkX0xNMlktWHVqakthN090cUI1REpyZ3JNYzBTLW45bEhjS1BrWXlZdXhVcEM5aUhSZHk0YWdPcDY?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-28T12:06:58+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "667d6efb0b51fede",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Stocks end higher as Fed holds key rate steady, BoC hikes - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVXBEX0J3RWpYc3VZaGNfeU1jXzBJd2g0MjVndGhxeVJ3TE9qa2p5RzlRVXI2eUpZOW9DSC1SQW4yRENUaV9YY2RMRlpmcHBuLWdJYXZGb3BnU1ZLYTBCLVY0ZFUyWWxTS216dGdKRWlvQ19fV3lJU0pKWVZnWnZTSkNuMGdWYmd5RkFQMG1fLVVZLWEzYmpRc05RVmxmMXNxNF9qMVdkSlJJaWNKVUVvMGR3S2M2Y2I2ZnZvQXIyWndVVjRvNXF5cXZ6SjhNWThlaUpGTjcxTURQYVZMTFRnSHJUMA?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-10-28T09:07:31+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "5ce87387dca0b51a",
