@@ -1,48 +1,81 @@
 {
-  "updated": "2026-10-31T13:10:57Z",
+  "updated": "2026-10-31T15:52:12Z",
   "items": [
     {
-      "id": "2fee7922051138f2",
+      "id": "5b88983f55d04437",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Has Incredible News for Micron Stock Investors",
+      "link": "https://www.fool.com/investing/2026/10/31/elon-musk-has-incredible-news-for-micron-stock-investors/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T15:14:01+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "6036bb7e48c47c54",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "3 Canadian Growth Stocks With Earnings Growth Up To 65%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-earnings-151320350.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T15:13:20+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "ff2a26aba5dbc5da",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "OpenAI Cuts Funding Target Amid Meta, Microsoft Offerings, Anthropic IPO",
-      "link": "https://finance.yahoo.com/m/9f64f875-35a4-3cac-86e3-a7d06eb54605/openai-cuts-funding-target.html?.tsrc=rss",
+      "title": "Big Tech Now Spends More on AI Than It Brings In From Operations",
+      "link": "https://247wallst.com/investing/2026/10/31/big-tech-now-spends-more-on-ai-than-it-brings-in-from-operations/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-31T12:57:04+00:00",
+      "published": "2026-10-31T15:08:03+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "f2f6b72c72e428fa",
+      "id": "9dd7457862c8b6bf",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Wall Street's favorite stocks are in their worst slump since 2010: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/wall-streets-favorite-stocks-are-in-their-worst-slump-since-2010-chart-of-the-day-124436147.html?.tsrc=rss",
+      "title": "Yes, Alphabet Stock Got Hammered. No, We’re Not Selling.",
+      "link": "https://finance.yahoo.com/m/c87c1f67-7e8d-3e32-a321-55370038842a/yes%2C-alphabet-stock-got.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-31T12:44:36+00:00",
+      "published": "2026-10-31T14:43:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "55dd843697ee018c",
+      "id": "0e745fdf93c54ff7",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "3 AI Infrastructure Stocks Retail Investors Are Watching After Google Search Shift",
-      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-121029257.html?.tsrc=rss",
+      "title": "Prediction: This Under-the-Radar AI Stock Could Have a Big 2030 Ahead",
+      "link": "https://247wallst.com/investing/2026/10/31/prediction-this-under-the-radar-ai-stock-could-have-a-big-2030-ahead/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-31T12:10:29+00:00",
+      "published": "2026-10-31T14:33:55+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "c8d4e3b7eb8f4a8f",
+      "id": "110fc55350a0b5bc",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "MercadoLibre Sinks 10% in a Week After Lula’s Surprise Win, With Earnings Up Next",
+      "link": "https://www.tikr.com/blog/mercadolibre-sinks-10-in-a-week-after-lulas-surprise-win-with-earnings-up-next?ref=yahoofinance&tlnk=yf-261031-xq8mf2cw&.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T14:25:27+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "e0e51566f7bd7a38",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Dow Jones Futures: Stock Market Sells Off As Apple, Palantir, Midterm Elections Loom; What To Do",
-      "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures%3A-stock.html?.tsrc=rss",
+      "title": "Reddit stock plunges 28% as Google AI cuts US traffic",
+      "link": "https://www.thestreet.com/technology/reddit-stock-plunges-28-as-google-ai-cuts-us-traffic?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-31T12:02:29+00:00",
+      "published": "2026-10-31T14:07:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -76,17 +109,6 @@
       "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-warns-of-ai-shakeout-while-zuckerberg-pichai-nadella-jassy-discuss-the-costs-mag-7-voices-this-week/cZUKmssR9cO?.tsrc=rss",
       "source": "News",
       "published": "2026-10-31T02:45:16+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "86c014616fcf6062",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Coinbase and Kraken Ramp Up Security After Massive Binance Hack",
-      "link": "https://www.cryptoprowl.com/releases/coinbase-and-kraken-ramp-up-security-after-massive-binance-hack-7584?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T00:46:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -143,17 +165,6 @@
       "source": "News",
       "published": "2026-10-30T17:14:22+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "d4507337f190cb27",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco Corporation Q3 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-cameco-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T16:57:46+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "c61ce428bdc45607",
@@ -231,17 +242,6 @@
       "source": "News",
       "published": "2026-10-29T16:50:00+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "3125290a5cbee2fa",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Carter Bankshares, Inc. (CARE) Q3 Earnings and Revenues Miss Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/carter-bankshares-inc-care-q3-133005300.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T13:30:05+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "fb9b92865da771d7",
