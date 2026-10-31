@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-31T15:52:12Z",
+  "updated": "2026-10-31T19:03:50Z",
   "items": [
+    {
+      "id": "0d0cb87a389aebdc",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "France Wants a 5.5-Cent-per-Gigabyte Tax on Netflix, Google and Meta",
+      "link": "https://247wallst.com/investing/2026/10/31/france-wants-a-5-5-cent-per-gigabyte-tax-on-netflix-google-and-meta/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T17:07:01+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "10d7d5526da0e1ac",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Could Rivian's Model 3 Moment Be Coming? Tesla Stock Climbed 1,364% in 3 Years.",
+      "link": "https://www.fool.com/investing/2026/10/31/could-rivians-model-3-moment-be-coming-tesla-stock/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T17:03:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ea220b65ce275f20",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "The daunting economic decision on data centers",
+      "link": "https://www.axios.com/2026/10/31/data-centers-economy-ohio#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T17:00:07+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "db7c68b5570fc36b",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "What Is Behind BOC Hong Kong (Holdings) (SEHK:2388) Latest Move? - Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY0RxOFZmLVRmRXFsS0s1MDNYM25idWo5N2FadzItN0N1WVlDa3o0aFk2RDhyTkkwQ3pPWUlYUklXdmVJamdtVENVX3JZZEJJTnl2aTRJRlZQdmgtSzZIMHJpMUtNOU05aFVoMklWZ1FaYlROMl9Hc2VPczdtLUVCdkFsMGl1aWwzaExlYmdkSXFvd0UwcFdEOVhidV8yQU1wMVQ4Q2ZGcEc5eHBJMlVwdWFoRHViZHdUdUF6SVlFVG9CX0lqek9mdDl6Ul9rWjdNdFo4M0RVX0cwUWk50gHcAUFVX3lxTE5jRHE4VmYtVGZFcWxLSzUwM1gzbmJ1ajk3YVp3Mi03Q3VZWUNrejRoWTZEOHJOSTBDek9ZSVhSSVd2ZUlqZ21UQ1VfcllkQklOeXZpNElGVlB2aC1LNkgwcmkxS005TTloVWgySVZnUVpiVE4yX0dzZU9zN20tRUJ2QWwwaXVpbDNoTGViZ2RJcW93RTBwV0Q5WGJ1XzJBTXAxVDhDZkZwRzl4cEkyVXB1YWhEdWJkd1R1QXpJWUVUb0JfSWp6T2Z0OXpSX2taN010WjgzRFVfRzBRaTk?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-10-31T16:05:33+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "d4a3f5a32e62d79b",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "'The Fed put is very much back': Wall Street strategists weigh central bank's next move",
+      "link": "https://finance.yahoo.com/markets/article/the-fed-put-is-very-much-back-wall-street-strategists-weigh-central-banks-next-move-155353732.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T15:53:53+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "5b88983f55d04437",
       "ticker": "TSLA",
@@ -35,28 +90,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "9dd7457862c8b6bf",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Yes, Alphabet Stock Got Hammered. No, We’re Not Selling.",
-      "link": "https://finance.yahoo.com/m/c87c1f67-7e8d-3e32-a321-55370038842a/yes%2C-alphabet-stock-got.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T14:43:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "0e745fdf93c54ff7",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Prediction: This Under-the-Radar AI Stock Could Have a Big 2030 Ahead",
-      "link": "https://247wallst.com/investing/2026/10/31/prediction-this-under-the-radar-ai-stock-could-have-a-big-2030-ahead/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T14:33:55+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "110fc55350a0b5bc",
       "ticker": "NU",
       "symbol": "NU",
@@ -66,17 +99,6 @@
       "source": "News",
       "published": "2026-10-31T14:25:27+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "e0e51566f7bd7a38",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Reddit stock plunges 28% as Google AI cuts US traffic",
-      "link": "https://www.thestreet.com/technology/reddit-stock-plunges-28-as-google-ai-cuts-us-traffic?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T14:07:00+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "065746e980d66ced",
@@ -101,15 +123,26 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "5ff7df3ae0aba945",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Warns Of AI Shakeout, While Zuckerberg, Pichai, Nadella, Jassy Discuss The Costs: MAG 7 Voices This Week",
-      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-warns-of-ai-shakeout-while-zuckerberg-pichai-nadella-jassy-discuss-the-costs-mag-7-voices-this-week/cZUKmssR9cO?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T02:45:16+00:00",
-      "logo": "logos/TSLA.svg"
+      "id": "0b47c636a1215ff8",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Price-Driven Insight from (BOC) for Rule-Based Strategy - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR0xXZUtaeWpDbk5pQnY2cGRYM3NIbnVXa2I1WnpSNnhJTlRtbzEwdllRczRhakNXdVNPSVB1dHdqZjJmZ1FYbUwzMzQtX3pINUNlWmF0REZGcXdWZWZNUzh5MTlRc1VldU9ELTZILW5STkkwc1BDeHpTSXkyQzIzZGhlTzR6UEpNMGNXX3ljYW9LLXpON3hLckJUU0NUWHBSR0JBZXo2LXh0TUhJY3huTndmRUxFMHJBYkFpZ1hrdVItcE1NdXdNanlwTkR6Zw?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-10-31T06:36:02+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "50b95396f942fe15",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Q2 2026 Earnings: EPS Falls Far Short of Estimates, Yet Shares Edge Higher - Performance Review - dars.gov.et",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUJ4c2REYjNuUUk0VEkySG5JdjB4bzBfeENFX25HTmZyY3Iwemw2TGNqWDVNT3RHZUlRQzFnZFRtRDVrYjk2bzlIem1yQm1Bd1Q1OHBhSlhvbmFONllMWmFIMlNCWEVJS1pzRHJxSDU4MEZPanBjakxDOC1LSGhicDNLSVBzNE52Y0xHZFlxcFBqem16N3d3bk1wY3Bsbnl5ODZGSUlhZkpFVlltX0JUOXc0bEU?oc=5",
+      "source": "dars.gov.et",
+      "published": "2026-10-31T00:32:21+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "a68139a03d8830de",
@@ -222,6 +255,17 @@
       "logo": "logos/BOC.svg"
     },
     {
+      "id": "83624958786f032b",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Hong Kong xStock Price | BOCHKX Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10Szl0V1ZraWQzeDRwem1NN3hPa2JBRk9lMW5HanFhT1czN2tQcmtjdzMyc1FfcmFKSTFSSHFILWxRdm9LbFQ1Q2YtWmdzUHBzMjdhN0JwY0huNkky?oc=5",
+      "source": "CryptoRank",
+      "published": "2026-10-29T22:37:33+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "5bb4c2d4ce83f0ed",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -244,17 +288,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "fb9b92865da771d7",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Higher On BoC Hike And GDP Test - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMVVVYUNrbG92RjQ1MUN5ajRBYXhJMnd2eVdFaDhRUVlrVnVJR00tY0dJQkhQeUpuaGFvby1pUmswSFg0ekd0bWZzMlFCdjlUdHVvMjhIdHJyc0YxSS15bDU3b3YyQXd1dmFhdEhqUV90YnAycGNWTXpBLS1XSXp6XzV0LTRMM1RDd3dzbkY3VFNOV0x2VzhxYm5ZZlpvM3otQWd5RG9VbC1qckoxZDM3dHRvS3RpMGVrZG50cXFXUTVMc3RicnfSAcsBQVVfeXFMTWZXNjhlRGJJS1cwa01Bdmw0UFZBdnN6NUp5SndfcUxhY2VGTFlCS1ZYNTA1OUVKMXhnWXBmeGRLWmxZenlVdVU4elFKdklvS1hpVU5ZU0NDbU5WWUZlMFJGTWxJb1JpTlNhWGVjZTB1N1BtcDlpZUV3U0NfTjZJcTNpaGVyeFZCSmNJUk1Eby0xeThBRERZaV9zdi1zNF9TOTVxNHNTeE05RkphNi1ieEVnRHNIOFM3Y0hTUkdTejZGOGtJbDBtWm03TGM?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-10-29T12:56:01+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "28de56a2249725ed",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -264,28 +297,6 @@
       "source": "News",
       "published": "2026-10-29T02:05:02+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "e2d20f89b933f308",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Higher As Fed And BoC Decisions Loom - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG1pa1pSNWY5akZBVkl5TFJ3ZGF6X1AwME92cEFWQnZ5QVlOb1F2MWVVTmk4OUZZcGk2ZHdoNkNWcE9sSG9wNG9IN01EZnphZFNNOUlJcVdfOTZTSHUta3duLTJkX0xNMlktWHVqakthN090cUI1REpyZ3JNYzBTLW45bEhjS1BrWXlZdXhVcEM5aUhSZHk0YWdPcDY?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-28T12:06:58+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "667d6efb0b51fede",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Stocks end higher as Fed holds key rate steady, BoC hikes - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVXBEX0J3RWpYc3VZaGNfeU1jXzBJd2g0MjVndGhxeVJ3TE9qa2p5RzlRVXI2eUpZOW9DSC1SQW4yRENUaV9YY2RMRlpmcHBuLWdJYXZGb3BnU1ZLYTBCLVY0ZFUyWWxTS216dGdKRWlvQ19fV3lJU0pKWVZnWnZTSkNuMGdWYmd5RkFQMG1fLVVZLWEzYmpRc05RVmxmMXNxNF9qMVdkSlJJaWNKVUVvMGR3S2M2Y2I2ZnZvQXIyWndVVjRvNXF5cXZ6SjhNWThlaUpGTjcxTURQYVZMTFRnSHJUMA?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-10-28T09:07:31+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "5ce87387dca0b51a",
@@ -318,17 +329,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
       "source": "Morningstar",
       "published": "2026-09-21T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "f8a705231d0ef310",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
-      "source": "Simply Wall Street",
-      "published": "2026-09-04T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
