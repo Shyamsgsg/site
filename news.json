@@ -1,49 +1,93 @@
 {
-  "updated": "2026-10-30T21:54:22Z",
+  "updated": "2026-10-31T01:22:41Z",
   "items": [
     {
-      "id": "6f68e5558fa1e41f",
+      "id": "e048a6f0ffc15234",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Cracks are emerging in the AI spending boom",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cracks-emerging-ai-spending-boom-211740864.html?.tsrc=rss",
+      "title": "Stocktwits Weekly Spread: What Shaped Treasury Yields And The Dollar This Week",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-weekly-spread-what-shaped-treasury-yields-and-the-dollar-this-week-3/cZUK1ucR9ca?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T21:17:40+00:00",
+      "published": "2026-10-31T00:54:38+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "f6381a00da85931e",
+      "id": "86c014616fcf6062",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Coinbase and Kraken Ramp Up Security After Massive Binance Hack",
+      "link": "https://www.cryptoprowl.com/releases/coinbase-and-kraken-ramp-up-security-after-massive-binance-hack-7584?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T00:46:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "0cebdeb96d10797e",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Nasdaq sheds more than 700 points as tech stocks slump",
-      "link": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/?.tsrc=rss",
+      "title": "‘Big Short’ trader says Anthropic slowdown tests AI boom",
+      "link": "https://www.thestreet.com/investing/big-short-trader-says-anthropic-slowdown-tests-ai-boom?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T21:15:00+00:00",
+      "published": "2026-10-31T00:37:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "44a127f3e9c31c45",
+      "id": "96ec77c2adedc71e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Stocktwits Zero To Sixty: Rivian Raises Delivery Guidance On R2 Demand, Tesla Expands Robotaxi Fleet, And Ford Advances Low-Cost EV Plans",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-rivian-beats-q3-estimates-on-r2-strength-and-raises-guidance-tesla-expands-robotaxi-fleet-and-ford-advances-low-cost-ev-plans/cZUKK8sR9cB?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T00:10:18+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "9041e60ec78e2166",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Anthropic turns profitable but could go back into losses: Seaport analyst",
-      "link": "https://finance.yahoo.com/video/anthropic-turns-profitable-but-could-go-back-into-losses-seaport-analyst-210940618.html?.tsrc=rss",
+      "title": "Review & Preview: Ending on a Down Note",
+      "link": "https://finance.yahoo.com/m/b0499f52-933b-3c3a-a9fe-a4d478f02828/review-%26-preview%3A-ending-on-a.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T21:09:40+00:00",
+      "published": "2026-10-30T23:55:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "c03599d86c4fbe81",
+      "id": "c2c4cf21b97ac127",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Evercose ISI downgrades Reddit, says monetization may not offset traffic weakness",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/evercose-isi-downgrades-reddit-says-205339666.html?.tsrc=rss",
+      "title": "Veteran fund manager revamps Alphabet stock price target after brutal sell-off",
+      "link": "https://www.thestreet.com/investing/stocks/veteran-fund-manager-revamps-alphabet-stock-price-target-after-brutal-selloff-googl?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-30T20:53:39+00:00",
+      "published": "2026-10-30T22:25:51+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "04718d85f31f237c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "See how Tesla stocks performed for week ending Oct. 30",
+      "link": "https://finance.yahoo.com/video/see-tesla-stocks-performed-week-221519114.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T22:15:19+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "e99d9c84aa4bd8ec",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk vs. Tesla? His Midterm Money Could Work Against His Own Cars",
+      "link": "https://finance.yahoo.com/economy/policy/articles/elon-musk-vs-tesla-midterm-210223226.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-30T21:02:23+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "a68139a03d8830de",
@@ -68,17 +112,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "f1b1c17e91c314b0",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "In A Bad Week For The AI Trade, This One Mag Seven Stock Holds Strong",
-      "link": "https://finance.yahoo.com/m/c6ea6dfa-fdb1-342d-acc1-568d7e2d17a5/in-a-bad-week-for-the-ai.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T20:04:31+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "e21331e2f6c6662b",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -88,17 +121,6 @@
       "source": "News",
       "published": "2026-10-30T18:15:33+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "161caa0268681608",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla-SpaceX Merger Could Face The Biggest Regulatory Risk In China, BofA Warns",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-merger-could-face-the-biggest-regulatory-risk-in-china-bof-a-warns/cZULbGrR9cb?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T17:58:59+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "68b55e3ef5feaeee",
@@ -121,28 +143,6 @@
       "source": "News",
       "published": "2026-10-30T17:14:22+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "0ca19097e20eb516",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Could Be About to Unlock a Brand-New Revenue Stream. Time to Buy the Stock?",
-      "link": "https://www.fool.com/investing/2026/10/30/tesla-could-be-about-to-unlock-a-brand-new-revenue-stream-time-to-buy-the-stock/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T17:09:01+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "cb5aa09cde8845dc",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Micron Became One of the 10 Biggest Holdings in S&P 500 Index Funds. What Does That Mean for the Stock?",
-      "link": "https://www.fool.com/investing/2026/10/30/micron-became-one-of-the-10-biggest-holdings-in-s-and-p-500-index-funds-what-does-that-mean-for-the-stock/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T17:01:01+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "d4507337f190cb27",
@@ -211,17 +211,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "83624958786f032b",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong xStock Price | BOCHKX Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10Szl0V1ZraWQzeDRwem1NN3hPa2JBRk9lMW5HanFhT1czN2tQcmtjdzMyc1FfcmFKSTFSSHFILWxRdm9LbFQ1Q2YtWmdzUHBzMjdhN0JwY0huNkky?oc=5",
-      "source": "CryptoRank",
-      "published": "2026-10-29T22:37:33+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "5bb4c2d4ce83f0ed",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -266,17 +255,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "d813cab6586911a7",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Up As BoC Hike Reshapes Rate Expectations - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLURvZ182UHh1OFQ2VEpyVllib3FHY1dIczJEVXJ3dVpVb2VhMDVrVldnbWtWMXN4U0hFQ1o1UjYzX0dqSEhpZXRBaEYxUWluUmU5MUl3VEpKYWlOREpFbENhbEhOTzF5QTZRbDRtWHN2NHF2dnBudWRCNHZaRFFxWXU2MmtiZ2JEaTVTQ19UNmxvT2dMQkVtR2d5c0k?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-29T12:11:30+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "28de56a2249725ed",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -286,6 +264,28 @@
       "source": "News",
       "published": "2026-10-29T02:05:02+00:00",
       "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "e2d20f89b933f308",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Canadian Stock Market Today: TSX Futures Edge Higher As Fed And BoC Decisions Loom - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG1pa1pSNWY5akZBVkl5TFJ3ZGF6X1AwME92cEFWQnZ5QVlOb1F2MWVVTmk4OUZZcGk2ZHdoNkNWcE9sSG9wNG9IN01EZnphZFNNOUlJcVdfOTZTSHUta3duLTJkX0xNMlktWHVqakthN090cUI1REpyZ3JNYzBTLW45bEhjS1BrWXlZdXhVcEM5aUhSZHk0YWdPcDY?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-28T12:06:58+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "667d6efb0b51fede",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Stocks end higher as Fed holds key rate steady, BoC hikes - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVXBEX0J3RWpYc3VZaGNfeU1jXzBJd2g0MjVndGhxeVJ3TE9qa2p5RzlRVXI2eUpZOW9DSC1SQW4yRENUaV9YY2RMRlpmcHBuLWdJYXZGb3BnU1ZLYTBCLVY0ZFUyWWxTS216dGdKRWlvQ19fV3lJU0pKWVZnWnZTSkNuMGdWYmd5RkFQMG1fLVVZLWEzYmpRc05RVmxmMXNxNF9qMVdkSlJJaWNKVUVvMGR3S2M2Y2I2ZnZvQXIyWndVVjRvNXF5cXZ6SjhNWThlaUpGTjcxTURQYVZMTFRnSHJUMA?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-10-28T09:07:31+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "5ce87387dca0b51a",
@@ -321,17 +321,6 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "fe87a991290e7083",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EMMERSON PLC (EML) Equity Price and Quote - London Stock Exchange",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
-      "source": "London Stock Exchange",
-      "published": "2026-10-22T20:53:32+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "f0a53a12472e28d6",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -351,6 +340,17 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
       "source": "Simply Wall St",
       "published": "2026-10-20T07:00:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "a538d1290699bf23",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Eastern Company (EML) Slips 2.92% to $24.31 as Shares Test Lower Support Zone - Bullish Percent Index - dars.gov.et",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUkRNN2xlVHFLMmpZNnlQZzBMYzZOMUN5ZGJCWmt3dzlEbktXcEZzNnpibG8yOVRhSFNhZV9tQVlBOU1UNHBMV1NJczdZS1ZfQ3gxcnlnZHQ3bk9ZcGs4dkMtWjZWczBGWmVTaGZOV2E0RGwxakZ0cGFjMlFCSFhTc1Zzay12clNPSHVQRXFlT2V5Wll3cG5DVDNDeDdxWFNoRE9UZlF0NVd6SE1Pa0pyUjMxUQ?oc=5",
+      "source": "dars.gov.et",
+      "published": "2026-10-17T20:45:03+00:00",
       "logo": "logos/EML.svg"
     },
     {
