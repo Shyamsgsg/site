@@ -1,6 +1,39 @@
 {
-  "updated": "2026-10-31T04:01:44Z",
+  "updated": "2026-10-31T07:17:13Z",
   "items": [
+    {
+      "id": "dfef5594e80632b0",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "A SpaceX and Tesla Merger Will Only Be Successful If This One Thing Happens",
+      "link": "https://www.fool.com/investing/2026/10/31/a-spacex-and-tesla-merger-will-only-be-successful/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T06:50:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "9dd7457862c8b6bf",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Yes, Alphabet Stock Got Hammered. No, We’re Not Selling.",
+      "link": "https://finance.yahoo.com/m/c87c1f67-7e8d-3e32-a321-55370038842a/yes%2C-alphabet-stock-got.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T06:41:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a247dd906a178dde",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Why Did the US Stock Market Crash? $2 Trillion Wiped Out",
+      "link": "https://beincrypto.com/us-stock-market-crash-ai-bubble-bursting/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T03:44:08+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "5ff7df3ae0aba945",
       "ticker": "GOOG",
@@ -24,17 +57,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "e048a6f0ffc15234",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stocktwits Weekly Spread: What Shaped Treasury Yields And The Dollar This Week",
-      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-weekly-spread-what-shaped-treasury-yields-and-the-dollar-this-week-3/cZUK1ucR9ca?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T00:54:38+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "86c014616fcf6062",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -44,17 +66,6 @@
       "source": "News",
       "published": "2026-10-31T00:46:00+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "0cebdeb96d10797e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "‘Big Short’ trader says Anthropic slowdown tests AI boom",
-      "link": "https://www.thestreet.com/investing/big-short-trader-says-anthropic-slowdown-tests-ai-boom?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T00:37:00+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "96ec77c2adedc71e",
@@ -76,17 +87,6 @@
       "link": "https://finance.yahoo.com/video/see-tesla-stocks-performed-week-221519114.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-30T22:15:19+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "e99d9c84aa4bd8ec",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk vs. Tesla? His Midterm Money Could Work Against His Own Cars",
-      "link": "https://finance.yahoo.com/economy/policy/articles/elon-musk-vs-tesla-midterm-210223226.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T21:02:23+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -211,17 +211,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "83624958786f032b",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong xStock Price | BOCHKX Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10Szl0V1ZraWQzeDRwem1NN3hPa2JBRk9lMW5HanFhT1czN2tQcmtjdzMyc1FfcmFKSTFSSHFILWxRdm9LbFQ1Q2YtWmdzUHBzMjdhN0JwY0huNkky?oc=5",
-      "source": "CryptoRank",
-      "published": "2026-10-29T22:37:33+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "5bb4c2d4ce83f0ed",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -266,17 +255,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "d813cab6586911a7",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Up As BoC Hike Reshapes Rate Expectations - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLURvZ182UHh1OFQ2VEpyVllib3FHY1dIczJEVXJ3dVpVb2VhMDVrVldnbWtWMXN4U0hFQ1o1UjYzX0dqSEhpZXRBaEYxUWluUmU5MUl3VEpKYWlOREpFbENhbEhOTzF5QTZRbDRtWHN2NHF2dnBudWRCNHZaRFFxWXU2MmtiZ2JEaTVTQ19UNmxvT2dMQkVtR2d5c0k?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-29T12:11:30+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "28de56a2249725ed",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -286,6 +264,28 @@
       "source": "News",
       "published": "2026-10-29T02:05:02+00:00",
       "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "e2d20f89b933f308",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Canadian Stock Market Today: TSX Futures Edge Higher As Fed And BoC Decisions Loom - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG1pa1pSNWY5akZBVkl5TFJ3ZGF6X1AwME92cEFWQnZ5QVlOb1F2MWVVTmk4OUZZcGk2ZHdoNkNWcE9sSG9wNG9IN01EZnphZFNNOUlJcVdfOTZTSHUta3duLTJkX0xNMlktWHVqakthN090cUI1REpyZ3JNYzBTLW45bEhjS1BrWXlZdXhVcEM5aUhSZHk0YWdPcDY?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-28T12:06:58+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "667d6efb0b51fede",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Stocks end higher as Fed holds key rate steady, BoC hikes - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVXBEX0J3RWpYc3VZaGNfeU1jXzBJd2g0MjVndGhxeVJ3TE9qa2p5RzlRVXI2eUpZOW9DSC1SQW4yRENUaV9YY2RMRlpmcHBuLWdJYXZGb3BnU1ZLYTBCLVY0ZFUyWWxTS216dGdKRWlvQ19fV3lJU0pKWVZnWnZTSkNuMGdWYmd5RkFQMG1fLVVZLWEzYmpRc05RVmxmMXNxNF9qMVdkSlJJaWNKVUVvMGR3S2M2Y2I2ZnZvQXIyWndVVjRvNXF5cXZ6SjhNWThlaUpGTjcxTURQYVZMTFRnSHJUMA?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-10-28T09:07:31+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "5ce87387dca0b51a",
