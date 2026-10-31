@@ -1,26 +1,48 @@
 {
-  "updated": "2026-10-31T09:56:43Z",
+  "updated": "2026-10-31T13:10:57Z",
   "items": [
     {
-      "id": "607b343469787984",
+      "id": "2fee7922051138f2",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Zeta Global and Commerce stocks trade down, what you need to know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zeta-global-commerce-stocks-trade-093129865.html?.tsrc=rss",
+      "title": "OpenAI Cuts Funding Target Amid Meta, Microsoft Offerings, Anthropic IPO",
+      "link": "https://finance.yahoo.com/m/9f64f875-35a4-3cac-86e3-a7d06eb54605/openai-cuts-funding-target.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-31T09:31:29+00:00",
+      "published": "2026-10-31T12:57:04+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "dbc03d4913e54b4d",
+      "id": "f2f6b72c72e428fa",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Cloudflare, Fastly, Oracle, JFrog, and Okta shares plummet, what you need to know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-fastly-oracle-jfrog-okta-092329601.html?.tsrc=rss",
+      "title": "Wall Street's favorite stocks are in their worst slump since 2010: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/wall-streets-favorite-stocks-are-in-their-worst-slump-since-2010-chart-of-the-day-124436147.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-31T09:23:29+00:00",
+      "published": "2026-10-31T12:44:36+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "55dd843697ee018c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "3 AI Infrastructure Stocks Retail Investors Are Watching After Google Search Shift",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-121029257.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T12:10:29+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "c8d4e3b7eb8f4a8f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Dow Jones Futures: Stock Market Sells Off As Apple, Palantir, Midterm Elections Loom; What To Do",
+      "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures%3A-stock.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T12:02:29+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -35,28 +57,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "03e30968d929b2fd",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "MongoDB, Datadog, Snowflake, Bandwidth, and DigitalOcean stocks trade down, what you need to know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-datadog-snowflake-bandwidth-digitalocean-091529883.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T09:15:29+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "d0b9775a26a64f3e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "2 Stocks Billionaires Can't Stop Buying",
-      "link": "https://www.fool.com/investing/2026/10/31/2-stocks-billionaires-cant-stop-buying/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T09:04:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "dfef5594e80632b0",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -68,6 +68,17 @@
       "logo": "logos/TSLA.svg"
     },
     {
+      "id": "5ff7df3ae0aba945",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Warns Of AI Shakeout, While Zuckerberg, Pichai, Nadella, Jassy Discuss The Costs: MAG 7 Voices This Week",
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-warns-of-ai-shakeout-while-zuckerberg-pichai-nadella-jassy-discuss-the-costs-mag-7-voices-this-week/cZUKmssR9cO?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T02:45:16+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
       "id": "86c014616fcf6062",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -76,17 +87,6 @@
       "link": "https://www.cryptoprowl.com/releases/coinbase-and-kraken-ramp-up-security-after-massive-binance-hack-7584?.tsrc=rss",
       "source": "News",
       "published": "2026-10-31T00:46:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "96ec77c2adedc71e",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Stocktwits Zero To Sixty: Rivian Raises Delivery Guidance On R2 Demand, Tesla Expands Robotaxi Fleet, And Ford Advances Low-Cost EV Plans",
-      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-rivian-beats-q3-estimates-on-r2-strength-and-raises-guidance-tesla-expands-robotaxi-fleet-and-ford-advances-low-cost-ev-plans/cZUKK8sR9cB?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T00:10:18+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
