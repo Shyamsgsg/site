@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-31T07:17:13Z",
+  "updated": "2026-10-31T09:56:43Z",
   "items": [
+    {
+      "id": "607b343469787984",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Zeta Global and Commerce stocks trade down, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zeta-global-commerce-stocks-trade-093129865.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T09:31:29+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "dbc03d4913e54b4d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Cloudflare, Fastly, Oracle, JFrog, and Okta shares plummet, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-fastly-oracle-jfrog-okta-092329601.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T09:23:29+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "065746e980d66ced",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX Is Considering a Merger With Tesla. Here's Why That Would Be a Bad Move.",
+      "link": "https://www.fool.com/investing/2026/10/31/spacex-is-considering-a-merger-with-tesla-heres-wh/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T09:20:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "03e30968d929b2fd",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "MongoDB, Datadog, Snowflake, Bandwidth, and DigitalOcean stocks trade down, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-datadog-snowflake-bandwidth-digitalocean-091529883.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T09:15:29+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d0b9775a26a64f3e",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "2 Stocks Billionaires Can't Stop Buying",
+      "link": "https://www.fool.com/investing/2026/10/31/2-stocks-billionaires-cant-stop-buying/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-10-31T09:04:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "dfef5594e80632b0",
       "ticker": "TSLA",
@@ -11,50 +66,6 @@
       "source": "News",
       "published": "2026-10-31T06:50:00+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "9dd7457862c8b6bf",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Yes, Alphabet Stock Got Hammered. No, We’re Not Selling.",
-      "link": "https://finance.yahoo.com/m/c87c1f67-7e8d-3e32-a321-55370038842a/yes%2C-alphabet-stock-got.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T06:41:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "a247dd906a178dde",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Why Did the US Stock Market Crash? $2 Trillion Wiped Out",
-      "link": "https://beincrypto.com/us-stock-market-crash-ai-bubble-bursting/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T03:44:08+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "5ff7df3ae0aba945",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Elon Musk Warns Of AI Shakeout, While Zuckerberg, Pichai, Nadella, Jassy Discuss The Costs: MAG 7 Voices This Week",
-      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-warns-of-ai-shakeout-while-zuckerberg-pichai-nadella-jassy-discuss-the-costs-mag-7-voices-this-week/cZUKmssR9cO?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T02:45:16+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "f5b08cfe3aace306",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Broadcom Heads These 3 Top Undervalued Stocks To Watch",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-heads-3-top-undervalued-021202308.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T02:12:02+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "86c014616fcf6062",
@@ -76,17 +87,6 @@
       "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-rivian-beats-q3-estimates-on-r2-strength-and-raises-guidance-tesla-expands-robotaxi-fleet-and-ford-advances-low-cost-ev-plans/cZUKK8sR9cB?.tsrc=rss",
       "source": "News",
       "published": "2026-10-31T00:10:18+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "04718d85f31f237c",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "See how Tesla stocks performed for week ending Oct. 30",
-      "link": "https://finance.yahoo.com/video/see-tesla-stocks-performed-week-221519114.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T22:15:19+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -310,47 +310,47 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "53967035a1a34556",
+      "id": "8a5da30ec073805f",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "Eastern Company (The) Estimates – NASDAQ:EML - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GWDlFaWdnXzBEc1VPM3Z1SHEyUFFFV3ZRMmVDckNDX0NRWGZ2YW4tQkZ5alVqdi1IcVdiU1MxRmZTWGhtaUJHUTNNVmpNLXdfLTNNOU5EdXkwdmI1dXhVQm9sTExGVFFMZ21GUTFlZDhvVGNnSVlF?oc=5",
-      "source": "TradingView",
-      "published": "2026-10-25T01:19:09+00:00",
+      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
+      "source": "Morningstar",
+      "published": "2026-09-21T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
-      "id": "f0a53a12472e28d6",
+      "id": "f8a705231d0ef310",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "Responsive Playbooks and the EML Inflection - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQ0QTl2bHVibXhPSDVodmNjYUpCdnRmVmZyRW5PbU1USHdCaUNPdF81emNmOF8zMWExQ1JVcWNwSFRwcFpJMjZLUnh2VEtZcE5fbHJObmRHcC05VEFyNmhOOGY0bURtbEV3NUp5dGgxNHhvVXlsUW1WTlQtR0NGUV9uRUVsNWJtU2gzVEt0cF9hOWloQjMzNTFBQ3o1dTFnaWswYjdaNVBXWDZqNjJiZ0VmWkgwY25HYjVvMEZ3UFE?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-10-21T23:20:01+00:00",
+      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
+      "source": "Simply Wall Street",
+      "published": "2026-09-04T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
-      "id": "5ac47598a8165996",
+      "id": "51375114ce2bd04f",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-10-20T07:00:00+00:00",
+      "title": "EML Payments Earnings: Fair Value Cut to Reflect Cash Cost of Retaining Staff - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOTNvUHUtejExaHpLTUJleGlnaG5IMUk4bFM1dkEyVzN2VlBpaGRiUF8zckVSZDgyM2ZXS2hXVnJLZW1hcFJGemFMMGhJdWo5ODctVnowbEdvbHRsVG5JaXV1aUQyRlBNeFNBVDNMc244MGdkU0dhQWxNYm9Ealk3cFRFb0xMSUIybjJxaVFrb3VSbURUZ0p0RUVLaHBzRzJ2LXJTdUdVMmlFaER6T3kzUjZGY0hIWUYzaUxUM0NGZWpfRlZYdEdj?oc=5",
+      "source": "Morningstar",
+      "published": "2026-08-19T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
-      "id": "a538d1290699bf23",
+      "id": "805631fb9c66006e",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "Eastern Company (EML) Slips 2.92% to $24.31 as Shares Test Lower Support Zone - Bullish Percent Index - dars.gov.et",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUkRNN2xlVHFLMmpZNnlQZzBMYzZOMUN5ZGJCWmt3dzlEbktXcEZzNnpibG8yOVRhSFNhZV9tQVlBOU1UNHBMV1NJczdZS1ZfQ3gxcnlnZHQ3bk9ZcGs4dkMtWjZWczBGWmVTaGZOV2E0RGwxakZ0cGFjMlFCSFhTc1Zzay12clNPSHVQRXFlT2V5Wll3cG5DVDNDeDdxWFNoRE9UZlF0NVd6SE1Pa0pyUjMxUQ?oc=5",
-      "source": "dars.gov.et",
-      "published": "2026-10-17T20:45:03+00:00",
+      "title": "EML Shares Undervalued Despite Our Fair Value Reduction - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDhjaGI1NUZ2MnNCbjFIZlRTSzJSM3d3Z0d6aTNUSjNBcXdLTkNiajFSV2dveEVKenRIVXRjMUtQQW81THBSRm9JMGF2bDBieW53bUJHUmIwRDEydjhHREJzcENPbFRUU0NSemlIeWFuTXM4alpZWUh2UHJuZDU5allyWFpCcFFCeHRpRXlvdmNDWjR4NklyczJGbkM4UnlQUkZIVThzYk5RNG8?oc=5",
+      "source": "Morningstar",
+      "published": "2026-08-19T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
