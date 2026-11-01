@@ -1,6 +1,72 @@
 {
-  "updated": "2026-11-01T09:59:58Z",
+  "updated": "2026-11-01T13:12:06Z",
   "items": [
+    {
+      "id": "5b0ab48507a53e0c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Beyond Nvidia And Hyperscalers: Beth Kindig Sees A $1 Trillion AI Infrastructure Opportunity For These Stocks",
+      "link": "https://stocktwits.com/news-articles/markets/equity/beyond-nvda-hyperscalers-beth-kindig-1-trillion-opportunity-stocks/cNGep4bR922?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T12:52:03+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "2e947d7406e86f7c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet Gets Kicked Out of the $4 Trillion Club After Its Record $505 Billion Drop. Here's What History Says Could Come Next",
+      "link": "https://www.fool.com/investing/2026/11/01/alphabet-gets-kicked-out-of-the-4-trillion-club/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T12:35:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "cb96b366f94257d1",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Dow Jones Futures Loom After Market Sell-Off; How Midterm Elections May Swing Stocks",
+      "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T12:24:15+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ed130337bfe8e8fd",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "GOOGL Market Cap Drops Nearly $500B After Google Search Fell Below 50% Of Alphabet's Revenue — David Sacks Explains Why That's A Good Thing",
+      "link": "https://stocktwits.com/news-articles/markets/equity/googl-market-cap-500b-google-search-share-50-david-sacks-good-thing/cNGe8XsR92b?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T11:44:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "7b69dc848c9351f1",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "The First U.S. Humanoid Robot Stock Starts Trading in November. Here's Why I'd Wait for the De-SPAC Dip.",
+      "link": "https://www.fool.com/investing/2026/11/01/the-first-us-humanoid-robot-stock-starts-trading-i/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T11:28:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "72b208a62b0b9c29",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Rivian CEO Says Autonomy Could Drive ‘Huge Changes’ in Market Share as Tesla FSD Rival Emerges",
+      "link": "https://finance.yahoo.com/technology/articles/rivian-ceo-says-autonomy-could-104507835.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T10:45:07+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "99b1e661c27bc71b",
       "ticker": "TSLA",
@@ -11,17 +77,6 @@
       "source": "News",
       "published": "2026-11-01T05:16:14+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "215fddafaba72d91",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Dow Jones Futures Loom After Stock Market Sell-Off; Apple, Palantir, Midterm Elections In Focus",
-      "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-01T02:44:14+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "add099849758f8a7",
@@ -35,17 +90,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "cc6ca12942e61003",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Anthropic's Frenemies Meta and Google Are Showing Cracks In the AI Trade. What That Tells Us About the Anthropic IPO.",
-      "link": "https://www.barchart.com/story/news/8577768/anthropic-s-frenemies-meta-and-google-are-showing-cracks-in-the-ai-trade-what-that-tells-us-about-the-anthropic-ipo?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-01T01:00:03+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "3ee858189d0b5314",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -57,59 +101,15 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "236fe03f7076e406",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "The 5 most interesting analyst questions from Alphabet’s Q3 earnings call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-213100472.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T21:31:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "ab28287a57527a3b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "5 Most Profitable Stocks of the Past 5 Years",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-profitable-stocks-past-202256304.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T20:22:56+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "10d7d5526da0e1ac",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Could Rivian's Model 3 Moment Be Coming? Tesla Stock Climbed 1,364% in 3 Years.",
-      "link": "https://www.fool.com/investing/2026/10/31/could-rivians-model-3-moment-be-coming-tesla-stock/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T17:03:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "2de28243d01abbab",
+      "id": "db7c68b5570fc36b",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
       "title": "What Is Behind BOC Hong Kong (Holdings) (SEHK:2388) Latest Move? - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2xmQ3h5MjVnVXpUSExkbFZMRVBDSDVaM3VWZllOUTlONUQ3V2RhUzI4amRhU0FJMzlBa0phNU5KUEhGeUZLLVRJUU1nWEswbjR1RmJRa1paSk1RVkNZMG5FZkVEZ0t2cV9mRllZYlhlNVF5UlZBS3diZFA0bWRPdFljcHo2TkpteEx3cWdUTWgtbWVPTHlvWFZKSWpfbnlfR1FKV3FnZHgtNE90QmZyV0lDdDZDYmhVR3JOeVdqZjBIMkpGeURzY19DWG1uVVBodWpuSVp0SdIB3AFBVV95cUxOY0RxOFZmLVRmRXFsS0s1MDNYM25idWo5N2FadzItN0N1WVlDa3o0aFk2RDhyTkkwQ3pPWUlYUklXdmVJamdtVENVX3JZZEJJTnl2aTRJRlZQdmgtSzZIMHJpMUtNOU05aFVoMklWZ1FaYlROMl9Hc2VPczdtLUVCdkFsMGl1aWwzaExlYmdkSXFvd0UwcFdEOVhidV8yQU1wMVQ4Q2ZGcEc5eHBJMlVwdWFoRHViZHdUdUF6SVlFVG9CX0lqek9mdDl6Ul9rWjdNdFo4M0RVX0cwUWk5?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY0RxOFZmLVRmRXFsS0s1MDNYM25idWo5N2FadzItN0N1WVlDa3o0aFk2RDhyTkkwQ3pPWUlYUklXdmVJamdtVENVX3JZZEJJTnl2aTRJRlZQdmgtSzZIMHJpMUtNOU05aFVoMklWZ1FaYlROMl9Hc2VPczdtLUVCdkFsMGl1aWwzaExlYmdkSXFvd0UwcFdEOVhidV8yQU1wMVQ4Q2ZGcEc5eHBJMlVwdWFoRHViZHdUdUF6SVlFVG9CX0lqek9mdDl6Ul9rWjdNdFo4M0RVX0cwUWk50gHcAUFVX3lxTE5jRHE4VmYtVGZFcWxLSzUwM1gzbmJ1ajk3YVp3Mi03Q3VZWUNrejRoWTZEOHJOSTBDek9ZSVhSSVd2ZUlqZ21UQ1VfcllkQklOeXZpNElGVlB2aC1LNkgwcmkxS005TTloVWgySVZnUVpiVE4yX0dzZU9zN20tRUJ2QWwwaXVpbDNoTGViZ2RJcW93RTBwV0Q5WGJ1XzJBTXAxVDhDZkZwRzl4cEkyVXB1YWhEdWJkd1R1QXpJWUVUb0JfSWp6T2Z0OXpSX2taN010WjgzRFVfRzBRaTk?oc=5",
       "source": "Simply Wall St",
-      "published": "2026-10-31T16:05:31+00:00",
+      "published": "2026-10-31T16:05:33+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "5b88983f55d04437",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Has Incredible News for Micron Stock Investors",
-      "link": "https://www.fool.com/investing/2026/10/31/elon-musk-has-incredible-news-for-micron-stock-investors/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T15:14:01+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "6036bb7e48c47c54",
@@ -165,6 +165,17 @@
       "source": "https://www.dars.gov.et/",
       "published": "2026-10-31T00:30:15+00:00",
       "logo": "logos/EML.svg"
+    },
+    {
+      "id": "c81b54ca772adc3f",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC HONG KONG-R (82388) Stock Forum and Discussion - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbzdOYS1DN19CMmFtTnZYd3A1d2w1VlhzYVROZUpuUzc3eXZtNnMxMTVBb0lMZDhNYnFtRVkxaVBkbU85dXZGSnJHMXB0bDVxdzZJVXg3STMwU1dZNzZ6VDU5ZmtKRk5YWmwwaC1NbFNOa1hKSVR0RFI5N2tnNUQxZ05SaGZwZzFvSVBfWTdRc1BNRHptU3p0OEdGdC1GMC1WUTB1MkU2dmpVNmEzM3ZBS0tDeU1ZanM0OXJ6dnViSnZkMzVsa1NGU0NYbEpsMWhrVU9rNXNiX2FaQ0F4TWoyNmNRd1VCWU44ZGw5ZnM0bjJiQTlSSkEtZzhFTVYySHg5azlTT3VvQkdHVS05T2dDU0lDd1hjdDQ2dG51TU1ZZWtNeEtzWmp3dnNQM3o2Q1BCclJFZVRnZnZDQQ?oc=5",
+      "source": "Moomoo",
+      "published": "2026-10-31T00:23:40+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "a68139a03d8830de",
@@ -297,17 +308,6 @@
       "source": "News",
       "published": "2026-10-29T16:50:00+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "fb9b92865da771d7",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Higher On BoC Hike And GDP Test - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMVVVYUNrbG92RjQ1MUN5ajRBYXhJMnd2eVdFaDhRUVlrVnVJR00tY0dJQkhQeUpuaGFvby1pUmswSFg0ekd0bWZzMlFCdjlUdHVvMjhIdHJyc0YxSS15bDU3b3YyQXd1dmFhdEhqUV90YnAycGNWTXpBLS1XSXp6XzV0LTRMM1RDd3dzbkY3VFNOV0x2VzhxYm5ZZlpvM3otQWd5RG9VbC1qckoxZDM3dHRvS3RpMGVrZG50cXFXUTVMc3RicnfSAcsBQVVfeXFMTWZXNjhlRGJJS1cwa01Bdmw0UFZBdnN6NUp5SndfcUxhY2VGTFlCS1ZYNTA1OUVKMXhnWXBmeGRLWmxZenlVdVU4elFKdklvS1hpVU5ZU0NDbU5WWUZlMFJGTWxJb1JpTlNhWGVjZTB1N1BtcDlpZUV3U0NfTjZJcTNpaGVyeFZCSmNJUk1Eby0xeThBRERZaV9zdi1zNF9TOTVxNHNTeE05RkphNi1ieEVnRHNIOFM3Y0hTUkdTejZGOGtJbDBtWm03TGM?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-10-29T12:56:01+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "28de56a2249725ed",
