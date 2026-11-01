@@ -1,28 +1,6 @@
 {
-  "updated": "2026-11-01T13:12:06Z",
+  "updated": "2026-11-01T15:52:00Z",
   "items": [
-    {
-      "id": "5b0ab48507a53e0c",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Beyond Nvidia And Hyperscalers: Beth Kindig Sees A $1 Trillion AI Infrastructure Opportunity For These Stocks",
-      "link": "https://stocktwits.com/news-articles/markets/equity/beyond-nvda-hyperscalers-beth-kindig-1-trillion-opportunity-stocks/cNGep4bR922?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-01T12:52:03+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "2e947d7406e86f7c",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet Gets Kicked Out of the $4 Trillion Club After Its Record $505 Billion Drop. Here's What History Says Could Come Next",
-      "link": "https://www.fool.com/investing/2026/11/01/alphabet-gets-kicked-out-of-the-4-trillion-club/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-01T12:35:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
     {
       "id": "cb96b366f94257d1",
       "ticker": "GOOG",
@@ -31,19 +9,52 @@
       "title": "Dow Jones Futures Loom After Market Sell-Off; How Midterm Elections May Swing Stocks",
       "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-01T12:24:15+00:00",
+      "published": "2026-11-01T15:26:28+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "ed130337bfe8e8fd",
+      "id": "ef7dfc8cd59293dd",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "GOOGL Market Cap Drops Nearly $500B After Google Search Fell Below 50% Of Alphabet's Revenue — David Sacks Explains Why That's A Good Thing",
-      "link": "https://stocktwits.com/news-articles/markets/equity/googl-market-cap-500b-google-search-share-50-david-sacks-good-thing/cNGe8XsR92b?.tsrc=rss",
+      "title": "Wall Street just got a candid look at who is winning the AI race",
+      "link": "https://www.thestreet.com/markets/wall-street-candid-look-winning-ai-race?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-01T11:44:00+00:00",
+      "published": "2026-11-01T14:33:00+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "2a4ff478bb346005",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "5 Best Tech Stocks for the Next 5 Years According to Financial Media",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-next-140507052.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T14:05:07+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "99a77d74c0a684a0",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Presentations.AI Launches White-Label AI Presentation Generator and Editable PowerPoint API for SaaS Companies, Agencies and AI Agents at $0.10 Per Slide With a 50% Launch Discount",
+      "link": "https://finance.yahoo.com/technology/ai/articles/presentations-ai-launches-white-label-140300818.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T14:03:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "77685e6bde5b42fc",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla China EV Rivals BYD, Xiaomi, XPeng Report Strong Sales As Year-End Push Begins",
+      "link": "https://finance.yahoo.com/m/baa62bb5-87b3-3c69-aa80-c1e67491d7bf/tesla-china-ev-rivals-byd%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T13:25:47+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "7b69dc848c9351f1",
@@ -76,17 +87,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/cybercab-expansion-might-change-case-051614061.html?.tsrc=rss",
       "source": "News",
       "published": "2026-11-01T05:16:14+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "add099849758f8a7",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla's Cybercab Reaches Dallas in November, and Nevada Just Cleared 5,000 Robotaxis in Las Vegas. Here's the Number That Makes the Bulls Right.",
-      "link": "https://www.fool.com/investing/2026/10/31/teslas-cybercab-reaches-dallas-in-november-and-nev/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-01T01:05:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -284,7 +284,7 @@
       "title": "BOC Hong Kong Announces Third Interim Dividend of HKD 0.29 per Share - VZ VermögensZentrum",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaDFJTXozNnJEU1lycU43NUh0cGc1aXBsR1QwZjlOUjVQbkpSbVk2aXhDbV9janZ0N3Fxd1BVQnJFT2lEcE9leTlNRE1VV3FMYVpib2ppZk1Hajh5VkF4MEFFQm00SEt1YUptMHR6ZVJsTUhZdndCNkFLeTBxSE01NUttSVZwbjB1bnVmbGFqZUVqWUFlWVVLaGNTbWxPWVRhNExpUHM5WFV2TzdxOHFHcGNXak9kbVVEaGZuTVVKTmctbGxyVzZN?oc=5",
       "source": "VZ VermögensZentrum",
-      "published": "2026-10-30T09:35:27+00:00",
+      "published": "2026-10-30T01:25:27+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -343,14 +343,14 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "05fc5eb6cf4d3592",
+      "id": "53967035a1a34556",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "Third-quarter results are scheduled after the market closes Nov. 10; the call follows at 9 a.m. ET Nov. 11. - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa200Qi1NVVBsRnFReGd6dHNURWpuMWZvT1h3TEVqb2h3MjFIanA3S0hnczFVY3Y5YkpmbE0tc2E2b3NWRzMtcVhxQWtqTUoxRmlxdmVQWENjQUxNQ0tYVEo4Y29idnBUeGlONy1rSHJmZjFWSzNtaERrUE15QjBEMTl4S2FQOGFZa2N2LVFBTG4wdDI3aW5oVTFtVXNoS0ZSNHFfWE9DNURab2VDVVVHbXFUZzJhUXphalc2ZnlB?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-10-23T07:00:00+00:00",
+      "title": "Eastern Company (The) Estimates – NASDAQ:EML - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GWDlFaWdnXzBEc1VPM3Z1SHEyUFFFV3ZRMmVDckNDX0NRWGZ2YW4tQkZ5alVqdi1IcVdiU1MxRmZTWGhtaUJHUTNNVmpNLXdfLTNNOU5EdXkwdmI1dXhVQm9sTExGVFFMZ21GUTFlZDhvVGNnSVlF?oc=5",
+      "source": "TradingView",
+      "published": "2026-10-25T01:19:09+00:00",
       "logo": "logos/EML.svg"
     },
     {
