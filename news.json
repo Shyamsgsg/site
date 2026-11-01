@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-31T21:52:11Z",
+  "updated": "2026-11-01T01:29:12Z",
   "items": [
+    {
+      "id": "add099849758f8a7",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla's Cybercab Reaches Dallas in November, and Nevada Just Cleared 5,000 Robotaxis in Las Vegas. Here's the Number That Makes the Bulls Right.",
+      "link": "https://www.fool.com/investing/2026/10/31/teslas-cybercab-reaches-dallas-in-november-and-nev/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T01:05:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "236fe03f7076e406",
       "ticker": "GOOG",
@@ -112,17 +123,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "065746e980d66ced",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX Is Considering a Merger With Tesla. Here's Why That Would Be a Bad Move.",
-      "link": "https://www.fool.com/investing/2026/10/31/spacex-is-considering-a-merger-with-tesla-heres-wh/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T09:20:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "0b47c636a1215ff8",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -134,25 +134,25 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "3d41e88153881549",
+      "id": "117b1f6079f63336",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Q2 2026 Earnings: EPS Falls Far Short of Estimates, Yet Shares Edge Higher - New Analyst Coverage - https://www.dars.gov.et/",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUd5UjB1azNRaml0S0hZaHE4U1QxWUpvLUh2SmZSOS1VYndHanQ4TnJVdzcwSnVfNUZJNjRMMW1mT1l6enY5R0RaVTBtNlotZGRJVFVtZEdrUDJ0QWZrQnRlcUhEYzVhdEhyd1N0ZlROWWFiaTFBLXRrNGNnZFFWOEhJT0pBRTYxM0g0WS13UEZEUEhmWVI0Si1XOHFuQ0s3SWJNNl9MQ2xQcXE4d3YwWHJaLUx3U0d2U29neTl3?oc=5",
+      "title": "EML Q2 2026 Earnings: EPS Falls Far Short of Estimates, Yet Shares Edge Higher - Dividend Increase Stocks - https://www.dars.gov.et/",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUJ4c2REYjNuUUk0VEkySG5JdjB4bzBfeENFX25HTmZyY3Iwemw2TGNqWDVNT3RHZUlRQzFnZFRtRDVrYjk2bzlIem1yQm1Bd1Q1OHBhSlhvbmFONllMWmFIMlNCWEVJS1pzRHJxSDU4MEZPanBjakxDOC1LSGhicDNLSVBzNE52Y0xHZFlxcFBqem16N3d3bk1wY3Bsbnl5ODZGSUlhZkpFVlltX0JUOXc0bEU?oc=5",
       "source": "https://www.dars.gov.et/",
-      "published": "2026-10-31T00:47:30+00:00",
+      "published": "2026-10-31T00:48:18+00:00",
       "logo": "logos/EML.svg"
     },
     {
-      "id": "50b95396f942fe15",
+      "id": "23af6665126c3018",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Q2 2026 Earnings: EPS Falls Far Short of Estimates, Yet Shares Edge Higher - Performance Review - dars.gov.et",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUJ4c2REYjNuUUk0VEkySG5JdjB4bzBfeENFX25HTmZyY3Iwemw2TGNqWDVNT3RHZUlRQzFnZFRtRDVrYjk2bzlIem1yQm1Bd1Q1OHBhSlhvbmFONllMWmFIMlNCWEVJS1pzRHJxSDU4MEZPanBjakxDOC1LSGhicDNLSVBzNE52Y0xHZFlxcFBqem16N3d3bk1wY3Bsbnl5ODZGSUlhZkpFVlltX0JUOXc0bEU?oc=5",
-      "source": "dars.gov.et",
-      "published": "2026-10-31T00:32:21+00:00",
+      "title": "EML Q2 2026 Earnings: EPS Falls Far Short of Estimates, Yet Shares Edge Higher - Margin Expansion Trends - https://www.dars.gov.et/",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUd5UjB1azNRaml0S0hZaHE4U1QxWUpvLUh2SmZSOS1VYndHanQ4TnJVdzcwSnVfNUZJNjRMMW1mT1l6enY5R0RaVTBtNlotZGRJVFVtZEdrUDJ0QWZrQnRlcUhEYzVhdEhyd1N0ZlROWWFiaTFBLXRrNGNnZFFWOEhJT0pBRTYxM0g0WS13UEZEUEhmWVI0Si1XOHFuQ0s3SWJNNl9MQ2xQcXE4d3YwWHJaLUx3U0d2U29neTl3?oc=5",
+      "source": "https://www.dars.gov.et/",
+      "published": "2026-10-31T00:34:14+00:00",
       "logo": "logos/EML.svg"
     },
     {
@@ -343,14 +343,14 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "05fc5eb6cf4d3592",
+      "id": "fe87a991290e7083",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "Third-quarter results are scheduled after the market closes Nov. 10; the call follows at 9 a.m. ET Nov. 11. - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa200Qi1NVVBsRnFReGd6dHNURWpuMWZvT1h3TEVqb2h3MjFIanA3S0hnczFVY3Y5YkpmbE0tc2E2b3NWRzMtcVhxQWtqTUoxRmlxdmVQWENjQUxNQ0tYVEo4Y29idnBUeGlONy1rSHJmZjFWSzNtaERrUE15QjBEMTl4S2FQOGFZa2N2LVFBTG4wdDI3aW5oVTFtVXNoS0ZSNHFfWE9DNURab2VDVVVHbXFUZzJhUXphalc2ZnlB?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-10-23T07:00:00+00:00",
+      "title": "EMMERSON PLC (EML) Equity Price and Quote - London Stock Exchange",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
+      "source": "London Stock Exchange",
+      "published": "2026-10-22T20:53:32+00:00",
       "logo": "logos/EML.svg"
     },
     {
