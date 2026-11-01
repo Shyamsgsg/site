@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-01T04:10:53Z",
+  "updated": "2026-11-01T07:23:41Z",
   "items": [
+    {
+      "id": "99b1e661c27bc71b",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Cybercab Expansion Might Change The Case For Investing In Tesla Stock (TSLA)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cybercab-expansion-might-change-case-051614061.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T05:16:14+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "215fddafaba72d91",
       "ticker": "GOOG",
@@ -22,6 +33,28 @@
       "source": "News",
       "published": "2026-11-01T01:05:00+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "cc6ca12942e61003",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Anthropic's Frenemies Meta and Google Are Showing Cracks In the AI Trade. What That Tells Us About the Anthropic IPO.",
+      "link": "https://www.barchart.com/story/news/8577768/anthropic-s-frenemies-meta-and-google-are-showing-cracks-in-the-ai-trade-what-that-tells-us-about-the-anthropic-ipo?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T01:00:03+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "3ee858189d0b5314",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Discipline and Rules-Based Execution in EML Response - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVS1uYi1HVWFzVDV2SUY4bHprelpvWEFNMFpPLXpET3dSMVFfQlNremR5em51UU5pM09mRHlhUzNfTFM4Z0hpR1prcmJhdTNLZDdFblVNUkxpeUZvbEQtVFFFUTNHQVBiRkVhdUw0UThSbGFvd0t2TVd4aFczQzdCM2xXdjNUSnB3NFQwdHhvMTlTRXV0N3E2NG9IVFlUT282ZzVCV0lnZTF0cjJSYjNuVW5wLXYzOTZzVzFKWXJtYVJCcGJUYVZGRnJWd1o?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-11-01T00:40:01+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "236fe03f7076e406",
@@ -46,17 +79,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "22ece2f24a37abbc",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Will AI Answers Become as Winner-Take-All as Google? – Uneasy Money",
-      "link": "https://unchainedcrypto.com/will-ai-answers-become-as-winner-take-all-as-google-uneasy-money/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T20:00:59+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "10d7d5526da0e1ac",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -68,14 +90,14 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "2de28243d01abbab",
+      "id": "db7c68b5570fc36b",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
       "title": "What Is Behind BOC Hong Kong (Holdings) (SEHK:2388) Latest Move? - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2xmQ3h5MjVnVXpUSExkbFZMRVBDSDVaM3VWZllOUTlONUQ3V2RhUzI4amRhU0FJMzlBa0phNU5KUEhGeUZLLVRJUU1nWEswbjR1RmJRa1paSk1RVkNZMG5FZkVEZ0t2cV9mRllZYlhlNVF5UlZBS3diZFA0bWRPdFljcHo2TkpteEx3cWdUTWgtbWVPTHlvWFZKSWpfbnlfR1FKV3FnZHgtNE90QmZyV0lDdDZDYmhVR3JOeVdqZjBIMkpGeURzY19DWG1uVVBodWpuSVp0SdIB3AFBVV95cUxOY0RxOFZmLVRmRXFsS0s1MDNYM25idWo5N2FadzItN0N1WVlDa3o0aFk2RDhyTkkwQ3pPWUlYUklXdmVJamdtVENVX3JZZEJJTnl2aTRJRlZQdmgtSzZIMHJpMUtNOU05aFVoMklWZ1FaYlROMl9Hc2VPczdtLUVCdkFsMGl1aWwzaExlYmdkSXFvd0UwcFdEOVhidV8yQU1wMVQ4Q2ZGcEc5eHBJMlVwdWFoRHViZHdUdUF6SVlFVG9CX0lqek9mdDl6Ul9rWjdNdFo4M0RVX0cwUWk5?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY0RxOFZmLVRmRXFsS0s1MDNYM25idWo5N2FadzItN0N1WVlDa3o0aFk2RDhyTkkwQ3pPWUlYUklXdmVJamdtVENVX3JZZEJJTnl2aTRJRlZQdmgtSzZIMHJpMUtNOU05aFVoMklWZ1FaYlROMl9Hc2VPczdtLUVCdkFsMGl1aWwzaExlYmdkSXFvd0UwcFdEOVhidV8yQU1wMVQ4Q2ZGcEc5eHBJMlVwdWFoRHViZHdUdUF6SVlFVG9CX0lqek9mdDl6Ul9rWjdNdFo4M0RVX0cwUWk50gHcAUFVX3lxTE5jRHE4VmYtVGZFcWxLSzUwM1gzbmJ1ajk3YVp3Mi03Q3VZWUNrejRoWTZEOHJOSTBDek9ZSVhSSVd2ZUlqZ21UQ1VfcllkQklOeXZpNElGVlB2aC1LNkgwcmkxS005TTloVWgySVZnUVpiVE4yX0dzZU9zN20tRUJ2QWwwaXVpbDNoTGViZ2RJcW93RTBwV0Q5WGJ1XzJBTXAxVDhDZkZwRzl4cEkyVXB1YWhEdWJkd1R1QXpJWUVUb0JfSWp6T2Z0OXpSX2taN010WjgzRFVfRzBRaTk?oc=5",
       "source": "Simply Wall St",
-      "published": "2026-10-31T16:05:31+00:00",
+      "published": "2026-10-31T16:05:33+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -112,17 +134,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "065746e980d66ced",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX Is Considering a Merger With Tesla. Here's Why That Would Be a Bad Move.",
-      "link": "https://www.fool.com/investing/2026/10/31/spacex-is-considering-a-merger-with-tesla-heres-wh/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T09:20:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "0b47c636a1215ff8",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -134,26 +145,37 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "117b1f6079f63336",
+      "id": "7eef0c29fc377e96",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Q2 2026 Earnings: EPS Falls Far Short of Estimates, Yet Shares Edge Higher - Dividend Increase Stocks - https://www.dars.gov.et/",
+      "title": "EML Q2 2026 Earnings: EPS Falls Far Short of Estimates, Yet Shares Edge Higher - Earnings Expansion Phase - https://www.dars.gov.et/",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUJ4c2REYjNuUUk0VEkySG5JdjB4bzBfeENFX25HTmZyY3Iwemw2TGNqWDVNT3RHZUlRQzFnZFRtRDVrYjk2bzlIem1yQm1Bd1Q1OHBhSlhvbmFONllMWmFIMlNCWEVJS1pzRHJxSDU4MEZPanBjakxDOC1LSGhicDNLSVBzNE52Y0xHZFlxcFBqem16N3d3bk1wY3Bsbnl5ODZGSUlhZkpFVlltX0JUOXc0bEU?oc=5",
       "source": "https://www.dars.gov.et/",
-      "published": "2026-10-31T00:48:18+00:00",
+      "published": "2026-10-31T00:40:36+00:00",
       "logo": "logos/EML.svg"
     },
     {
-      "id": "23af6665126c3018",
+      "id": "f25193ac12daddba",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Q2 2026 Earnings: EPS Falls Far Short of Estimates, Yet Shares Edge Higher - Margin Expansion Trends - https://www.dars.gov.et/",
+      "title": "EML Q2 2026 Earnings: EPS Falls Far Short of Estimates, Yet Shares Edge Higher - Analyst Earnings Estimate - https://www.dars.gov.et/",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUd5UjB1azNRaml0S0hZaHE4U1QxWUpvLUh2SmZSOS1VYndHanQ4TnJVdzcwSnVfNUZJNjRMMW1mT1l6enY5R0RaVTBtNlotZGRJVFVtZEdrUDJ0QWZrQnRlcUhEYzVhdEhyd1N0ZlROWWFiaTFBLXRrNGNnZFFWOEhJT0pBRTYxM0g0WS13UEZEUEhmWVI0Si1XOHFuQ0s3SWJNNl9MQ2xQcXE4d3YwWHJaLUx3U0d2U29neTl3?oc=5",
       "source": "https://www.dars.gov.et/",
-      "published": "2026-10-31T00:34:14+00:00",
+      "published": "2026-10-31T00:30:15+00:00",
       "logo": "logos/EML.svg"
+    },
+    {
+      "id": "c81b54ca772adc3f",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC HONG KONG-R (82388) Stock Forum and Discussion - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbzdOYS1DN19CMmFtTnZYd3A1d2w1VlhzYVROZUpuUzc3eXZtNnMxMTVBb0lMZDhNYnFtRVkxaVBkbU85dXZGSnJHMXB0bDVxdzZJVXg3STMwU1dZNzZ6VDU5ZmtKRk5YWmwwaC1NbFNOa1hKSVR0RFI5N2tnNUQxZ05SaGZwZzFvSVBfWTdRc1BNRHptU3p0OEdGdC1GMC1WUTB1MkU2dmpVNmEzM3ZBS0tDeU1ZanM0OXJ6dnViSnZkMzVsa1NGU0NYbEpsMWhrVU9rNXNiX2FaQ0F4TWoyNmNRd1VCWU44ZGw5ZnM0bjJiQTlSSkEtZzhFTVYySHg5azlTT3VvQkdHVS05T2dDU0lDd1hjdDQ2dG51TU1ZZWtNeEtzWmp3dnNQM3o2Q1BCclJFZVRnZnZDQQ?oc=5",
+      "source": "Moomoo",
+      "published": "2026-10-31T00:23:40+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "a68139a03d8830de",
@@ -288,17 +310,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "fb9b92865da771d7",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Higher On BoC Hike And GDP Test - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMVVVYUNrbG92RjQ1MUN5ajRBYXhJMnd2eVdFaDhRUVlrVnVJR00tY0dJQkhQeUpuaGFvby1pUmswSFg0ekd0bWZzMlFCdjlUdHVvMjhIdHJyc0YxSS15bDU3b3YyQXd1dmFhdEhqUV90YnAycGNWTXpBLS1XSXp6XzV0LTRMM1RDd3dzbkY3VFNOV0x2VzhxYm5ZZlpvM3otQWd5RG9VbC1qckoxZDM3dHRvS3RpMGVrZG50cXFXUTVMc3RicnfSAcsBQVVfeXFMTWZXNjhlRGJJS1cwa01Bdmw0UFZBdnN6NUp5SndfcUxhY2VGTFlCS1ZYNTA1OUVKMXhnWXBmeGRLWmxZenlVdVU4elFKdklvS1hpVU5ZU0NDbU5WWUZlMFJGTWxJb1JpTlNhWGVjZTB1N1BtcDlpZUV3U0NfTjZJcTNpaGVyeFZCSmNJUk1Eby0xeThBRERZaV9zdi1zNF9TOTVxNHNTeE05RkphNi1ieEVnRHNIOFM3Y0hTUkdTejZGOGtJbDBtWm03TGM?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-10-29T12:56:01+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "28de56a2249725ed",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GWDlFaWdnXzBEc1VPM3Z1SHEyUFFFV3ZRMmVDckNDX0NRWGZ2YW4tQkZ5alVqdi1IcVdiU1MxRmZTWGhtaUJHUTNNVmpNLXdfLTNNOU5EdXkwdmI1dXhVQm9sTExGVFFMZ21GUTFlZDhvVGNnSVlF?oc=5",
       "source": "TradingView",
       "published": "2026-10-25T01:19:09+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "05fc5eb6cf4d3592",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Third-quarter results are scheduled after the market closes Nov. 10; the call follows at 9 a.m. ET Nov. 11. - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa200Qi1NVVBsRnFReGd6dHNURWpuMWZvT1h3TEVqb2h3MjFIanA3S0hnczFVY3Y5YkpmbE0tc2E2b3NWRzMtcVhxQWtqTUoxRmlxdmVQWENjQUxNQ0tYVEo4Y29idnBUeGlONy1rSHJmZjFWSzNtaERrUE15QjBEMTl4S2FQOGFZa2N2LVFBTG4wdDI3aW5oVTFtVXNoS0ZSNHFfWE9DNURab2VDVVVHbXFUZzJhUXphalc2ZnlB?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-10-23T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
