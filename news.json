@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-01T01:29:12Z",
+  "updated": "2026-11-01T04:10:53Z",
   "items": [
+    {
+      "id": "215fddafaba72d91",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Dow Jones Futures Loom After Stock Market Sell-Off; Apple, Palantir, Midterm Elections In Focus",
+      "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T02:44:14+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "add099849758f8a7",
       "ticker": "TSLA",
@@ -43,17 +54,6 @@
       "link": "https://unchainedcrypto.com/will-ai-answers-become-as-winner-take-all-as-google-uneasy-money/?.tsrc=rss",
       "source": "News",
       "published": "2026-10-31T20:00:59+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "0d0cb87a389aebdc",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "France Wants a 5.5-Cent-per-Gigabyte Tax on Netflix, Google and Meta",
-      "link": "https://247wallst.com/investing/2026/10/31/france-wants-a-5-5-cent-per-gigabyte-tax-on-netflix-google-and-meta/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T17:07:01+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -112,14 +112,14 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "c8d4e3b7eb8f4a8f",
+      "id": "065746e980d66ced",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Dow Jones Futures: Stock Market Sells Off As Apple, Palantir, Midterm Elections Loom; What To Do",
-      "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures%3A-stock.html?.tsrc=rss",
+      "title": "SpaceX Is Considering a Merger With Tesla. Here's Why That Would Be a Bad Move.",
+      "link": "https://www.fool.com/investing/2026/10/31/spacex-is-considering-a-merger-with-tesla-heres-wh/?.tsrc=rss",
       "source": "News",
-      "published": "2026-10-31T12:41:41+00:00",
+      "published": "2026-10-31T09:20:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -343,14 +343,14 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "fe87a991290e7083",
+      "id": "05fc5eb6cf4d3592",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EMMERSON PLC (EML) Equity Price and Quote - London Stock Exchange",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
-      "source": "London Stock Exchange",
-      "published": "2026-10-22T20:53:32+00:00",
+      "title": "Third-quarter results are scheduled after the market closes Nov. 10; the call follows at 9 a.m. ET Nov. 11. - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa200Qi1NVVBsRnFReGd6dHNURWpuMWZvT1h3TEVqb2h3MjFIanA3S0hnczFVY3Y5YkpmbE0tc2E2b3NWRzMtcVhxQWtqTUoxRmlxdmVQWENjQUxNQ0tYVEo4Y29idnBUeGlONy1rSHJmZjFWSzNtaERrUE15QjBEMTl4S2FQOGFZa2N2LVFBTG4wdDI3aW5oVTFtVXNoS0ZSNHFfWE9DNURab2VDVVVHbXFUZzJhUXphalc2ZnlB?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-10-23T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
