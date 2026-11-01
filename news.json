@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T15:52:00Z",
+  "updated": "2026-11-01T19:04:02Z",
   "items": [
     {
       "id": "cb96b366f94257d1",
@@ -9,41 +9,52 @@
       "title": "Dow Jones Futures Loom After Market Sell-Off; How Midterm Elections May Swing Stocks",
       "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-01T15:26:28+00:00",
+      "published": "2026-11-01T18:30:42+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "ef7dfc8cd59293dd",
+      "id": "02ed0c616f83dc8a",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Wall Street just got a candid look at who is winning the AI race",
-      "link": "https://www.thestreet.com/markets/wall-street-candid-look-winning-ai-race?.tsrc=rss",
+      "title": "Why Did Alphabet (GOOGL) Shares Fall After Its $500 Billion Value Wipeout?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-alphabet-googl-shares-170811904.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-01T14:33:00+00:00",
+      "published": "2026-11-01T17:08:11+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "2a4ff478bb346005",
+      "id": "8551bf6c9ff7ef4c",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "5 Best Tech Stocks for the Next 5 Years According to Financial Media",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-next-140507052.html?.tsrc=rss",
+      "title": "ICE And OKX's Tokenized Stock Venue Hits A Wall As Nvidia, Nike Join Growing List Of Objectors",
+      "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/ice-and-okx-s-tokenized-stock-venue-hits-a-wall-as-nvidia-nike-join-growing-list-of-objectors/cNGewptR927?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-01T14:05:07+00:00",
+      "published": "2026-11-01T16:57:37+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "99a77d74c0a684a0",
+      "id": "f839fdaa6d247d2e",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Presentations.AI Launches White-Label AI Presentation Generator and Editable PowerPoint API for SaaS Companies, Agencies and AI Agents at $0.10 Per Slide With a 50% Launch Discount",
-      "link": "https://finance.yahoo.com/technology/ai/articles/presentations-ai-launches-white-label-140300818.html?.tsrc=rss",
+      "title": "Reddit vs. The Trade Desk: One's Revenue Growth Overtook the Other's Lead",
+      "link": "https://www.fool.com/coverage/charts/2026/11/01/reddit-vs-the-trade-desk-one-s-revenue-growth-overtook-the-other-s-lead/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-01T14:03:00+00:00",
+      "published": "2026-11-01T16:42:08+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "1fb688b4722644c9",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Rivian Earnings Don’t Mask Stock Collapse",
+      "link": "https://247wallst.com/personal-finance/2026/11/01/rivian-earnings-dont-mask-stock-collapse/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T16:26:54+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "77685e6bde5b42fc",
@@ -76,17 +87,6 @@
       "link": "https://finance.yahoo.com/technology/articles/rivian-ceo-says-autonomy-could-104507835.html?.tsrc=rss",
       "source": "News",
       "published": "2026-11-01T10:45:07+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "99b1e661c27bc71b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Cybercab Expansion Might Change The Case For Investing In Tesla Stock (TSLA)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cybercab-expansion-might-change-case-051614061.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-01T05:16:14+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -343,14 +343,14 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "53967035a1a34556",
+      "id": "05fc5eb6cf4d3592",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "Eastern Company (The) Estimates – NASDAQ:EML - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GWDlFaWdnXzBEc1VPM3Z1SHEyUFFFV3ZRMmVDckNDX0NRWGZ2YW4tQkZ5alVqdi1IcVdiU1MxRmZTWGhtaUJHUTNNVmpNLXdfLTNNOU5EdXkwdmI1dXhVQm9sTExGVFFMZ21GUTFlZDhvVGNnSVlF?oc=5",
-      "source": "TradingView",
-      "published": "2026-10-25T01:19:09+00:00",
+      "title": "Third-quarter results are scheduled after the market closes Nov. 10; the call follows at 9 a.m. ET Nov. 11. - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa200Qi1NVVBsRnFReGd6dHNURWpuMWZvT1h3TEVqb2h3MjFIanA3S0hnczFVY3Y5YkpmbE0tc2E2b3NWRzMtcVhxQWtqTUoxRmlxdmVQWENjQUxNQ0tYVEo4Y29idnBUeGlONy1rSHJmZjFWSzNtaERrUE15QjBEMTl4S2FQOGFZa2N2LVFBTG4wdDI3aW5oVTFtVXNoS0ZSNHFfWE9DNURab2VDVVVHbXFUZzJhUXphalc2ZnlB?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-10-23T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
