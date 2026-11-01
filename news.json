@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-01T19:04:02Z",
+  "updated": "2026-11-01T21:52:24Z",
   "items": [
+    {
+      "id": "61d88bbc0eceeb86",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco (TSX:CCO) Stock Faces Q3 Earnings Reality After Profit Strain",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-tsx-cco-stock-faces-210943273.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T21:09:43+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "20450d3609e3e0e1",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Barclays Says a SpaceX Merger Is Now \"a Key Part\" of the Tesla Bull Case. Here's Who Actually Wins if It Happens -- and Who Pays.",
+      "link": "https://www.fool.com/investing/2026/11/01/barclays-says-a-spacex-merger-is-now-a-key-part-of/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T21:05:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "cb96b366f94257d1",
       "ticker": "GOOG",
@@ -9,7 +31,29 @@
       "title": "Dow Jones Futures Loom After Market Sell-Off; How Midterm Elections May Swing Stocks",
       "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-01T18:30:42+00:00",
+      "published": "2026-11-01T21:01:28+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "c9d90ea1456d134e",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Stock Just Cratered, and It's 36% off Its High. Is This a Buying Opportunity?",
+      "link": "https://www.fool.com/investing/2026/11/01/nu-stock-just-cratered-and-its-35-off-its-high-is/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T19:07:00+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "0e503294b73dfa2e",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
+      "link": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-01T19:00:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -32,17 +76,6 @@
       "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/ice-and-okx-s-tokenized-stock-venue-hits-a-wall-as-nvidia-nike-join-growing-list-of-objectors/cNGewptR927?.tsrc=rss",
       "source": "News",
       "published": "2026-11-01T16:57:37+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "f839fdaa6d247d2e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Reddit vs. The Trade Desk: One's Revenue Growth Overtook the Other's Lead",
-      "link": "https://www.fool.com/coverage/charts/2026/11/01/reddit-vs-the-trade-desk-one-s-revenue-growth-overtook-the-other-s-lead/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-01T16:42:08+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -79,17 +112,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "72b208a62b0b9c29",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Rivian CEO Says Autonomy Could Drive ‘Huge Changes’ in Market Share as Tesla FSD Rival Emerges",
-      "link": "https://finance.yahoo.com/technology/articles/rivian-ceo-says-autonomy-could-104507835.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-01T10:45:07+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "3ee858189d0b5314",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -99,17 +121,6 @@
       "source": "Stock Traders Daily",
       "published": "2026-11-01T00:40:01+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "db7c68b5570fc36b",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "What Is Behind BOC Hong Kong (Holdings) (SEHK:2388) Latest Move? - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY0RxOFZmLVRmRXFsS0s1MDNYM25idWo5N2FadzItN0N1WVlDa3o0aFk2RDhyTkkwQ3pPWUlYUklXdmVJamdtVENVX3JZZEJJTnl2aTRJRlZQdmgtSzZIMHJpMUtNOU05aFVoMklWZ1FaYlROMl9Hc2VPczdtLUVCdkFsMGl1aWwzaExlYmdkSXFvd0UwcFdEOVhidV8yQU1wMVQ4Q2ZGcEc5eHBJMlVwdWFoRHViZHdUdUF6SVlFVG9CX0lqek9mdDl6Ul9rWjdNdFo4M0RVX0cwUWk50gHcAUFVX3lxTE5jRHE4VmYtVGZFcWxLSzUwM1gzbmJ1ajk3YVp3Mi03Q3VZWUNrejRoWTZEOHJOSTBDek9ZSVhSSVd2ZUlqZ21UQ1VfcllkQklOeXZpNElGVlB2aC1LNkgwcmkxS005TTloVWgySVZnUVpiVE4yX0dzZU9zN20tRUJ2QWwwaXVpbDNoTGViZ2RJcW93RTBwV0Q5WGJ1XzJBTXAxVDhDZkZwRzl4cEkyVXB1YWhEdWJkd1R1QXpJWUVUb0JfSWp6T2Z0OXpSX2taN010WjgzRFVfRzBRaTk?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-10-31T16:05:33+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "6036bb7e48c47c54",
@@ -167,17 +178,6 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "c81b54ca772adc3f",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC HONG KONG-R (82388) Stock Forum and Discussion - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbzdOYS1DN19CMmFtTnZYd3A1d2w1VlhzYVROZUpuUzc3eXZtNnMxMTVBb0lMZDhNYnFtRVkxaVBkbU85dXZGSnJHMXB0bDVxdzZJVXg3STMwU1dZNzZ6VDU5ZmtKRk5YWmwwaC1NbFNOa1hKSVR0RFI5N2tnNUQxZ05SaGZwZzFvSVBfWTdRc1BNRHptU3p0OEdGdC1GMC1WUTB1MkU2dmpVNmEzM3ZBS0tDeU1ZanM0OXJ6dnViSnZkMzVsa1NGU0NYbEpsMWhrVU9rNXNiX2FaQ0F4TWoyNmNRd1VCWU44ZGw5ZnM0bjJiQTlSSkEtZzhFTVYySHg5azlTT3VvQkdHVS05T2dDU0lDd1hjdDQ2dG51TU1ZZWtNeEtzWmp3dnNQM3o2Q1BCclJFZVRnZnZDQQ?oc=5",
-      "source": "Moomoo",
-      "published": "2026-10-31T00:23:40+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "a68139a03d8830de",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -208,17 +208,6 @@
       "link": "https://www.marketbeat.com/instant-alerts/transcript-cameco-q3-earnings-call-highlights-2026-10-30/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "source": "News",
       "published": "2026-10-30T18:15:33+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "68b55e3ef5feaeee",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco (CCJ) Q3 2026 Earnings Call Transcript",
-      "link": "https://www.fool.com/earnings/call-transcripts/2026/10/30/cameco-ccj-q3-2026-earnings-call-transcript/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T17:58:06+00:00",
       "logo": "logos/CCJ.svg"
     },
     {
@@ -266,28 +255,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "ffbcdc77592ff77f",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Is Nu Holdings Stock a Buy Before Its First-Ever Investor Day on Dec. 8?",
-      "link": "https://www.fool.com/investing/2026/10/30/is-nu-holdings-stock-a-buy-before-its-first-ever-i/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T10:20:00+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "d4640ccdedf931b8",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong Announces Third Interim Dividend of HKD 0.29 per Share - VZ VermögensZentrum",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaDFJTXozNnJEU1lycU43NUh0cGc1aXBsR1QwZjlOUjVQbkpSbVk2aXhDbV9janZ0N3Fxd1BVQnJFT2lEcE9leTlNRE1VV3FMYVpib2ppZk1Hajh5VkF4MEFFQm00SEt1YUptMHR6ZVJsTUhZdndCNkFLeTBxSE01NUttSVZwbjB1bnVmbGFqZUVqWUFlWVVLaGNTbWxPWVRhNExpUHM5WFV2TzdxOHFHcGNXak9kbVVEaGZuTVVKTmctbGxyVzZN?oc=5",
-      "source": "VZ VermögensZentrum",
-      "published": "2026-10-30T01:25:27+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "5bb4c2d4ce83f0ed",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -310,6 +277,17 @@
       "logo": "logos/IREN.svg"
     },
     {
+      "id": "d813cab6586911a7",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Canadian Stock Market Today: TSX Futures Edge Up As BoC Hike Reshapes Rate Expectations - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLURvZ182UHh1OFQ2VEpyVllib3FHY1dIczJEVXJ3dVpVb2VhMDVrVldnbWtWMXN4U0hFQ1o1UjYzX0dqSEhpZXRBaEYxUWluUmU5MUl3VEpKYWlOREpFbENhbEhOTzF5QTZRbDRtWHN2NHF2dnBudWRCNHZaRFFxWXU2MmtiZ2JEaTVTQ19UNmxvT2dMQkVtR2d5c0k?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-29T12:11:30+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "28de56a2249725ed",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -319,6 +297,17 @@
       "source": "News",
       "published": "2026-10-29T02:05:02+00:00",
       "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "667d6efb0b51fede",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Stocks end higher as Fed holds key rate steady, BoC hikes - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVXBEX0J3RWpYc3VZaGNfeU1jXzBJd2g0MjVndGhxeVJ3TE9qa2p5RzlRVXI2eUpZOW9DSC1SQW4yRENUaV9YY2RMRlpmcHBuLWdJYXZGb3BnU1ZLYTBCLVY0ZFUyWWxTS216dGdKRWlvQ19fV3lJU0pKWVZnWnZTSkNuMGdWYmd5RkFQMG1fLVVZLWEzYmpRc05RVmxmMXNxNF9qMVdkSlJJaWNKVUVvMGR3S2M2Y2I2ZnZvQXIyWndVVjRvNXF5cXZ6SjhNWThlaUpGTjcxTURQYVZMTFRnSHJUMA?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-10-28T09:07:31+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "5ce87387dca0b51a",
@@ -343,14 +332,25 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "05fc5eb6cf4d3592",
+      "id": "446d7d9c5186c1f3",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Boston Omaha Corporation (BOC) stock price, news, quote and history - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rdThiaHg4M3VaRS1vaVp3X0YyeTFBc1h6UTkwcHJXQmtXX3hJYkcxb19HbXJ1c1NMdFR2T1N4c2Z4OXdzeUkxekVlQ2VOYUl0?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "published": "2026-10-27T13:04:59+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "53967035a1a34556",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "Third-quarter results are scheduled after the market closes Nov. 10; the call follows at 9 a.m. ET Nov. 11. - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa200Qi1NVVBsRnFReGd6dHNURWpuMWZvT1h3TEVqb2h3MjFIanA3S0hnczFVY3Y5YkpmbE0tc2E2b3NWRzMtcVhxQWtqTUoxRmlxdmVQWENjQUxNQ0tYVEo4Y29idnBUeGlONy1rSHJmZjFWSzNtaERrUE15QjBEMTl4S2FQOGFZa2N2LVFBTG4wdDI3aW5oVTFtVXNoS0ZSNHFfWE9DNURab2VDVVVHbXFUZzJhUXphalc2ZnlB?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-10-23T07:00:00+00:00",
+      "title": "Eastern Company (The) Estimates – NASDAQ:EML - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GWDlFaWdnXzBEc1VPM3Z1SHEyUFFFV3ZRMmVDckNDX0NRWGZ2YW4tQkZ5alVqdi1IcVdiU1MxRmZTWGhtaUJHUTNNVmpNLXdfLTNNOU5EdXkwdmI1dXhVQm9sTExGVFFMZ21GUTFlZDhvVGNnSVlF?oc=5",
+      "source": "TradingView",
+      "published": "2026-10-25T01:19:09+00:00",
       "logo": "logos/EML.svg"
     },
     {
