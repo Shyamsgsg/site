@@ -1,16 +1,126 @@
 {
-  "updated": "2026-11-02T19:15:53Z",
+  "updated": "2026-11-02T21:57:54Z",
   "items": [
     {
-      "id": "47dc4d25a5a9b254",
+      "id": "528c91b92d1e9533",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Alphabet's Google spending derails major shareholder perk",
-      "link": "https://www.thestreet.com/investing/alphabet-ai-spending-derails-share-buybacks?.tsrc=rss",
+      "title": "Sharp Drops For Google, Amazon Stocks Not Indicative Of AI Market",
+      "link": "https://247wallst.com/videos/sharp-drops-for-google-amazon-stocks-not-indicative-of-ai-market/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-02T19:03:00+00:00",
+      "published": "2026-11-02T21:34:17+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "03a7b8b856f45dc1",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Stocks kick off November lower as AI sell-off hits Tech",
+      "link": "https://finance.yahoo.com/video/stocks-kick-off-november-lower-as-ai-sell-off-hits-tech-213023708.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T21:30:23+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a8e19182982c5e93",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Investors Shoot for the Moon",
+      "link": "https://www.fool.com/investing/2026/11/02/investors-shoot-for-the-moon/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T21:28:07+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "8ee3c55f83e9610c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk sends incredible news to Micron stock investors",
+      "link": "https://www.thestreet.com/investing/elon-musk-incredible-news-micron-stock-investors-humanoid-robot-memory-needs?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T21:23:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "04a52934efc0edc1",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "3 Founder Led Stocks To Watch In November 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-watch-211051147.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T21:10:51+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "3b40e25d60532002",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Micron Expected to Launch Massive Stock Buybacks in December. What to Know.",
+      "link": "https://finance.yahoo.com/m/6e7d3557-4321-350c-8293-3d69906f37a5/micron-expected-to-launch.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T21:10:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "5f6473e67f74c9d5",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Robotaxi Adds This New City, Stock Continues Rally",
+      "link": "https://finance.yahoo.com/m/f429a84c-f8d5-39d2-a429-b625c4379cb8/tesla-robotaxi-adds-this-new.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T21:00:51+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "3b58f3e7ad4831eb",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Applied Digital vs. IREN: Which Technology Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/02/applied-digital-vs-iren-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T20:41:52+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "222e5d8ef587c098",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Nvidia, Microsoft, and JPMorgan object to OKXICE tokenized stocks",
+      "link": "https://finance.yahoo.com/video/nvidia-microsoft-jpmorgan-object-okxice-203000548.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T20:30:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "af29304f077e7f4a",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "North Korea's Bitcoin heist is worth 3x its exports and more than Tesla holds",
+      "link": "https://www.thestreet.com/crypto/markets/north-koreas-bitcoin-heist-is-worth-3x-its-exports-and-more-than-tesla-holds?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T20:00:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "1cd62897828010d5",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Applied Digital Slumps 8% as CEO Says 800 MW Still Needs Financing; Nebius and CoreWeave Fall 6%",
+      "link": "https://247wallst.com/investing/2026/11/02/applied-digital-slumps-8-as-ceo-says-800-mw-still-needs-financing-nebius-and-coreweave-fall-6/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T19:54:03+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "fa1bb9e13fcf61df",
@@ -21,61 +131,6 @@
       "link": "https://finance.yahoo.com/video/why-musks-telecom-play-is-no-hail-mary-fix-185825477.html?.tsrc=rss",
       "source": "News",
       "published": "2026-11-02T18:58:25+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "77edd90bf0e003aa",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "5 must-read analyst questions from Reddit’s Q3 earnings call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-184536184.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T18:45:36+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c19a5b369a86a130",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "1 of Greg Abel's Favorite Stocks and a Top 5 Berkshire Hathaway Holding Just Suffered a Devastating Decline",
-      "link": "https://www.fool.com/investing/2026/11/02/1-of-greg-abels-favorite-stocks-and-a-top-5-berksh/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T18:45:30+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "4ccf51aaecfb522b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Oracle stock slides as it borrows another $10 billion for AI spending",
-      "link": "https://finance.yahoo.com/markets/article/oracle-stock-slides-as-it-borrows-another-10-billion-for-ai-spending-184518137.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T18:45:18+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "d77796b69e9b0ee3",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Black Cautions Tesla Shareholders On SpaceX Merger Risks: Says Marvell-Lumentum Deal Reaction Offers Early Warning",
-      "link": "https://stocktwits.com/news-articles/markets/equity/black-cautions-tesla-shareholders-on-space-x-merger-risks-says-marvell-lumentum-deal-reaction-offers-early-warning/cNGa3WER9Po?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T18:31:18+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "2f4d0440d9897eb1",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Rivian Soars 9% on UBS Upgrade After Selloff: “Initial R2 Demand Looks Solid”",
-      "link": "https://www.tikr.com/blog/rivian-soars-9-on-ubs-upgrade-after-selloff-initial-r2-demand-looks-solid?ref=yahoofinance&tlnk=yf-261102-vr4jfhjh&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T18:29:55+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -90,28 +145,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "45318dca1d48ad96",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elite Insider Owned Growth Stocks To Own In November 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/elite-insider-owned-growth-stocks-181137188.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T18:11:37+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "5702ecf101c18529",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
-      "link": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T17:36:03+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "b72927cd0a75afea",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -121,39 +154,6 @@
       "source": "News",
       "published": "2026-11-02T17:00:00+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "2a0402f6be705389",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Cipher Digital Falls 5% on Revenue Miss and Keefe Bruyette Target Cut; TeraWulf and IREN Drop 4%",
-      "link": "https://247wallst.com/investing/2026/11/02/cipher-digital-falls-5-on-revenue-miss-and-keefe-bruyette-target-cut-terawulf-and-iren-drop-4/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T14:55:17+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "218264464efaa61f",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Musk Predicts “Death and Consolidation” for Neoclouds as Debt Markets Shut Off",
-      "link": "https://www.tikr.com/blog/musk-predicts-death-and-consolidation-for-neoclouds-as-debt-markets-shut-off?ref=yahoofinance&tlnk=yf-261102-m4r6cc69&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T14:44:05+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "a0857f52982937fb",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "How Did EML Payments Limited (ASX:EML) Reshape Its Operations Amid FY26 Revenue Changes? - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdF9qWWo5NkJwNHBzeFdjX016YzJzV1hRa1B5di05cDRjSHUtU0hiMGY5eUYxZDJCR2loVHU2VGNJUENkb0xWRmxOS2JKUm9Ud1FHLXk3OHItWUk3cGs4TmRkR0VNektEZUFtOUNENGZBdVQ2Z3RsYTE5NlJoVUJ5Ynk0cW9CMy14MWFpMVpvYWZjY0hZTFl2UEFObWF0UmludWNzVWxVVk9memV3YzdwMEpsU29MNVdydkIwSWpEZw?oc=5",
-      "source": "Kalkine",
-      "published": "2026-11-02T13:43:23+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "87cbfa488f1d8c5b",
@@ -178,6 +178,17 @@
       "logo": "logos/NU.svg"
     },
     {
+      "id": "e2a32112a253784a",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "How Did EML Payments Limited (ASX:EML) Reshape Its Operations Amid FY26 Revenue Changes? - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTk9XNU1IVHR3UElVeHo0Z3BUWWduekpkeW9VbHZEV1RQYnNUdE9CbzcyYjZYMFZpdzZJRlhRcENmbnNUT1RfYVFGazE4Mlp0VEZSYzFIWEZRQ0lZQ3dhVmxVdnkyY0lSN0g5NU1xcXZtdUlSdy01bWEzdGw3MjdXUGZvQ2VrMXpfM2pZTWl6QnF0TzYyYTBFRjdZMG52aDVIbUJYbTkxakpuX0Y5QWY1QWZRSFNRR0tRRTV4cjdtSmhBREQyVmU5OUU5TXA?oc=5",
+      "source": "Kalkine",
+      "published": "2026-11-02T12:35:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "59987831d91e26bb",
       "ticker": "NU",
       "symbol": "NU",
@@ -187,6 +198,17 @@
       "source": "News",
       "published": "2026-11-02T10:50:02+00:00",
       "logo": "logos/NU.svg"
+    },
+    {
+      "id": "31c8122e4fe1b220",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC-Prudential S&P 500 Index Ret HKD (0P0001NJSE.HK) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fS2Fxd3JpYlowMDVKM1ZzNmZ1REdPbWl2c0taczdtLXd3VGx0alo3MWJMclphMFcyZXFvbFVGbk55RW1SZGpyTHFMakQyQkZ0cFRveFYtRHV3aDNLbC05aXk3eGdlanNZMjVB?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-02T02:29:01+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "4fe0f0dafd7d2eb1",
@@ -233,14 +255,25 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "2de28243d01abbab",
+      "id": "3ee858189d0b5314",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Discipline and Rules-Based Execution in EML Response - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVS1uYi1HVWFzVDV2SUY4bHprelpvWEFNMFpPLXpET3dSMVFfQlNremR5em51UU5pM09mRHlhUzNfTFM4Z0hpR1prcmJhdTNLZDdFblVNUkxpeUZvbEQtVFFFUTNHQVBiRkVhdUw0UThSbGFvd0t2TVd4aFczQzdCM2xXdjNUSnB3NFQwdHhvMTlTRXV0N3E2NG9IVFlUT282ZzVCV0lnZTF0cjJSYjNuVW5wLXYzOTZzVzFKWXJtYVJCcGJUYVZGRnJWd1o?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-11-01T00:40:01+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "db7c68b5570fc36b",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
       "title": "What Is Behind BOC Hong Kong (Holdings) (SEHK:2388) Latest Move? - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2xmQ3h5MjVnVXpUSExkbFZMRVBDSDVaM3VWZllOUTlONUQ3V2RhUzI4amRhU0FJMzlBa0phNU5KUEhGeUZLLVRJUU1nWEswbjR1RmJRa1paSk1RVkNZMG5FZkVEZ0t2cV9mRllZYlhlNVF5UlZBS3diZFA0bWRPdFljcHo2TkpteEx3cWdUTWgtbWVPTHlvWFZKSWpfbnlfR1FKV3FnZHgtNE90QmZyV0lDdDZDYmhVR3JOeVdqZjBIMkpGeURzY19DWG1uVVBodWpuSVp0SdIB3AFBVV95cUxOY0RxOFZmLVRmRXFsS0s1MDNYM25idWo5N2FadzItN0N1WVlDa3o0aFk2RDhyTkkwQ3pPWUlYUklXdmVJamdtVENVX3JZZEJJTnl2aTRJRlZQdmgtSzZIMHJpMUtNOU05aFVoMklWZ1FaYlROMl9Hc2VPczdtLUVCdkFsMGl1aWwzaExlYmdkSXFvd0UwcFdEOVhidV8yQU1wMVQ4Q2ZGcEc5eHBJMlVwdWFoRHViZHdUdUF6SVlFVG9CX0lqek9mdDl6Ul9rWjdNdFo4M0RVX0cwUWk5?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY0RxOFZmLVRmRXFsS0s1MDNYM25idWo5N2FadzItN0N1WVlDa3o0aFk2RDhyTkkwQ3pPWUlYUklXdmVJamdtVENVX3JZZEJJTnl2aTRJRlZQdmgtSzZIMHJpMUtNOU05aFVoMklWZ1FaYlROMl9Hc2VPczdtLUVCdkFsMGl1aWwzaExlYmdkSXFvd0UwcFdEOVhidV8yQU1wMVQ4Q2ZGcEc5eHBJMlVwdWFoRHViZHdUdUF6SVlFVG9CX0lqek9mdDl6Ul9rWjdNdFo4M0RVX0cwUWk50gHcAUFVX3lxTE5jRHE4VmYtVGZFcWxLSzUwM1gzbmJ1ajk3YVp3Mi03Q3VZWUNrejRoWTZEOHJOSTBDek9ZSVhSSVd2ZUlqZ21UQ1VfcllkQklOeXZpNElGVlB2aC1LNkgwcmkxS005TTloVWgySVZnUVpiVE4yX0dzZU9zN20tRUJ2QWwwaXVpbDNoTGViZ2RJcW93RTBwV0Q5WGJ1XzJBTXAxVDhDZkZwRzl4cEkyVXB1YWhEdWJkd1R1QXpJWUVUb0JfSWp6T2Z0OXpSX2taN010WjgzRFVfRzBRaTk?oc=5",
       "source": "Simply Wall St",
-      "published": "2026-10-31T16:05:31+00:00",
+      "published": "2026-10-31T16:05:33+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -255,15 +288,15 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "110fc55350a0b5bc",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "MercadoLibre Sinks 10% in a Week After Lula’s Surprise Win, With Earnings Up Next",
-      "link": "https://www.tikr.com/blog/mercadolibre-sinks-10-in-a-week-after-lulas-surprise-win-with-earnings-up-next?ref=yahoofinance&tlnk=yf-261031-xq8mf2cw&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T14:25:27+00:00",
-      "logo": "logos/NU.svg"
+      "id": "0b47c636a1215ff8",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Price-Driven Insight from (BOC) for Rule-Based Strategy - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR0xXZUtaeWpDbk5pQnY2cGRYM3NIbnVXa2I1WnpSNnhJTlRtbzEwdllRczRhakNXdVNPSVB1dHdqZjJmZ1FYbUwzMzQtX3pINUNlWmF0REZGcXdWZWZNUzh5MTlRc1VldU9ELTZILW5STkkwc1BDeHpTSXkyQzIzZGhlTzR6UEpNMGNXX3ljYW9LLXpON3hLckJUU0NUWHBSR0JBZXo2LXh0TUhJY3huTndmRUxFMHJBYkFpZ1hrdVItcE1NdXdNanlwTkR6Zw?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-10-31T06:36:02+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "78471f3bcd5d8734",
@@ -274,17 +307,6 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JWjNFMHl6Y0VZNXBUYm9KbDRRdHpHanR3T1l2RTJRQnBtSXl5SEQxanp5aFkxZVQxUFNuajBRX1Nla2VSdlQ2bXJsazFMWUxWRG9V?oc=5",
       "source": "Yahoo! Finance Canada",
       "published": "2026-10-31T05:59:12+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "7eef0c29fc377e96",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Q2 2026 Earnings: EPS Falls Far Short of Estimates, Yet Shares Edge Higher - Earnings Expansion Phase - https://www.dars.gov.et/",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUJ4c2REYjNuUUk0VEkySG5JdjB4bzBfeENFX25HTmZyY3Iwemw2TGNqWDVNT3RHZUlRQzFnZFRtRDVrYjk2bzlIem1yQm1Bd1Q1OHBhSlhvbmFONllMWmFIMlNCWEVJS1pzRHJxSDU4MEZPanBjakxDOC1LSGhicDNLSVBzNE52Y0xHZFlxcFBqem16N3d3bk1wY3Bsbnl5ODZGSUlhZkpFVlltX0JUOXc0bEU?oc=5",
-      "source": "https://www.dars.gov.et/",
-      "published": "2026-10-31T00:40:36+00:00",
       "logo": "logos/EML.svg"
     },
     {
@@ -299,14 +321,14 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "d4640ccdedf931b8",
+      "id": "c81b54ca772adc3f",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
-      "title": "BOC Hong Kong Announces Third Interim Dividend of HKD 0.29 per Share - VZ VermögensZentrum",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaDFJTXozNnJEU1lycU43NUh0cGc1aXBsR1QwZjlOUjVQbkpSbVk2aXhDbV9janZ0N3Fxd1BVQnJFT2lEcE9leTlNRE1VV3FMYVpib2ppZk1Hajh5VkF4MEFFQm00SEt1YUptMHR6ZVJsTUhZdndCNkFLeTBxSE01NUttSVZwbjB1bnVmbGFqZUVqWUFlWVVLaGNTbWxPWVRhNExpUHM5WFV2TzdxOHFHcGNXak9kbVVEaGZuTVVKTmctbGxyVzZN?oc=5",
-      "source": "VZ VermögensZentrum",
-      "published": "2026-10-30T09:35:27+00:00",
+      "title": "BOC HONG KONG-R (82388) Stock Forum and Discussion - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbzdOYS1DN19CMmFtTnZYd3A1d2w1VlhzYVROZUpuUzc3eXZtNnMxMTVBb0lMZDhNYnFtRVkxaVBkbU85dXZGSnJHMXB0bDVxdzZJVXg3STMwU1dZNzZ6VDU5ZmtKRk5YWmwwaC1NbFNOa1hKSVR0RFI5N2tnNUQxZ05SaGZwZzFvSVBfWTdRc1BNRHptU3p0OEdGdC1GMC1WUTB1MkU2dmpVNmEzM3ZBS0tDeU1ZanM0OXJ6dnViSnZkMzVsa1NGU0NYbEpsMWhrVU9rNXNiX2FaQ0F4TWoyNmNRd1VCWU44ZGw5ZnM0bjJiQTlSSkEtZzhFTVYySHg5azlTT3VvQkdHVS05T2dDU0lDd1hjdDQ2dG51TU1ZZWtNeEtzWmp3dnNQM3o2Q1BCclJFZVRnZnZDQQ?oc=5",
+      "source": "Moomoo",
+      "published": "2026-10-31T00:23:40+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -321,17 +343,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "d813cab6586911a7",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Up As BoC Hike Reshapes Rate Expectations - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLURvZ182UHh1OFQ2VEpyVllib3FHY1dIczJEVXJ3dVpVb2VhMDVrVldnbWtWMXN4U0hFQ1o1UjYzX0dqSEhpZXRBaEYxUWluUmU5MUl3VEpKYWlOREpFbENhbEhOTzF5QTZRbDRtWHN2NHF2dnBudWRCNHZaRFFxWXU2MmtiZ2JEaTVTQ19UNmxvT2dMQkVtR2d5c0k?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-29T12:11:30+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "28de56a2249725ed",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -341,17 +352,6 @@
       "source": "News",
       "published": "2026-10-29T02:05:02+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "e2d20f89b933f308",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Higher As Fed And BoC Decisions Loom - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG1pa1pSNWY5akZBVkl5TFJ3ZGF6X1AwME92cEFWQnZ5QVlOb1F2MWVVTmk4OUZZcGk2ZHdoNkNWcE9sSG9wNG9IN01EZnphZFNNOUlJcVdfOTZTSHUta3duLTJkX0xNMlktWHVqakthN090cUI1REpyZ3JNYzBTLW45bEhjS1BrWXlZdXhVcEM5aUhSZHk0YWdPcDY?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-28T12:06:58+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "100f84de1493c850",
