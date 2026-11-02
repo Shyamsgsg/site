@@ -1,16 +1,82 @@
 {
-  "updated": "2026-11-02T04:18:02Z",
+  "updated": "2026-11-02T07:46:09Z",
   "items": [
     {
-      "id": "5c42c4b520d99c66",
+      "id": "942439dc82aace0a",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Dow Jones Futures Rise But Market Still Ails; Midterm Elections Ahead",
-      "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-rise-but.html?.tsrc=rss",
+      "title": "Asian stocks mixed as tech sector struggles to rebound from selloff",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mixed-tech-sector-024236684.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-02T04:01:36+00:00",
+      "published": "2026-11-02T07:28:31+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "35b32e7f730e8a7d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "How Has Amazon's Story Changed?",
+      "link": "https://www.trefis.com/stock/amzn/articles/621832/how-has-amazons-story-changed/2026-11-02?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T07:27:22+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "6de9411109126a92",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "What Is The Case For Waiting On Rigetti Computing Stock?",
+      "link": "https://www.trefis.com/stock/rgti/articles/621850/what-is-the-case-for-waiting-on-rigetti-computing-stock/2026-11-02?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T07:04:09+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "3532152fff91d5d7",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Should You Buy Reddit Stock For Its Cash?",
+      "link": "https://www.trefis.com/stock/rddt/articles/621770/should-you-buy-reddit-stock-for-its-cash/2026-11-01?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T07:04:01+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ab5fe65c52855d5b",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla-SpaceX merger math just shifted in Tesla's favor",
+      "link": "https://www.thestreet.com/markets/tesla-spacex-merger-math-just-shifted-in-teslas-favor?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T05:37:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a51e814de92c17bd",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Gary Black Says Tesla Is Losing EV Share to ‘No-Name’ Rivals Despite ‘Huge First-Mover Advantage’—Warns TSLA Needs Better Marketing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gary-black-says-tesla-losing-053544426.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T05:35:44+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "04a7e72e7a334382",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Blinks? Tesla’s Terafab May Reportedly Lean on TSMC After All",
+      "link": "https://finance.yahoo.com/technology/articles/elon-musk-blinks-tesla-terafab-041311073.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T04:13:11+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "cd6af83bc9ed94db",
@@ -24,28 +90,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "3a8051c6b1ee5adc",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "INTC, AMZN, GOOGL Stocks Rise Overnight After Brutal Week: Dan Niles Sees AI Risks Showing Up In Big Tech Earnings",
-      "link": "https://stocktwits.com/news-articles/markets/equity/intc-amzn-googl-stocks-rise-overnight-after-brutal-week-dan-niles-sees-ai-risks-showing-up-in-big-tech-earnings/cNG9k2DR92h?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T03:59:13+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "942439dc82aace0a",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Asian stocks mixed as tech sector struggles to rebound from selloff",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mixed-tech-sector-024236684.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T02:42:36+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "d20380c1c4b7dc06",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -54,28 +98,6 @@
       "link": "https://finance.yahoo.com/markets/options/articles/tiger-brokers-singapore-brings-extended-020500891.html?.tsrc=rss",
       "source": "News",
       "published": "2026-11-02T02:05:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "13639d214b1115da",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tiger Brokers Brings Extended-Hours* US Options Trading to Investors Worldwide",
-      "link": "https://finance.yahoo.com/markets/options/articles/tiger-brokers-brings-extended-hours-020000360.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T02:00:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "e35e5041ed74b34c",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tiger Brokers Brings Extended-Hours* US Options Trading to Australian Investors",
-      "link": "https://finance.yahoo.com/markets/options/articles/tiger-brokers-brings-extended-hours-020000556.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T02:00:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -90,17 +112,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "d955e0ba620bd246",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "What Gave Alphabet Stock Its Edge Over Zillow?",
-      "link": "https://www.trefis.com/stock/zg/articles/621862/what-gave-alphabet-stock-its-edge-over-zillow/2026-11-01?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T01:23:07+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "bd471e8e8fabf426",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -110,17 +121,6 @@
       "source": "News",
       "published": "2026-11-01T22:08:42+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "400b5010da32e3db",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Can General Motors and Ford Survive the Flood of Cheap Chinese EVs?",
-      "link": "https://finance.yahoo.com/m/c98ba448-fbf5-3d3b-9314-94f45d1669d7/can-general-motors-and-ford.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-01T21:35:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "61d88bbc0eceeb86",
