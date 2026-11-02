@@ -1,60 +1,137 @@
 {
-  "updated": "2026-11-02T13:30:26Z",
+  "updated": "2026-11-02T16:20:13Z",
   "items": [
     {
-      "id": "9390c38bddf13545",
+      "id": "e8346e6837779c59",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Buy, Sell, or Hold Alphabet Stock After Its $505 Billion Meltdown?",
-      "link": "https://www.fool.com/investing/2026/11/02/buy-sell-or-hold-alphabet-stock-after-its-505-bill/?.tsrc=rss",
+      "title": "This Is the Only Number Investors Need to Watch Before Buying an AI Stock",
+      "link": "https://247wallst.com/investing/2026/11/02/this-is-the-only-number-investors-need-to-watch-before-buying-an-ai-stock/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-02T13:20:00+00:00",
+      "published": "2026-11-02T15:59:02+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "ce15011fa335ad1f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Oracle (ORCL) Stock Dropped, So What Is Driving Attention Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-stock-dropped-driving-130419124.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T13:04:19+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "37771e60bf3267b7",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Snap Stock Is Down 34% in 2026 Heading Into a Same-Day Trial Opening and Q3 Report. Here’s Where the Stock Could Go",
-      "link": "https://www.tikr.com/blog/snap-stock-is-down-34-in-2026-heading-into-a-same-day-trial-opening-and-q3-report-heres-where-the-stock-could-go?ref=yahoofinance&tlnk=yf-261102-r2rjwpw4&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T13:02:32+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "35d0205883caa4f8",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Industry Takedown of Botnet Hidden in More Than 1.3 Million TV Set-Top Boxes across 200 Countries",
-      "link": "https://finance.yahoo.com/technology/ai/articles/industry-takedown-botnet-hidden-more-130100856.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T13:01:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "77685e6bde5b42fc",
+      "id": "6a5c62df83313adb",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla China EV Rivals BYD, Xiaomi, XPeng Report Strong Sales As Year-End Push Begins",
-      "link": "https://finance.yahoo.com/m/baa62bb5-87b3-3c69-aa80-c1e67491d7bf/tesla-china-ev-rivals-byd%2C.html?.tsrc=rss",
+      "title": "Rivian Stock Can Rise More Than 30%. The R2 Isn’t Just for ‘Tesla Switchers.’",
+      "link": "https://finance.yahoo.com/m/ac5f28e7-6645-3e98-bab4-436337f25e0d/rivian-stock-can-rise-more.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-02T13:00:32+00:00",
+      "published": "2026-11-02T15:57:00+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "34cd31193cf58573",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Ford’s 20% Sales Forecasts Meets A 38% Stock Collapse",
+      "link": "https://247wallst.com/investing/2026/11/02/fords-20-sales-forecasts-meets-a-38-stock-collapse/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T15:52:10+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "7da470f377a6e2a7",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Global Small Language Models (SLM) Market Size, Share, and Growth Forecast, 2026-2036 | Agentic and On-Device AI Fuel 23.5% CAGR to USD 25.59 Billion",
+      "link": "https://finance.yahoo.com/technology/ai/articles/global-small-language-models-slm-155200298.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T15:52:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "be3b4ed87595114f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Oracle Stock Falls on $20 Billion Plan to Fund AI Buildout",
+      "link": "https://finance.yahoo.com/m/3998f6b0-a45f-3ea4-9944-d1ebebc86d09/oracle-stock-falls-on-%2420.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T15:50:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "cbf14c4494686958",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Microsoft’s Bond Issuance is Textbook Structural Strategy So I Buy, Not Panic",
+      "link": "https://247wallst.com/investing/2026/11/02/microsofts-bond-issuance-is-textbook-structural-strategy-so-i-buy-not-panic/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T15:45:32+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "46f8ce3d25ce766b",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Analyst models potential market reaction to a SpaceX-Tesla all-stock merger",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-models-potential-market-reaction-154443093.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T15:44:43+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "5f6473e67f74c9d5",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Robotaxi Adds This New City, Stock Continues Rally",
+      "link": "https://finance.yahoo.com/m/f429a84c-f8d5-39d2-a429-b625c4379cb8/tesla-robotaxi-adds-this-new.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T15:28:08+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "2a0402f6be705389",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Cipher Digital Falls 5% on Revenue Miss and Keefe Bruyette Target Cut; TeraWulf and IREN Drop 4%",
+      "link": "https://247wallst.com/investing/2026/11/02/cipher-digital-falls-5-on-revenue-miss-and-keefe-bruyette-target-cut-terawulf-and-iren-drop-4/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T14:55:17+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "218264464efaa61f",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Musk Predicts “Death and Consolidation” for Neoclouds as Debt Markets Shut Off",
+      "link": "https://www.tikr.com/blog/musk-predicts-death-and-consolidation-for-neoclouds-as-debt-markets-shut-off?ref=yahoofinance&tlnk=yf-261102-m4r6cc69&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T14:44:05+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "a0857f52982937fb",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "How Did EML Payments Limited (ASX:EML) Reshape Its Operations Amid FY26 Revenue Changes? - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdF9qWWo5NkJwNHBzeFdjX016YzJzV1hRa1B5di05cDRjSHUtU0hiMGY5eUYxZDJCR2loVHU2VGNJUENkb0xWRmxOS2JKUm9Ud1FHLXk3OHItWUk3cGs4TmRkR0VNektEZUFtOUNENGZBdVQ2Z3RsYTE5NlJoVUJ5Ynk0cW9CMy14MWFpMVpvYWZjY0hZTFl2UEFObWF0UmludWNzVWxVVk9memV3YzdwMEpsU29MNVdydkIwSWpEZw?oc=5",
+      "source": "Kalkine",
+      "published": "2026-11-02T13:43:23+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "87cbfa488f1d8c5b",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "On Holding AG (ONON) Is a Trending Stock: Facts to Know Before Betting on It",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-ag-onon-trending-stock-130002808.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T13:00:02+00:00",
+      "logo": "logos/ONON.svg"
     },
     {
       "id": "aca2c12894280f2e",
@@ -66,39 +143,6 @@
       "source": "Transuite Expands AI Via Key Acquisition and China Growth",
       "published": "2026-11-02T12:38:04+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "2366d8b13ee038c1",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "3 Growth Stocks With Earnings Growth Up To 38%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-121004657.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T12:10:04+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "2ca88b075d751c49",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Registrations Surge in Sweden, Norway and Denmark as European EV Demand Grows",
-      "link": "https://investorshub.advfn.com/market-news/article/39029/tesla-registrations-surge-in-sweden-norway-and-denmark-as-european-ev-demand-grows?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T11:55:05+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "8ac71534bc471d30",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "YieldMax® ETFs Announces Distributions on MSST, NVIT, and TEST",
-      "link": "https://finance.yahoo.com/markets/options/articles/yieldmax-etfs-announces-distributions-msst-115500073.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T11:55:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "59987831d91e26bb",
@@ -178,25 +222,14 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "3ee858189d0b5314",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Discipline and Rules-Based Execution in EML Response - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVS1uYi1HVWFzVDV2SUY4bHprelpvWEFNMFpPLXpET3dSMVFfQlNremR5em51UU5pM09mRHlhUzNfTFM4Z0hpR1prcmJhdTNLZDdFblVNUkxpeUZvbEQtVFFFUTNHQVBiRkVhdUw0UThSbGFvd0t2TVd4aFczQzdCM2xXdjNUSnB3NFQwdHhvMTlTRXV0N3E2NG9IVFlUT282ZzVCV0lnZTF0cjJSYjNuVW5wLXYzOTZzVzFKWXJtYVJCcGJUYVZGRnJWd1o?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-11-01T00:40:01+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "2de28243d01abbab",
+      "id": "db7c68b5570fc36b",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
       "title": "What Is Behind BOC Hong Kong (Holdings) (SEHK:2388) Latest Move? - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2xmQ3h5MjVnVXpUSExkbFZMRVBDSDVaM3VWZllOUTlONUQ3V2RhUzI4amRhU0FJMzlBa0phNU5KUEhGeUZLLVRJUU1nWEswbjR1RmJRa1paSk1RVkNZMG5FZkVEZ0t2cV9mRllZYlhlNVF5UlZBS3diZFA0bWRPdFljcHo2TkpteEx3cWdUTWgtbWVPTHlvWFZKSWpfbnlfR1FKV3FnZHgtNE90QmZyV0lDdDZDYmhVR3JOeVdqZjBIMkpGeURzY19DWG1uVVBodWpuSVp0SdIB3AFBVV95cUxOY0RxOFZmLVRmRXFsS0s1MDNYM25idWo5N2FadzItN0N1WVlDa3o0aFk2RDhyTkkwQ3pPWUlYUklXdmVJamdtVENVX3JZZEJJTnl2aTRJRlZQdmgtSzZIMHJpMUtNOU05aFVoMklWZ1FaYlROMl9Hc2VPczdtLUVCdkFsMGl1aWwzaExlYmdkSXFvd0UwcFdEOVhidV8yQU1wMVQ4Q2ZGcEc5eHBJMlVwdWFoRHViZHdUdUF6SVlFVG9CX0lqek9mdDl6Ul9rWjdNdFo4M0RVX0cwUWk5?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY0RxOFZmLVRmRXFsS0s1MDNYM25idWo5N2FadzItN0N1WVlDa3o0aFk2RDhyTkkwQ3pPWUlYUklXdmVJamdtVENVX3JZZEJJTnl2aTRJRlZQdmgtSzZIMHJpMUtNOU05aFVoMklWZ1FaYlROMl9Hc2VPczdtLUVCdkFsMGl1aWwzaExlYmdkSXFvd0UwcFdEOVhidV8yQU1wMVQ4Q2ZGcEc5eHBJMlVwdWFoRHViZHdUdUF6SVlFVG9CX0lqek9mdDl6Ul9rWjdNdFo4M0RVX0cwUWk50gHcAUFVX3lxTE5jRHE4VmYtVGZFcWxLSzUwM1gzbmJ1ajk3YVp3Mi03Q3VZWUNrejRoWTZEOHJOSTBDek9ZSVhSSVd2ZUlqZ21UQ1VfcllkQklOeXZpNElGVlB2aC1LNkgwcmkxS005TTloVWgySVZnUVpiVE4yX0dzZU9zN20tRUJ2QWwwaXVpbDNoTGViZ2RJcW93RTBwV0Q5WGJ1XzJBTXAxVDhDZkZwRzl4cEkyVXB1YWhEdWJkd1R1QXpJWUVUb0JfSWp6T2Z0OXpSX2taN010WjgzRFVfRzBRaTk?oc=5",
       "source": "Simply Wall St",
-      "published": "2026-10-31T16:05:31+00:00",
+      "published": "2026-10-31T16:05:33+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -220,6 +253,17 @@
       "source": "News",
       "published": "2026-10-31T14:25:27+00:00",
       "logo": "logos/NU.svg"
+    },
+    {
+      "id": "0b47c636a1215ff8",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Price-Driven Insight from (BOC) for Rule-Based Strategy - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR0xXZUtaeWpDbk5pQnY2cGRYM3NIbnVXa2I1WnpSNnhJTlRtbzEwdllRczRhakNXdVNPSVB1dHdqZjJmZ1FYbUwzMzQtX3pINUNlWmF0REZGcXdWZWZNUzh5MTlRc1VldU9ELTZILW5STkkwc1BDeHpTSXkyQzIzZGhlTzR6UEpNMGNXX3ljYW9LLXpON3hLckJUU0NUWHBSR0JBZXo2LXh0TUhJY3huTndmRUxFMHJBYkFpZ1hrdVItcE1NdXdNanlwTkR6Zw?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-10-31T06:36:02+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "78471f3bcd5d8734",
@@ -255,26 +299,15 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "a68139a03d8830de",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "B. Riley’s $64 Target Says IREN’s Selloff Went Too Far",
-      "link": "https://www.tikr.com/blog/b-rileys-64-target-says-irens-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261030-4f8m8346&.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T20:38:26+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "7d47436aff400f4c",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Iren (IREN) Stock Sees Modest Fair Value Cut As Analysts Weigh AI Funding Risks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-stock-sees-modest-171422114.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T17:14:22+00:00",
-      "logo": "logos/IREN.svg"
+      "id": "c81b54ca772adc3f",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC HONG KONG-R (82388) Stock Forum and Discussion - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbzdOYS1DN19CMmFtTnZYd3A1d2w1VlhzYVROZUpuUzc3eXZtNnMxMTVBb0lMZDhNYnFtRVkxaVBkbU85dXZGSnJHMXB0bDVxdzZJVXg3STMwU1dZNzZ6VDU5ZmtKRk5YWmwwaC1NbFNOa1hKSVR0RFI5N2tnNUQxZ05SaGZwZzFvSVBfWTdRc1BNRHptU3p0OEdGdC1GMC1WUTB1MkU2dmpVNmEzM3ZBS0tDeU1ZanM0OXJ6dnViSnZkMzVsa1NGU0NYbEpsMWhrVU9rNXNiX2FaQ0F4TWoyNmNRd1VCWU44ZGw5ZnM0bjJiQTlSSkEtZzhFTVYySHg5azlTT3VvQkdHVS05T2dDU0lDd1hjdDQ2dG51TU1ZZWtNeEtzWmp3dnNQM3o2Q1BCclJFZVRnZnZDQQ?oc=5",
+      "source": "Moomoo",
+      "published": "2026-10-31T00:23:40+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "d4640ccdedf931b8",
@@ -299,17 +332,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "d813cab6586911a7",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Up As BoC Hike Reshapes Rate Expectations - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLURvZ182UHh1OFQ2VEpyVllib3FHY1dIczJEVXJ3dVpVb2VhMDVrVldnbWtWMXN4U0hFQ1o1UjYzX0dqSEhpZXRBaEYxUWluUmU5MUl3VEpKYWlOREpFbENhbEhOTzF5QTZRbDRtWHN2NHF2dnBudWRCNHZaRFFxWXU2MmtiZ2JEaTVTQ19UNmxvT2dMQkVtR2d5c0k?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-29T12:11:30+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "28de56a2249725ed",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -321,17 +343,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "667d6efb0b51fede",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Stocks end higher as Fed holds key rate steady, BoC hikes - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVXBEX0J3RWpYc3VZaGNfeU1jXzBJd2g0MjVndGhxeVJ3TE9qa2p5RzlRVXI2eUpZOW9DSC1SQW4yRENUaV9YY2RMRlpmcHBuLWdJYXZGb3BnU1ZLYTBCLVY0ZFUyWWxTS216dGdKRWlvQ19fV3lJU0pKWVZnWnZTSkNuMGdWYmd5RkFQMG1fLVVZLWEzYmpRc05RVmxmMXNxNF9qMVdkSlJJaWNKVUVvMGR3S2M2Y2I2ZnZvQXIyWndVVjRvNXF5cXZ6SjhNWThlaUpGTjcxTURQYVZMTFRnSHJUMA?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-10-28T09:07:31+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "5ce87387dca0b51a",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -340,17 +351,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/mbapp-china-backlash-could-game-060844753.html?.tsrc=rss",
       "source": "News",
       "published": "2026-10-28T06:08:44+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "2b69dcc321ebe703",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "On Holding (ONON) Stock May Be Fully Priced As Shares Fell 31%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-stock-may-fully-031045181.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-28T03:10:45+00:00",
       "logo": "logos/ONON.svg"
     },
     {
