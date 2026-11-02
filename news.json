@@ -1,49 +1,82 @@
 {
-  "updated": "2026-11-02T07:46:09Z",
+  "updated": "2026-11-02T10:24:03Z",
   "items": [
     {
-      "id": "942439dc82aace0a",
+      "id": "5e60a19a1f108c41",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla registrations jump in Sweden, Norway and Denmark",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-registrations-jump-sweden-norway-095029537.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T09:50:29+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "6914e896209b321a",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Asian stocks mixed as tech sector struggles to rebound from selloff",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mixed-tech-sector-024236684.html?.tsrc=rss",
+      "title": "Alphabet Missed Its Q3 Estimates, and I Couldn't Care Less",
+      "link": "https://www.fool.com/investing/2026/11/02/alphabet-missed-q3-estimates-couldnt-care/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-02T07:28:31+00:00",
+      "published": "2026-11-02T09:35:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "35b32e7f730e8a7d",
+      "id": "653e813bcc3e669c",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Nvidia, Costco and 10 More Issuers Opt Out of ICE and OKX’s Tokenized Stock Venue",
+      "link": "https://unchainedcrypto.com/nvidia-costco-and-10-more-issuers-opt-out-of-ice-and-okxs-tokenized-stock-venue/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T09:30:05+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "ffd375cece166c42",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "How Has Amazon's Story Changed?",
-      "link": "https://www.trefis.com/stock/amzn/articles/621832/how-has-amazons-story-changed/2026-11-02?.tsrc=rss",
+      "title": "GOOGL Gains Premarket As Tech Selloff Eases: Alphabet Preps Second Euro Bond This Year",
+      "link": "https://stocktwits.com/news-articles/markets/equity/googl-gains-premarket-as-tech-selloff-eases-alphabet-preps-second-euro-bond-this-year/cNG9rlpR92u?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-02T07:27:22+00:00",
+      "published": "2026-11-02T09:15:16+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "6de9411109126a92",
+      "id": "70f910282fbe4e15",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "What Is The Case For Waiting On Rigetti Computing Stock?",
-      "link": "https://www.trefis.com/stock/rgti/articles/621850/what-is-the-case-for-waiting-on-rigetti-computing-stock/2026-11-02?.tsrc=rss",
+      "title": "Zacks.com featured highlights include Alphabet, GormanRupp, Micron, Corning, Suncor Energy and Plains All American Pipeline",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-alphabet-085700899.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-02T07:04:09+00:00",
+      "published": "2026-11-02T08:57:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "3532152fff91d5d7",
+      "id": "e3896acf0d5f52c9",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Should You Buy Reddit Stock For Its Cash?",
-      "link": "https://www.trefis.com/stock/rddt/articles/621770/should-you-buy-reddit-stock-for-its-cash/2026-11-01?.tsrc=rss",
+      "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
+      "link": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-02T07:04:01+00:00",
+      "published": "2026-11-02T08:56:00+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "6a2cd65bd75b9a83",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX Could Mirror Nvidia’s Revenue Boom, Sequoia Partner Says — Tesla Influencer Runs Hypothetical Merger Math",
+      "link": "https://stocktwits.com/news-articles/markets/equity/spacex-mirror-nvidia-revenue-boom-sequoia-partner-tesla-influencer-merger-math/cNG9YeiR92p?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T07:48:21+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "ab5fe65c52855d5b",
@@ -68,17 +101,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "04a7e72e7a334382",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Blinks? Tesla’s Terafab May Reportedly Lean on TSMC After All",
-      "link": "https://finance.yahoo.com/technology/articles/elon-musk-blinks-tesla-terafab-041311073.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T04:13:11+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "cd6af83bc9ed94db",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -88,17 +110,6 @@
       "source": "News",
       "published": "2026-11-02T04:00:30+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "d20380c1c4b7dc06",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tiger Brokers Singapore Brings Extended-Hours US Options Trading to Singapore Investors",
-      "link": "https://finance.yahoo.com/markets/options/articles/tiger-brokers-singapore-brings-extended-020500891.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T02:05:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "4fe0f0dafd7d2eb1",
@@ -189,6 +200,17 @@
       "logo": "logos/NU.svg"
     },
     {
+      "id": "78471f3bcd5d8734",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Electric Metals (USA) Limited (EML.V) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JWjNFMHl6Y0VZNXBUYm9KbDRRdHpHanR3T1l2RTJRQnBtSXl5SEQxanp5aFkxZVQxUFNuajBRX1Nla2VSdlQ2bXJsazFMWUxWRG9V?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-10-31T05:59:12+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "7eef0c29fc377e96",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -255,17 +277,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "ec4f27d859301202",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "MSTR Q3 Earnings Beat Estimates on Bitcoin Gains Despite Revenue Miss",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/mstr-q3-earnings-beat-estimates-133900070.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-30T13:39:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "d4640ccdedf931b8",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -275,17 +286,6 @@
       "source": "VZ VermögensZentrum",
       "published": "2026-10-30T09:35:27+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "49bedb10dd60f649",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments Limited (ASX:EML) - Shares, Dividends & News - www.intelligentinvestor.com.au",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wam5OSk9DWXlWdEZ0TUYxSzZFbjVzWmxkNmNfR29YMlRoNlRwNFFhN2xQVU5MNWVYSDdkYnd0Zk9rWUFlbnRMNVA0a3dWanVTVXJKeXAzaVZNTGhDb3dzU3pXa0xmc1E4QVR5UXpodWhsV0tZSWRrcjAxdERHZGc?oc=5",
-      "source": "www.intelligentinvestor.com.au",
-      "published": "2026-10-30T07:00:00+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "5bb4c2d4ce83f0ed",
@@ -321,6 +321,17 @@
       "logo": "logos/BOC.svg"
     },
     {
+      "id": "a6ed3ac68a139f79",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Sat Out BOC Hong Kong Holdings' Rally? Here Is What Holders Saw - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSjV5TUVPaVZvNHJwMk9saUdUTGFhdEZKZXZhTGlSN3BnRlVhUDQ5ZURrZkk0Sk84Qk1LQmxVRVR0SV9vWTRZN3BVbXI4TF9TaU5wN2g5R1V2TEtOcFp1aDdOMU96eTB3RHd5emJLUWR5QVMwS1BWZkI2LVRUWGh2Si1GVko5NV91NVVydENEZXFRTmp1STIxX3F0ZFU2U3FEdmswUThTNThrTHByVUYtY282ZGVPOTIydEV6d0t6ajJqMXdfdkxOZWJERDA0RXRYckMzYUV1Vy1aQdIB3wFBVV95cUxObE01Q0Fyb0tlTU41Q0VLUUlDRDJNOXNRX2VIZWpsU1RtVFhKMzM5Zm9MUEZHaFVYMWw3RHRWdEk5SXpBbjNxalBjLVVJNW9neThGTkczZ1pydW52blZwRnMyQVBMT0FUNUhMQWpGakMtdWRIZGRzUFVfemNxOS1nZHVxMFdWXy0tTGREY1Z6bXJSZ29BYXBlcHVYTGlVQ3dmUVlaWjB5MjFZaURuUlBSeWRYLWJMUF9mN3F2Z2FuTVpseUJjYnJ2NGlPOEN1aDlUZXNuektxRFF5SXF0MEhZ?oc=5",
+      "source": "Simply Wall Street",
+      "published": "2026-10-28T08:18:51+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "5ce87387dca0b51a",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -341,17 +352,6 @@
       "source": "News",
       "published": "2026-10-28T03:10:45+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "446d7d9c5186c1f3",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Boston Omaha Corporation (BOC) stock price, news, quote and history - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rdThiaHg4M3VaRS1vaVp3X0YyeTFBc1h6UTkwcHJXQmtXX3hJYkcxb19HbXJ1c1NMdFR2T1N4c2Z4OXdzeUkxekVlQ2VOYUl0?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "published": "2026-10-27T13:04:59+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "100f84de1493c850",
