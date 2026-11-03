@@ -1,48 +1,48 @@
 {
-  "updated": "2026-11-03T04:11:10Z",
+  "updated": "2026-11-03T07:34:17Z",
   "items": [
     {
-      "id": "661f564d5e996362",
+      "id": "c57878a697069398",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Yardeni Says Analysts Still See S&P 500 Earnings Near $500 Per Share by 2028",
-      "link": "https://beincrypto.com/yardeni-sp500-earnings-forecast-2028/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T03:40:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "232bbc618b27cc4c",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "What Realty Income (O) Said on Its Q3 Earnings Call",
-      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-realty-income-o-said-on-its-q3-earnings-call-2026-11-02/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T03:13:19+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "78403eff3f3e26ef",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stocks mostly down as AI concerns top plunge in oil prices",
+      "title": "Stocks mostly down as AI concerns drag on sentiment",
       "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-ai-concerns-025549205.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-03T02:55:49+00:00",
+      "published": "2026-11-03T07:21:32+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "a1662d75cede29f4",
+      "id": "680f4a68dec07bdf",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "How Coca Cola Media Renewal Will Impact WPP (LSE:WPP) Investors",
-      "link": "https://finance.yahoo.com/media-advertising/articles/coca-cola-media-renewal-impact-021241384.html?.tsrc=rss",
+      "title": "Entergy Corp (ETR) Q3 2026 Earnings Call Highlights: Strong EPS, Google Expansion, and a ...",
+      "link": "https://finance.yahoo.com/energy/articles/entergy-corp-etr-q3-2026-070158071.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-03T02:12:41+00:00",
+      "published": "2026-11-03T07:01:58+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "f6267e236b976ceb",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Bill Ackman's Pershing Square Says Wall Street Is 'Penalizing Hyperscalers' For Build-Out Costs, Ignoring Growth Potential",
+      "link": "https://stocktwits.com/news-articles/markets/equity/bill-ackman-pershing-square-wall-street-penalizing-hyperscalers-build-out-costs-ignoring-growth-potential/cNGQt6GR955?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T05:41:46+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "8078199ffac26bd1",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Morgan Stanley issues a fresh warning about AI stocks",
+      "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-issues-warning-about-ai-stocks?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T04:33:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -156,6 +156,17 @@
       "logo": "logos/ONON.svg"
     },
     {
+      "id": "a0857f52982937fb",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "How Did EML Payments Limited (ASX:EML) Reshape Its Operations Amid FY26 Revenue Changes? - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdF9qWWo5NkJwNHBzeFdjX016YzJzV1hRa1B5di05cDRjSHUtU0hiMGY5eUYxZDJCR2loVHU2VGNJUENkb0xWRmxOS2JKUm9Ud1FHLXk3OHItWUk3cGs4TmRkR0VNektEZUFtOUNENGZBdVQ2Z3RsYTE5NlJoVUJ5Ynk0cW9CMy14MWFpMVpvYWZjY0hZTFl2UEFObWF0UmludWNzVWxVVk9memV3YzdwMEpsU29MNVdydkIwSWpEZw?oc=5",
+      "source": "Kalkine",
+      "published": "2026-11-02T13:43:23+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "87cbfa488f1d8c5b",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -176,17 +187,6 @@
       "source": "Transuite Expands AI Via Key Acquisition and China Growth",
       "published": "2026-11-02T12:38:04+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "e2a32112a253784a",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "How Did EML Payments Limited (ASX:EML) Reshape Its Operations Amid FY26 Revenue Changes? - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTk9XNU1IVHR3UElVeHo0Z3BUWWduekpkeW9VbHZEV1RQYnNUdE9CbzcyYjZYMFZpdzZJRlhRcENmbnNUT1RfYVFGazE4Mlp0VEZSYzFIWEZRQ0lZQ3dhVmxVdnkyY0lSN0g5NU1xcXZtdUlSdy01bWEzdGw3MjdXUGZvQ2VrMXpfM2pZTWl6QnF0TzYyYTBFRjdZMG52aDVIbUJYbTkxakpuX0Y5QWY1QWZRSFNRR0tRRTV4cjdtSmhBREQyVmU5OUU5TXA?oc=5",
-      "source": "Kalkine",
-      "published": "2026-11-02T12:35:00+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "59987831d91e26bb",
@@ -255,17 +255,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "3ee858189d0b5314",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Discipline and Rules-Based Execution in EML Response - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVS1uYi1HVWFzVDV2SUY4bHprelpvWEFNMFpPLXpET3dSMVFfQlNremR5em51UU5pM09mRHlhUzNfTFM4Z0hpR1prcmJhdTNLZDdFblVNUkxpeUZvbEQtVFFFUTNHQVBiRkVhdUw0UThSbGFvd0t2TVd4aFczQzdCM2xXdjNUSnB3NFQwdHhvMTlTRXV0N3E2NG9IVFlUT282ZzVCV0lnZTF0cjJSYjNuVW5wLXYzOTZzVzFKWXJtYVJCcGJUYVZGRnJWd1o?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-11-01T00:40:01+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "db7c68b5570fc36b",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -310,17 +299,6 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "f25193ac12daddba",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Q2 2026 Earnings: EPS Falls Far Short of Estimates, Yet Shares Edge Higher - Analyst Earnings Estimate - https://www.dars.gov.et/",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUd5UjB1azNRaml0S0hZaHE4U1QxWUpvLUh2SmZSOS1VYndHanQ4TnJVdzcwSnVfNUZJNjRMMW1mT1l6enY5R0RaVTBtNlotZGRJVFVtZEdrUDJ0QWZrQnRlcUhEYzVhdEhyd1N0ZlROWWFiaTFBLXRrNGNnZFFWOEhJT0pBRTYxM0g0WS13UEZEUEhmWVI0Si1XOHFuQ0s3SWJNNl9MQ2xQcXE4d3YwWHJaLUx3U0d2U29neTl3?oc=5",
-      "source": "https://www.dars.gov.et/",
-      "published": "2026-10-31T00:30:15+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "c81b54ca772adc3f",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -330,6 +308,17 @@
       "source": "Moomoo",
       "published": "2026-10-31T00:23:40+00:00",
       "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "49bedb10dd60f649",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments Limited (ASX:EML) - Shares, Dividends & News - www.intelligentinvestor.com.au",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wam5OSk9DWXlWdEZ0TUYxSzZFbjVzWmxkNmNfR29YMlRoNlRwNFFhN2xQVU5MNWVYSDdkYnd0Zk9rWUFlbnRMNVA0a3dWanVTVXJKeXAzaVZNTGhDb3dzU3pXa0xmc1E4QVR5UXpodWhsV0tZSWRrcjAxdERHZGc?oc=5",
+      "source": "www.intelligentinvestor.com.au",
+      "published": "2026-10-30T07:00:00+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "5bb4c2d4ce83f0ed",
@@ -352,6 +341,17 @@
       "source": "News",
       "published": "2026-10-29T02:05:02+00:00",
       "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "556c27694f47a428",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Stock Price and Chart — NASDAQ:EML - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01c0RSckZSYlBDbXJXbVdzc3ZWdUVic19yaEljcmtZTWdlUU5JMktidndSWHVUdjB4blNZdF9XTGwzUXVlM0ctZ2IxTHk2ZmRoUmpiQzRmZ0Q0Z2M?oc=5",
+      "source": "TradingView",
+      "published": "2026-10-27T17:31:33+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "100f84de1493c850",
