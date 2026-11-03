@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-03T01:26:43Z",
+  "updated": "2026-11-03T04:11:10Z",
   "items": [
+    {
+      "id": "661f564d5e996362",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Yardeni Says Analysts Still See S&P 500 Earnings Near $500 Per Share by 2028",
+      "link": "https://beincrypto.com/yardeni-sp500-earnings-forecast-2028/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T03:40:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "232bbc618b27cc4c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "What Realty Income (O) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-realty-income-o-said-on-its-q3-earnings-call-2026-11-02/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T03:13:19+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "78403eff3f3e26ef",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Stocks mostly down as AI concerns top plunge in oil prices",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-ai-concerns-025549205.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T02:55:49+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a1662d75cede29f4",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "How Coca Cola Media Renewal Will Impact WPP (LSE:WPP) Investors",
+      "link": "https://finance.yahoo.com/media-advertising/articles/coca-cola-media-renewal-impact-021241384.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T02:12:41+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "a46288ec2e690864",
       "ticker": "TSLA",
@@ -11,39 +55,6 @@
       "source": "News",
       "published": "2026-11-03T00:47:00+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "464b60ee1bd054cf",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Jim Cramer explains the 'AI cheat code' driving Apple stock higher",
-      "link": "https://www.thestreet.com/investing/stocks/jim-cramer-apple-stock-ai-strategy?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T00:00:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "005ad6204ca3872a",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet Lost $500 Billion in Market Value. Should You Really Buy AI Stocks Now?",
-      "link": "https://www.fool.com/investing/2026/11/02/alphabet-lost-usd500-billion-in-market-value-should-you-really-buy-ai-stocks-now/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T23:25:01+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "22cf2e62880a6d6e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet Has Lost $766 Billion in October, Its Worst Month Ever. UBS Warns Against Running for the Exits.",
-      "link": "https://247wallst.com/videos/alphabet-has-lost-766-billion-in-october-its-worst-month-ever-ubs-warns-against-running-for-the-exits/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T23:18:33+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "a8fde4f0d0b6f7ed",
@@ -66,17 +77,6 @@
       "source": "News",
       "published": "2026-11-02T22:55:00+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "30f29a2623922db9",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stock Market Today, Nov. 2: Apple Stock Slides Ahead of Earnings, but Its Latest Results Tell a Different Story",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/02/stock-market-today-nov-2-apple-stock-slides-ahead-of-earnings-but-its-latest-results-tell-a-different-story/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T22:45:02+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "666a3689559da220",
@@ -200,6 +200,17 @@
       "logo": "logos/NU.svg"
     },
     {
+      "id": "31c8122e4fe1b220",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC-Prudential S&P 500 Index Ret HKD (0P0001NJSE.HK) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fS2Fxd3JpYlowMDVKM1ZzNmZ1REdPbWl2c0taczdtLXd3VGx0alo3MWJMclphMFcyZXFvbFVGbk55RW1SZGpyTHFMakQyQkZ0cFRveFYtRHV3aDNLbC05aXk3eGdlanNZMjVB?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-02T02:29:01+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "4fe0f0dafd7d2eb1",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -255,14 +266,14 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "2de28243d01abbab",
+      "id": "db7c68b5570fc36b",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
       "title": "What Is Behind BOC Hong Kong (Holdings) (SEHK:2388) Latest Move? - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2xmQ3h5MjVnVXpUSExkbFZMRVBDSDVaM3VWZllOUTlONUQ3V2RhUzI4amRhU0FJMzlBa0phNU5KUEhGeUZLLVRJUU1nWEswbjR1RmJRa1paSk1RVkNZMG5FZkVEZ0t2cV9mRllZYlhlNVF5UlZBS3diZFA0bWRPdFljcHo2TkpteEx3cWdUTWgtbWVPTHlvWFZKSWpfbnlfR1FKV3FnZHgtNE90QmZyV0lDdDZDYmhVR3JOeVdqZjBIMkpGeURzY19DWG1uVVBodWpuSVp0SdIB3AFBVV95cUxOY0RxOFZmLVRmRXFsS0s1MDNYM25idWo5N2FadzItN0N1WVlDa3o0aFk2RDhyTkkwQ3pPWUlYUklXdmVJamdtVENVX3JZZEJJTnl2aTRJRlZQdmgtSzZIMHJpMUtNOU05aFVoMklWZ1FaYlROMl9Hc2VPczdtLUVCdkFsMGl1aWwzaExlYmdkSXFvd0UwcFdEOVhidV8yQU1wMVQ4Q2ZGcEc5eHBJMlVwdWFoRHViZHdUdUF6SVlFVG9CX0lqek9mdDl6Ul9rWjdNdFo4M0RVX0cwUWk5?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY0RxOFZmLVRmRXFsS0s1MDNYM25idWo5N2FadzItN0N1WVlDa3o0aFk2RDhyTkkwQ3pPWUlYUklXdmVJamdtVENVX3JZZEJJTnl2aTRJRlZQdmgtSzZIMHJpMUtNOU05aFVoMklWZ1FaYlROMl9Hc2VPczdtLUVCdkFsMGl1aWwzaExlYmdkSXFvd0UwcFdEOVhidV8yQU1wMVQ4Q2ZGcEc5eHBJMlVwdWFoRHViZHdUdUF6SVlFVG9CX0lqek9mdDl6Ul9rWjdNdFo4M0RVX0cwUWk50gHcAUFVX3lxTE5jRHE4VmYtVGZFcWxLSzUwM1gzbmJ1ajk3YVp3Mi03Q3VZWUNrejRoWTZEOHJOSTBDek9ZSVhSSVd2ZUlqZ21UQ1VfcllkQklOeXZpNElGVlB2aC1LNkgwcmkxS005TTloVWgySVZnUVpiVE4yX0dzZU9zN20tRUJ2QWwwaXVpbDNoTGViZ2RJcW93RTBwV0Q5WGJ1XzJBTXAxVDhDZkZwRzl4cEkyVXB1YWhEdWJkd1R1QXpJWUVUb0JfSWp6T2Z0OXpSX2taN010WjgzRFVfRzBRaTk?oc=5",
       "source": "Simply Wall St",
-      "published": "2026-10-31T16:05:31+00:00",
+      "published": "2026-10-31T16:05:33+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -275,6 +286,17 @@
       "source": "News",
       "published": "2026-10-31T15:13:20+00:00",
       "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "0b47c636a1215ff8",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Price-Driven Insight from (BOC) for Rule-Based Strategy - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR0xXZUtaeWpDbk5pQnY2cGRYM3NIbnVXa2I1WnpSNnhJTlRtbzEwdllRczRhakNXdVNPSVB1dHdqZjJmZ1FYbUwzMzQtX3pINUNlWmF0REZGcXdWZWZNUzh5MTlRc1VldU9ELTZILW5STkkwc1BDeHpTSXkyQzIzZGhlTzR6UEpNMGNXX3ljYW9LLXpON3hLckJUU0NUWHBSR0JBZXo2LXh0TUhJY3huTndmRUxFMHJBYkFpZ1hrdVItcE1NdXdNanlwTkR6Zw?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-10-31T06:36:02+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "78471f3bcd5d8734",
@@ -299,14 +321,14 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "d4640ccdedf931b8",
+      "id": "c81b54ca772adc3f",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
-      "title": "BOC Hong Kong Announces Third Interim Dividend of HKD 0.29 per Share - VZ VermögensZentrum",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaDFJTXozNnJEU1lycU43NUh0cGc1aXBsR1QwZjlOUjVQbkpSbVk2aXhDbV9janZ0N3Fxd1BVQnJFT2lEcE9leTlNRE1VV3FMYVpib2ppZk1Hajh5VkF4MEFFQm00SEt1YUptMHR6ZVJsTUhZdndCNkFLeTBxSE01NUttSVZwbjB1bnVmbGFqZUVqWUFlWVVLaGNTbWxPWVRhNExpUHM5WFV2TzdxOHFHcGNXak9kbVVEaGZuTVVKTmctbGxyVzZN?oc=5",
-      "source": "VZ VermögensZentrum",
-      "published": "2026-10-30T09:35:27+00:00",
+      "title": "BOC HONG KONG-R (82388) Stock Forum and Discussion - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbzdOYS1DN19CMmFtTnZYd3A1d2w1VlhzYVROZUpuUzc3eXZtNnMxMTVBb0lMZDhNYnFtRVkxaVBkbU85dXZGSnJHMXB0bDVxdzZJVXg3STMwU1dZNzZ6VDU5ZmtKRk5YWmwwaC1NbFNOa1hKSVR0RFI5N2tnNUQxZ05SaGZwZzFvSVBfWTdRc1BNRHptU3p0OEdGdC1GMC1WUTB1MkU2dmpVNmEzM3ZBS0tDeU1ZanM0OXJ6dnViSnZkMzVsa1NGU0NYbEpsMWhrVU9rNXNiX2FaQ0F4TWoyNmNRd1VCWU44ZGw5ZnM0bjJiQTlSSkEtZzhFTVYySHg5azlTT3VvQkdHVS05T2dDU0lDd1hjdDQ2dG51TU1ZZWtNeEtzWmp3dnNQM3o2Q1BCclJFZVRnZnZDQQ?oc=5",
+      "source": "Moomoo",
+      "published": "2026-10-31T00:23:40+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -321,17 +343,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "d813cab6586911a7",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Up As BoC Hike Reshapes Rate Expectations - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLURvZ182UHh1OFQ2VEpyVllib3FHY1dIczJEVXJ3dVpVb2VhMDVrVldnbWtWMXN4U0hFQ1o1UjYzX0dqSEhpZXRBaEYxUWluUmU5MUl3VEpKYWlOREpFbENhbEhOTzF5QTZRbDRtWHN2NHF2dnBudWRCNHZaRFFxWXU2MmtiZ2JEaTVTQ19UNmxvT2dMQkVtR2d5c0k?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-29T12:11:30+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "28de56a2249725ed",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -341,17 +352,6 @@
       "source": "News",
       "published": "2026-10-29T02:05:02+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "e2d20f89b933f308",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Higher As Fed And BoC Decisions Loom - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG1pa1pSNWY5akZBVkl5TFJ3ZGF6X1AwME92cEFWQnZ5QVlOb1F2MWVVTmk4OUZZcGk2ZHdoNkNWcE9sSG9wNG9IN01EZnphZFNNOUlJcVdfOTZTSHUta3duLTJkX0xNMlktWHVqakthN090cUI1REpyZ3JNYzBTLW45bEhjS1BrWXlZdXhVcEM5aUhSZHk0YWdPcDY?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-28T12:06:58+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "100f84de1493c850",
