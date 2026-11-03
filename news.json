@@ -1,71 +1,148 @@
 {
-  "updated": "2026-11-03T13:27:58Z",
+  "updated": "2026-11-03T16:11:56Z",
   "items": [
     {
-      "id": "e896181ade9f941b",
+      "id": "e77fed09a1e3ebc0",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Cipher Digital Soars 11% as AI Data Center Stocks Rebound After Price-Target Selloff; IREN Jumps 10%, TeraWulf Surges 9%",
+      "link": "https://247wallst.com/investing/2026/11/03/cipher-digital-soars-11-as-ai-data-center-stocks-rebound-after-price-target-selloff-iren-jumps-10-terawulf-surges-9/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T15:53:32+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "8dcf47d2286b1733",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Good News Or Bad? Wall Street Lowers The Revenue Bar For Google Search",
-      "link": "https://finance.yahoo.com/m/bbb79849-00ba-3ead-8845-3eecd0f7dca1/good-news-or-bad%3F-wall-street.html?.tsrc=rss",
+      "title": "Amazon, Google and Microsoft Are 'Absolute Jokes' Compared With SpaceX, Says Sequoia's Shaun Maguire",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/62826642/spacex-ai-infrastructure?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
       "source": "News",
-      "published": "2026-11-03T13:12:15+00:00",
+      "published": "2026-11-03T15:34:04+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "3f1504ef8aee376a",
+      "id": "b91ad9d4725f03ba",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "How Investors May Respond To Alphabet Stock Euro Bond Sale",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-alphabet-stock-130935219.html?.tsrc=rss",
+      "title": "This AI Boom is not 1999 all over again — and here's why",
+      "link": "https://finance.yahoo.com/video/this-ai-boom-is-not-1999-all-over-again--and-heres-why-151849805.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-03T13:09:35+00:00",
+      "published": "2026-11-03T15:18:49+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "6136393a8e2b7746",
+      "id": "06c2522ceb52fc9d",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Nitro Games PLC (OSTO:NITRO) (Q3 2026) Earnings Call Highlights: 1 Million Pre-Registrations ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nitro-games-plc-osto-nitro-130153268.html?.tsrc=rss",
+      "title": "Why Shares of Alphabet Stock Sank 17.5% Last Month",
+      "link": "https://www.fool.com/investing/2026/11/03/why-shares-of-alphabet-stock-sank-175-last-month/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-03T13:01:53+00:00",
+      "published": "2026-11-03T15:15:15+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "9e18a6e66cbeefe2",
+      "id": "adaa86938c3b22d9",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "What Chemours (CC) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-chemours-cc-said-on-its-q3-earnings-call-2026-11-03/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T15:14:37+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "a51acf633cd2d425",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Is your portfolio too concentrated in AI?",
-      "link": "https://finance.yahoo.com/video/portfolio-too-concentrated-ai-130000556.html?.tsrc=rss",
+      "title": "Mid-term facts & refrigerator hacks, tech sell-off continues, Binance CEO addresses issues",
+      "link": "https://finance.yahoo.com/video/mid-term-facts--refrigerator-hacks-tech-sell-off-continues-binance-ceo-addresses-issues-151217552.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-03T13:00:00+00:00",
+      "published": "2026-11-03T15:12:17+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "46d95b72a2a6a2ad",
+      "id": "e574ecc67208d8bc",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Cipher Digital Soars 9%, IREN Up 8% as AI Data Center Stocks Rebound After Selloff",
+      "link": "https://www.tikr.com/blog/cipher-digital-soars-9-iren-up-8-as-ai-data-center-stocks-rebound-after-selloff?ref=yahoofinance&tlnk=yf-261103-2g4hjprv&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T15:01:49+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "8d7db0448ec4c5a7",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "SpaceX or Tesla: If I Could Buy and Hold Only 1 Elon Musk Stock Through 2030, It Would be This One",
-      "link": "https://www.fool.com/investing/2026/11/03/spacex-or-tesla-if-i-could-buy-and-hold-only-1-thr/?.tsrc=rss",
+      "title": "Ferrari raises outlook as luxury buyers keep spending",
+      "link": "https://finance.yahoo.com/video/ferrari-raises-outlook-as-luxury-buyers-keep-spending-145105185.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-03T12:20:00+00:00",
+      "published": "2026-11-03T14:51:05+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "f64a949124a12f19",
+      "id": "16cb1eeb50c256f6",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "AMD, Nvidia Could Join Tesla On Samsung’s Texas Chip Plant Customer List: Report",
-      "link": "https://stocktwits.com/news-articles/markets/equity/amd-nvidia-could-join-tesla-on-samsung-s-texas-chip-plant-customer-list-report/cNGX21iR95F?.tsrc=rss",
+      "title": "US Battery Energy Storage Industry Report Forecasts Investment Growth from $23.24 Billion (2025) to $45.42 Billion by 2035, Profiling Tesla, Generac, Wärtsilä, Ameresco & Schneider Electric",
+      "link": "https://finance.yahoo.com/energy/articles/us-battery-energy-storage-industry-144100745.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-03T12:14:43+00:00",
+      "published": "2026-11-03T14:41:00+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "f79903abe22593fa",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla’s China-Made EV Sales Rise For 12th Straight Month – European Recovery Adds To Momentum",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-s-china-made-ev-sales-rise-for-12th-straight-month-european-recovery-adds-to-momentum/cNGXECcR95t?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T14:25:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "15dd49c5dc762f36",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "What the Marvell-Lumentum Misfire Means for a Tesla-SpaceX Merger",
+      "link": "https://finance.yahoo.com/m/4e07bebb-339f-368a-a045-9daa726a5986/what-the-marvell-lumentum.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T14:15:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "f5f22c83a6fba2c1",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "Evercore Names New Top Pick: This Fashion Stock Joins Top 5 Outperformers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-names-top-pick-fashion-141055474.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T14:10:55+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "b01211c366776ff9",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "On Holding (ONON) Reports Next Week: What Awaits?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-reports-next-week-140004601.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T14:00:04+00:00",
+      "logo": "logos/ONON.svg"
     },
     {
       "id": "3398f31cddddcb80",
@@ -90,28 +167,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "d9d3ca39f524a7f4",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Energy Transition Today",
-      "link": "https://finance.yahoo.com/energy/articles/energy-transition-today-australias-wind-113658958.html?.tsrc=rss",
-      "source": "Australia's Wind Energy Surge Driven By Coal Phase-Out",
-      "published": "2026-11-03T11:36:58+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "2291c4ab46a85836",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Prediction: At 1.6 Million Robots, Optimus Is “Greater Than the Revenue From Tesla.” Musk Sees 625x That",
-      "link": "https://www.tikr.com/blog/prediction-at-1-6-million-robots-optimus-is-greater-than-the-revenue-from-tesla-musk-sees-625x-that?ref=yahoofinance&tlnk=yf-261103-wqr6j629&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T11:35:13+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "c21a43b264dec9d2",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -134,28 +189,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "3b58f3e7ad4831eb",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Applied Digital vs. IREN: Which Technology Stock Is a Better Buy for 2027?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/11/02/applied-digital-vs-iren-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T20:41:52+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "222e5d8ef587c098",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Nvidia, Microsoft, and JPMorgan object to OKXICE tokenized stocks",
-      "link": "https://finance.yahoo.com/video/nvidia-microsoft-jpmorgan-object-okxice-203000548.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T20:30:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "b72927cd0a75afea",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -167,6 +200,17 @@
       "logo": "logos/ONON.svg"
     },
     {
+      "id": "fe1a2bb681dab34c",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Uranium Prices Are Near Historic Highs—So Why Hasn’t Cameco Followed?",
+      "link": "https://www.marketbeat.com/articles/uranium-prices-are-near-historic-highsso-why-hasnt-cameco-followed/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-02T14:10:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
       "id": "a0857f52982937fb",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -176,17 +220,6 @@
       "source": "Kalkine",
       "published": "2026-11-02T13:43:23+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "87cbfa488f1d8c5b",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "On Holding AG (ONON) Is a Trending Stock: Facts to Know Before Betting on It",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-ag-onon-trending-stock-130002808.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T13:00:02+00:00",
-      "logo": "logos/ONON.svg"
     },
     {
       "id": "aca2c12894280f2e",
@@ -233,17 +266,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "61d88bbc0eceeb86",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco (TSX:CCO) Stock Faces Q3 Earnings Reality After Profit Strain",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-tsx-cco-stock-faces-210943273.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-01T21:09:43+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "c9d90ea1456d134e",
       "ticker": "NU",
       "symbol": "NU",
@@ -264,17 +286,6 @@
       "source": "Simply Wall St",
       "published": "2026-10-31T16:05:31+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "6036bb7e48c47c54",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "3 Canadian Growth Stocks With Earnings Growth Up To 65%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-earnings-151320350.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-31T15:13:20+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "78471f3bcd5d8734",
@@ -308,17 +319,6 @@
       "source": "www.intelligentinvestor.com.au",
       "published": "2026-10-30T07:00:00+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "5bb4c2d4ce83f0ed",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "Deckers Outdoor (DECK) vs. ONON and NKE: Can UGG and HOKA Growth Drive a Major Re-Rating?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/deckers-outdoor-deck-vs-onon-171932067.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-10-29T17:19:32+00:00",
-      "logo": "logos/ONON.svg"
     },
     {
       "id": "d813cab6586911a7",
