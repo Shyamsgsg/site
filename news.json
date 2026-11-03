@@ -1,6 +1,116 @@
 {
-  "updated": "2026-11-03T16:11:56Z",
+  "updated": "2026-11-03T19:14:53Z",
   "items": [
+    {
+      "id": "23ed64ccafc15d14",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Why Western Digital’s (WDC) Massive Quarter Is Only the Beginning (ready)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-western-digital-wdc-massive-185737464.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T18:57:37+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ee3461cf6bad5a9b",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Dell (DELL): A Top 10 Cheap AI Stock Trading at 13x Forward Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-dell-top-10-cheap-185313697.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T18:53:13+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "93bf05003e8dc48f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Hedge Funds Are Snapping Up AppLovin (APP) at a Steep Discount",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hedge-funds-snapping-applovin-app-184845036.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T18:48:45+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "715d1fade302a814",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Schwab’s (SCHW) Latest Move Proves Its Moat Is Doing Its Job",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/schwab-schw-latest-move-proves-184342408.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T18:43:42+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "3c9d66495aecfc4c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla's China-Made Vehicle Sales Rise 10.3% in October",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/teslas-china-made-vehicle-sales-182200130.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T18:22:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "e1115711b1726be2",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Stocks Move Lower With Fort Worth Robotaxi Expansion in Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-move-lower-fort-181318576.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T18:13:18+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "85f793c8abca44bb",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Applied Digital Surges 9% as AI Data Center Stocks Rebound From Financing Jitters; IREN Jumps 9%, Nebius Climbs 7%",
+      "link": "https://247wallst.com/investing/2026/11/03/applied-digital-surges-9-as-ai-data-center-stocks-rebound-from-financing-jitters-iren-jumps-9-nebius-climbs-7/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T17:53:59+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "a4e48ce1671b1484",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "CFTC Greenlights Perpetual Futures on U.S. Stocks",
+      "link": "https://www.bankless.com/read/news/cftc-greenlights-perpetual-futures-on-u-s-stocks?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T17:40:49+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ed609f5ad6873b50",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Chinese Tape Maker Soars 787% in Market Debut as Beijing Moves to Halt New IPO Filings",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/62832844/china-ipo-surge?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T17:32:51+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ea4dbba4609bfae6",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Traversal Raises $120M with a $1 Billion Valuation to Keep Code Running With a Superintelligent AI Site Reliability Engineer",
+      "link": "https://finance.yahoo.com/technology/ai/articles/traversal-raises-120m-1-billion-170000526.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-03T17:00:00+00:00",
+      "logo": "logos/NU.svg"
+    },
     {
       "id": "e77fed09a1e3ebc0",
       "ticker": "IREN",
@@ -13,37 +123,15 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "8dcf47d2286b1733",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Amazon, Google and Microsoft Are 'Absolute Jokes' Compared With SpaceX, Says Sequoia's Shaun Maguire",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/62826642/spacex-ai-infrastructure?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "id": "555bcaa8458f53cc",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "BC-Most Active Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153018770.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-03T15:34:04+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "b91ad9d4725f03ba",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "This AI Boom is not 1999 all over again — and here's why",
-      "link": "https://finance.yahoo.com/video/this-ai-boom-is-not-1999-all-over-again--and-heres-why-151849805.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T15:18:49+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "06c2522ceb52fc9d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Why Shares of Alphabet Stock Sank 17.5% Last Month",
-      "link": "https://www.fool.com/investing/2026/11/03/why-shares-of-alphabet-stock-sank-175-last-month/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T15:15:15+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-11-03T15:30:18+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "adaa86938c3b22d9",
@@ -57,17 +145,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "a51acf633cd2d425",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Mid-term facts & refrigerator hacks, tech sell-off continues, Binance CEO addresses issues",
-      "link": "https://finance.yahoo.com/video/mid-term-facts--refrigerator-hacks-tech-sell-off-continues-binance-ceo-addresses-issues-151217552.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T15:12:17+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "e574ecc67208d8bc",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -77,50 +154,6 @@
       "source": "News",
       "published": "2026-11-03T15:01:49+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "8d7db0448ec4c5a7",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Ferrari raises outlook as luxury buyers keep spending",
-      "link": "https://finance.yahoo.com/video/ferrari-raises-outlook-as-luxury-buyers-keep-spending-145105185.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T14:51:05+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "16cb1eeb50c256f6",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "US Battery Energy Storage Industry Report Forecasts Investment Growth from $23.24 Billion (2025) to $45.42 Billion by 2035, Profiling Tesla, Generac, Wärtsilä, Ameresco & Schneider Electric",
-      "link": "https://finance.yahoo.com/energy/articles/us-battery-energy-storage-industry-144100745.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T14:41:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "f79903abe22593fa",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla’s China-Made EV Sales Rise For 12th Straight Month – European Recovery Adds To Momentum",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-s-china-made-ev-sales-rise-for-12th-straight-month-european-recovery-adds-to-momentum/cNGXECcR95t?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T14:25:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "15dd49c5dc762f36",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "What the Marvell-Lumentum Misfire Means for a Tesla-SpaceX Merger",
-      "link": "https://finance.yahoo.com/m/4e07bebb-339f-368a-a045-9daa726a5986/what-the-marvell-lumentum.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T14:15:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "f5f22c83a6fba2c1",
@@ -145,17 +178,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "3398f31cddddcb80",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "PJT Partners (PJT) Q3 Earnings and Revenues Lag Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pjt-partners-pjt-q3-earnings-120003155.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T12:00:03+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "3328c2a7ce3a59b0",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -165,17 +187,6 @@
       "source": "News",
       "published": "2026-11-03T11:52:00+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "c21a43b264dec9d2",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN (NasdaqGS:IREN) Objects To Tokenized Share Trading On New Blockchain Venue",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/iren-nasdaqgs-iren-objects-tokenized-221036130.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-02T22:10:36+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "04a52934efc0edc1",
@@ -209,17 +220,6 @@
       "source": "News",
       "published": "2026-11-02T14:10:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "a0857f52982937fb",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "How Did EML Payments Limited (ASX:EML) Reshape Its Operations Amid FY26 Revenue Changes? - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdF9qWWo5NkJwNHBzeFdjX016YzJzV1hRa1B5di05cDRjSHUtU0hiMGY5eUYxZDJCR2loVHU2VGNJUENkb0xWRmxOS2JKUm9Ud1FHLXk3OHItWUk3cGs4TmRkR0VNektEZUFtOUNENGZBdVQ2Z3RsYTE5NlJoVUJ5Ynk0cW9CMy14MWFpMVpvYWZjY0hZTFl2UEFObWF0UmludWNzVWxVVk9memV3YzdwMEpsU29MNVdydkIwSWpEZw?oc=5",
-      "source": "Kalkine",
-      "published": "2026-11-02T13:43:23+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "aca2c12894280f2e",
@@ -264,17 +264,6 @@
       "source": "News",
       "published": "2026-11-01T22:08:42+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "c9d90ea1456d134e",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Stock Just Cratered, and It's 36% off Its High. Is This a Buying Opportunity?",
-      "link": "https://www.fool.com/investing/2026/11/01/nu-stock-just-cratered-and-its-35-off-its-high-is/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-01T19:07:00+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "2de28243d01abbab",
@@ -351,6 +340,17 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01c0RSckZSYlBDbXJXbVdzc3ZWdUVic19yaEljcmtZTWdlUU5JMktidndSWHVUdjB4blNZdF9XTGwzUXVlM0ctZ2IxTHk2ZmRoUmpiQzRmZ0Q0Z2M?oc=5",
       "source": "TradingView",
       "published": "2026-10-27T17:31:33+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "f5435b317383fac8",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Eastern (EML) Sinks -2.70% as Volume Spikes on Downside 2026-10-24 - Dynamic Hedging - https://www.dars.gov.et/",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkJaS283MDE4MURjc1FmYnA0ZG1UcFREMmZCYnlSLV9uQXV3R1lwRUxnMTdMZWMtbDZOcDNYbnJTSmZmMC1KUkVXUlZUN3lrQmJGVXlSampQLXVBbDFHM2xpZk1QbWk5blp2cVJlWTRGdVBCWlY1elZiSGc0SE9UcW91NVhtaTl1S2JWN2p3WXU4LXRQcWNFMF94dWgta2xGanRoeldvUQ?oc=5",
+      "source": "https://www.dars.gov.et/",
+      "published": "2026-10-24T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
