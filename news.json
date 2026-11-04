@@ -1,38 +1,137 @@
 {
-  "updated": "2026-11-04T19:20:26Z",
+  "updated": "2026-11-04T22:04:07Z",
   "items": [
     {
-      "id": "913fded141cb97fa",
+      "id": "0cbaf73ae69e4d91",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "California's billionaire tax on track for defeat as the state continues to count votes",
-      "link": "https://finance.yahoo.com/economy/article/californias-billionaire-tax-on-track-for-defeat-as-the-state-continues-to-count-votes-190840319.html?.tsrc=rss",
+      "title": "Dow Jones Futures: Elections, Plunging Oil Fuel Big Rally; Apple, Microsoft, Amazon Flash Buy Signals. CoreWeave, SpaceX Skid.",
+      "link": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures%3A-elections%2C.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-04T19:08:40+00:00",
+      "published": "2026-11-04T21:53:05+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "67080e3ea3449c72",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google Cloud Revenue Will Overtake Search. But Can It Be A Cash Machine?",
-      "link": "https://finance.yahoo.com/m/3381269a-aec6-3f09-9f29-cfc2619fd540/google-cloud-revenue-will.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T19:05:17+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "173cd5673c1b8573",
+      "id": "e53af01fba201b5c",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Lucid Jumps 12%, Rivian Climbs 6% as Post-Election Rally Lifts EV Stocks; Tesla Slides 3%",
-      "link": "https://247wallst.com/investing/2026/11/04/lucid-jumps-12-rivian-climbs-6-as-post-election-rally-lifts-ev-stocks-tesla-slides-3/?.tsrc=rss",
+      "title": "Apple Reportedly Tightens the Belt On Employee AI Budgets Amid Cost-Cutting Drive",
+      "link": "https://stocktwits.com/news-articles/markets/equity/apple-reportedly-tightens-the-belt-on-employee-ai-budgets-amid-cost-cutting-drive/cNGL8Z8R9EG?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-04T19:04:17+00:00",
+      "published": "2026-11-04T21:35:25+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "e5120f758a1b9238",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Bitcoin Rises, Crypto Miners Sharply Divided As Midterms Dampen AI Outlook",
+      "link": "https://finance.yahoo.com/m/c5d0833e-fe1d-3e77-b792-4b103f8d64bf/bitcoin-rises%2C-crypto-miners.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T21:24:53+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "56b18289acf1b693",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Adobe (ADBE) Brings CX Enterprise Coworker to Major AI Platforms",
+      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-brings-cx-enterprise-211230372.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T21:12:30+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "5612a9e9f54fc526",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Rocket Lab Falls 4%, SpaceX Down 4% as Midterms Make Musk the “Biggest Loser”",
+      "link": "https://www.tikr.com/blog/rocket-lab-falls-4-spacex-down-4-as-midterms-make-musk-the-biggest-loser?ref=yahoofinance&tlnk=yf-261104-q45r2fr7&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T21:11:13+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "2c384172fdeaa869",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "The Nasdaq-100 Is Outperforming Nvidia, Microsoft, Amazon, Meta Platforms, Alphabet, and Tesla This Year. Here's My Favorite Low-Cost ETF to Buy the Dip.",
+      "link": "https://www.fool.com/investing/2026/11/04/the-nasdaq-100-is-outperforming-nvidia-microsoft-a/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T21:05:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "9d84f48bb1f1bdba",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla, SpaceX Dive As Elon Musk's Big GOP Election Bet Fails",
+      "link": "https://finance.yahoo.com/m/6b0cf61e-a63d-3391-b423-6ebcab7be274/tesla%2C-spacex-dive-as-elon.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T21:03:01+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "715214af67aa8a8c",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Fell 4% on Cipher’s Miss, Then Jumped 10%. Here’s What Its November 5 Report Has to Settle",
+      "link": "https://www.tikr.com/blog/iren-fell-4-on-ciphers-miss-then-jumped-10-heres-what-its-november-5-report-has-to-settle?ref=yahoofinance&tlnk=yf-261104-9h6pghpr&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T20:55:02+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "52bd49733b69bb81",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "OpenAI Says ChatGPT’s Search Volume Is Now a Fifth of Google’s",
+      "link": "https://247wallst.com/investing/2026/11/04/openai-says-chatgpts-search-volume-is-now-a-fifth-of-googles/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T20:47:18+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "03c77b8a498c5b89",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Analysts Say These Industries Will See Midterm Election Impact",
+      "link": "https://finance.yahoo.com/m/15bb72d0-d7fa-36ba-a585-6bc63423f4c6/analysts-say-these-industries.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T20:44:27+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "4739339c73bceeef",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Bernstein Cuts Price Targets on Seven Bitcoin Miners After Democrats’ Texas Win Threatens AI Data Center Boom",
+      "link": "https://www.cryptoprowl.com/releases/bernstein-cuts-price-targets-on-seven-bitcoin-miners-after-democrats-texas-win-threatens-ai-data-center-boom-7670?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T19:41:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "62ed01b463f2ccf0",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "ON Holding gets UBS backing despite muted earnings expectations",
+      "link": "https://www.proactiveinvestors.com/companies/news/1101247/on-holding-gets-ubs-backing-despite-muted-earnings-expectations-1101247.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T19:02:00+00:00",
+      "logo": "logos/ONON.svg"
     },
     {
       "id": "83c3f118fc8a20e4",
@@ -46,61 +145,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "2b3f320260d20522",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Big Tech Stocks And Mag7 ETF Jumps After Democratic Sweep Raises Bets For Easing AI Capex",
-      "link": "https://stocktwits.com/news-articles/markets/equity/big-tech-stocks-and-mag7-etf-jumps-after-democratic-sweep-raises-bets-for-easing-ai-capex/cNGLlXXR93y?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T18:57:30+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "0a6d7a0e1f7107bb",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Was Elon Musk the Midterms’ Biggest Loser? What It Means for Tesla and SpaceX Investors",
-      "link": "https://www.fool.com/investing/2026/11/04/was-elon-musk-the-midterms-biggest-loser-what-it-means-for-tesla-and-spacex-investors/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T18:54:19+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "8694ca22fc6a7303",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet Stock Jumps 5% as Midterm Election Rally Lifts Google Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-jumps-5-midterm-185346799.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T18:53:46+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "3ebccc29facb1689",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN's AI Transformation Faces a Crucial Earnings Test",
-      "link": "https://finance.yahoo.com/news/irens-ai-transformation-faces-crucial-184119580.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T18:41:19+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "2f4396783fbe6937",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Why a Democratic Sweep Is Crushing GE Vernova and More Industrial Stocks",
-      "link": "https://finance.yahoo.com/m/d4248e15-ebe4-37a6-8abc-7afa4544bdf6/why-a-democratic-sweep-is.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T18:40:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "63e0297205b5c2bf",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -112,28 +156,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "0beaeaa2d2aa29a0",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Popular tech stock rallies 15% after disclosing $1.5B Bitcoin sale",
-      "link": "https://www.thestreet.com/crypto/markets/popular-tech-stock-rallies-15-after-disclosing-1-5b-bitcoin-sale?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T18:13:06+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "1ba7a19b2ce060c9",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk’s Tesla and SpaceX Stocks Fall After Democrats Sweep Elections, Senator Warns of ‘Subpoenas’",
-      "link": "https://firstformoney.com/elon-musks-tesla-and-spacex-stocks-fall-after-democrats-sweep-elections-senator-warns-of-subpoenas/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T17:59:45+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "00277848bc2ed1ea",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -143,17 +165,6 @@
       "source": "News",
       "published": "2026-11-04T17:57:41+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "a1cac8a94542f34b",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "TeraWulf Falls 4% Despite Google Backstop for $19 Billion Anthropic Leases; Cipher Digital Plunges 18%, IREN Tumbles 9%",
-      "link": "https://247wallst.com/investing/2026/11/04/terawulf-falls-4-despite-google-backstop-for-19-billion-anthropic-leases-cipher-digital-plunges-18-iren-tumbles-9/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T17:56:12+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "fe148383849a1a8b",
@@ -231,17 +242,6 @@
       "source": "News",
       "published": "2026-11-04T12:50:02+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "271f12a7b3f15c73",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "On Holding (ONON) Exceeds Market Returns: Some Facts to Consider",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-exceeds-market-returns-215002240.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T21:50:02+00:00",
-      "logo": "logos/ONON.svg"
     },
     {
       "id": "90b150c472981359",
