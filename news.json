@@ -1,15 +1,81 @@
 {
-  "updated": "2026-11-04T04:14:52Z",
+  "updated": "2026-11-04T07:38:50Z",
   "items": [
     {
-      "id": "d88568d13d9fdab3",
+      "id": "806cc827927f210f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Texas Goes Blue: What Gina Hinojosa's Win Means For AI Data Centers And Stocks Like MSFT, AMZN, GOOGL, CRWV",
+      "link": "https://stocktwits.com/news-articles/markets/equity/texas-goes-blue-what-gina-hinojosa-s-win-means-for-ai-data-centers-and-stocks-like-msft-amzn-googl-crwv/cNGLcmWR9dy?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T07:12:18+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "f8d681f96d95e03f",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Stock Market Election Night: Dow Futures Fall, Techs Tumble In Blue Wave; CoreWeave, SpaceX, Tesla Hit",
+      "title": "Gene Munster Says Anduril Is Having Its Own Tesla Model 3 Moment—Company President Says 'We've Hired a Lot' of People From That Era",
+      "link": "https://www.benzinga.com/markets/tech/26/11/62852650/gene-munster-says-anduril-is-having-its-own-tesla-model-3-moment-company-president-says-weve-hired-a-lot-of-people-from-that-era?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T07:11:31+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "822432b4fda3351c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Midterm Election Impact: SPCX, ASTS, RKLB Stocks Sink As Musk’s Political Ties Put Tesla-SpaceX Merger Under Fresh Scrutiny",
+      "link": "https://stocktwits.com/news-articles/markets/equity/midterm-election-impact-spcx-asts-rklb-musk-political-tesla-spacex-merger-scrutiny/cNGLRztR9dU?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T06:50:43+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "422ab6696bd5efee",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Stock Market Election Night: Dow Futures, AI Stocks Slash Losses; CoreWeave, SpaceX, Tesla Off Lows (Live)",
       "link": "https://finance.yahoo.com/m/e5be454d-07fd-3d94-8114-a4e8ff2910de/stock-market-election-night%3A.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-04T04:07:09+00:00",
+      "published": "2026-11-04T06:31:12+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ceafb93697442970",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Apple AI tools come to China after two-year delay",
+      "link": "https://finance.yahoo.com/technology/ai/articles/apple-ai-tools-come-china-051903490.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T05:45:51+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "6e6ceab1b7684003",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet's Free Cash Flow Is Declining Faster Than Analysts Expected. Is This AI Stock Still a Buy?",
+      "link": "https://www.fool.com/investing/2026/11/04/alphabets-free-cash-flow-is-declining-faster-than/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T05:20:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "61a2335e55f02d47",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Slams ‘Banal’ Cars and Fashion of Today, Calls For a ‘Total Reset’: ‘The Future Should Look Like…’",
+      "link": "https://finance.yahoo.com/technology/articles/elon-musk-slams-banal-cars-033004668.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T03:30:04+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -24,59 +90,15 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "546e54c09f07854a",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "SpaceX Could Match Google’s 27-Year Data Center Buildout In 18 Months, Outpace Even Chinese Rivals: SemiAnalysis",
-      "link": "https://stocktwits.com/news-articles/markets/equity/spacex-match-google-data-center-buildout-18-months-outpace-chinese-rivals-semianalysis/cNGhvkaR9dV?.tsrc=rss",
+      "id": "bcd55e3e39092514",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Oklo Sinks 14% in a Week to a New 52-Week Low. Is the Selling Overdone?",
+      "link": "https://www.tikr.com/blog/oklo-sinks-14-in-a-week-to-a-new-52-week-low-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261104-84rx8jgq&.tsrc=rss",
       "source": "News",
-      "published": "2026-11-04T02:11:16+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "e340019c6e3a0b27",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion?",
-      "link": "https://www.fool.com/investing/2026/11/03/should-you-buy-alphabet-stock-after-anthropic-raised-its-google-commitment-to-usd121-billion/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T01:43:01+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "d879ca81ba9d6dc9",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Zohran Mamdani Says Google Uses ‘Monopoly Power’ to Push AI Into Schools: Corporations Shouldn’t ‘Dictate’ How We Teach Children",
-      "link": "https://finance.yahoo.com/technology/ai/articles/zohran-mamdani-says-google-uses-013616818.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T01:36:16+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "ad930d271d09310d",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Has A Lot Riding On Texas",
-      "link": "https://finance.yahoo.com/m/7e2b1345-9e6f-32ff-888f-2991befd2557/elon-musk-has-a-lot-riding-on.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T00:30:01+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "86a4795fba47372a",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk’s Tesla and SpaceX protest NYSE parent's new plan",
-      "link": "https://www.thestreet.com/crypto/markets/elon-musks-tesla-and-spacex-protest-nyse-parents-new-plan?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T21:59:29+00:00",
-      "logo": "logos/TSLA.svg"
+      "published": "2026-11-04T02:30:14+00:00",
+      "logo": "logos/CCJ.svg"
     },
     {
       "id": "271f12a7b3f15c73",
@@ -99,17 +121,6 @@
       "source": "News",
       "published": "2026-11-03T21:05:30+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "9352f579b9e88862",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla China Brushes Off Weak October, Still Up 21% In 2026",
-      "link": "https://finance.yahoo.com/m/c170891e-a2a9-3a19-9c03-21c31d035761/tesla-china-brushes-off-weak.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T21:02:05+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "2d5edf829516123d",
@@ -244,6 +255,17 @@
       "logo": "logos/NU.svg"
     },
     {
+      "id": "e2a32112a253784a",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "How Did EML Payments Limited (ASX:EML) Reshape Its Operations Amid FY26 Revenue Changes? - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTk9XNU1IVHR3UElVeHo0Z3BUWWduekpkeW9VbHZEV1RQYnNUdE9CbzcyYjZYMFZpdzZJRlhRcENmbnNUT1RfYVFGazE4Mlp0VEZSYzFIWEZRQ0lZQ3dhVmxVdnkyY0lSN0g5NU1xcXZtdUlSdy01bWEzdGw3MjdXUGZvQ2VrMXpfM2pZTWl6QnF0TzYyYTBFRjdZMG52aDVIbUJYbTkxakpuX0Y5QWY1QWZRSFNRR0tRRTV4cjdtSmhBREQyVmU5OUU5TXA?oc=5",
+      "source": "Kalkine",
+      "published": "2026-11-02T12:35:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "4fe0f0dafd7d2eb1",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -255,15 +277,15 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "bd471e8e8fabf426",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "3 Canadian Uranium Stocks With Earnings Growth Up To 66%",
-      "link": "https://finance.yahoo.com/energy/articles/3-canadian-uranium-stocks-earnings-220842996.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-01T22:08:42+00:00",
-      "logo": "logos/CCJ.svg"
+      "id": "3ee858189d0b5314",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Discipline and Rules-Based Execution in EML Response - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVS1uYi1HVWFzVDV2SUY4bHprelpvWEFNMFpPLXpET3dSMVFfQlNremR5em51UU5pM09mRHlhUzNfTFM4Z0hpR1prcmJhdTNLZDdFblVNUkxpeUZvbEQtVFFFUTNHQVBiRkVhdUw0UThSbGFvd0t2TVd4aFczQzdCM2xXdjNUSnB3NFQwdHhvMTlTRXV0N3E2NG9IVFlUT282ZzVCV0lnZTF0cjJSYjNuVW5wLXYzOTZzVzFKWXJtYVJCcGJUYVZGRnJWd1o?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-11-01T00:40:01+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "78471f3bcd5d8734",
@@ -277,14 +299,14 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "49bedb10dd60f649",
+      "id": "12e6c15649a5b537",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Payments Limited (ASX:EML) - Shares, Dividends & News - www.intelligentinvestor.com.au",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wam5OSk9DWXlWdEZ0TUYxSzZFbjVzWmxkNmNfR29YMlRoNlRwNFFhN2xQVU5MNWVYSDdkYnd0Zk9rWUFlbnRMNVA0a3dWanVTVXJKeXAzaVZNTGhDb3dzU3pXa0xmc1E4QVR5UXpodWhsV0tZSWRrcjAxdERHZGc?oc=5",
-      "source": "www.intelligentinvestor.com.au",
-      "published": "2026-10-30T07:00:00+00:00",
+      "title": "EML Q2 2026 Earnings: EPS Falls Far Short of Estimates, Yet Shares Edge Higher - Analyst Earnings Estimate - dars.gov.et",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUd5UjB1azNRaml0S0hZaHE4U1QxWUpvLUh2SmZSOS1VYndHanQ4TnJVdzcwSnVfNUZJNjRMMW1mT1l6enY5R0RaVTBtNlotZGRJVFVtZEdrUDJ0QWZrQnRlcUhEYzVhdEhyd1N0ZlROWWFiaTFBLXRrNGNnZFFWOEhJT0pBRTYxM0g0WS13UEZEUEhmWVI0Si1XOHFuQ0s3SWJNNl9MQ2xQcXE4d3YwWHJaLUx3U0d2U29neTl3?oc=5",
+      "source": "dars.gov.et",
+      "published": "2026-10-31T00:30:15+00:00",
       "logo": "logos/EML.svg"
     },
     {
@@ -310,17 +332,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "556c27694f47a428",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Stock Price and Chart — NASDAQ:EML - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01c0RSckZSYlBDbXJXbVdzc3ZWdUVic19yaEljcmtZTWdlUU5JMktidndSWHVUdjB4blNZdF9XTGwzUXVlM0ctZ2IxTHk2ZmRoUmpiQzRmZ0Q0Z2M?oc=5",
-      "source": "TradingView",
-      "published": "2026-10-27T17:31:33+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "efe2d6f74479c97d",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -341,17 +352,6 @@
       "source": "Stock Titan",
       "published": "2026-10-26T12:30:00+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "f5435b317383fac8",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Eastern (EML) Sinks -2.70% as Volume Spikes on Downside 2026-10-24 - Dynamic Hedging - https://www.dars.gov.et/",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkJaS283MDE4MURjc1FmYnA0ZG1UcFREMmZCYnlSLV9uQXV3R1lwRUxnMTdMZWMtbDZOcDNYbnJTSmZmMC1KUkVXUlZUN3lrQmJGVXlSampQLXVBbDFHM2xpZk1QbWk5blp2cVJlWTRGdVBCWlY1elZiSGc0SE9UcW91NVhtaTl1S2JWN2p3WXU4LXRQcWNFMF94dWgta2xGanRoeldvUQ?oc=5",
-      "source": "https://www.dars.gov.et/",
-      "published": "2026-10-24T07:00:00+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "100f84de1493c850",
