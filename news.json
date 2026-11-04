@@ -1,26 +1,59 @@
 {
-  "updated": "2026-11-04T01:26:39Z",
+  "updated": "2026-11-04T04:14:52Z",
   "items": [
     {
-      "id": "72726b3eda80706e",
+      "id": "d88568d13d9fdab3",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Stock Market Election Night: Futures Fall As Votes Pour In; AMD, Arista Rise On Earnings",
+      "title": "Stock Market Election Night: Dow Futures Fall, Techs Tumble In Blue Wave; CoreWeave, SpaceX, Tesla Hit",
       "link": "https://finance.yahoo.com/m/e5be454d-07fd-3d94-8114-a4e8ff2910de/stock-market-election-night%3A.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-04T01:18:51+00:00",
+      "published": "2026-11-04T04:07:09+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "b579e57ef62b213f",
+      "id": "725dc6b4b8b1b70a",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "People Inc (PPLI) Q3 2026 Earnings Call Highlights: Digital Revenue Extends Growth Streak to 12 ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/people-inc-ppli-q3-2026-010554012.html?.tsrc=rss",
+      "title": "Tom Lee says AI investors may be selling at the wrong time",
+      "link": "https://www.thestreet.com/investing/tom-lee-says-ai-investors-may-be-selling-at-the-wrong-time?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-04T01:05:54+00:00",
+      "published": "2026-11-04T03:03:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "546e54c09f07854a",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "SpaceX Could Match Google’s 27-Year Data Center Buildout In 18 Months, Outpace Even Chinese Rivals: SemiAnalysis",
+      "link": "https://stocktwits.com/news-articles/markets/equity/spacex-match-google-data-center-buildout-18-months-outpace-chinese-rivals-semianalysis/cNGhvkaR9dV?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T02:11:16+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e340019c6e3a0b27",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion?",
+      "link": "https://www.fool.com/investing/2026/11/03/should-you-buy-alphabet-stock-after-anthropic-raised-its-google-commitment-to-usd121-billion/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T01:43:01+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d879ca81ba9d6dc9",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Zohran Mamdani Says Google Uses ‘Monopoly Power’ to Push AI Into Schools: Corporations Shouldn’t ‘Dictate’ How We Teach Children",
+      "link": "https://finance.yahoo.com/technology/ai/articles/zohran-mamdani-says-google-uses-013616818.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T01:36:16+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -33,39 +66,6 @@
       "source": "News",
       "published": "2026-11-04T00:30:01+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "a662034560ceeb65",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "CrowdStrike (CRWD) stock trades down, here is why",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-stock-trades-down-234936695.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T23:49:36+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "96d66097a976824d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Cloudflare, MongoDB, Datadog, JFrog, and Elastic shares plummet, what you need to know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-mongodb-datadog-jfrog-elastic-234136948.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T23:41:36+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "a682eec38f94099d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Why Reddit Stock Is In Focus After Strong Q3 And A Google Traffic Warning",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-reddit-stock-focus-strong-232429824.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T23:24:29+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "86a4795fba47372a",
@@ -244,17 +244,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "e2a32112a253784a",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "How Did EML Payments Limited (ASX:EML) Reshape Its Operations Amid FY26 Revenue Changes? - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTk9XNU1IVHR3UElVeHo0Z3BUWWduekpkeW9VbHZEV1RQYnNUdE9CbzcyYjZYMFZpdzZJRlhRcENmbnNUT1RfYVFGazE4Mlp0VEZSYzFIWEZRQ0lZQ3dhVmxVdnkyY0lSN0g5NU1xcXZtdUlSdy01bWEzdGw3MjdXUGZvQ2VrMXpfM2pZTWl6QnF0TzYyYTBFRjdZMG52aDVIbUJYbTkxakpuX0Y5QWY1QWZRSFNRR0tRRTV4cjdtSmhBREQyVmU5OUU5TXA?oc=5",
-      "source": "Kalkine",
-      "published": "2026-11-02T12:35:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "4fe0f0dafd7d2eb1",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -277,28 +266,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "3ee858189d0b5314",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Discipline and Rules-Based Execution in EML Response - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVS1uYi1HVWFzVDV2SUY4bHprelpvWEFNMFpPLXpET3dSMVFfQlNremR5em51UU5pM09mRHlhUzNfTFM4Z0hpR1prcmJhdTNLZDdFblVNUkxpeUZvbEQtVFFFUTNHQVBiRkVhdUw0UThSbGFvd0t2TVd4aFczQzdCM2xXdjNUSnB3NFQwdHhvMTlTRXV0N3E2NG9IVFlUT282ZzVCV0lnZTF0cjJSYjNuVW5wLXYzOTZzVzFKWXJtYVJCcGJUYVZGRnJWd1o?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-11-01T00:40:01+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "2de28243d01abbab",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "What Is Behind BOC Hong Kong (Holdings) (SEHK:2388) Latest Move? - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2xmQ3h5MjVnVXpUSExkbFZMRVBDSDVaM3VWZllOUTlONUQ3V2RhUzI4amRhU0FJMzlBa0phNU5KUEhGeUZLLVRJUU1nWEswbjR1RmJRa1paSk1RVkNZMG5FZkVEZ0t2cV9mRllZYlhlNVF5UlZBS3diZFA0bWRPdFljcHo2TkpteEx3cWdUTWgtbWVPTHlvWFZKSWpfbnlfR1FKV3FnZHgtNE90QmZyV0lDdDZDYmhVR3JOeVdqZjBIMkpGeURzY19DWG1uVVBodWpuSVp0SdIB3AFBVV95cUxOY0RxOFZmLVRmRXFsS0s1MDNYM25idWo5N2FadzItN0N1WVlDa3o0aFk2RDhyTkkwQ3pPWUlYUklXdmVJamdtVENVX3JZZEJJTnl2aTRJRlZQdmgtSzZIMHJpMUtNOU05aFVoMklWZ1FaYlROMl9Hc2VPczdtLUVCdkFsMGl1aWwzaExlYmdkSXFvd0UwcFdEOVhidV8yQU1wMVQ4Q2ZGcEc5eHBJMlVwdWFoRHViZHdUdUF6SVlFVG9CX0lqek9mdDl6Ul9rWjdNdFo4M0RVX0cwUWk5?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-10-31T16:05:31+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "78471f3bcd5d8734",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -310,26 +277,15 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "12e6c15649a5b537",
+      "id": "49bedb10dd60f649",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Q2 2026 Earnings: EPS Falls Far Short of Estimates, Yet Shares Edge Higher - Analyst Earnings Estimate - dars.gov.et",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUd5UjB1azNRaml0S0hZaHE4U1QxWUpvLUh2SmZSOS1VYndHanQ4TnJVdzcwSnVfNUZJNjRMMW1mT1l6enY5R0RaVTBtNlotZGRJVFVtZEdrUDJ0QWZrQnRlcUhEYzVhdEhyd1N0ZlROWWFiaTFBLXRrNGNnZFFWOEhJT0pBRTYxM0g0WS13UEZEUEhmWVI0Si1XOHFuQ0s3SWJNNl9MQ2xQcXE4d3YwWHJaLUx3U0d2U29neTl3?oc=5",
-      "source": "dars.gov.et",
-      "published": "2026-10-31T00:30:15+00:00",
+      "title": "EML Payments Limited (ASX:EML) - Shares, Dividends & News - www.intelligentinvestor.com.au",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wam5OSk9DWXlWdEZ0TUYxSzZFbjVzWmxkNmNfR29YMlRoNlRwNFFhN2xQVU5MNWVYSDdkYnd0Zk9rWUFlbnRMNVA0a3dWanVTVXJKeXAzaVZNTGhDb3dzU3pXa0xmc1E4QVR5UXpodWhsV0tZSWRrcjAxdERHZGc?oc=5",
+      "source": "www.intelligentinvestor.com.au",
+      "published": "2026-10-30T07:00:00+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "d4640ccdedf931b8",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Hong Kong Announces Third Interim Dividend of HKD 0.29 per Share - VZ VermögensZentrum",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaDFJTXozNnJEU1lycU43NUh0cGc1aXBsR1QwZjlOUjVQbkpSbVk2aXhDbV9janZ0N3Fxd1BVQnJFT2lEcE9leTlNRE1VV3FMYVpib2ppZk1Hajh5VkF4MEFFQm00SEt1YUptMHR6ZVJsTUhZdndCNkFLeTBxSE01NUttSVZwbjB1bnVmbGFqZUVqWUFlWVVLaGNTbWxPWVRhNExpUHM5WFV2TzdxOHFHcGNXak9kbVVEaGZuTVVKTmctbGxyVzZN?oc=5",
-      "source": "VZ VermögensZentrum",
-      "published": "2026-10-30T09:35:27+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "d813cab6586911a7",
@@ -352,6 +308,50 @@
       "source": "Yahoo Finance",
       "published": "2026-10-28T12:06:58+00:00",
       "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "556c27694f47a428",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Stock Price and Chart — NASDAQ:EML - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01c0RSckZSYlBDbXJXbVdzc3ZWdUVic19yaEljcmtZTWdlUU5JMktidndSWHVUdjB4blNZdF9XTGwzUXVlM0ctZ2IxTHk2ZmRoUmpiQzRmZ0Q0Z2M?oc=5",
+      "source": "TradingView",
+      "published": "2026-10-27T17:31:33+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "efe2d6f74479c97d",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Bougainville Copper (ASX:BOC) Shares Fall on Return From Trading Suspension: What’s Happening? - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXp2ZXBKSmk2aGxSOFk2U3NKYWtPbGlUMjRsdEUtbVJZeWN3R3lkZ1NReTBRNFZqdU5EODRPbWFQQjdLTUJaUjBoc3o0OUlLNGpiemFtdkh5TmIzT1hBM284Y2JJTVBKcDVLdTkzZWpYcEk3cHFiVTlQbzVrVFFMOU91MTR2MXdOVGU4SGRmSUllMWR6bjJTNEhLR1hmNDRjNFhYckFHLWlkOUZYNXBQSS04ZWs3ZGxXZ2hrbUlhWVZDTGY1SXU0Sm9PVFRzdw?oc=5",
+      "source": "Kalkine",
+      "published": "2026-10-27T05:28:00+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "690ab8865b462f4c",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "After selling an insurance business, Boston Omaha keeps 2.67 million Sky Harbour shares. - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYU1WQnI4TUIwOHJZN25NZXNkd0VYR2lmR2xGSG5IQktoV0Y1M0FSdWNZc3RxR3VBLUVKMGh0U0hxSGNrRVBNYWZiUDRuWFZiOTZmU1ZOMWpUT3lsNExDU0xoMy00X0toalZOVXpINzc2NHV5Qlp3NnZtXzdObnp0YnlTN0ZWa0JZNHJiQzR0dXNnbEZEbHBtT2F4QS1uZ0wwc0lWLUVZWEc4UUk3MVhkMm5oX3ZTVlJS?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-10-26T12:30:00+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "f5435b317383fac8",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Eastern (EML) Sinks -2.70% as Volume Spikes on Downside 2026-10-24 - Dynamic Hedging - https://www.dars.gov.et/",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkJaS283MDE4MURjc1FmYnA0ZG1UcFREMmZCYnlSLV9uQXV3R1lwRUxnMTdMZWMtbDZOcDNYbnJTSmZmMC1KUkVXUlZUN3lrQmJGVXlSampQLXVBbDFHM2xpZk1QbWk5blp2cVJlWTRGdVBCWlY1elZiSGc0SE9UcW91NVhtaTl1S2JWN2p3WXU4LXRQcWNFMF94dWgta2xGanRoeldvUQ?oc=5",
+      "source": "https://www.dars.gov.et/",
+      "published": "2026-10-24T07:00:00+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "100f84de1493c850",
