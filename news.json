@@ -1,49 +1,71 @@
 {
-  "updated": "2026-11-05T19:17:37Z",
+  "updated": "2026-11-05T22:02:19Z",
   "items": [
     {
-      "id": "cd0a04af73924d75",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Meta, Google, TikTok Challenge New California Youth Social Media Law",
-      "link": "https://finance.yahoo.com/media-advertising/articles/meta-google-tiktok-challenge-california-191012620.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T19:10:12+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "5d27f817ad503696",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet Stocks Decline 2% as AI Spending Outruns Cash Generation",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-stocks-decline-2-ai-185935366.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T18:59:35+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "e6ca234e656dbb77",
+      "id": "9b651f3c5d2ddd1c",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla Sinks 12%, SpaceX Down 9% as Midterm Sweep Puts Merger on “A Much Tougher Regulatory Roadmap”",
-      "link": "https://www.tikr.com/blog/tesla-sinks-12-spacex-down-9-as-midterm-sweep-puts-merger-on-a-much-tougher-regulatory-roadmap?ref=yahoofinance&tlnk=yf-261105-3qjm6j48&.tsrc=rss",
+      "title": "Stocks slide as Wall Street's post-election rally fizzles",
+      "link": "https://finance.yahoo.com/video/stocks-slide-as-wall-streets-post-election-rally-fizzles-214250142.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-05T18:43:02+00:00",
+      "published": "2026-11-05T21:42:50+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "5877766fb835c0bb",
+      "id": "4c50ff6b292cb880",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Nasdaq Stock Market Correction: History Says This Is What Happens Next",
+      "link": "https://www.fool.com/investing/2026/11/05/nasdaq-stock-market-correction-history-says-this-is-what-happens-next/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T21:39:01+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "faa6255cb7fd17e2",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "USA TODAY: The Newspaper That Sued the Toll Collector",
+      "link": "https://www.fool.com/earnings/takeaways/2026/11/05/usa-today-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T21:38:01+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "6ea165cf2ee5195e",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "dYdX Team’s Arcus Opens Stock-Token Collateral to All Perps Traders, With a $20,000 Cap",
+      "link": "https://unchainedcrypto.com/dydx-teams-arcus-opens-stock-token-collateral-to-all-perps-traders-with-a-20000-cap/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T21:25:56+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "330a613a82d3e891",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "SpaceX (SPCX) Stock Gets Fair Value Boost As Analysts Weigh AI Growth And Risks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-stock-gets-fair-181345897.html?.tsrc=rss",
+      "title": "SpaceX Stock Is Still Falling. It Trades at Apple’s Valuation.",
+      "link": "https://finance.yahoo.com/m/12c89445-f84d-308c-a32e-1b9535c6322f/spacex-stock-is-still.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-05T18:13:45+00:00",
+      "published": "2026-11-05T21:20:00+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "db84b56dbeddff59",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Best Mag7 dip buys: NVIDIA leads on valuation, Alphabet on RSI",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/best-mag7-dip-buys-nvidia-210653656.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T21:06:53+00:00",
+      "logo": "logos/GOOG.svg"
     },
     {
       "id": "0c6d8d1a4b70e14c",
@@ -53,41 +75,30 @@
       "title": "Tesla, SpaceX Continue Postelection Plunge. Dems Pledge Investigations Into Trump.",
       "link": "https://finance.yahoo.com/m/751d4464-b17e-389e-ab70-1320e5d023cb/tesla%2C-spacex-continue.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-05T18:10:37+00:00",
+      "published": "2026-11-05T21:04:31+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "a2346fdf53d120a7",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Buy Alphabet for The Limted Downside Floor if The Coiled Spring Asymmetry Doesn’t Pique Your Interest",
-      "link": "https://247wallst.com/investing/2026/11/05/buy-alphabet-for-the-limted-downside-floor-if-the-coiled-spring-asymmetry-doesnt-pique-your-interest/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T17:45:24+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "645d72e54e63d3a5",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Big Tech's massive AI spending is causing another problem for investors",
-      "link": "https://finance.yahoo.com/technology/article/big-techs-massive-ai-spending-is-causing-another-problem-for-investors-171909548.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T17:19:09+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c0e471bbd4690e74",
+      "id": "c444fac7105bb69b",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Citi Loads Up On Tesla, Lucid And Rivian In Q3 While Slashing XPeng, General Motors",
-      "link": "https://stocktwits.com/news-articles/markets/equity/citi-loads-up-on-tesla-lucid-and-rivian-in-q3-while-slashing-x-peng-general-motors/cNG1oswR94W?.tsrc=rss",
+      "title": "SpaceX and Tesla Stock Plunges Have Wiped About $450 Billion in Value Since the Midterms. Is It Time to Buy?",
+      "link": "https://www.fool.com/investing/2026/11/05/spacex-and-tesla-stock-plunges-have-wiped-about-usd450-billion-in-value-since-the-midterms-is-it-time-to-buy/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-05T17:14:38+00:00",
+      "published": "2026-11-05T21:03:35+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "6efc8cea0f1b40ee",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CoreWeave Stock Is Plunging After the Election. Its CEO Insists the Business Is Safe.",
+      "link": "https://finance.yahoo.com/m/2e601466-99b5-3e96-b356-1d6e19eb6e46/coreweave-stock-is-plunging.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T18:50:00+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "6795d65cc9a5a6a9",
@@ -98,17 +109,6 @@
       "link": "https://247wallst.com/investing/2026/11/05/applied-digital-plunges-17-cipher-digital-sinks-14-terawulf-tumbles-13-as-texas-data-center-fears-deepen/?.tsrc=rss",
       "source": "News",
       "published": "2026-11-05T17:03:14+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "9a699d0d79bff938",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CoreWeave Stock Is Getting Slammed. Why Its CEO Isn’t Afraid of Politics.",
-      "link": "https://finance.yahoo.com/m/2e601466-99b5-3e96-b356-1d6e19eb6e46/coreweave-stock-is-getting.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T16:46:00+00:00",
       "logo": "logos/IREN.svg"
     },
     {
