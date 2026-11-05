@@ -1,15 +1,59 @@
 {
-  "updated": "2026-11-05T01:29:18Z",
+  "updated": "2026-11-05T04:15:18Z",
   "items": [
     {
-      "id": "6e0a7ca69249e036",
+      "id": "54bd37a2f7537105",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Stock Drops After Report Says It’s Behind Microsoft’s AI Spending Delay, As Investors Turn To Earnings",
+      "link": "https://stocktwits.com/news-articles/markets/equity/iren-stock-drops-after-report-says-it-s-behind-microsoft-s-ai-spending-delay-as-investors-turn-to-earnings/cNG15gfR9Ef?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T03:53:14+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "c3c772cf979f140f",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Dow Jones Futures Rise, But Techs Tumble; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
-      "link": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures-rise%2C-but.html?.tsrc=rss",
+      "title": "Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
+      "link": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures-rise%2C-techs.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-05T01:28:05+00:00",
+      "published": "2026-11-05T03:52:56+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "fc446efe68d9ddf3",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
+      "link": "https://www.fool.com/investing/2026/11/04/mine-enrich-build-operate-which-link-in-the-nuclea/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T03:35:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "fafb90d39dd3d085",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Trump to Pardon Elon Musk Soon? Crypto Punters Bet as Ross Gerber Calls GOP Midterm Loss 'Worst Possible Outcome' for SpaceX CEO",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/62902639/trump-elon-musk-pardon-democrats-midterms-ross-gerber?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T02:47:51+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c0da07f76f1f53fb",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Has Alphabet (GOOGL) Fallen Far Enough To Back Its Cash Flow Value?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-fallen-far-enough-021308291.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T02:13:08+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -33,6 +77,17 @@
       "source": "News",
       "published": "2026-11-05T00:39:01+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "79d62b8c04eb7ca5",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Registrations Explode Across Europe as Iran War Sends Fuel Prices Soaring — But BYD and Chinese EV Rivals Are Gaining Fast",
+      "link": "https://finance.yahoo.com/energy/articles/tesla-registrations-explode-across-europe-003014737.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T00:30:14+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "9941c80cfdec8299",
@@ -66,17 +121,6 @@
       "source": "News",
       "published": "2026-11-04T23:20:00+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "da80010b90abc690",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Isomorphic Labs in Talks for About $5 Billion in Funding",
-      "link": "https://finance.yahoo.com/technology/ai/articles/isomorphic-labs-talks-5-billion-225144910.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T22:51:44+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "25bf231e04872067",
@@ -123,28 +167,6 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "2f4396783fbe6937",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Why a Democratic Sweep Is Crushing GE Vernova and More Industrial Stocks",
-      "link": "https://finance.yahoo.com/m/d4248e15-ebe4-37a6-8abc-7afa4544bdf6/why-a-democratic-sweep-is.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T21:14:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "5612a9e9f54fc526",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Rocket Lab Falls 4%, SpaceX Down 4% as Midterms Make Musk the “Biggest Loser”",
-      "link": "https://www.tikr.com/blog/rocket-lab-falls-4-spacex-down-4-as-midterms-make-musk-the-biggest-loser?ref=yahoofinance&tlnk=yf-261104-q45r2fr7&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T21:11:13+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "715214af67aa8a8c",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -153,17 +175,6 @@
       "link": "https://www.tikr.com/blog/iren-fell-4-on-ciphers-miss-then-jumped-10-heres-what-its-november-5-report-has-to-settle?ref=yahoofinance&tlnk=yf-261104-9h6pghpr&.tsrc=rss",
       "source": "News",
       "published": "2026-11-04T20:55:02+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "4739339c73bceeef",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Bernstein Cuts Price Targets on Seven Bitcoin Miners After Democrats’ Texas Win Threatens AI Data Center Boom",
-      "link": "https://www.cryptoprowl.com/releases/bernstein-cuts-price-targets-on-seven-bitcoin-miners-after-democrats-texas-win-threatens-ai-data-center-boom-7670?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T19:41:00+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -220,17 +231,6 @@
       "source": "News",
       "published": "2026-11-04T16:14:20+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "f3e733b6d7e38cad",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Regulators Extended the AP1000 Through 2066. Now a Developer Wants Up to 6 in Kentucky. One Stock Owns 49% of Westinghouse.",
-      "link": "https://www.fool.com/investing/2026/11/04/regulators-extended-the-ap1000-through-2066-now-a/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T15:35:00+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "0264698299cb7b16",
