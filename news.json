@@ -1,104 +1,170 @@
 {
-  "updated": "2026-11-05T13:34:03Z",
+  "updated": "2026-11-05T16:22:21Z",
   "items": [
     {
-      "id": "22eef9dc83f9e010",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "What CVS Health (CVS) Said on Its Q3 Earnings Call",
-      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-cvs-health-cvs-said-on-its-q3-earnings-call-2026-11-05/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T13:14:49+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "02bf49ec824fb5d5",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Dow Jones Futures Rise As Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals",
-      "link": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures-rise-as.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T13:13:38+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "3d46a97d07cb77e9",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Meta Paid 1.4 Times What Alphabet Did to Borrow in Euros",
-      "link": "https://247wallst.com/investing/2026/11/05/meta-paid-1-4-times-what-alphabet-did-to-borrow-in-euros/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T13:08:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c7948923fac3dc9b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Tessell Agents for Gemini Bring Agentic Database Lifecycle Management to Enterprise Databases on Google Cloud",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tessell-agents-gemini-bring-agentic-130000463.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T13:00:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "e26e58795785683d",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "EVgo Opens First Supercharger Site as Part of Network Expansion",
-      "link": "https://finance.yahoo.com/energy/articles/evgo-opens-first-supercharger-part-130000949.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T13:00:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "0689bce23bac4fa1",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Ferrari vs. Tesla: Can the Luce Outsell the Roadster?",
-      "link": "https://finance.yahoo.com/m/dc1c6f50-6427-339f-a409-37e6de613b3d/ferrari-vs.-tesla%3A-can-the.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T12:18:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "39cfa78ee13359c0",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Apple Vs. Tesla: Low CapEx Only Matters if Non-Cyclical Cash Flows Come With It",
-      "link": "https://247wallst.com/investing/2026/11/05/apple-vs-tesla-low-capex-only-matters-if-non-cyclical-cash-flows-come-with-it/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T12:15:57+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "67cf8cfbfb0e18bf",
+      "id": "404adf61a503c1d7",
       "ticker": "IREN",
       "symbol": "IREN",
       "company": "IREN Ltd",
-      "title": "IREN is Only Fit for a Specific Investor Currently",
-      "link": "https://247wallst.com/investing/2026/11/05/iren-is-only-fit-for-a-specific-investor-currently/?.tsrc=rss",
+      "title": "Market Chatter: Microsoft Declines Texas Data Center Contract Extension With Nscale, Tightening Data Center Oversight",
+      "link": "https://finance.yahoo.com/technology/articles/market-chatter-microsoft-declines-texas-161355924.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-05T12:15:22+00:00",
+      "published": "2026-11-05T16:13:55+00:00",
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "fae8c271549f4091",
+      "id": "4fcc8e83db832e6c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Cipher Digital Sinks Another 21% as AI Data Center Selloff Deepens After Midterms",
+      "link": "https://www.tikr.com/blog/cipher-digital-sinks-another-21-as-ai-data-center-selloff-deepens-after-midterms?ref=yahoofinance&tlnk=yf-261105-vm9j3g2h&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T16:07:12+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "83ac9a3238002d2b",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "What Would Rising Commodity Costs Do To Ford Stock?",
-      "link": "https://www.trefis.com/stock/f/articles/622966/what-would-rising-commodity-costs-do-to-ford-stock/2026-11-05?.tsrc=rss",
+      "title": "Tesla’s Plunge Just Hit Millions of Index Fund Investors. Here’s How Much Your ETF Lost",
+      "link": "https://247wallst.com/investing/etf/2026/11/05/teslas-plunge-just-hit-millions-of-index-fund-investors-heres-how-much-your-etf-lost/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-05T12:06:15+00:00",
+      "published": "2026-11-05T16:03:49+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "44d01dc019a40e2d",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Prediction: Tesla’s Next Act Could Be Its Most Important Yet",
+      "link": "https://247wallst.com/investing/2026/11/05/prediction-teslas-next-act-could-be-its-most-important-yet/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T16:03:45+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a1a1ab52cad4e569",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Sinks 20% on Report It’s Behind Microsoft’s AI Spending Delay Ahead of Earnings",
+      "link": "https://www.tikr.com/blog/iren-sinks-20-on-report-its-behind-microsofts-ai-spending-delay-ahead-of-earnings?ref=yahoofinance&tlnk=yf-261105-qr7pp429&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T16:00:21+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "d0284ff1d2f2ac5a",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Are Big Tech stock buybacks officially dead?",
+      "link": "https://finance.yahoo.com/video/are-big-tech-stock-buybacks-officially-dead-155848546.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T15:58:48+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "34e3d9fbeca171bc",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Meta Has a Capex Guardrail That Few Talk About",
+      "link": "https://247wallst.com/investing/2026/11/05/meta-has-a-capex-guardrail-that-few-talk-about/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T15:45:36+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "89e7c238cf00d2fb",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Anthropic Just Paid a News Publisher for the First Time, and It Was AP",
+      "link": "https://247wallst.com/investing/2026/11/05/anthropic-just-paid-a-news-publisher-for-the-first-time-and-it-was-ap/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T15:42:13+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "bfe3c33b6fe17fdc",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "BC-Most Active Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153422188.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T15:34:22+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "5af2280e8851f407",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX, Tesla stocks tumble as Democratic sweep raises questions on merger prospects, AI build-out",
+      "link": "https://finance.yahoo.com/markets/article/spacex-tesla-stocks-tumble-as-democratic-sweep-raises-questions-on-merger-prospects-ai-buildout-153753814.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T15:30:32+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "5678b66d727e4646",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Digital Realty Just Paid a 45% Premium for a Stake in a Rival Data Center Stock",
+      "link": "https://247wallst.com/investing/2026/11/05/digital-realty-just-paid-a-45-premium-for-a-stake-in-a-rival-data-center-stock/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T15:19:10+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "32c174e1f19bb341",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk faces a new $28.5 trillion problem after Texas upset",
+      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-faces-28-5-150747509.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T15:07:47+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a3aadc8e072c82d5",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "MercadoLibre Sinks 9% on Profit Miss, Calls Shipping Margin Squeeze “The Price of the Habit”",
+      "link": "https://www.tikr.com/blog/mercadolibre-sinks-9-on-profit-miss-calls-shipping-margin-squeeze-the-price-of-the-habit?ref=yahoofinance&tlnk=yf-261105-g46cf4vw&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T14:33:03+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "5e3ba6f82ff0082b",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings Ltd. (NU) Earnings Expected to Grow: What to Know Ahead of Q3 Release",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-nu-earnings-140006692.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T14:00:06+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "2a668c17b1ea2374",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "Tapestry (TPR) Q1 Earnings and Revenues Top Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tapestry-tpr-q1-earnings-revenues-121508681.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T12:15:08+00:00",
+      "logo": "logos/ONON.svg"
     },
     {
       "id": "77af4466647c314c",
@@ -123,17 +189,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "f0c747c9b777d372",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "US Futures Mixed After Rally On Wednesday — MU, TSLA, AAPL, MSFT, APP, NVDA, IREN In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/us-futures-mixed-after-rally-on-wednesday-mu-tsla-aapl-msft-app-nvda-iren-in-focus/cNG1WKIR9EY?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T10:10:26+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "a2d6adf4746dce05",
       "ticker": "NU",
       "symbol": "NU",
@@ -143,28 +198,6 @@
       "source": "News",
       "published": "2026-11-05T06:18:02+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "7a7e60ad45ed0d41",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CleanSpark Lost 21% in a Week to a New 52-Week Low. Bernstein Still Sees 62% Upside",
-      "link": "https://www.tikr.com/blog/cleanspark-lost-21-in-a-week-to-a-new-52-week-low-bernstein-still-sees-62-upside?ref=yahoofinance&tlnk=yf-261105-p7rhc5w8&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T04:32:06+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "54bd37a2f7537105",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Stock Drops After Report Says It’s Behind Microsoft’s AI Spending Delay, As Investors Turn To Earnings",
-      "link": "https://stocktwits.com/news-articles/markets/equity/iren-stock-drops-after-report-says-it-s-behind-microsoft-s-ai-spending-delay-as-investors-turn-to-earnings/cNG15gfR9Ef?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T03:53:14+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "fc446efe68d9ddf3",
@@ -253,39 +286,6 @@
       "source": "News",
       "published": "2026-11-04T16:14:20+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "0264698299cb7b16",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "Adobe downgraded, Constellation upgraded: Wall Street's top analyst calls",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/norwegian-cruise-downgrade-duolingo-upgraded-133748798.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T14:43:22+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "4a781867e9cc65eb",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "CME vs. Nu: Which Financial Stock Is a Better Buy for 2027?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/11/04/cme-vs-nu-which-financial-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T12:50:02+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "90b150c472981359",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings Just Dropped 14% in a Month. Is It Time to Sell, or Load Up?",
-      "link": "https://www.tikr.com/blog/nu-holdings-just-dropped-14-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261103-x3c779rh&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T21:05:30+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "a0857f52982937fb",
