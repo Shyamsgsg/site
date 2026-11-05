@@ -1,6 +1,127 @@
 {
-  "updated": "2026-11-05T16:22:21Z",
+  "updated": "2026-11-05T19:17:37Z",
   "items": [
+    {
+      "id": "cd0a04af73924d75",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Meta, Google, TikTok Challenge New California Youth Social Media Law",
+      "link": "https://finance.yahoo.com/media-advertising/articles/meta-google-tiktok-challenge-california-191012620.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T19:10:12+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "5d27f817ad503696",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet Stocks Decline 2% as AI Spending Outruns Cash Generation",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-stocks-decline-2-ai-185935366.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T18:59:35+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e6ca234e656dbb77",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Sinks 12%, SpaceX Down 9% as Midterm Sweep Puts Merger on “A Much Tougher Regulatory Roadmap”",
+      "link": "https://www.tikr.com/blog/tesla-sinks-12-spacex-down-9-as-midterm-sweep-puts-merger-on-a-much-tougher-regulatory-roadmap?ref=yahoofinance&tlnk=yf-261105-3qjm6j48&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T18:43:02+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "5877766fb835c0bb",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX (SPCX) Stock Gets Fair Value Boost As Analysts Weigh AI Growth And Risks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-stock-gets-fair-181345897.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T18:13:45+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "0c6d8d1a4b70e14c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla, SpaceX Continue Postelection Plunge. Dems Pledge Investigations Into Trump.",
+      "link": "https://finance.yahoo.com/m/751d4464-b17e-389e-ab70-1320e5d023cb/tesla%2C-spacex-continue.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T18:10:37+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a2346fdf53d120a7",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Buy Alphabet for The Limted Downside Floor if The Coiled Spring Asymmetry Doesn’t Pique Your Interest",
+      "link": "https://247wallst.com/investing/2026/11/05/buy-alphabet-for-the-limted-downside-floor-if-the-coiled-spring-asymmetry-doesnt-pique-your-interest/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T17:45:24+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "645d72e54e63d3a5",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Big Tech's massive AI spending is causing another problem for investors",
+      "link": "https://finance.yahoo.com/technology/article/big-techs-massive-ai-spending-is-causing-another-problem-for-investors-171909548.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T17:19:09+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "c0e471bbd4690e74",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Citi Loads Up On Tesla, Lucid And Rivian In Q3 While Slashing XPeng, General Motors",
+      "link": "https://stocktwits.com/news-articles/markets/equity/citi-loads-up-on-tesla-lucid-and-rivian-in-q3-while-slashing-x-peng-general-motors/cNG1oswR94W?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T17:14:38+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "6795d65cc9a5a6a9",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Applied Digital Plunges 17%, Cipher Digital Sinks 14%, TeraWulf Tumbles 13% as Texas Data Center Fears Deepen",
+      "link": "https://247wallst.com/investing/2026/11/05/applied-digital-plunges-17-cipher-digital-sinks-14-terawulf-tumbles-13-as-texas-data-center-fears-deepen/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T17:03:14+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "9a699d0d79bff938",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CoreWeave Stock Is Getting Slammed. Why Its CEO Isn’t Afraid of Politics.",
+      "link": "https://finance.yahoo.com/m/2e601466-99b5-3e96-b356-1d6e19eb6e46/coreweave-stock-is-getting.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T16:46:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "32b8b5498f117c2b",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN stock plunges 18% as Microsoft raises concerns over data center delays",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-stock-plunges-18-microsoft-162134051.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T16:21:34+00:00",
+      "logo": "logos/IREN.svg"
+    },
     {
       "id": "404adf61a503c1d7",
       "ticker": "IREN",
@@ -11,127 +132,6 @@
       "source": "News",
       "published": "2026-11-05T16:13:55+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "4fcc8e83db832e6c",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Cipher Digital Sinks Another 21% as AI Data Center Selloff Deepens After Midterms",
-      "link": "https://www.tikr.com/blog/cipher-digital-sinks-another-21-as-ai-data-center-selloff-deepens-after-midterms?ref=yahoofinance&tlnk=yf-261105-vm9j3g2h&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T16:07:12+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "83ac9a3238002d2b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla’s Plunge Just Hit Millions of Index Fund Investors. Here’s How Much Your ETF Lost",
-      "link": "https://247wallst.com/investing/etf/2026/11/05/teslas-plunge-just-hit-millions-of-index-fund-investors-heres-how-much-your-etf-lost/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T16:03:49+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "44d01dc019a40e2d",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Prediction: Tesla’s Next Act Could Be Its Most Important Yet",
-      "link": "https://247wallst.com/investing/2026/11/05/prediction-teslas-next-act-could-be-its-most-important-yet/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T16:03:45+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "a1a1ab52cad4e569",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Sinks 20% on Report It’s Behind Microsoft’s AI Spending Delay Ahead of Earnings",
-      "link": "https://www.tikr.com/blog/iren-sinks-20-on-report-its-behind-microsofts-ai-spending-delay-ahead-of-earnings?ref=yahoofinance&tlnk=yf-261105-qr7pp429&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T16:00:21+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "d0284ff1d2f2ac5a",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Are Big Tech stock buybacks officially dead?",
-      "link": "https://finance.yahoo.com/video/are-big-tech-stock-buybacks-officially-dead-155848546.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T15:58:48+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "34e3d9fbeca171bc",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Meta Has a Capex Guardrail That Few Talk About",
-      "link": "https://247wallst.com/investing/2026/11/05/meta-has-a-capex-guardrail-that-few-talk-about/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T15:45:36+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "89e7c238cf00d2fb",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Anthropic Just Paid a News Publisher for the First Time, and It Was AP",
-      "link": "https://247wallst.com/investing/2026/11/05/anthropic-just-paid-a-news-publisher-for-the-first-time-and-it-was-ap/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T15:42:13+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "bfe3c33b6fe17fdc",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "BC-Most Active Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153422188.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T15:34:22+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "5af2280e8851f407",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX, Tesla stocks tumble as Democratic sweep raises questions on merger prospects, AI build-out",
-      "link": "https://finance.yahoo.com/markets/article/spacex-tesla-stocks-tumble-as-democratic-sweep-raises-questions-on-merger-prospects-ai-buildout-153753814.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T15:30:32+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "5678b66d727e4646",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Digital Realty Just Paid a 45% Premium for a Stake in a Rival Data Center Stock",
-      "link": "https://247wallst.com/investing/2026/11/05/digital-realty-just-paid-a-45-premium-for-a-stake-in-a-rival-data-center-stock/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T15:19:10+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "32c174e1f19bb341",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk faces a new $28.5 trillion problem after Texas upset",
-      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-faces-28-5-150747509.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T15:07:47+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "a3aadc8e072c82d5",
