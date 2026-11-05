@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-05T07:39:55Z",
+  "updated": "2026-11-05T10:22:54Z",
   "items": [
+    {
+      "id": "f0c747c9b777d372",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "US Futures Mixed After Rally On Wednesday — MU, TSLA, AAPL, MSFT, APP, NVDA, IREN In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/us-futures-mixed-after-rally-on-wednesday-mu-tsla-aapl-msft-app-nvda-iren-in-focus/cNG1WKIR9EY?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T10:10:26+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "04a68044b9c046b9",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Anthropic Is ‘Betting Its Entire Existence On Optimism’: Michael Burry Flags Risks After AI Firm’s Updated S-1, Says Won’t Pursue IPO Shares",
+      "link": "https://stocktwits.com/news-articles/markets/equity/anthropic-is-betting-its-entire-existence-on-optimism-michael-burry-flags-risks-after-ai-firm-s-updated-s-1-says-won-t-pursue-ipo-shares/cNG1O9xR9EZ?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T08:11:06+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "9ca8a66569cec9b5",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Microsoft Is the Last Big Tech Buyback Holdout: Alphabet, Meta, Amazon Go Dark as AI Spending Eats Cash, Says This Market Commentator",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-last-big-tech-buyback-071439478.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T07:14:39+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "4ff11157a0785d14",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Zacks Earnings Trends Highlights: Nvidia, Micron and Alphabet",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-earnings-trends-highlights-nvidia-071000049.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T07:10:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "a2d6adf4746dce05",
       "ticker": "NU",
@@ -35,15 +79,26 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "b07e186d1a0963f3",
+      "id": "97eb13370751614f",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "IonQ vs. SoundHound AI: Which Technology Stock Is a Better Buy for 2027?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/11/04/ionq-vs-soundhound-ai-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "title": "Uber Beat on 20% Bookings Growth. Josh Brown Says It’s Just “Narratively Challenged”",
+      "link": "https://www.tikr.com/blog/uber-beat-on-20-bookings-growth-josh-brown-says-its-just-narratively-challenged?ref=yahoofinance&tlnk=yf-261105-vvg43hp3&.tsrc=rss",
       "source": "News",
-      "published": "2026-11-05T04:50:01+00:00",
+      "published": "2026-11-05T05:09:41+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "7a7e60ad45ed0d41",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CleanSpark Lost 21% in a Week to a New 52-Week Low. Bernstein Still Sees 62% Upside",
+      "link": "https://www.tikr.com/blog/cleanspark-lost-21-in-a-week-to-a-new-52-week-low-bernstein-still-sees-62-upside?ref=yahoofinance&tlnk=yf-261105-p7rhc5w8&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T04:32:06+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "045954502852cd3e",
@@ -55,28 +110,6 @@
       "source": "News",
       "published": "2026-11-05T04:15:25+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "c3c772cf979f140f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
-      "link": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures-rise%2C-techs.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T04:04:28+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "3c3f819c07a02f83",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google expands voluntary buyouts to 5 countries as AI spending fuels cost cuts",
-      "link": "https://www.foxbusiness.com/technology/google-expands-voluntary-buyouts-5-countries-ai-spending-fuels-cost-cuts?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T03:54:25+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "54bd37a2f7537105",
@@ -112,17 +145,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "c0da07f76f1f53fb",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Has Alphabet (GOOGL) Fallen Far Enough To Back Its Cash Flow Value?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-fallen-far-enough-021308291.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T02:13:08+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "b0e65730c5616093",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -132,6 +154,17 @@
       "source": "News",
       "published": "2026-11-05T01:12:00+00:00",
       "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "67ee861d4273b01f",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Tom Lee Says Democratic Sweep Could Fuel 15% to 20% Tech Rally",
+      "link": "https://beincrypto.com/tom-lee-tech-rally-democrat-midterms/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-04T23:39:00+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "d575f43150c4fbd5",
@@ -145,28 +178,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "1aac1d9678e3ec25",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "A Major Neocloud Stock Rally May Be Coming. These 3 Stocks Could Be the Biggest Winners.",
-      "link": "https://www.fool.com/investing/2026/11/04/a-major-neocloud-stock-rally-may-be-coming-these-3/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T23:20:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "e5120f758a1b9238",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Bitcoin Rises, Crypto Miners Sharply Divided As Midterms Dampen AI Outlook",
-      "link": "https://finance.yahoo.com/m/c5d0833e-fe1d-3e77-b792-4b103f8d64bf/bitcoin-rises%2C-crypto-miners.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T21:24:53+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "54d79816cd0b6fef",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -176,17 +187,6 @@
       "source": "Stock Titan",
       "published": "2026-11-04T21:15:00+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "715214af67aa8a8c",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Fell 4% on Cipher’s Miss, Then Jumped 10%. Here’s What Its November 5 Report Has to Settle",
-      "link": "https://www.tikr.com/blog/iren-fell-4-on-ciphers-miss-then-jumped-10-heres-what-its-november-5-report-has-to-settle?ref=yahoofinance&tlnk=yf-261104-9h6pghpr&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T20:55:02+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "62ed01b463f2ccf0",
