@@ -1,6 +1,127 @@
 {
-  "updated": "2026-11-05T10:22:54Z",
+  "updated": "2026-11-05T13:34:03Z",
   "items": [
+    {
+      "id": "22eef9dc83f9e010",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "What CVS Health (CVS) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-cvs-health-cvs-said-on-its-q3-earnings-call-2026-11-05/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T13:14:49+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "02bf49ec824fb5d5",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Dow Jones Futures Rise As Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals",
+      "link": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures-rise-as.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T13:13:38+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "3d46a97d07cb77e9",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Meta Paid 1.4 Times What Alphabet Did to Borrow in Euros",
+      "link": "https://247wallst.com/investing/2026/11/05/meta-paid-1-4-times-what-alphabet-did-to-borrow-in-euros/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T13:08:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "c7948923fac3dc9b",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Tessell Agents for Gemini Bring Agentic Database Lifecycle Management to Enterprise Databases on Google Cloud",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tessell-agents-gemini-bring-agentic-130000463.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T13:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e26e58795785683d",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "EVgo Opens First Supercharger Site as Part of Network Expansion",
+      "link": "https://finance.yahoo.com/energy/articles/evgo-opens-first-supercharger-part-130000949.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T13:00:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "0689bce23bac4fa1",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Ferrari vs. Tesla: Can the Luce Outsell the Roadster?",
+      "link": "https://finance.yahoo.com/m/dc1c6f50-6427-339f-a409-37e6de613b3d/ferrari-vs.-tesla%3A-can-the.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T12:18:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "39cfa78ee13359c0",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Apple Vs. Tesla: Low CapEx Only Matters if Non-Cyclical Cash Flows Come With It",
+      "link": "https://247wallst.com/investing/2026/11/05/apple-vs-tesla-low-capex-only-matters-if-non-cyclical-cash-flows-come-with-it/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T12:15:57+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "67cf8cfbfb0e18bf",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN is Only Fit for a Specific Investor Currently",
+      "link": "https://247wallst.com/investing/2026/11/05/iren-is-only-fit-for-a-specific-investor-currently/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T12:15:22+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "fae8c271549f4091",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "What Would Rising Commodity Costs Do To Ford Stock?",
+      "link": "https://www.trefis.com/stock/f/articles/622966/what-would-rising-commodity-costs-do-to-ford-stock/2026-11-05?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T12:06:15+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "77af4466647c314c",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "ETFs Are Net Sellers of Nu Holdings (NU) on Nov. 3",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-nu-holdings-110315061.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T11:03:15+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "111616b8cb8d7e00",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "3 Nuclear Stocks With Revenue Growth Up To 384%",
+      "link": "https://finance.yahoo.com/energy/articles/3-nuclear-stocks-revenue-growth-101429024.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T10:14:29+00:00",
+      "logo": "logos/CCJ.svg"
+    },
     {
       "id": "f0c747c9b777d372",
       "ticker": "IREN",
@@ -11,39 +132,6 @@
       "source": "News",
       "published": "2026-11-05T10:10:26+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "04a68044b9c046b9",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Anthropic Is ‘Betting Its Entire Existence On Optimism’: Michael Burry Flags Risks After AI Firm’s Updated S-1, Says Won’t Pursue IPO Shares",
-      "link": "https://stocktwits.com/news-articles/markets/equity/anthropic-is-betting-its-entire-existence-on-optimism-michael-burry-flags-risks-after-ai-firm-s-updated-s-1-says-won-t-pursue-ipo-shares/cNG1O9xR9EZ?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T08:11:06+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "9ca8a66569cec9b5",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Microsoft Is the Last Big Tech Buyback Holdout: Alphabet, Meta, Amazon Go Dark as AI Spending Eats Cash, Says This Market Commentator",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-last-big-tech-buyback-071439478.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T07:14:39+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "4ff11157a0785d14",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Zacks Earnings Trends Highlights: Nvidia, Micron and Alphabet",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-earnings-trends-highlights-nvidia-071000049.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T07:10:00+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "a2d6adf4746dce05",
@@ -57,39 +145,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "173c33e317b03504",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "TSLA Stock Slips Overnight: Analysts Flag Political, Premium Risks To SpaceX Merger — Cathie Wood’s ARK Buys Anyway",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-analysts-political-premium-risks-spacex-merger-cathie-wood-s-ark-buys/cNG14rwR9EL?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T05:22:12+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "a9b11ab3376853df",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "General Motors Gains 12% in a Week to a 52-Week High: Is There Room to Run?",
-      "link": "https://www.tikr.com/blog/general-motors-gains-12-in-a-week-to-a-52-week-high-is-there-room-to-run?ref=yahoofinance&tlnk=yf-261105-qmxxwphq&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T05:16:52+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "97eb13370751614f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Uber Beat on 20% Bookings Growth. Josh Brown Says It’s Just “Narratively Challenged”",
-      "link": "https://www.tikr.com/blog/uber-beat-on-20-bookings-growth-josh-brown-says-its-just-narratively-challenged?ref=yahoofinance&tlnk=yf-261105-vvg43hp3&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T05:09:41+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "7a7e60ad45ed0d41",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -99,17 +154,6 @@
       "source": "News",
       "published": "2026-11-05T04:32:06+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "045954502852cd3e",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla, Uber Could Triple In 5 Years? Elon Musk Ally Jason Calacanis Says Both Stocks Are ‘50% Undervalued’",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-uber-triple-5-years-elon-musk-ally-jason-calacanis-both-stocks-undervalued/cNG1d6SR9EQ?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T04:15:25+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "54bd37a2f7537105",
@@ -134,17 +178,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "fafb90d39dd3d085",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Trump to Pardon Elon Musk Soon? Crypto Punters Bet as Ross Gerber Calls GOP Midterm Loss 'Worst Possible Outcome' for SpaceX CEO",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/62902639/trump-elon-musk-pardon-democrats-midterms-ross-gerber?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T02:47:51+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "b0e65730c5616093",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -154,17 +187,6 @@
       "source": "News",
       "published": "2026-11-05T01:12:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "67ee861d4273b01f",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Tom Lee Says Democratic Sweep Could Fuel 15% to 20% Tech Rally",
-      "link": "https://beincrypto.com/tom-lee-tech-rally-democrat-midterms/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T23:39:00+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "d575f43150c4fbd5",
@@ -222,17 +244,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "fe148383849a1a8b",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco Q3 Earnings Call Highlights Uranium Pricing Discipline",
-      "link": "https://finance.yahoo.com/energy/articles/cameco-q3-earnings-call-highlights-171400475.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T17:14:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "92d533f47a7feeaa",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -274,17 +285,6 @@
       "link": "https://www.tikr.com/blog/nu-holdings-just-dropped-14-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261103-x3c779rh&.tsrc=rss",
       "source": "News",
       "published": "2026-11-03T21:05:30+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "ea4dbba4609bfae6",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Traversal Raises $120M with a $1 Billion Valuation to Keep Code Running With a Superintelligent AI Site Reliability Engineer",
-      "link": "https://finance.yahoo.com/technology/ai/articles/traversal-raises-120m-1-billion-170000526.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-03T17:00:00+00:00",
       "logo": "logos/NU.svg"
     },
     {
