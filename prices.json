@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-06T04:44:50+00:00",
+  "updated": "2026-11-06T05:46:44+00:00",
   "source": "Yahoo Finance (query1.finance.yahoo.com/v8/finance/chart)",
   "fx": {
-    "AUDUSD": 0.6901,
-    "AUDUSD_change_pct": -1.4748,
-    "USDSGD": 1.2801,
-    "USDSGD_change_pct": 0.1071
+    "AUDUSD": 0.6889,
+    "AUDUSD_change_pct": -1.6462,
+    "USDSGD": 1.2803,
+    "USDSGD_change_pct": 0.1228
   },
   "quotes": {
     "NU": {
@@ -29,23 +29,23 @@
       "stale": false
     },
     "EML.AX": {
-      "price": 0.285,
+      "price": 0.28,
       "previous_close": 0.265,
-      "change_pct": 7.5472,
+      "change_pct": 5.6604,
       "currency": "AUD",
       "exchange": "ASX",
       "long_name": "EML Payments Limited",
-      "market_time": "2026-11-06T04:21:44+00:00",
+      "market_time": "2026-11-06T05:14:59+00:00",
       "stale": false
     },
     "GTK.AX": {
-      "price": 3.38,
+      "price": 3.42,
       "previous_close": 3.5,
-      "change_pct": -3.4286,
+      "change_pct": -2.2857,
       "currency": "AUD",
       "exchange": "ASX",
       "long_name": "Gentrack Group Limited",
-      "market_time": "2026-11-06T04:24:14+00:00",
+      "market_time": "2026-11-06T05:10:28+00:00",
       "stale": false
     },
     "ONON": {
@@ -99,23 +99,23 @@
       "stale": false
     },
     "AUDUSD=X": {
-      "price": 0.6901,
+      "price": 0.6889,
       "previous_close": 0.70043,
-      "change_pct": -1.4748,
+      "change_pct": -1.6462,
       "currency": "USD",
       "exchange": "CCY",
       "long_name": "AUD/USD",
-      "market_time": "2026-11-06T04:43:28+00:00",
+      "market_time": "2026-11-06T05:45:29+00:00",
       "stale": false
     },
     "SGD=X": {
-      "price": 1.2801,
+      "price": 1.2803,
       "previous_close": 1.27873,
-      "change_pct": 0.1071,
+      "change_pct": 0.1228,
       "currency": "SGD",
       "exchange": "CCY",
       "long_name": "USD/SGD",
-      "market_time": "2026-11-06T04:44:49+00:00",
+      "market_time": "2026-11-06T05:46:44+00:00",
       "stale": false
     },
     "^GSPC": {
@@ -125,7 +125,7 @@
       "currency": "USD",
       "exchange": "SNP",
       "long_name": "S&P 500",
-      "market_time": "2026-11-05T21:00:00+00:00",
+      "market_time": "2026-11-05T21:34:08+00:00",
       "stale": false
     }
   },
