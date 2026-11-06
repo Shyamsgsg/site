@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-06T01:30:53Z",
+  "updated": "2026-11-06T04:14:50Z",
   "items": [
+    {
+      "id": "457658cb35caf9ae",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "America’s Rare Earth Reckoning Is Less Than 60 Days Away",
+      "link": "https://finance.yahoo.com/energy/articles/america-rare-earth-reckoning-less-020000209.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T02:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "9055ef28f3f58717",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Cathie Wood Sells $12.8 Million Of Alphabet, Days After The Stock Suffered Its Worst Day Since Its 2004 IPO, Losing Nearly Half A Trillion Dollars In Market Value",
+      "link": "https://247wallst.com/investing/2026/11/05/cathie-wood-sells-12-8-million-of-alphabet-days-after-the-stock-suffered-its-worst-day-since-its-2004-ipo-losing-nearly-half-a-trillion-dollars-in-market-value/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T01:20:15+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "620099ca8b30fd34",
       "ticker": "CCJ",
@@ -11,6 +33,17 @@
       "source": "News",
       "published": "2026-11-06T01:18:00+00:00",
       "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "bd58a644bceb457f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Chatham Lodging Trust (CLDT) (Q3 2026) Earnings Call Highlights: Silicon Valley Surge Drives ...",
+      "link": "https://finance.yahoo.com/real-estate/articles/chatham-lodging-trust-cldt-q3-011124012.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T01:11:24+00:00",
+      "logo": "logos/GOOG.svg"
     },
     {
       "id": "8ca79cb42517ba45",
@@ -35,6 +68,17 @@
       "logo": "logos/IREN.svg"
     },
     {
+      "id": "5dd38d534c09dead",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Elon Musk's SpaceX Could Build More Data Center Capacity in 18 Months Than Google Did in 27 Years, Says SemiAnalysis",
+      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musks-spacex-could-build-003006299.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T00:30:06+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
       "id": "5e96960e17d0e4d4",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -46,17 +90,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "848b0e334b8b6613",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Democrats Eye New Wealth Taxes, Even as California Ballot Initiative Falters",
-      "link": "https://finance.yahoo.com/economy/policy/articles/democrats-eye-wealth-taxes-even-234531855.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T23:45:31+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "1fd9fcf007fddef6",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -66,39 +99,6 @@
       "source": "News",
       "published": "2026-11-05T23:21:25+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "56fe8716aca76f07",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "USA TODAY Co., Inc. Q3 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-usa-today-co-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T23:10:40+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c22677d4187f39b6",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Apple, Alphabet, and Meta: 3 Big Takeaways from Recent Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-alphabet-meta-3-big-230000891.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T23:00:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "4b97cdf107765130",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Berkshire After Buffett: Steady Hands, Big Bets In The Greg Abel Era",
-      "link": "https://finance.yahoo.com/m/6d694ac8-80af-35c3-ba67-7647c94d58da/berkshire-after-buffett%3A.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T22:53:24+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "620ed0ceebab5a47",
@@ -310,17 +310,6 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "49bedb10dd60f649",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments Limited (ASX:EML) - Shares, Dividends & News - www.intelligentinvestor.com.au",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wam5OSk9DWXlWdEZ0TUYxSzZFbjVzWmxkNmNfR29YMlRoNlRwNFFhN2xQVU5MNWVYSDdkYnd0Zk9rWUFlbnRMNVA0a3dWanVTVXJKeXAzaVZNTGhDb3dzU3pXa0xmc1E4QVR5UXpodWhsV0tZSWRrcjAxdERHZGc?oc=5",
-      "source": "www.intelligentinvestor.com.au",
-      "published": "2026-10-30T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "efe2d6f74479c97d",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -351,6 +340,17 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa200Qi1NVVBsRnFReGd6dHNURWpuMWZvT1h3TEVqb2h3MjFIanA3S0hnczFVY3Y5YkpmbE0tc2E2b3NWRzMtcVhxQWtqTUoxRmlxdmVQWENjQUxNQ0tYVEo4Y29idnBUeGlONy1rSHJmZjFWSzNtaERrUE15QjBEMTl4S2FQOGFZa2N2LVFBTG4wdDI3aW5oVTFtVXNoS0ZSNHFfWE9DNURab2VDVVVHbXFUZzJhUXphalc2ZnlB?oc=5",
       "source": "Stock Titan",
       "published": "2026-10-23T07:00:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "fe87a991290e7083",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EMMERSON PLC (EML) Equity Price and Quote - London Stock Exchange",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
+      "source": "London Stock Exchange",
+      "published": "2026-10-22T20:53:32+00:00",
       "logo": "logos/EML.svg"
     },
     {
