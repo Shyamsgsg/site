@@ -1,93 +1,148 @@
 {
-  "updated": "2026-11-05T22:02:19Z",
+  "updated": "2026-11-06T01:30:53Z",
   "items": [
     {
-      "id": "9b651f3c5d2ddd1c",
+      "id": "620099ca8b30fd34",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco Reports Document Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-reports-document-filing-011800464.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T01:18:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "8ca79cb42517ba45",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Stocks slide as Wall Street's post-election rally fizzles",
-      "link": "https://finance.yahoo.com/video/stocks-slide-as-wall-streets-post-election-rally-fizzles-214250142.html?.tsrc=rss",
+      "title": "Zero To Sixty: Fort Worth Gets Tesla Robotaxi While UBS Upgrades Rivian And Citigroup Shuffles EV Holdings",
+      "link": "https://stocktwits.com/news-articles/markets/equity/zero-to-sixty-fort-worth-gets-tesla-robotaxi-while-ubs-upgrades-rivian-and-citigroup-shuffles-ev-holdings/cNGl4ABR94q?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-05T21:42:50+00:00",
+      "published": "2026-11-06T00:54:24+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "4c50ff6b292cb880",
+      "id": "a223d23ccdb30691",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CleanSpark Sinks Another 17%, IREN Down 17% as Bitcoin Tumbles and AI Data Center Selloff Deepens",
+      "link": "https://www.tikr.com/blog/cleanspark-sinks-another-17-iren-down-17-as-bitcoin-tumbles-and-ai-data-center-selloff-deepens?ref=yahoofinance&tlnk=yf-261105-g8wjm26w&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T00:36:27+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "5e96960e17d0e4d4",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "A Tale of Two Data Center Stocks: Why Akamai Stalled and Iren Popped on Earnings",
+      "link": "https://finance.yahoo.com/m/cc63f2bb-aa0f-3660-b064-b2dd8d2dd6f8/a-tale-of-two-data-center.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T23:50:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "848b0e334b8b6613",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Nasdaq Stock Market Correction: History Says This Is What Happens Next",
-      "link": "https://www.fool.com/investing/2026/11/05/nasdaq-stock-market-correction-history-says-this-is-what-happens-next/?.tsrc=rss",
+      "title": "Democrats Eye New Wealth Taxes, Even as California Ballot Initiative Falters",
+      "link": "https://finance.yahoo.com/economy/policy/articles/democrats-eye-wealth-taxes-even-234531855.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-05T21:39:01+00:00",
+      "published": "2026-11-05T23:45:31+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "faa6255cb7fd17e2",
+      "id": "1fd9fcf007fddef6",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN (IREN) Draws Tighter Oversight On Neocloud Data Center Projects",
+      "link": "https://finance.yahoo.com/technology/ai/articles/iren-iren-draws-tighter-oversight-232125190.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T23:21:25+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "56fe8716aca76f07",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "USA TODAY: The Newspaper That Sued the Toll Collector",
-      "link": "https://www.fool.com/earnings/takeaways/2026/11/05/usa-today-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+      "title": "USA TODAY Co., Inc. Q3 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-usa-today-co-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
       "source": "News",
-      "published": "2026-11-05T21:38:01+00:00",
+      "published": "2026-11-05T23:10:40+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "6ea165cf2ee5195e",
+      "id": "c22677d4187f39b6",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "dYdX Team’s Arcus Opens Stock-Token Collateral to All Perps Traders, With a $20,000 Cap",
-      "link": "https://unchainedcrypto.com/dydx-teams-arcus-opens-stock-token-collateral-to-all-perps-traders-with-a-20000-cap/?.tsrc=rss",
+      "title": "Apple, Alphabet, and Meta: 3 Big Takeaways from Recent Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-alphabet-meta-3-big-230000891.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-05T21:25:56+00:00",
+      "published": "2026-11-05T23:00:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "330a613a82d3e891",
+      "id": "4b97cdf107765130",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Berkshire After Buffett: Steady Hands, Big Bets In The Greg Abel Era",
+      "link": "https://finance.yahoo.com/m/6d694ac8-80af-35c3-ba67-7647c94d58da/berkshire-after-buffett%3A.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T22:53:24+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "620ed0ceebab5a47",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "SpaceX Stock Is Still Falling. It Trades at Apple’s Valuation.",
-      "link": "https://finance.yahoo.com/m/12c89445-f84d-308c-a32e-1b9535c6322f/spacex-stock-is-still.html?.tsrc=rss",
+      "title": "1 Unstoppable Cryptocurrency That Could Join Bitcoin in the $1 Trillion Club",
+      "link": "https://www.fool.com/investing/2026/11/05/1-cryptocurrency-with-trillion-dollar-potential/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-05T21:20:00+00:00",
+      "published": "2026-11-05T22:51:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "db84b56dbeddff59",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Best Mag7 dip buys: NVIDIA leads on valuation, Alphabet on RSI",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/best-mag7-dip-buys-nvidia-210653656.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T21:06:53+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "0c6d8d1a4b70e14c",
+      "id": "b8253cc3e43bfacd",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla, SpaceX Continue Postelection Plunge. Dems Pledge Investigations Into Trump.",
-      "link": "https://finance.yahoo.com/m/751d4464-b17e-389e-ab70-1320e5d023cb/tesla%2C-spacex-continue.html?.tsrc=rss",
+      "title": "Here’s Why AI Insurer Lemonade (LMND) May Skyrocket in 2027",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-ai-insurer-lemonade-lmnd-223259045.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-05T21:04:31+00:00",
+      "published": "2026-11-05T22:32:59+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "c444fac7105bb69b",
+      "id": "f4eb5d62c2e176d1",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "SpaceX and Tesla Stock Plunges Have Wiped About $450 Billion in Value Since the Midterms. Is It Time to Buy?",
-      "link": "https://www.fool.com/investing/2026/11/05/spacex-and-tesla-stock-plunges-have-wiped-about-usd450-billion-in-value-since-the-midterms-is-it-time-to-buy/?.tsrc=rss",
+      "title": "A Utah Drilling Project Puts Ormat Technologies (ORA) at the Center of Geothermal’s Next Push",
+      "link": "https://finance.yahoo.com/energy/articles/utah-drilling-project-puts-ormat-223143273.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-05T21:03:35+00:00",
+      "published": "2026-11-05T22:31:43+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ddccd3232280e451",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings Ltd. (NU) Stock Moves -2.09%: What You Should Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-nu-stock-214502337.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-05T21:45:02+00:00",
+      "logo": "logos/NU.svg"
     },
     {
       "id": "6efc8cea0f1b40ee",
@@ -98,39 +153,6 @@
       "link": "https://finance.yahoo.com/m/2e601466-99b5-3e96-b356-1d6e19eb6e46/coreweave-stock-is-plunging.html?.tsrc=rss",
       "source": "News",
       "published": "2026-11-05T18:50:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "6795d65cc9a5a6a9",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Applied Digital Plunges 17%, Cipher Digital Sinks 14%, TeraWulf Tumbles 13% as Texas Data Center Fears Deepen",
-      "link": "https://247wallst.com/investing/2026/11/05/applied-digital-plunges-17-cipher-digital-sinks-14-terawulf-tumbles-13-as-texas-data-center-fears-deepen/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T17:03:14+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "32b8b5498f117c2b",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN stock plunges 18% as Microsoft raises concerns over data center delays",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-stock-plunges-18-microsoft-162134051.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T16:21:34+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "404adf61a503c1d7",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Market Chatter: Microsoft Declines Texas Data Center Contract Extension With Nscale, Tightening Data Center Oversight",
-      "link": "https://finance.yahoo.com/technology/articles/market-chatter-microsoft-declines-texas-161355924.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T16:13:55+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -189,17 +211,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "a2d6adf4746dce05",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Elite Crypto Stocks To Own In November 2026",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/elite-crypto-stocks-own-november-061802563.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T06:18:02+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "fc446efe68d9ddf3",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -208,17 +219,6 @@
       "link": "https://www.fool.com/investing/2026/11/04/mine-enrich-build-operate-which-link-in-the-nuclea/?.tsrc=rss",
       "source": "News",
       "published": "2026-11-05T03:35:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "b0e65730c5616093",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco Reports Document Filing",
-      "link": "https://finance.yahoo.com/energy/articles/cameco-reports-document-filing-011200231.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T01:12:00+00:00",
       "logo": "logos/CCJ.svg"
     },
     {
@@ -288,15 +288,15 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "a0857f52982937fb",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "How Did EML Payments Limited (ASX:EML) Reshape Its Operations Amid FY26 Revenue Changes? - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdF9qWWo5NkJwNHBzeFdjX016YzJzV1hRa1B5di05cDRjSHUtU0hiMGY5eUYxZDJCR2loVHU2VGNJUENkb0xWRmxOS2JKUm9Ud1FHLXk3OHItWUk3cGs4TmRkR0VNektEZUFtOUNENGZBdVQ2Z3RsYTE5NlJoVUJ5Ynk0cW9CMy14MWFpMVpvYWZjY0hZTFl2UEFObWF0UmludWNzVWxVVk9memV3YzdwMEpsU29MNVdydkIwSWpEZw?oc=5",
-      "source": "Kalkine",
-      "published": "2026-11-02T12:35:00+00:00",
-      "logo": "logos/EML.svg"
+      "id": "b0a0970451b077b0",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "TSX brace for data-heavy week as Iran tensions put Fed, BoC rate outlook in focus - Investing.com Canada",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUFozcjIwTjRZSUJkRk9UbEJrUTg1bVZVQkVzeTQ0NXBkVHFsbk9WaHphOHJJUnFpQXdaVExoNGthbmJraV95Zkw0Q3lMSklNS0ZldVgxZ3g5RzZmdjBPS1VJT3E2RkRMbUJmNDQ0c3Z2X2FzdHVHSWhDcUJ5Ulh4Uy1EaEx1dEVVeXlOemxZXzNJLWxnOFhPd3FWWHNWWTB6bVdfRU42bFFuaVE2SUNmYk9vRmZWMFdjdFRBYUdxWUl1LThyaUNqbHFiUTBoNWdq?oc=5",
+      "source": "Investing.com Canada",
+      "published": "2026-11-01T10:52:25+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "78471f3bcd5d8734",
@@ -321,28 +321,6 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "d813cab6586911a7",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Up As BoC Hike Reshapes Rate Expectations - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLURvZ182UHh1OFQ2VEpyVllib3FHY1dIczJEVXJ3dVpVb2VhMDVrVldnbWtWMXN4U0hFQ1o1UjYzX0dqSEhpZXRBaEYxUWluUmU5MUl3VEpKYWlOREpFbENhbEhOTzF5QTZRbDRtWHN2NHF2dnBudWRCNHZaRFFxWXU2MmtiZ2JEaTVTQ19UNmxvT2dMQkVtR2d5c0k?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-29T12:11:30+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "e2d20f89b933f308",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Higher As Fed And BoC Decisions Loom - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG1pa1pSNWY5akZBVkl5TFJ3ZGF6X1AwME92cEFWQnZ5QVlOb1F2MWVVTmk4OUZZcGk2ZHdoNkNWcE9sSG9wNG9IN01EZnphZFNNOUlJcVdfOTZTSHUta3duLTJkX0xNMlktWHVqakthN090cUI1REpyZ3JNYzBTLW45bEhjS1BrWXlZdXhVcEM5aUhSZHk0YWdPcDY?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-28T12:06:58+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "efe2d6f74479c97d",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -352,6 +330,28 @@
       "source": "Kalkine",
       "published": "2026-10-27T05:28:00+00:00",
       "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "690ab8865b462f4c",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "After selling an insurance business, Boston Omaha keeps 2.67 million Sky Harbour shares. - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYU1WQnI4TUIwOHJZN25NZXNkd0VYR2lmR2xGSG5IQktoV0Y1M0FSdWNZc3RxR3VBLUVKMGh0U0hxSGNrRVBNYWZiUDRuWFZiOTZmU1ZOMWpUT3lsNExDU0xoMy00X0toalZOVXpINzc2NHV5Qlp3NnZtXzdObnp0YnlTN0ZWa0JZNHJiQzR0dXNnbEZEbHBtT2F4QS1uZ0wwc0lWLUVZWEc4UUk3MVhkMm5oX3ZTVlJS?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-10-26T12:30:00+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "05fc5eb6cf4d3592",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Third-quarter results are scheduled after the market closes Nov. 10; the call follows at 9 a.m. ET Nov. 11. - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa200Qi1NVVBsRnFReGd6dHNURWpuMWZvT1h3TEVqb2h3MjFIanA3S0hnczFVY3Y5YkpmbE0tc2E2b3NWRzMtcVhxQWtqTUoxRmlxdmVQWENjQUxNQ0tYVEo4Y29idnBUeGlONy1rSHJmZjFWSzNtaERrUE15QjBEMTl4S2FQOGFZa2N2LVFBTG4wdDI3aW5oVTFtVXNoS0ZSNHFfWE9DNURab2VDVVVHbXFUZzJhUXphalc2ZnlB?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-10-23T07:00:00+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "100f84de1493c850",
