@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-06T04:14:50Z",
+  "updated": "2026-11-06T07:37:31Z",
   "items": [
+    {
+      "id": "334369a5e5ce6a98",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Ltd (IREN) Q1 2027 Earnings Call Highlights: AI Cloud Revenue Nearly Triples to $200 ...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/iren-ltd-iren-q1-2027-052040826.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T05:20:40+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "ffe69cedfab79f1a",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Oracle vs. Alphabet: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?",
+      "link": "https://www.fool.com/investing/2026/11/06/oracle-vs-alphabet-which-is-the-better-ai-cloud-st/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T05:20:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "2be670e96284b66c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "What NerdWallet (NRDS) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-nerdwallet-nrds-said-on-its-q3-earnings-call-2026-11-05/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T05:14:26+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "3cd2207822ddfd38",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Do You Like Cash? Consider Reddit Stock",
+      "link": "https://www.trefis.com/stock/rddt/articles/622824/do-you-like-cash-consider-reddit-stock/2026-11-05?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T04:05:07+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "457658cb35caf9ae",
       "ticker": "GOOG",
@@ -13,17 +57,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "9055ef28f3f58717",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Cathie Wood Sells $12.8 Million Of Alphabet, Days After The Stock Suffered Its Worst Day Since Its 2004 IPO, Losing Nearly Half A Trillion Dollars In Market Value",
-      "link": "https://247wallst.com/investing/2026/11/05/cathie-wood-sells-12-8-million-of-alphabet-days-after-the-stock-suffered-its-worst-day-since-its-2004-ipo-losing-nearly-half-a-trillion-dollars-in-market-value/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-06T01:20:15+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "620099ca8b30fd34",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -33,17 +66,6 @@
       "source": "News",
       "published": "2026-11-06T01:18:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "bd58a644bceb457f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Chatham Lodging Trust (CLDT) (Q3 2026) Earnings Call Highlights: Silicon Valley Surge Drives ...",
-      "link": "https://finance.yahoo.com/real-estate/articles/chatham-lodging-trust-cldt-q3-011124012.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-06T01:11:24+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "8ca79cb42517ba45",
@@ -66,17 +88,6 @@
       "source": "News",
       "published": "2026-11-06T00:36:27+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "5dd38d534c09dead",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Elon Musk's SpaceX Could Build More Data Center Capacity in 18 Months Than Google Did in 27 Years, Says SemiAnalysis",
-      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musks-spacex-could-build-003006299.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-06T00:30:06+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "5e96960e17d0e4d4",
@@ -143,17 +154,6 @@
       "source": "News",
       "published": "2026-11-05T21:45:02+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "6efc8cea0f1b40ee",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CoreWeave Stock Is Plunging After the Election. Its CEO Insists the Business Is Safe.",
-      "link": "https://finance.yahoo.com/m/2e601466-99b5-3e96-b356-1d6e19eb6e46/coreweave-stock-is-plunging.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T18:50:00+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "a3aadc8e072c82d5",
