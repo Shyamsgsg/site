@@ -1,60 +1,170 @@
 {
-  "updated": "2026-11-06T07:37:31Z",
+  "updated": "2026-11-06T16:49:18Z",
   "items": [
     {
-      "id": "334369a5e5ce6a98",
+      "id": "1bf1b2ae3b98cf3f",
       "ticker": "IREN",
       "symbol": "IREN",
       "company": "IREN Ltd",
-      "title": "IREN Ltd (IREN) Q1 2027 Earnings Call Highlights: AI Cloud Revenue Nearly Triples to $200 ...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/iren-ltd-iren-q1-2027-052040826.html?.tsrc=rss",
+      "title": "Iren: 3 Key Takeaways for Long-Term Investors",
+      "link": "https://www.fool.com/earnings/takeaways/2026/11/06/iren-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-06T05:20:40+00:00",
+      "published": "2026-11-06T16:37:11+00:00",
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "ffe69cedfab79f1a",
+      "id": "f13fe87b70898cf3",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Oracle vs. Alphabet: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?",
-      "link": "https://www.fool.com/investing/2026/11/06/oracle-vs-alphabet-which-is-the-better-ai-cloud-st/?.tsrc=rss",
+      "title": "Amazon Just Delivered a Record-Breaking Quarter. But There’s One Number Investors Shouldn’t Ignore.",
+      "link": "https://247wallst.com/investing/2026/11/06/amazon-just-delivered-a-record-breaking-quarter-but-theres-one-number-investors-shouldnt-ignore/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-06T05:20:00+00:00",
+      "published": "2026-11-06T16:33:04+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "2be670e96284b66c",
+      "id": "22a833855ee8f3e7",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "What NerdWallet (NRDS) Said on Its Q3 Earnings Call",
-      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-nerdwallet-nrds-said-on-its-q3-earnings-call-2026-11-05/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "title": "Google's $900 Million SpaceX Bet Is Now Worth $69 Billion. It Added Millions More Shares",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/62992872/google-spacex-stake?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
       "source": "News",
-      "published": "2026-11-06T05:14:26+00:00",
+      "published": "2026-11-06T16:31:21+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "3cd2207822ddfd38",
+      "id": "3eca67a6c2d1084e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX, Tesla Merger Less Likely After Midterms. Texas Gov. Requests Pause On Land Talks.",
+      "link": "https://finance.yahoo.com/m/78896665-9396-36da-b57e-abaf23a742ac/spacex%2C-tesla-merger-less.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T16:29:58+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "f8636ce403fc0685",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Do You Like Cash? Consider Reddit Stock",
-      "link": "https://www.trefis.com/stock/rddt/articles/622824/do-you-like-cash-consider-reddit-stock/2026-11-05?.tsrc=rss",
+      "title": "Analyst Calls Tech Stock Sell-Off 'Golden Buying Opportunity'",
+      "link": "https://finance.yahoo.com/m/aeb920dc-4bcd-3531-8458-6a642b7135df/analyst-calls-tech-stock.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-06T04:05:07+00:00",
+      "published": "2026-11-06T16:28:25+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "457658cb35caf9ae",
+      "id": "c5f3ba4648d31388",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Is Down 44% in 2026. Bernstein Cut Its Target but Still Sees 158% Upside",
+      "link": "https://www.tikr.com/blog/iren-is-down-44-in-2026-bernstein-cut-its-target-but-still-sees-158-upside?ref=yahoofinance&tlnk=yf-261106-3x678mqj&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T16:28:22+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "8e05af668b92a52c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Musk bids farewell to Cybertruck as Tesla bets on robots and self-driving",
+      "link": "https://finance.yahoo.com/markets/stocks/article/musk-bids-farewell-to-cybertruck-as-tesla-bets-on-robots-and-self-driving-162259557.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T16:22:59+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "eded3e304cbea242",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "America’s Rare Earth Reckoning Is Less Than 60 Days Away",
-      "link": "https://finance.yahoo.com/energy/articles/america-rare-earth-reckoning-less-020000209.html?.tsrc=rss",
+      "title": "Let's dismiss the multi-trillion AI sell-off and look at demand",
+      "link": "https://finance.yahoo.com/video/lets-dismiss-the-multi-trillion-ai-sell-off-and-look-at-demand-162233407.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-06T02:00:00+00:00",
+      "published": "2026-11-06T16:22:33+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "858c48b331882b65",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Bitcoin Tumbles On ETF Flows, Liquidations. IREN Leads Miner Rebound Attempt.",
+      "link": "https://finance.yahoo.com/m/1bb59cf7-9dbb-3c72-aa16-34a903263558/bitcoin-tumbles-on-etf-flows%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T16:20:21+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "44bb4fb987d16022",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX Soars 6% as AI Stocks Rebound From $420 Billion Post-Midterm Musk Selloff",
+      "link": "https://www.tikr.com/blog/spacex-soars-6-as-ai-stocks-rebound-from-420-billion-post-midterm-musk-selloff?ref=yahoofinance&tlnk=yf-261106-4j35x625&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T16:16:36+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c70d4abe4595b17f",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CoreWeave Rises 3% as a Rival’s Results Lift Neoclouds: “Not a Fundamental Reset”",
+      "link": "https://www.tikr.com/blog/coreweave-rises-3-as-a-rivals-results-lift-neoclouds-not-a-fundamental-reset?ref=yahoofinance&tlnk=yf-261106-qm8mvj2c&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T16:15:24+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "84a19123241a7bcd",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "On Holding (ONON) Posted Strong Quarterly Growth, Is The Stock Still A Bargain?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-posted-strong-quarterly-161356100.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T16:13:56+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "04b5cffa37510b61",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla support and resistance levels to watch now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-support-resistance-levels-watch-160212344.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T16:02:12+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "0540866784ee114b",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Brady And 2 More High Growth Stocks To Watch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brady-2-more-high-growth-151353142.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T15:13:53+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "8b8c0749a4920c89",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "LEU Q3 Earnings Beat Estimates on Warrant Gain, Sales Decline",
+      "link": "https://finance.yahoo.com/energy/articles/leu-q3-earnings-beat-estimates-135700756.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-06T13:57:00+00:00",
+      "logo": "logos/CCJ.svg"
     },
     {
       "id": "620099ca8b30fd34",
@@ -66,83 +176,6 @@
       "source": "News",
       "published": "2026-11-06T01:18:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "8ca79cb42517ba45",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Zero To Sixty: Fort Worth Gets Tesla Robotaxi While UBS Upgrades Rivian And Citigroup Shuffles EV Holdings",
-      "link": "https://stocktwits.com/news-articles/markets/equity/zero-to-sixty-fort-worth-gets-tesla-robotaxi-while-ubs-upgrades-rivian-and-citigroup-shuffles-ev-holdings/cNGl4ABR94q?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-06T00:54:24+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "a223d23ccdb30691",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CleanSpark Sinks Another 17%, IREN Down 17% as Bitcoin Tumbles and AI Data Center Selloff Deepens",
-      "link": "https://www.tikr.com/blog/cleanspark-sinks-another-17-iren-down-17-as-bitcoin-tumbles-and-ai-data-center-selloff-deepens?ref=yahoofinance&tlnk=yf-261105-g8wjm26w&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-06T00:36:27+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "5e96960e17d0e4d4",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "A Tale of Two Data Center Stocks: Why Akamai Stalled and Iren Popped on Earnings",
-      "link": "https://finance.yahoo.com/m/cc63f2bb-aa0f-3660-b064-b2dd8d2dd6f8/a-tale-of-two-data-center.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T23:50:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "1fd9fcf007fddef6",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN (IREN) Draws Tighter Oversight On Neocloud Data Center Projects",
-      "link": "https://finance.yahoo.com/technology/ai/articles/iren-iren-draws-tighter-oversight-232125190.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T23:21:25+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "620ed0ceebab5a47",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "1 Unstoppable Cryptocurrency That Could Join Bitcoin in the $1 Trillion Club",
-      "link": "https://www.fool.com/investing/2026/11/05/1-cryptocurrency-with-trillion-dollar-potential/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T22:51:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "b8253cc3e43bfacd",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Here’s Why AI Insurer Lemonade (LMND) May Skyrocket in 2027",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-ai-insurer-lemonade-lmnd-223259045.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T22:32:59+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "f4eb5d62c2e176d1",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "A Utah Drilling Project Puts Ormat Technologies (ORA) at the Center of Geothermal’s Next Push",
-      "link": "https://finance.yahoo.com/energy/articles/utah-drilling-project-puts-ormat-223143273.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T22:31:43+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "ddccd3232280e451",
@@ -189,17 +222,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "77af4466647c314c",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "ETFs Are Net Sellers of Nu Holdings (NU) on Nov. 3",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-nu-holdings-110315061.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T11:03:15+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "111616b8cb8d7e00",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -219,17 +241,6 @@
       "link": "https://www.fool.com/investing/2026/11/04/mine-enrich-build-operate-which-link-in-the-nuclea/?.tsrc=rss",
       "source": "News",
       "published": "2026-11-05T03:35:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "d575f43150c4fbd5",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "3 Canadian Nuclear Stocks To Own In November 2026",
-      "link": "https://finance.yahoo.com/energy/articles/3-canadian-nuclear-stocks-own-232035019.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T23:20:35+00:00",
       "logo": "logos/CCJ.svg"
     },
     {
@@ -274,17 +285,6 @@
       "link": "https://247wallst.com/investing/2026/11/04/nike-climbs-7-as-dow-rally-lifts-consumer-stocks-deckers-gains-7-lululemon-rises-6/?.tsrc=rss",
       "source": "News",
       "published": "2026-11-04T17:57:41+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "92d533f47a7feeaa",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "Wells Fargo starts On Holding at Overweight, sees growth reaccelerating in 2027",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-starts-holding-overweight-161420858.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T16:14:20+00:00",
       "logo": "logos/ONON.svg"
     },
     {
