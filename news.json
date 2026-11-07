@@ -1,27 +1,115 @@
 {
-  "updated": "2026-11-07T06:11:52Z",
+  "updated": "2026-11-07T13:15:30Z",
   "items": [
     {
-      "id": "01a6e7a85ecb862d",
+      "id": "0ad20cb1f2f851ac",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Cathie Wood-Led Ark Loads Up On GOOG, AMD, NVDA And Biotech Stocks — But Sells CRWV, AVGO, LLY",
-      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-buys-goog-amd-nvda-biotech-stocks-sell-crwv-avgo-lly/cNGVV2wR9Ii?.tsrc=rss",
+      "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Amazon Holds Up Amid AI Rout",
+      "link": "https://finance.yahoo.com/m/2b47c372-177e-3051-aa01-406a8d82b220/these-7-stocks-are-analyst.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-07T06:00:20+00:00",
+      "published": "2026-11-07T13:01:21+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "6ad52ff6f255ce48",
+      "id": "5e84d62372599d99",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "What Is Behind The Rebound In Qualcomm Stock?",
+      "link": "https://www.trefis.com/stock/qcom/articles/623744/what-is-behind-the-rebound-in-qualcomm-stock/2026-11-07?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-07T12:49:50+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "1e37fbc67506508f",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "A Retiree Who Bought 1,000 Tesla Shares at $197 Just Watched Musk Kill the Cybertruck",
-      "link": "https://247wallst.com/investing/2026/11/07/a-retiree-who-bought-1000-tesla-shares-at-197-just-watched-musk-kill-the-cybertruck/?.tsrc=rss",
+      "title": "Some Experts Think TransMedics Group (TMDX) Has a Near-Monopoly on Keeping Donor Organs Alive",
+      "link": "https://finance.yahoo.com/healthcare/articles/experts-think-transmedics-group-tmdx-124206222.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-07T05:07:11+00:00",
+      "published": "2026-11-07T12:42:06+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c1bc7e753841c05d",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "ON Semiconductor (ON) Is Jeff Brown’s Chip Play on Tesla’s Optimus Robot",
+      "link": "https://finance.yahoo.com/technology/ai/articles/semiconductor-jeff-brown-chip-play-124140081.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-07T12:41:40+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a996c4c215a0c36d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Ziff Davis: 3 Key Takeaways for Long-Term Investors",
+      "link": "https://www.fool.com/earnings/takeaways/2026/11/07/ziff-davis-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-07T12:38:40+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "0c504ce1bb9340fc",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Dan Ives: Big Tech Free Cash Flow “Will Trough in 1H2027” as Capex Growth Peaks Early",
+      "link": "https://www.tikr.com/blog/dan-ives-big-tech-free-cash-flow-will-trough-in-1h2027-as-capex-growth-peaks-early?ref=yahoofinance&tlnk=yf-261107-37r8c94m&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-07T12:06:46+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "2c861be44d146602",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Wants to Build an \"Enormous Robot Army.\" Here's What That Means for Tesla and SpaceX Investors.",
+      "link": "https://www.fool.com/investing/2026/11/07/elon-musk-wants-to-build-an-enormous-robot-army-he/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-07T11:49:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ed86d02e5f8e047c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Top 3 EV Stocks To Watch In November 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-ev-stocks-watch-111140170.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-07T11:11:40+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "6a05413c3a97d7dd",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "A $120 Billion Westinghouse Reactor Plan Is Taking Shape. Here’s What History Says Happened the Last Time the U.S. Built Them.",
+      "link": "https://www.fool.com/investing/2026/11/07/a-usd120-billion-westinghouse-reactor-plan-is-taking-shape-here-s-what-history-says-happened-the-last-time-the-u-s-built-them/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-07T10:23:02+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "1679b27bc6b17b31",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC: P4.1M illegal cigarettes seized in Negros Occidental - Inquirer.net",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYlVVVkxUcnVPV1NvNDJwam5TYkg4VUlBNnM3TjJ5Y29PQi1NeXdzWTg0aEE5QUhsWF8zMDM2S2FNSW9ZM2N4Vld4RE5TVVZmc010RlFZOUNrM3htQUZNb0RhTDFOakNvdzJjWUl0ZE5PSWcwSV9QU2hna3BOODVSVFFHc2RhOVlwNVZ6VzRxMkFBVjUxTk9lcU530gGfAUFVX3lxTE9jZl9qSnV4Z3M3X1R2eHhHLU1kUDRVX1VmZUZYdDhyYVRsWUtYS2VwSFNBSkdDa25iMGZzOWttNnNvdkpwNEZqR191dktFa1dQaFdUOFBvb2F6cEs1WklHc1ZhaTBkX09tZWVLblQ1NFF1RGRta1FpcXhfWGhOTFN6NV9pdkRnM2JGQ05DX1NhRUkyVW0yWUM5WmZKZkFKWQ?oc=5",
+      "source": "Inquirer.net",
+      "published": "2026-11-07T07:09:00+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "4a88e25639f9249a",
@@ -33,17 +121,6 @@
       "source": "News",
       "published": "2026-11-07T03:19:36+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "d5b7e47b69c59ac6",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla, SpaceX Face Different Risks From Gina Hinojosa’s Texas Midterm Win: Bitunix Analyst Says Expansion, Not Existing Operations, Is Key Concern",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-face-different-risks-023006398.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T02:30:06+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "e48109217a089375",
@@ -68,28 +145,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "e992d7687c9bd599",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla (TSLA) Stock Trades At An Expensive Price For Sales",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-trades-expensive-021229427.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T02:12:29+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "b7e5d151db45b644",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk says Tesla will stop making iconic vehicles",
-      "link": "https://www.thestreet.com/retail/elon-musk-says-tesla-will-stop-making-iconic-vehicles?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T02:10:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "48b203b9dd915372",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -99,39 +154,6 @@
       "source": "News",
       "published": "2026-11-07T01:43:45+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "19f93e6b5a2ef3d7",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "link": "https://finance.yahoo.com/technology/ai/articles/crusoe-sells-troubled-wyoming-data-014028924.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T01:40:28+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "e7541369eb13af5a",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Uber’s Robo Push",
-      "link": "https://finance.yahoo.com/m/b007a5be-2a9e-3534-973c-5e577846b13e/uber%E2%80%99s-robo-push.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T00:19:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "b0cf8883cdc73a99",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google-backed miner reveals $710M profit, operating loss surges 257%",
-      "link": "https://www.thestreet.com/crypto/markets/google-backed-miners-710-million-profit-masks-operating-losses?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-06T23:30:00+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "c946edd95f9c273b",
@@ -176,17 +198,6 @@
       "source": "News",
       "published": "2026-11-06T13:57:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "709d67badf93d242",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Sri Lanka stocks pick up; BOC debenture issue oversubscribed - EconomyNext",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkF6QTBSa2FRTFVBMnRUZ1VJRzRtZ1NlUUJMUFlDdi1iZm9sTGQxcmExaTZxYVZFc0FhTVQ3WGpua08ydkw2RUcwUkNSZHF3TDhKcGRINGdLaW1XR2xaZGxLMWJjcjZNVWFBeXUyRGtqaGI4WTZhbGhpUDVlLWRxTmtZM1Q2WHpRSlVjSHFmUlM5R0RJQ3c?oc=5",
-      "source": "EconomyNext",
-      "published": "2026-11-06T10:21:46+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "620099ca8b30fd34",
@@ -242,17 +253,6 @@
       "source": "News",
       "published": "2026-11-05T12:15:08+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "111616b8cb8d7e00",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "3 Nuclear Stocks With Revenue Growth Up To 384%",
-      "link": "https://finance.yahoo.com/energy/articles/3-nuclear-stocks-revenue-growth-101429024.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T10:14:29+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "54d79816cd0b6fef",
