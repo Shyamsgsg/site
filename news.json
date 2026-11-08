@@ -1,49 +1,104 @@
 {
-  "updated": "2026-11-08T10:33:26Z",
+  "updated": "2026-11-08T17:57:54Z",
   "items": [
     {
-      "id": "eada0f733d261e5e",
+      "id": "2f2086f1f191d680",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "How sustainable is the AI investment boom after Thursday’s selloff?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sustainable-ai-investment-boom-thursday-164711242.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T16:47:11+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "0429c7559b734750",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Is America’s AI Data Center Boom About to Hit a Brick Wall?",
+      "link": "https://247wallst.com/investing/2026/11/08/is-americas-ai-data-center-boom-about-to-hit-a-brick-wall/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T16:34:58+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "60e556a7d938efcf",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Anthropic’s $895 Billion AI Gamble Could Become Wall Street’s Next Debt Nightmare",
+      "link": "https://247wallst.com/investing/2026/11/08/anthropics-895-billion-ai-gamble-could-become-wall-streets-next-debt-nightmare/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T16:20:41+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "7b8beca65d1d82a6",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Anthropic’s $2.5 Trillion IPO Dream Could Be Heading for a $1 Trillion Reality Check",
+      "link": "https://247wallst.com/investing/2026/11/08/anthropics-2-5-trillion-ipo-dream-could-be-heading-for-a-1-trillion-reality-check/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T16:10:55+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "8e7cc7e09bc37a56",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Qualcomm’s Car Chips Grew 89% as Handsets Fell 26%. Is 16.7x Earnings Too Cheap?",
+      "link": "https://www.tikr.com/blog/qualcomms-car-chips-grew-89-as-handsets-fell-26-is-16-7x-earnings-too-cheap?ref=yahoofinance&tlnk=yf-261108-3p86fw4m&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T15:59:59+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "29dc4a0718fbdce8",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Ron Baron Has Made $30B Betting On Elon Musk — Now He Sees ‘Hundreds Of Billions’ More Coming From His TSLA, SPCX Investments",
-      "link": "https://stocktwits.com/news-articles/markets/equity/ron-baron-30b-betting-on-elon-musk-hundreds-billions-more-tsla-spcx-merger/cNGoz1vR9It?.tsrc=rss",
+      "title": "Tesla's FSD (Supervised) Attach Rate Hit 75% on New Vehicles. Here's Why That Single Number Could Matter More Than Robotaxi for the Stock in 2027.",
+      "link": "https://www.fool.com/investing/2026/11/08/teslas-fsd-supervised-attach-rate-hit-75-on-new-ve/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-08T09:56:05+00:00",
+      "published": "2026-11-08T15:10:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "80c312b36fc3cb78",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "These AI Stocks To Improve Your Portfolio In November 2026",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-stocks-improve-portfolio-november-051245618.html?.tsrc=rss",
+      "id": "64c259f3c2a467fb",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Cathie Wood Sees Tesla’s Robotaxi Business Taking Off — Says This Is The Moment Investors Have Waited For",
+      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-tesla-robotaxi-business-escape-velocity-investors-waiting-for/cNGYPoVR9IH?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-08T05:12:45+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-11-08T13:09:30+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
-      "id": "72bbcfa3d598fde0",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Constellation Energy Just Dropped 17% in a Month. Is It Time to Sell, or Load Up?",
-      "link": "https://www.tikr.com/blog/constellation-energy-just-dropped-17-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261108-8f7fw2hm&.tsrc=rss",
+      "id": "28cd5d4ee3e92115",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Says Tesla Will End Cybertruck Production -- Here's Why",
+      "link": "https://www.fool.com/investing/2026/11/08/elon-musk-tesla-end-cybertruck-production-why/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-08T04:08:04+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-11-08T12:53:00+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
-      "id": "dbaca60d6220f401",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet's $15 Billion Investment in Malaysia Data Centers Shows That Midterm Results Won't Stop the AI Boom",
-      "link": "https://www.fool.com/investing/2026/11/07/alphabets-15-billion-investment-in-malaysia-data-c/?.tsrc=rss",
+      "id": "738f7f880307ac76",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla (TSLA) To End Cybertruck Production In 2027 As Cybercab Takes Priority",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-end-cybertruck-production-120904526.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-08T01:20:00+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-11-08T12:09:04+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "1a4b8dc5963366b9",
@@ -68,28 +123,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "582c3c29bfc19f32",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "5 Best Dow Stocks to Buy for 2027",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-dow-stocks-buy-231819373.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T23:18:19+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "d7dfa73180f52ec2",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots.",
-      "link": "https://www.fool.com/investing/2026/11/07/elon-musk-is-winding-down-cybertruck-production-to-build-cybercabs-the-model-s-and-model-x-already-gave-up-their-factory-space-to-robots/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T22:01:02+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "2e0f795803e2a25b",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -101,26 +134,15 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "49e3c72b2ab04105",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Every Humanoid Robot Needs Rare-Earth Magnets. Here's the American Stock Positioned to Sell Them -- and It's Down 62%.",
-      "link": "https://www.fool.com/investing/2026/11/07/every-humanoid-robot-needs-rare-earth-magnets-here/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T17:20:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "11724b9f16196980",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Musk Says His Terafab Chip Plant Could Cost $1 Trillion",
-      "link": "https://247wallst.com/investing/2026/11/07/musk-says-his-terafab-chip-plant-could-cost-1-trillion/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T17:16:41+00:00",
-      "logo": "logos/TSLA.svg"
+      "id": "a6c787704afab03b",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "MarketBeat Week in Review – 11/2",
+      "link": "https://www.marketbeat.com/articles/marketbeat-week-in-review-2026-11-2-11-6/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "11/6",
+      "published": "2026-11-07T12:00:00+00:00",
+      "logo": "logos/CCJ.svg"
     },
     {
       "id": "6a05413c3a97d7dd",
@@ -142,17 +164,6 @@
       "link": "https://finance.yahoo.com/technology/articles/microsoft-msft-pulling-back-key-031936381.html?.tsrc=rss",
       "source": "News",
       "published": "2026-11-07T03:19:36+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "e48109217a089375",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Why Iren Stock Soared Today",
-      "link": "https://www.fool.com/investing/2026/11/06/why-iren-stock-soared-today/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T02:19:12+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -187,17 +198,6 @@
       "source": "News",
       "published": "2026-11-06T15:13:53+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "8b8c0749a4920c89",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "LEU Q3 Earnings Beat Estimates on Warrant Gain, Sales Decline",
-      "link": "https://finance.yahoo.com/energy/articles/leu-q3-earnings-beat-estimates-135700756.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-06T13:57:00+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "709d67badf93d242",
@@ -288,17 +288,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "b0a0970451b077b0",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "TSX brace for data-heavy week as Iran tensions put Fed, BoC rate outlook in focus - Investing.com Canada",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUFozcjIwTjRZSUJkRk9UbEJrUTg1bVZVQkVzeTQ0NXBkVHFsbk9WaHphOHJJUnFpQXdaVExoNGthbmJraV95Zkw0Q3lMSklNS0ZldVgxZ3g5RzZmdjBPS1VJT3E2RkRMbUJmNDQ0c3Z2X2FzdHVHSWhDcUJ5Ulh4Uy1EaEx1dEVVeXlOemxZXzNJLWxnOFhPd3FWWHNWWTB6bVdfRU42bFFuaVE2SUNmYk9vRmZWMFdjdFRBYUdxWUl1LThyaUNqbHFiUTBoNWdq?oc=5",
-      "source": "Investing.com Canada",
-      "published": "2026-11-01T10:52:25+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "efe2d6f74479c97d",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -352,6 +341,17 @@
       "source": "Morningstar",
       "published": "2026-09-21T07:00:00+00:00",
       "logo": "logos/EML.svg"
+    },
+    {
+      "id": "840e86b96b5af965",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BoC and Fed to hike from different starting points - RBC",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLUI1T3FuNG5TTkZ0UWJZNDNCSG5Nc2Q2ZW9FRXZoQjdDZjFvUlJKVm9rNmpmSUFfaWJTaFJjb01EZ21mZFkyYUE1VlFuRXZkWDk5SVVrNGJQNEh5TDdPV1NpLTdYcVNEWHoxNm5OMXNoN3BBcUdXb0JJeFlLS3JYdXNJVUpBYVZCcDhaeDJYazdIeFdzWGhJcXEtV0VvaDhkelhEaEdTNlFJeUdER0Jn?oc=5",
+      "source": "RBC",
+      "published": "2026-09-11T07:00:00+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "100f84de1493c850",
