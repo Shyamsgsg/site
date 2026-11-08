@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-08T00:44:51Z",
+  "updated": "2026-11-08T10:33:26Z",
   "items": [
+    {
+      "id": "eada0f733d261e5e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Ron Baron Has Made $30B Betting On Elon Musk — Now He Sees ‘Hundreds Of Billions’ More Coming From His TSLA, SPCX Investments",
+      "link": "https://stocktwits.com/news-articles/markets/equity/ron-baron-30b-betting-on-elon-musk-hundreds-billions-more-tsla-spcx-merger/cNGoz1vR9It?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T09:56:05+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "80c312b36fc3cb78",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "These AI Stocks To Improve Your Portfolio In November 2026",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-stocks-improve-portfolio-november-051245618.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T05:12:45+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "72bbcfa3d598fde0",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Constellation Energy Just Dropped 17% in a Month. Is It Time to Sell, or Load Up?",
+      "link": "https://www.tikr.com/blog/constellation-energy-just-dropped-17-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261108-8f7fw2hm&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T04:08:04+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "dbaca60d6220f401",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet's $15 Billion Investment in Malaysia Data Centers Shows That Midterm Results Won't Stop the AI Boom",
+      "link": "https://www.fool.com/investing/2026/11/07/alphabets-15-billion-investment-in-malaysia-data-c/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T01:20:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "1a4b8dc5963366b9",
       "ticker": "CCJ",
@@ -46,17 +90,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "c231c87eacdb09f3",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Berkshire Surprised With Record Buybacks, but Pace Slowed as the Stock Rose",
-      "link": "https://finance.yahoo.com/m/0866fd80-5f0e-31ac-8e1b-909adaacfb82/berkshire-surprised-with.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T21:40:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "2e0f795803e2a25b",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -66,28 +99,6 @@
       "source": "News",
       "published": "2026-11-07T21:14:12+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "166ea08107e5e179",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet (GOOGL) Expands SpaceX Stake to $69 Billion and Deepens AI Ties",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-expands-spacex-stake-191144041.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T19:11:44+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "360729d97853a3bc",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Why Billionaire Armitage Trims but Still Keeps Alphabet (GOOGL) as a Core Hyperscaler Exposure",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-billionaire-armitage-trims-still-185518940.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T18:55:18+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "49e3c72b2ab04105",
@@ -112,17 +123,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "c41b3b5e2d347695",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Prediction: Here's What a $1,000 Investment in Rivian Will Be Worth by 2030 if the R2 Ramp Holds",
-      "link": "https://www.fool.com/investing/2026/11/07/prediction-heres-what-a-1000-investment-in-rivian/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T16:35:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "6a05413c3a97d7dd",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -132,17 +132,6 @@
       "source": "News",
       "published": "2026-11-07T10:23:02+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "1679b27bc6b17b31",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC: P4.1M illegal cigarettes seized in Negros Occidental - Inquirer.net",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYlVVVkxUcnVPV1NvNDJwam5TYkg4VUlBNnM3TjJ5Y29PQi1NeXdzWTg0aEE5QUhsWF8zMDM2S2FNSW9ZM2N4Vld4RE5TVVZmc010RlFZOUNrM3htQUZNb0RhTDFOakNvdzJjWUl0ZE5PSWcwSV9QU2hna3BOODVSVFFHc2RhOVlwNVZ6VzRxMkFBVjUxTk9lcU530gGfAUFVX3lxTE9jZl9qSnV4Z3M3X1R2eHhHLU1kUDRVX1VmZUZYdDhyYVRsWUtYS2VwSFNBSkdDa25iMGZzOWttNnNvdkpwNEZqR191dktFa1dQaFdUOFBvb2F6cEs1WklHc1ZhaTBkX09tZWVLblQ1NFF1RGRta1FpcXhfWGhOTFN6NV9pdkRnM2JGQ05DX1NhRUkyVW0yWUM5WmZKZkFKWQ?oc=5",
-      "source": "Inquirer.net",
-      "published": "2026-11-07T07:09:00+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "4a88e25639f9249a",
@@ -209,6 +198,17 @@
       "source": "News",
       "published": "2026-11-06T13:57:00+00:00",
       "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "709d67badf93d242",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Sri Lanka stocks pick up; BOC debenture issue oversubscribed - EconomyNext",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkF6QTBSa2FRTFVBMnRUZ1VJRzRtZ1NlUUJMUFlDdi1iZm9sTGQxcmExaTZxYVZFc0FhTVQ3WGpua08ydkw2RUcwUkNSZHF3TDhKcGRINGdLaW1XR2xaZGxLMWJjcjZNVWFBeXUyRGtqaGI4WTZhbGhpUDVlLWRxTmtZM1Q2WHpRSlVjSHFmUlM5R0RJQ3c?oc=5",
+      "source": "EconomyNext",
+      "published": "2026-11-06T10:21:46+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "ddccd3232280e451",
@@ -321,17 +321,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "05fc5eb6cf4d3592",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Third-quarter results are scheduled after the market closes Nov. 10; the call follows at 9 a.m. ET Nov. 11. - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa200Qi1NVVBsRnFReGd6dHNURWpuMWZvT1h3TEVqb2h3MjFIanA3S0hnczFVY3Y5YkpmbE0tc2E2b3NWRzMtcVhxQWtqTUoxRmlxdmVQWENjQUxNQ0tYVEo4Y29idnBUeGlONy1rSHJmZjFWSzNtaERrUE15QjBEMTl4S2FQOGFZa2N2LVFBTG4wdDI3aW5oVTFtVXNoS0ZSNHFfWE9DNURab2VDVVVHbXFUZzJhUXphalc2ZnlB?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-10-23T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "fe87a991290e7083",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -351,6 +340,17 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
       "source": "Simply Wall St",
       "published": "2026-10-20T07:00:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "8a5da30ec073805f",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
+      "source": "Morningstar",
+      "published": "2026-09-21T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
