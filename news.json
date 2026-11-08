@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-08T17:57:54Z",
+  "updated": "2026-11-08T22:15:10Z",
   "items": [
+    {
+      "id": "a3f6446b7e0f39a7",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "This Is the Best-Performing Magnificent Seven Stock of 2026. Is It Still a Buy?",
+      "link": "https://www.fool.com/investing/2026/11/08/this-is-best-performing-magnificent-seven-stock/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T19:50:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "2540440f6bbb3a40",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Tesla Isn’t a Mag-7 Stock. This Is.",
+      "link": "https://finance.yahoo.com/m/1989a8d6-2668-3d81-b94f-8613123a1e6b/tesla-isn%E2%80%99t-a-mag-7-stock..html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T19:44:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "1cd8f24cb2e69d25",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "What Tenaris (TS) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-tenaris-ts-said-on-its-q3-earnings-call-2026-11-08/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T19:14:23+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "9208a5d86399dead",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Why AI investors may favor established data-center owners",
+      "link": "https://www.thestreet.com/investing/why-ai-investors-may-favor-established-data-center-owners?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T18:55:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "12426414055054a6",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Microsoft Is Reportedly Getting Pickier About AI Data Center Deals. Is the Stock a Buy Now?",
+      "link": "https://www.fool.com/investing/2026/11/08/microsoft-is-reportedly-getting-pickier-about-ai-data-center-deals-is-the-stock-a-buy-now/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T17:58:02+00:00",
+      "logo": "logos/IREN.svg"
+    },
     {
       "id": "2f2086f1f191d680",
       "ticker": "GOOG",
@@ -24,39 +79,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "60e556a7d938efcf",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Anthropic’s $895 Billion AI Gamble Could Become Wall Street’s Next Debt Nightmare",
-      "link": "https://247wallst.com/investing/2026/11/08/anthropics-895-billion-ai-gamble-could-become-wall-streets-next-debt-nightmare/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-08T16:20:41+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "7b8beca65d1d82a6",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Anthropic’s $2.5 Trillion IPO Dream Could Be Heading for a $1 Trillion Reality Check",
-      "link": "https://247wallst.com/investing/2026/11/08/anthropics-2-5-trillion-ipo-dream-could-be-heading-for-a-1-trillion-reality-check/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-08T16:10:55+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "8e7cc7e09bc37a56",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Qualcomm’s Car Chips Grew 89% as Handsets Fell 26%. Is 16.7x Earnings Too Cheap?",
-      "link": "https://www.tikr.com/blog/qualcomms-car-chips-grew-89-as-handsets-fell-26-is-16-7x-earnings-too-cheap?ref=yahoofinance&tlnk=yf-261108-3p86fw4m&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-08T15:59:59+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "29dc4a0718fbdce8",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -68,36 +90,25 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "64c259f3c2a467fb",
+      "id": "7828276d5104c51b",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Cathie Wood Sees Tesla’s Robotaxi Business Taking Off — Says This Is The Moment Investors Have Waited For",
-      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-tesla-robotaxi-business-escape-velocity-investors-waiting-for/cNGYPoVR9IH?.tsrc=rss",
+      "title": "How to Play SpaceX Stock after Democrats Sweep Midterm Elections",
+      "link": "https://www.barchart.com/story/news/8724518/how-to-play-spacex-stock-after-democrats-sweep-midterm-elections?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-08T13:09:30+00:00",
+      "published": "2026-11-08T14:20:59+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "28cd5d4ee3e92115",
+      "id": "da3a50aaeca54806",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Elon Musk Says Tesla Will End Cybertruck Production -- Here's Why",
-      "link": "https://www.fool.com/investing/2026/11/08/elon-musk-tesla-end-cybertruck-production-why/?.tsrc=rss",
+      "title": "It’s Game Over for DJT Stock as Trump Becomes a Lame-Duck President Following Midterm Losses",
+      "link": "https://www.barchart.com/story/news/8724309/its-game-over-for-djt-stock-as-trump-becomes-a-lame-duck-president-following-midterm-losses?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-08T12:53:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "738f7f880307ac76",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla (TSLA) To End Cybertruck Production In 2027 As Cybercab Takes Priority",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-end-cybertruck-production-120904526.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-08T12:09:04+00:00",
+      "published": "2026-11-08T13:27:32+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -154,17 +165,6 @@
       "source": "News",
       "published": "2026-11-07T10:23:02+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "4a88e25639f9249a",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Microsoft (MSFT) Is Pulling Back From Key Neocloud Data Center Deals",
-      "link": "https://finance.yahoo.com/technology/articles/microsoft-msft-pulling-back-key-031936381.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T03:19:36+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "c946edd95f9c273b",
