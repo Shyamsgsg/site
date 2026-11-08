@@ -1,6 +1,83 @@
 {
-  "updated": "2026-11-07T19:29:03Z",
+  "updated": "2026-11-08T00:44:51Z",
   "items": [
+    {
+      "id": "1a4b8dc5963366b9",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "AtkinsRéalis Group And 2 Canadian Nuclear Stocks To Own",
+      "link": "https://finance.yahoo.com/energy/articles/atkinsr-alis-group-2-canadian-002032927.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T00:20:32+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "bf77871dccf15a94",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Record Revenue, 52-Week Lows: Is the Massive Selloff in IREN Stock a Gift?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/record-revenue-52-week-lows-232539659.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-07T23:25:39+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "582c3c29bfc19f32",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "5 Best Dow Stocks to Buy for 2027",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-dow-stocks-buy-231819373.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-07T23:18:19+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d7dfa73180f52ec2",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots.",
+      "link": "https://www.fool.com/investing/2026/11/07/elon-musk-is-winding-down-cybertruck-production-to-build-cybercabs-the-model-s-and-model-x-already-gave-up-their-factory-space-to-robots/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-07T22:01:02+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c231c87eacdb09f3",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Berkshire Surprised With Record Buybacks, but Pace Slowed as the Stock Rose",
+      "link": "https://finance.yahoo.com/m/0866fd80-5f0e-31ac-8e1b-909adaacfb82/berkshire-surprised-with.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-07T21:40:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "2e0f795803e2a25b",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-blue-owl-technology-finance-otf-said-on-its-q3-earnings-call-2026-11-07/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-07T21:14:12+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "166ea08107e5e179",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet (GOOGL) Expands SpaceX Stake to $69 Billion and Deepens AI Ties",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-expands-spacex-stake-191144041.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-07T19:11:44+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "360729d97853a3bc",
       "ticker": "GOOG",
@@ -10,17 +87,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-billionaire-armitage-trims-still-185518940.html?.tsrc=rss",
       "source": "News",
       "published": "2026-11-07T18:55:18+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "ed3487e9a1d3ba04",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Micron and Sandisk Lead the Memory Market. 1 Stock Has Far Greater Upside.",
-      "link": "https://www.fool.com/investing/2026/11/07/micron-and-sandisk-lead-the-memory-market-1-stock/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T17:50:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -46,28 +112,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "f718e4da5ccc39f7",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
-      "link": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T17:01:03+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "4e9d8539aa0299ec",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "AST SpaceMobile Is Building Its Own Reusable Rocket to Rely Less on SpaceX",
-      "link": "https://247wallst.com/investing/2026/11/07/ast-spacemobile-is-building-its-own-reusable-rocket-to-rely-less-on-spacex/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T16:49:42+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "c41b3b5e2d347695",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -76,17 +120,6 @@
       "link": "https://www.fool.com/investing/2026/11/07/prediction-heres-what-a-1000-investment-in-rivian/?.tsrc=rss",
       "source": "News",
       "published": "2026-11-07T16:35:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "458c933aea027126",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk reacts to Democrat call for AI pause — while $2T vanishes from tech stocks. Are you exposed?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-reacts-democrat-call-153500258.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T15:35:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -134,28 +167,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "afa09e808a13444c",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN (IREN) Stock Price Rallies As Q1 Results Spotlight AI Margins",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-stock-price-rallies-021423209.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T02:14:23+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "48b203b9dd915372",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Ltd. (IREN) Cuts Net Losses by 61%, Shares Climb 20%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-ltd-iren-cuts-net-014345470.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T01:43:45+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "c946edd95f9c273b",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -197,17 +208,6 @@
       "link": "https://finance.yahoo.com/energy/articles/leu-q3-earnings-beat-estimates-135700756.html?.tsrc=rss",
       "source": "News",
       "published": "2026-11-06T13:57:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "620099ca8b30fd34",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco Reports Document Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-reports-document-filing-011800464.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-06T01:18:00+00:00",
       "logo": "logos/CCJ.svg"
     },
     {
