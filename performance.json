@@ -383,15 +383,15 @@
   },
   {
    "date": "2026-11-09",
-   "index": 91.510559,
+   "index": 91.589619,
    "spx": 7376.86,
-   "audusd": 0.6894,
-   "usdsgd": 1.2815,
+   "audusd": 0.6898,
+   "usdsgd": 1.2799,
    "prices": {
     "NU": 12.03,
     "BOC.AX": 0.16,
-    "EML.AX": 0.307,
-    "GTK.AX": 3.5,
+    "EML.AX": 0.31,
+    "GTK.AX": 3.49,
     "ONON": 37.36,
     "IREN": 21.64,
     "CCJ": 71.3,
@@ -400,6 +400,6 @@
    }
   }
  ],
- "updated": "2026-11-09T03:50:58+00:00",
+ "updated": "2026-11-09T12:22:51+00:00",
  "method": "Time-weighted, chain-linked daily index (base 100 at inception close). USD, equities only."
 }
