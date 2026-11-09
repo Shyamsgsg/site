@@ -1,27 +1,192 @@
 {
-  "updated": "2026-11-09T06:49:46Z",
+  "updated": "2026-11-09T19:54:06Z",
   "items": [
     {
-      "id": "75639b54a94b4d5f",
+      "id": "fce9cc85a741e0a7",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Semiconductor Crash: 2 AI Chip Stocks That Could Help Make You a Fortune Following the Pullback",
-      "link": "https://www.fool.com/investing/2026/11/09/semiconductor-crash-2-ai-chip-stocks-that-could-he/?.tsrc=rss",
+      "title": "Reindeer Launches on Google Cloud Marketplace, Expanding Collaboration with Google Cloud to Help Enterprises Move Agentic AI into Core Operations",
+      "link": "https://finance.yahoo.com/technology/ai/articles/reindeer-launches-google-cloud-marketplace-194200052.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-09T06:20:00+00:00",
+      "published": "2026-11-09T19:42:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "a1ca5aeca4bb4a90",
+      "id": "760eb9243e90ac51",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Ross Gerber Says Tesla's 'Good Old Days' Ended When Elon Musk Started Selling Shares to Buy Twitter",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-says-teslas-good-023005546.html?.tsrc=rss",
+      "title": "Elon Musk's Cybertruck pivot highlights the founder-CEO advantage",
+      "link": "https://finance.yahoo.com/video/elon-musks-cybertruck-pivot-highlights-the-founder-ceo-advantage-194117350.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-09T02:30:05+00:00",
+      "published": "2026-11-09T19:41:17+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ebf8854a94c8a00e",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "ARK Invest Dumps These Shares While They're Hot, Buys Chips The Size Of Your Face",
+      "link": "https://finance.yahoo.com/m/d8569aae-2d5d-3e7e-84aa-eaa29f9f5bbb/ark-invest-dumps-these-shares.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T19:29:22+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "92b0994d85ea6db7",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "AMD Lands Key Role in Google's New AI Chip System as Nvidia Rivalry Intensifies",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63061050/amd-google-tpu?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T19:16:48+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "25c564700acfaeff",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Rises 5% Despite Musk’s Cybertruck Refund Warning, Lucid Jumps 8% Ahead of Earnings; Rivian Climbs 2%",
+      "link": "https://247wallst.com/investing/2026/11/09/tesla-rises-5-despite-musks-cybertruck-refund-warning-lucid-jumps-8-ahead-of-earnings-rivian-climbs-2/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T19:04:34+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "04eddf5d4596197e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Nvidia $5T CEO scandal, AI legislation headaches, and Tesla returns deposits for Cybertrucks",
+      "link": "https://finance.yahoo.com/video/nvidia-5t-ceo-scandal-ai-legislation-headaches-and-tesla-returns-deposits-for-cybertrucks-184342686.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T18:43:42+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "da7acf601fed28a3",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Soars 5% as Robotaxi Reaches San Antonio and Cybertruck Order Rate “Far Exceeds” Production",
+      "link": "https://www.tikr.com/blog/tesla-soars-5-as-robotaxi-reaches-san-antonio-and-cybertruck-order-rate-far-exceeds-production?ref=yahoofinance&tlnk=yf-261109-j3qfprqh&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T18:31:59+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "8d383fd0b2de503c",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CoreWeave Rises 5%, Nebius Up 7% as AI Stocks Rebound Ahead of Earnings: “Levered Trades to AI”",
+      "link": "https://www.tikr.com/blog/coreweave-rises-5-nebius-up-7-as-ai-stocks-rebound-ahead-of-earnings-levered-trades-to-ai?ref=yahoofinance&tlnk=yf-261109-899fm45r&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T18:28:25+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "ad116fc8921a39d2",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google Pushes New AI Chips. Why There Could Be an Opening.",
+      "link": "https://finance.yahoo.com/m/aa83a388-03db-3261-b9cb-d78a2ee4f35f/google-pushes-new-ai-chips..html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T18:28:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "1993b3cc2bcc47fa",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Why Is IREN (IREN) Exiting Bitcoin Mining To Focus On AI Infrastructure?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/why-iren-iren-exiting-bitcoin-180842605.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T18:08:42+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "447ca93a333ed626",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Cloudflare Jumps 11%, Nebius Surges 9% as AI Cloud Stocks Defy NVIDIA’s Slide; CoreWeave Rallies 6% on Wayve Deal",
+      "link": "https://247wallst.com/investing/2026/11/09/cloudflare-jumps-11-nebius-surges-9-as-ai-cloud-stocks-defy-nvidias-slide-coreweave-rallies-6-on-wayve-deal/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T17:55:11+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "e0b69afd07e5f5e3",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN (IREN) Could Be 70% Undervalued On Strong Q1 AI Cloud Revenue",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-could-70-undervalued-172050899.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T17:20:50+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "bd24d7eb7ae628ce",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "UUUU Q3 Earnings Miss on Investment Losses, Uranium Sales Rise",
+      "link": "https://finance.yahoo.com/energy/articles/uuuu-q3-earnings-miss-investment-142200932.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T14:22:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "7108bdfcc20cd1de",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Latest News In Digital Payment",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/latest-news-digital-payment-malaysian-123745323.html?.tsrc=rss",
+      "source": "Malaysian Fintech Surge Driven By Digital Innovation",
+      "published": "2026-11-09T12:37:45+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "5cea7b93302777ce",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Option Volatility and Earnings Report For Nov 9-13",
+      "link": "https://www.barchart.com/story/news/8731811/option-volatility-and-earnings-report-for-nov-9-13?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T12:00:04+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "dd1cfb6459345199",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Hong Kong Sets Risk Committee Oversight Mandate - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUhEczYwX28tWktoWi1QbFhNTnc0RUc4X29NUUdSYk0xRjFfd3g3ZldoV2t4NkpfbW5EYTloaTFGUFVOSlEtTUx0Z2RVcUR2bTEyRDNhajVhc2VSMTh2ai1BcnU3b1FjaS1nekF2anN5cUt3WUV5ZEFzeVA2amNBZ09iSHhTcy1FdTNPMjlRa1NXYTlmdUVCeTJPa2MwUjlFX0VId1dn?oc=5",
+      "source": "TipRanks",
+      "published": "2026-11-09T11:09:07+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "62bee14196970bcd",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings (NU) After The Pullback Is It A Bargain Or Fairly Priced",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-pullback-bargain-080815395.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T08:08:15+00:00",
+      "logo": "logos/NU.svg"
     },
     {
       "id": "c8c1727b6ead21ae",
@@ -35,28 +200,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "26d03e562ba57b95",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "5 Stocks I am Retiring On",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-am-retiring-004943035.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-09T00:49:43+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "a35d2a5c3b01ee7c",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Bloom Energy Stock Fell 16% on the Same Day 2 Giant Data Center Deals Named It. Is It a Buy?",
-      "link": "https://www.fool.com/investing/2026/11/08/bloom-energy-stock-fell-16-on-the-same-day-2-giant-data-center-deals-named-it-is-it-a-buy/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-09T00:36:02+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "f34ad462af2fee70",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -66,28 +209,6 @@
       "source": "ad-hoc-news.de",
       "published": "2026-11-09T00:15:12+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "b61efa59a41a955d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Cathie Wood buys $17.2 million of tumbling tech stock",
-      "link": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-17-2-million-of-tumbling-tech-stock-alphabet-googl?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-09T00:06:40+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c8185891887570f4",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Here's What a $1,000 Investment in Tesla Stock Could Be Worth in 5 Years",
-      "link": "https://www.fool.com/investing/2026/11/08/heres-what-a-1000-investment-in-tesla-stock-could/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-08T23:20:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "6354acca7c3fa585",
@@ -101,50 +222,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "2b7d107cb1e5d7a2",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Bulls Could Get Burned? Gary Black Sees Trouble With SpaceX All-Stock Merger: Warns 24% Premium 'Can Quickly Go Negative'",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-bulls-could-burned-gary-223005762.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-08T22:30:05+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "807123a7ae7536b5",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Mark Cuban Says Elon Musk Is Amazing and the ‘Best Entrepreneur of Our Lifetime,’ But He’s a Salesman — ‘He’s Gotta Sell What He’s Got to Sell’",
-      "link": "https://finance.yahoo.com/small-business/articles/mark-cuban-says-elon-musk-213006371.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-08T21:30:06+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "12426414055054a6",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Microsoft Is Reportedly Getting Pickier About AI Data Center Deals. Is the Stock a Buy Now?",
-      "link": "https://www.fool.com/investing/2026/11/08/microsoft-is-reportedly-getting-pickier-about-ai-data-center-deals-is-the-stock-a-buy-now/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-08T17:58:02+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "0429c7559b734750",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Is America’s AI Data Center Boom About to Hit a Brick Wall?",
-      "link": "https://247wallst.com/investing/2026/11/08/is-americas-ai-data-center-boom-about-to-hit-a-brick-wall/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-08T16:34:58+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "1a4b8dc5963366b9",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -156,28 +233,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "bf77871dccf15a94",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Record Revenue, 52-Week Lows: Is the Massive Selloff in IREN Stock a Gift?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/record-revenue-52-week-lows-232539659.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T23:25:39+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "2e0f795803e2a25b",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "What Blue Owl Technology Finance (OTF) Said on Its Q3 Earnings Call",
-      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-blue-owl-technology-finance-otf-said-on-its-q3-earnings-call-2026-11-07/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T21:14:12+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "a6c787704afab03b",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -186,17 +241,6 @@
       "link": "https://www.marketbeat.com/articles/marketbeat-week-in-review-2026-11-2-11-6/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "source": "11/6",
       "published": "2026-11-07T12:00:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "6a05413c3a97d7dd",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "A $120 Billion Westinghouse Reactor Plan Is Taking Shape. Here’s What History Says Happened the Last Time the U.S. Built Them.",
-      "link": "https://www.fool.com/investing/2026/11/07/a-usd120-billion-westinghouse-reactor-plan-is-taking-shape-here-s-what-history-says-happened-the-last-time-the-u-s-built-them/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-07T10:23:02+00:00",
       "logo": "logos/CCJ.svg"
     },
     {
@@ -222,37 +266,15 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "ddccd3232280e451",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings Ltd. (NU) Stock Moves -2.09%: What You Should Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-nu-stock-214502337.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T21:45:02+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "a3aadc8e072c82d5",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "MercadoLibre Sinks 9% on Profit Miss, Calls Shipping Margin Squeeze “The Price of the Habit”",
-      "link": "https://www.tikr.com/blog/mercadolibre-sinks-9-on-profit-miss-calls-shipping-margin-squeeze-the-price-of-the-habit?ref=yahoofinance&tlnk=yf-261105-g46cf4vw&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T14:33:03+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "5e3ba6f82ff0082b",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings Ltd. (NU) Earnings Expected to Grow: What to Know Ahead of Q3 Release",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-nu-earnings-140006692.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-05T14:00:06+00:00",
-      "logo": "logos/NU.svg"
+      "id": "8efcc3ead6afa6d2",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Eml Payments Stock Price Forecast. Should You Buy EML.AX? - StockInvest.us",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1ZXNkWk9HdmI5dTVjQlJGTG9WNjlhUW1NbzJIejVHWEhhc0p5QkNKV1RrUnVMd25EVWNMcnVnOGhmNVo4a21nSHRMUQ?oc=5",
+      "source": "StockInvest.us",
+      "published": "2026-11-06T07:50:45+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "2a668c17b1ea2374",
@@ -330,28 +352,6 @@
       "source": "Simply Wall St",
       "published": "2026-10-20T07:00:00+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "8a5da30ec073805f",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
-      "source": "Morningstar",
-      "published": "2026-09-21T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "840e86b96b5af965",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BoC and Fed to hike from different starting points - RBC",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLUI1T3FuNG5TTkZ0UWJZNDNCSG5Nc2Q2ZW9FRXZoQjdDZjFvUlJKVm9rNmpmSUFfaWJTaFJjb01EZ21mZFkyYUE1VlFuRXZkWDk5SVVrNGJQNEh5TDdPV1NpLTdYcVNEWHoxNm5OMXNoN3BBcUdXb0JJeFlLS3JYdXNJVUpBYVZCcDhaeDJYazdIeFdzWGhJcXEtV0VvaDhkelhEaEdTNlFJeUdER0Jn?oc=5",
-      "source": "RBC",
-      "published": "2026-09-11T07:00:00+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "100f84de1493c850",
