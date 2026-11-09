@@ -1,49 +1,126 @@
 {
-  "updated": "2026-11-08T22:15:10Z",
+  "updated": "2026-11-09T06:49:46Z",
   "items": [
     {
-      "id": "a3f6446b7e0f39a7",
+      "id": "75639b54a94b4d5f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Semiconductor Crash: 2 AI Chip Stocks That Could Help Make You a Fortune Following the Pullback",
+      "link": "https://www.fool.com/investing/2026/11/09/semiconductor-crash-2-ai-chip-stocks-that-could-he/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T06:20:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a1ca5aeca4bb4a90",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "This Is the Best-Performing Magnificent Seven Stock of 2026. Is It Still a Buy?",
-      "link": "https://www.fool.com/investing/2026/11/08/this-is-best-performing-magnificent-seven-stock/?.tsrc=rss",
+      "title": "Ross Gerber Says Tesla's 'Good Old Days' Ended When Elon Musk Started Selling Shares to Buy Twitter",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-says-teslas-good-023005546.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-08T19:50:00+00:00",
+      "published": "2026-11-09T02:30:05+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "2540440f6bbb3a40",
+      "id": "c8c1727b6ead21ae",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "Lululemon Athletica vs. On: Which Consumer Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/08/lululemon-athletica-vs-on-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T02:15:02+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "26d03e562ba57b95",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Tesla Isn’t a Mag-7 Stock. This Is.",
-      "link": "https://finance.yahoo.com/m/1989a8d6-2668-3d81-b94f-8613123a1e6b/tesla-isn%E2%80%99t-a-mag-7-stock..html?.tsrc=rss",
+      "title": "5 Stocks I am Retiring On",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-am-retiring-004943035.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-08T19:44:00+00:00",
+      "published": "2026-11-09T00:49:43+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "1cd8f24cb2e69d25",
+      "id": "a35d2a5c3b01ee7c",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "What Tenaris (TS) Said on Its Q3 Earnings Call",
-      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-tenaris-ts-said-on-its-q3-earnings-call-2026-11-08/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "title": "Bloom Energy Stock Fell 16% on the Same Day 2 Giant Data Center Deals Named It. Is It a Buy?",
+      "link": "https://www.fool.com/investing/2026/11/08/bloom-energy-stock-fell-16-on-the-same-day-2-giant-data-center-deals-named-it-is-it-a-buy/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-08T19:14:23+00:00",
+      "published": "2026-11-09T00:36:02+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "9208a5d86399dead",
+      "id": "f34ad462af2fee70",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Kenya stock: 2026 dividends reach KSh 14.35 per share - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWRQMUlpU0Y3a2ZQdXhiUjZwTExjZlpqczhnTzdiemY1d3BlNUpoSDZOc1VHOWp3TUhVdy14V0JGam4ySlpvUGZ6ME1vRE1DdGJ2djBwejRxYkNrM0FycXRPcEk5aVFsX09rQ2R3a1RDN3BWSjBTNDBMVzlXaE05ak1KYUR4S1M3cGpnZUxfTTdhbXg2NEc0b2FuVlB1LWlVOURVRDRxb1FWYWhuY1BhN0dhWG1VUQ?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-11-09T00:15:12+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "b61efa59a41a955d",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Why AI investors may favor established data-center owners",
-      "link": "https://www.thestreet.com/investing/why-ai-investors-may-favor-established-data-center-owners?.tsrc=rss",
+      "title": "Cathie Wood buys $17.2 million of tumbling tech stock",
+      "link": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-17-2-million-of-tumbling-tech-stock-alphabet-googl?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-08T18:55:00+00:00",
+      "published": "2026-11-09T00:06:40+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "c8185891887570f4",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Here's What a $1,000 Investment in Tesla Stock Could Be Worth in 5 Years",
+      "link": "https://www.fool.com/investing/2026/11/08/heres-what-a-1000-investment-in-tesla-stock-could/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T23:20:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "6354acca7c3fa585",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "What Energy Fuels (EFR) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-energy-fuels-efr-said-on-its-q3-earnings-call-2026-11-08/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T23:14:18+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "2b7d107cb1e5d7a2",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Bulls Could Get Burned? Gary Black Sees Trouble With SpaceX All-Stock Merger: Warns 24% Premium 'Can Quickly Go Negative'",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-bulls-could-burned-gary-223005762.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T22:30:05+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "807123a7ae7536b5",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Mark Cuban Says Elon Musk Is Amazing and the ‘Best Entrepreneur of Our Lifetime,’ But He’s a Salesman — ‘He’s Gotta Sell What He’s Got to Sell’",
+      "link": "https://finance.yahoo.com/small-business/articles/mark-cuban-says-elon-musk-213006371.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-08T21:30:06+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "12426414055054a6",
@@ -57,17 +134,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "2f2086f1f191d680",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "How sustainable is the AI investment boom after Thursday’s selloff?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/sustainable-ai-investment-boom-thursday-164711242.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-08T16:47:11+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "0429c7559b734750",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -77,39 +143,6 @@
       "source": "News",
       "published": "2026-11-08T16:34:58+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "29dc4a0718fbdce8",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla's FSD (Supervised) Attach Rate Hit 75% on New Vehicles. Here's Why That Single Number Could Matter More Than Robotaxi for the Stock in 2027.",
-      "link": "https://www.fool.com/investing/2026/11/08/teslas-fsd-supervised-attach-rate-hit-75-on-new-ve/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-08T15:10:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "7828276d5104c51b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "How to Play SpaceX Stock after Democrats Sweep Midterm Elections",
-      "link": "https://www.barchart.com/story/news/8724518/how-to-play-spacex-stock-after-democrats-sweep-midterm-elections?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-08T14:20:59+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "da3a50aaeca54806",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "It’s Game Over for DJT Stock as Trump Becomes a Lame-Duck President Following Midterm Losses",
-      "link": "https://www.barchart.com/story/news/8724309/its-game-over-for-djt-stock-as-trump-becomes-a-lame-duck-president-following-midterm-losses?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-08T13:27:32+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "1a4b8dc5963366b9",
@@ -167,17 +200,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "c946edd95f9c273b",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "NuScale: We’re “Not Reliant on Data Centers”",
-      "link": "https://www.tikr.com/blog/nuscale-were-not-reliant-on-data-centers?ref=yahoofinance&tlnk=yf-261106-qxv829f7&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-06T20:14:21+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "84a19123241a7bcd",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -198,17 +220,6 @@
       "source": "News",
       "published": "2026-11-06T15:13:53+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "709d67badf93d242",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Sri Lanka stocks pick up; BOC debenture issue oversubscribed - EconomyNext",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkF6QTBSa2FRTFVBMnRUZ1VJRzRtZ1NlUUJMUFlDdi1iZm9sTGQxcmExaTZxYVZFc0FhTVQ3WGpua08ydkw2RUcwUkNSZHF3TDhKcGRINGdLaW1XR2xaZGxLMWJjcjZNVWFBeXUyRGtqaGI4WTZhbGhpUDVlLWRxTmtZM1Q2WHpRSlVjSHFmUlM5R0RJQ3c?oc=5",
-      "source": "EconomyNext",
-      "published": "2026-11-06T10:21:46+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "ddccd3232280e451",
@@ -274,17 +285,6 @@
       "link": "https://www.proactiveinvestors.com/companies/news/1101247/on-holding-gets-ubs-backing-despite-muted-earnings-expectations-1101247.html?.tsrc=rss",
       "source": "News",
       "published": "2026-11-04T19:02:00+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "00277848bc2ed1ea",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "Nike Climbs 7% as Dow Rally Lifts Consumer Stocks; Deckers Gains 7%, Lululemon Rises 6%",
-      "link": "https://247wallst.com/investing/2026/11/04/nike-climbs-7-as-dow-rally-lifts-consumer-stocks-deckers-gains-7-lululemon-rises-6/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T17:57:41+00:00",
       "logo": "logos/ONON.svg"
     },
     {
