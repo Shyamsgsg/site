@@ -1,82 +1,137 @@
 {
-  "updated": "2026-11-09T19:54:06Z",
+  "updated": "2026-11-10T03:38:18Z",
   "items": [
     {
-      "id": "fce9cc85a741e0a7",
+      "id": "72c5e41bd61faffd",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "Dutch Bros vs. On: Which Stock Is a Better Buy?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/09/dutch-bros-vs-on-which-stock-is-a-better-buy/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T03:20:02+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "f2c56c5a3a54ca40",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Reindeer Launches on Google Cloud Marketplace, Expanding Collaboration with Google Cloud to Help Enterprises Move Agentic AI into Core Operations",
-      "link": "https://finance.yahoo.com/technology/ai/articles/reindeer-launches-google-cloud-marketplace-194200052.html?.tsrc=rss",
+      "title": "Anthropic's S-1 Says It Will Expand Its Data Center Footprint. Here's Who Could Pour the Concrete, Wire the Power, and Cool the Chips.",
+      "link": "https://www.fool.com/investing/2026/11/09/anthropics-s-1-says-it-will-expand-its-data-center/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-09T19:42:00+00:00",
+      "published": "2026-11-10T03:14:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "760eb9243e90ac51",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk's Cybertruck pivot highlights the founder-CEO advantage",
-      "link": "https://finance.yahoo.com/video/elon-musks-cybertruck-pivot-highlights-the-founder-ceo-advantage-194117350.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-09T19:41:17+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "ebf8854a94c8a00e",
+      "id": "9a85ae8d55713979",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "ARK Invest Dumps These Shares While They're Hot, Buys Chips The Size Of Your Face",
-      "link": "https://finance.yahoo.com/m/d8569aae-2d5d-3e7e-84aa-eaa29f9f5bbb/ark-invest-dumps-these-shares.html?.tsrc=rss",
+      "title": "If I Could Buy Just 1 Stock in November and Hold for 5 Years, It Would Be Alphabet",
+      "link": "https://www.fool.com/investing/2026/11/09/if-i-could-buy-just-1-stock-in-november-and-hold-f/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-09T19:29:22+00:00",
+      "published": "2026-11-10T02:50:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "92b0994d85ea6db7",
+      "id": "77ffa1bce9ca7bea",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next",
+      "link": "https://finance.yahoo.com/m/db2f6d95-b7a5-3274-8193-c767d2b681c1/dow-jones-soars-1%2C132-points.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T02:31:48+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "57d101ac528c8a17",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "AMD Lands Key Role in Google's New AI Chip System as Nvidia Rivalry Intensifies",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63061050/amd-google-tpu?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "title": "Is Wall Street Turning on AI?",
+      "link": "https://www.fool.com/investing/2026/11/09/is-wall-street-turning-on-ai/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-09T19:16:48+00:00",
+      "published": "2026-11-10T01:53:01+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "25c564700acfaeff",
+      "id": "d84230bd50080f2f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "ASTS Stock Retreats On Q3 Sales Miss – But AST SpaceMobile’s $1B Revenue Opportunity, AI Partnerships Keep Growth In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/asts-q3-sales-miss-1b-revenue-opportunity-ai-partnerships-growth-focus/cNGuGazR97f?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T01:30:23+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "b8842982c9c8aae4",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "3 Canadian Growth Stocks To Own In November 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-own-001900465.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T00:19:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "b8066b259046d395",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla Rises 5% Despite Musk’s Cybertruck Refund Warning, Lucid Jumps 8% Ahead of Earnings; Rivian Climbs 2%",
-      "link": "https://247wallst.com/investing/2026/11/09/tesla-rises-5-despite-musks-cybertruck-refund-warning-lucid-jumps-8-ahead-of-earnings-rivian-climbs-2/?.tsrc=rss",
+      "title": "How much of Elon Musk’s wealth is in Tesla & SpaceX stock?",
+      "link": "https://www.thestreet.com/personalities/how-much-of-elon-musks-wealth-is-in-tesla-and-spacex-stock?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-09T19:04:34+00:00",
+      "published": "2026-11-10T00:05:37+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "04eddf5d4596197e",
+      "id": "3b3f2fc470646e83",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Nvidia $5T CEO scandal, AI legislation headaches, and Tesla returns deposits for Cybertrucks",
-      "link": "https://finance.yahoo.com/video/nvidia-5t-ceo-scandal-ai-legislation-headaches-and-tesla-returns-deposits-for-cybertrucks-184342686.html?.tsrc=rss",
+      "title": "Securitize to Acquire River One, Expanding Into $6 Trillion Asset-Backed Finance Market",
+      "link": "https://www.cryptoprowl.com/releases/securitize-to-acquire-river-one-expanding-into-6-trillion-asset-backed-finance-market-7783?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-09T18:43:42+00:00",
+      "published": "2026-11-09T23:31:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "da7acf601fed28a3",
+      "id": "fabfdd37b629c136",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla Soars 5% as Robotaxi Reaches San Antonio and Cybertruck Order Rate “Far Exceeds” Production",
-      "link": "https://www.tikr.com/blog/tesla-soars-5-as-robotaxi-reaches-san-antonio-and-cybertruck-order-rate-far-exceeds-production?ref=yahoofinance&tlnk=yf-261109-j3qfprqh&.tsrc=rss",
+      "title": "Elon Musk says Tesla must refund Cybertruck deposits to ‘a lot of people’; he touted 250K reservations back in 2019",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-tesla-must-231500059.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-09T18:31:59+00:00",
+      "published": "2026-11-09T23:15:00+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "0b7c42d82ff99660",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Kemper (KMPR) Q3 Earnings Beat Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kemper-kmpr-q3-earnings-beat-223505638.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T22:35:05+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "3e8b0fe1104cace0",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Could IREN Actually Climb 117%? Or Is Cantor Fitzgerald Totally Wrong?",
+      "link": "https://www.tikr.com/blog/could-iren-actually-climb-117-or-is-cantor-fitzgerald-totally-wrong?ref=yahoofinance&tlnk=yf-261109-4cgmr9mq&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-09T21:06:08+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "8d383fd0b2de503c",
@@ -88,17 +143,6 @@
       "source": "News",
       "published": "2026-11-09T18:28:25+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "ad116fc8921a39d2",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google Pushes New AI Chips. Why There Could Be an Opening.",
-      "link": "https://finance.yahoo.com/m/aa83a388-03db-3261-b9cb-d78a2ee4f35f/google-pushes-new-ai-chips..html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-09T18:28:00+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "1993b3cc2bcc47fa",
@@ -120,17 +164,6 @@
       "link": "https://247wallst.com/investing/2026/11/09/cloudflare-jumps-11-nebius-surges-9-as-ai-cloud-stocks-defy-nvidias-slide-coreweave-rallies-6-on-wayve-deal/?.tsrc=rss",
       "source": "News",
       "published": "2026-11-09T17:55:11+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "e0b69afd07e5f5e3",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN (IREN) Could Be 70% Undervalued On Strong Q1 AI Cloud Revenue",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-could-70-undervalued-172050899.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-09T17:20:50+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -233,17 +266,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "a6c787704afab03b",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "MarketBeat Week in Review – 11/2",
-      "link": "https://www.marketbeat.com/articles/marketbeat-week-in-review-2026-11-2-11-6/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "11/6",
-      "published": "2026-11-07T12:00:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "84a19123241a7bcd",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -253,17 +275,6 @@
       "source": "News",
       "published": "2026-11-06T16:13:56+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "0540866784ee114b",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Brady And 2 More High Growth Stocks To Watch",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/brady-2-more-high-growth-151353142.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-06T15:13:53+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "8efcc3ead6afa6d2",
@@ -299,15 +310,15 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "62ed01b463f2ccf0",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "ON Holding gets UBS backing despite muted earnings expectations",
-      "link": "https://www.proactiveinvestors.com/companies/news/1101247/on-holding-gets-ubs-backing-despite-muted-earnings-expectations-1101247.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-04T19:02:00+00:00",
-      "logo": "logos/ONON.svg"
+      "id": "a23978381bd8e615",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Bougainville Copper Ltd (BOC) Stock Forecast & Analyst Ratings - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQWURTSlllZ2llUi10VnExdTFlMDRYd1Z1MXgySFhzbHFvdEVKNzNzdWYwWWZPM0ZxaTZuc3FKQk8zRHBycmxqd3Njb1h5UE5aTk9HcWQzMk5fRGVWenJQeF81aFdNWGVob0U3VlFrbU5CTVhhVzdQZHRHRDFzblFib2VTMTZHcUpQd2FZLUdOekN5U1FjNnVUeUpRNjBicVhJWTBKeGhkSzRkMjVfd3BTeFB6VHMzSkRTV1J0emlFSi1tSk1ERVN6Mk9heVdRUnYteF9xaWNBRlFYZnpZY1BDWVdxbnJYNXBmTzNRTE1tRnNiMWZ3UmpMdFFGdUxCcWV2VmdHcl9FN2F5M2I2VVgwLUE5MER4XzYzT1otb29kNG5pMXdBY3JLdGJ3TUY4RmxrMm5wdXZvblhjdw?oc=5",
+      "source": "Moomoo",
+      "published": "2026-11-02T12:45:48+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "efe2d6f74479c97d",
@@ -318,17 +329,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXp2ZXBKSmk2aGxSOFk2U3NKYWtPbGlUMjRsdEUtbVJZeWN3R3lkZ1NReTBRNFZqdU5EODRPbWFQQjdLTUJaUjBoc3o0OUlLNGpiemFtdkh5TmIzT1hBM284Y2JJTVBKcDVLdTkzZWpYcEk3cHFiVTlQbzVrVFFMOU91MTR2MXdOVGU4SGRmSUllMWR6bjJTNEhLR1hmNDRjNFhYckFHLWlkOUZYNXBQSS04ZWs3ZGxXZ2hrbUlhWVZDTGY1SXU0Sm9PVFRzdw?oc=5",
       "source": "Kalkine",
       "published": "2026-10-27T05:28:00+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "690ab8865b462f4c",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "After selling an insurance business, Boston Omaha keeps 2.67 million Sky Harbour shares. - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYU1WQnI4TUIwOHJZN25NZXNkd0VYR2lmR2xGSG5IQktoV0Y1M0FSdWNZc3RxR3VBLUVKMGh0U0hxSGNrRVBNYWZiUDRuWFZiOTZmU1ZOMWpUT3lsNExDU0xoMy00X0toalZOVXpINzc2NHV5Qlp3NnZtXzdObnp0YnlTN0ZWa0JZNHJiQzR0dXNnbEZEbHBtT2F4QS1uZ0wwc0lWLUVZWEc4UUk3MVhkMm5oX3ZTVlJS?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-10-26T07:00:00+00:00",
       "logo": "logos/BOC.svg"
     },
     {
