@@ -1,82 +1,192 @@
 {
-  "updated": "2026-11-10T15:00:40Z",
+  "updated": "2026-11-10T21:20:34Z",
   "items": [
     {
-      "id": "ce9a092104818774",
+      "id": "40119442466ae31d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet Is Set to Become an Even Bigger Anthropic Shareholder After the IPO",
+      "link": "https://www.fool.com/investing/2026/11/10/alphabet-is-set-to-become-an-even-bigger-anthropic/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T20:57:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "c70ee3a6403122ce",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google's SpaceX investment takes an unexpected turn",
+      "link": "https://www.thestreet.com/investing/stocks/googles-spacex-investment-is-taking-an-unexpected-turn?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T20:13:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "1bfbf6d1867e0588",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet (GOOGL) Launches Gemini For Healthcare",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-launches-gemini-healthcare-201113086.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T20:11:13+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "287f9af617152997",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Is Fervo Energy (FRVO) Undervalued Following Its Google Deal And Cape Station Launch?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fervo-energy-frvo-undervalued-following-201055205.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T20:10:55+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "58b4fc7038fd417c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Top 3 Founder Run Stocks With Earnings Growth Over 15%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-founder-run-stocks-200943803.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T20:09:43+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "00e833831ba37985",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Says Tesla's Cybertruck Backlog Is Too Big To Clear Before Production Ends — Orders Extra Shift",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-teslas-cybertruck-193006712.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T19:30:06+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c4f54c3ae0a0ddde",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "3 AI Stocks With Revenue Growth Over 41%",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-revenue-growth-191330590.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T19:13:30+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "4990f52a3ac404cc",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Stocks Fall 3.41% as Rating Cut Follows Slip in $4 Billion ARR Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-stocks-fall-3-41-191112639.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T19:11:12+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "4845330005fb78d9",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Nvidia in the hot seat, Anthropic to test the IPO market, hotter-than-expected US inflation",
+      "link": "https://finance.yahoo.com/video/nvidia-in-the-hot-seat-anthropic-to-test-the-ipo-market-hotter-than-expected-us-inflation-184626512.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T18:46:26+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "0fa752bca938571b",
       "ticker": "ONON",
       "symbol": "ONON",
       "company": "On Holding",
-      "title": "DraftKings downgraded, Sarepta upgraded: Wall Street's top analyst calls",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/draftkings-downgraded-sarepta-upgraded-wall-144658393.html?.tsrc=rss",
+      "title": "On Holding Stocks Fall 7.86% as Tariff Refunds Flatter Record Q3 Margins",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-stocks-fall-7-86-182643226.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-10T14:46:58+00:00",
+      "published": "2026-11-10T18:26:43+00:00",
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "eb2fc908ed390fef",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Global High-Performance Computing (HPC) Application-Specific Integrated Circuit (ASIC) Market Report 2026-2030",
-      "link": "https://finance.yahoo.com/technology/articles/global-high-performance-computing-hpc-143600151.html?.tsrc=rss",
+      "id": "ce84f0c4d90ca92d",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "On Holding Stock Tumbles on Slowing U.S. Growth. Why Analysts See Better Days Ahead.",
+      "link": "https://finance.yahoo.com/m/fb1832bb-a6d0-38f8-8d2b-4de5cc7d47b6/on-holding-stock-tumbles-on.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-10T14:36:00+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-11-10T18:26:00+00:00",
+      "logo": "logos/ONON.svg"
     },
     {
-      "id": "4e45b59cf6f56d42",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Nvidia and Broadcom Are Scaling AI Data Centers With This Growth Stock. Here's Why It Could Soar.",
-      "link": "https://www.fool.com/investing/2026/11/10/nvidia-and-broadcom-are-scaling-ai-data-centers/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-10T14:35:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "4efc326fa74639d9",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Wing to invest $125M in drone manufacturing plant",
-      "link": "https://finance.yahoo.com/technology/articles/wing-invest-125m-drone-manufacturing-140641764.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-10T14:06:41+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "3254505e5683c156",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Adobe and Google Deepen Partnership to Bring Leading AI Models and Integrated Workflows to Creatives and Enterprises",
-      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-google-deepen-partnership-bring-140400160.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-10T14:04:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "865a535c1e8ae023",
+      "id": "55835b3e26ba335c",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Broadcom Just Had Its Best Day in Nearly a Year, Back Above $1.5 Trillion",
-      "link": "https://247wallst.com/investing/2026/11/10/broadcom-just-had-its-best-day-in-nearly-a-year-back-above-1-5-trillion/?.tsrc=rss",
+      "title": "Nvidia CEO Huang Gets More Bad News. Cathie Wood Keeps the Faith.",
+      "link": "https://finance.yahoo.com/m/d32c660e-a8a9-3cc3-a1a6-236490f6ad15/nvidia-ceo-huang-gets-more.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-10T13:53:50+00:00",
+      "published": "2026-11-10T18:25:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "c025dbc142939881",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "28th China Hi-Tech Fair to Open November 26, Bringing Together Global Technology Leaders",
-      "link": "https://finance.yahoo.com/technology/articles/28th-china-hi-tech-fair-133200451.html?.tsrc=rss",
+      "id": "c5ce562e64d4dd8b",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Sinks 10% as Analyst Target Cuts Pile Up After Microsoft Delay; Cipher Digital Falls 6%, TeraWulf Slides 2%",
+      "link": "https://247wallst.com/investing/2026/11/10/iren-sinks-10-as-analyst-target-cuts-pile-up-after-microsoft-delay-cipher-digital-falls-6-terawulf-slides-2/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-10T13:32:00+00:00",
-      "logo": "logos/TSLA.svg"
+      "published": "2026-11-10T18:02:24+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "c568ab6d8f1bcb60",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "JPMorgan Cut Its IREN Target to $55. It Still Sees 148% Upside",
+      "link": "https://www.tikr.com/blog/jpmorgan-cut-its-iren-target-to-55-it-still-sees-148-upside?ref=yahoofinance&tlnk=yf-261110-7vwcm6xp&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T16:37:12+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "70266b2330a29b32",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "On raises 2026 gross margin outlook as quarterly sales top CHF 900 million",
+      "link": "https://www.proactiveinvestors.com/companies/news/1101527/on-raises-2026-gross-margin-outlook-as-quarterly-sales-top-chf-900-million-1101527.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T15:50:00+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "7d8fc184a313d02d",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "On Keeps Selling Premium Sneakers Like a Slowdown Never Happened",
+      "link": "https://app.moby.co/home/news/news-on-keeps-selling-premium-sneakers-like-a-slowdown-never-happened?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T15:07:09+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "1dc42e1162ab42ae",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Morningstar vs. Nu: Which Financial Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/10/morningstar-vs-nu-which-financial-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-10T15:06:02+00:00",
+      "logo": "logos/NU.svg"
     },
     {
       "id": "71451abefd5550fd",
@@ -112,28 +222,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "917c133176fd2790",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla’s China Sales Hit Lowest Since 2022. What It Means for Year-End Targets.",
-      "link": "https://finance.yahoo.com/m/9d505476-c029-3e00-a09f-8dfcd8785824/tesla%E2%80%99s-china-sales-hit.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-10T13:12:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "b9d600be85a6a2ec",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX’s 1 million wafer Terafab goal meets a rural Texas fight",
-      "link": "https://www.thestreet.com/technology/spacex-terafab-chip-plant-grimes-county-texas-million-wafer-fight?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-10T13:03:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "c522a8e7bc7429d6",
       "ticker": "NU",
       "symbol": "NU",
@@ -143,72 +231,6 @@
       "source": "News",
       "published": "2026-11-10T12:20:02+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "5bcece3877f31d64",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Despite CoreWeave Plummeting 55% Over 6 Months This Wall Street Team Maintains That a 400% Return Will Materialize",
-      "link": "https://247wallst.com/investing/2026/11/10/despite-coreweave-plummeting-55-over-6-months-this-wall-street-team-maintains-that-a-400-return-will-materialize/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-10T12:15:06+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "ea3bbdf8facd92ad",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "On Third-Quarter Earnings Unexpectedly Rise; Maintains Full-Year Sales Growth Outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/third-quarter-earnings-unexpectedly-rise-120307507.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-10T12:03:07+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "10186fc82cd8ad2d",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "On Holding Delivers Record Q3 Sales As Apparel Revenue Jumps 39%, Raises Gross Margin Outlook — Why ONON Stock Is Falling Premarket",
-      "link": "https://stocktwits.com/news-articles/markets/equity/on-holding-delivers-record-q3-sales-as-apparel-revenue-jumps-39-raises-gross-margin-outlook-why-onon-stock-is-falling-premarket/cNGuLgXR97x?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-10T11:32:40+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "280a961e632e22a0",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "On Holding (ONON) Beats Q3 Earnings and Revenue Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-beats-q3-earnings-111001836.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-10T11:10:01+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "d8c8fda91a8286ad",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CoreWeave Has a Sentiment Problem Even Strong Earnings Can't Fix",
-      "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-sentiment-problem-even-strong-092225958.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-10T09:22:25+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "79e12e46ec5d5592",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CRWV Rallies Ahead Of Quarterly Report: Wells Fargo Calls CoreWeave ‘Highest Quality’ Firm Among Neocloud Peers, Sees Upside",
-      "link": "https://stocktwits.com/news-articles/markets/equity/crwv-rallies-ahead-of-quarterly-report-wells-fargo-calls-core-weave-highest-quality-firm-among-neocloud-peers-sees-upside/cNGu4iQR97k?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-10T05:58:27+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "4dd8a747f20148ab",
@@ -244,17 +266,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "3e8b0fe1104cace0",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Could IREN Actually Climb 117%? Or Is Cantor Fitzgerald Totally Wrong?",
-      "link": "https://www.tikr.com/blog/could-iren-actually-climb-117-or-is-cantor-fitzgerald-totally-wrong?ref=yahoofinance&tlnk=yf-261109-4cgmr9mq&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-09T21:06:08+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "bd24d7eb7ae628ce",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -264,28 +275,6 @@
       "source": "News",
       "published": "2026-11-09T14:22:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "7108bdfcc20cd1de",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Latest News In Digital Payment",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/latest-news-digital-payment-malaysian-123745323.html?.tsrc=rss",
-      "source": "Malaysian Fintech Surge Driven By Digital Innovation",
-      "published": "2026-11-09T12:37:45+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "8efcc3ead6afa6d2",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Eml Payments Stock Price Forecast. Should You Buy EML.AX? - StockInvest.us",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1ZXNkWk9HdmI5dTVjQlJGTG9WNjlhUW1NbzJIejVHWEhhc0p5QkNKV1RrUnVMd25EVWNMcnVnOGhmNVo4a21nSHRMUQ?oc=5",
-      "source": "StockInvest.us",
-      "published": "2026-11-06T07:50:45+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "54d79816cd0b6fef",
@@ -351,6 +340,17 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
       "source": "Simply Wall St",
       "published": "2026-10-20T07:00:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "8a5da30ec073805f",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
+      "source": "Morningstar",
+      "published": "2026-09-21T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
