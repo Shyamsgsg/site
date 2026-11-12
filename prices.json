@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-12T03:42:18+00:00",
+  "updated": "2026-11-12T05:04:08+00:00",
   "source": "Yahoo Finance (query1.finance.yahoo.com/v8/finance/chart)",
   "fx": {
-    "AUDUSD": 0.6847,
-    "AUDUSD_change_pct": -0.3296,
-    "USDSGD": 1.2852,
-    "USDSGD_change_pct": 0.2832
+    "AUDUSD": 0.6843,
+    "AUDUSD_change_pct": -0.3878,
+    "USDSGD": 1.2849,
+    "USDSGD_change_pct": 0.2598
   },
   "quotes": {
     "NU": {
@@ -29,23 +29,23 @@
       "stale": false
     },
     "EML.AX": {
-      "price": 0.31,
+      "price": 0.315,
       "previous_close": 0.31,
-      "change_pct": -0.0,
+      "change_pct": 1.6129,
       "currency": "AUD",
       "exchange": "ASX",
       "long_name": "EML Payments Limited",
-      "market_time": "2026-11-12T03:21:16+00:00",
+      "market_time": "2026-11-12T04:43:47+00:00",
       "stale": false
     },
     "GTK.AX": {
-      "price": 3.91,
+      "price": 3.9,
       "previous_close": 3.85,
-      "change_pct": 1.5584,
+      "change_pct": 1.2987,
       "currency": "AUD",
       "exchange": "ASX",
       "long_name": "Gentrack Group Limited",
-      "market_time": "2026-11-12T03:18:33+00:00",
+      "market_time": "2026-11-12T04:44:00+00:00",
       "stale": false
     },
     "ONON": {
@@ -99,23 +99,23 @@
       "stale": false
     },
     "AUDUSD=X": {
-      "price": 0.6847,
+      "price": 0.6843,
       "previous_close": 0.686964,
-      "change_pct": -0.3296,
+      "change_pct": -0.3878,
       "currency": "USD",
       "exchange": "CCY",
       "long_name": "AUD/USD",
-      "market_time": "2026-11-12T03:41:31+00:00",
+      "market_time": "2026-11-12T05:03:32+00:00",
       "stale": false
     },
     "SGD=X": {
-      "price": 1.2852,
+      "price": 1.2849,
       "previous_close": 1.28157,
-      "change_pct": 0.2832,
+      "change_pct": 0.2598,
       "currency": "SGD",
       "exchange": "CCY",
       "long_name": "USD/SGD",
-      "market_time": "2026-11-12T03:42:17+00:00",
+      "market_time": "2026-11-12T05:04:03+00:00",
       "stale": false
     },
     "^GSPC": {
