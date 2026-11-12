@@ -1,49 +1,137 @@
 {
-  "updated": "2026-11-12T00:49:30Z",
+  "updated": "2026-11-12T11:28:21Z",
   "items": [
     {
-      "id": "96edf55fec346113",
+      "id": "016add36cc235ce0",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "ETFs Bought $83.8 Million of Alphabet (GOOG) on Nov. 10",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-83-8-million-110149451.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-12T11:01:49+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ef9d55705d664292",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet (GOOGL) Sees $91.2 Million in Net ETF Buying on Nov. 10",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-sees-91-2-110135771.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-12T11:01:35+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "05aa8ff12095fe5c",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Nasdaq 100 Futures Drop As Reports Relating To Jensen Huang’s Ousting Outweigh CoreWeave’s Strong Outlook — NVDA, TSLA, SNDK, CAPR, CRWV In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-futures-drop-as-reports-relating-to-jensen-huang-s-ousting/cNGzQslR997?.tsrc=rss",
+      "title": "ETFs Are Buying Tesla (TSLA) on Nov. 10",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-tesla-tsla-nov-110053409.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-12T00:22:06+00:00",
+      "published": "2026-11-12T11:00:53+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "38c7eafbed76f795",
+      "id": "fc3aab91ef407148",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Finland approves Tesla driver assistance system ahead of EU-wide decision",
+      "link": "https://www.just-auto.com/news/finland-tesla-driver-assistance-system/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-12T10:44:35+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "7b62ffb926a4ebaf",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Zelda remake becomes fastest-selling Nintendo Switch 2 game ever",
-      "link": "https://finance.yahoo.com/video/zelda-remake-becomes-fastest-selling-nintendo-switch-2-game-ever-231730766.html?.tsrc=rss",
+      "title": "Apple is the Best-Performing AI Stock in the “Magnificent Seven” This Year, and Alphabet is the Worst. Here’s the Better Buy for 2027.",
+      "link": "https://www.fool.com/investing/2026/11/12/apple-is-the-best-performing-ai-stock-in-the-magnificent-seven-this-year-and-alphabet-is-the-worst-here-s-the-better-buy-for-2027/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-11T23:17:30+00:00",
+      "published": "2026-11-12T10:30:01+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "ae2761651520e3d5",
+      "id": "c308e2567e751191",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Nvidia and Alphabet Just Agreed to Buy $10 Billion Each of Anthropic Stock at Its IPO Price",
-      "link": "https://www.fool.com/investing/2026/11/11/nvidia-and-alphabet-just-agreed-to-buy-usd10-billion-each-of-anthropic-stock-at-its-ipo-price/?.tsrc=rss",
+      "title": "California's billionaire tax failed 53-47%, but 5 other states are moving ahead with wealth taxes — and more consider it",
+      "link": "https://finance.yahoo.com/economy/policy/articles/californias-billionaire-tax-failed-53-101500003.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-11T23:07:01+00:00",
+      "published": "2026-11-12T10:15:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "4bbca08bb8b772f3",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Fusion's Next Race Is Over Superconducting Tape, Not Plasma",
-      "link": "https://finance.yahoo.com/energy/articles/fusions-next-race-over-superconducting-230000192.html?.tsrc=rss",
+      "id": "3a79acd419f85c21",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "The Best Uranium Stocks to Buy and Hold as Nuclear Power Expands",
+      "link": "https://www.fool.com/investing/2026/11/12/best-uranium-stocks-buy-hold-nuclear-ccj-ues/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-11T23:00:00+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-11-12T10:00:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "122ee130bbbb41bd",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Just Ended the Cybertruck. Will He Kill the Model 3 Next?",
+      "link": "https://247wallst.com/investing/2026/11/12/elon-musk-just-ended-the-cybertruck-will-he-kill-the-model-3-next/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-12T09:47:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "335c7f9d25a9834e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "‘He Can’t Just Pick Up and Go to Florida’: Dan Ives on Musk’s $1 Trillion Texas Problem",
+      "link": "https://247wallst.com/personal-finance/2026/11/12/he-cant-just-pick-up-and-go-to-florida-dan-ives-on-musks-1-trillion-texas-problem/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-12T09:11:16+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "7040b38713859efb",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Riot Platforms And 2 Crypto Stocks To Watch",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/riot-platforms-2-crypto-stocks-071428221.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-12T07:14:28+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "d4f74b3a31f56d69",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Energy Fuels Dips Post Q3 Earnings Miss: How to Play the Stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-dips-post-q3-071400711.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-12T07:14:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "dc971daaf16f6a39",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings (NU) Stock Has Fallen 21% in a Month. Is It Time to Buy?",
+      "link": "https://www.tikr.com/blog/nu-holdings-nu-stock-has-fallen-21-in-a-month-is-it-time-to-buy?ref=yahoofinance&tlnk=yf-261111-82rm4rhf&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-12T02:39:32+00:00",
+      "logo": "logos/NU.svg"
     },
     {
       "id": "33bb0dd544bdf4ad",
@@ -55,17 +143,6 @@
       "source": "News",
       "published": "2026-11-11T22:36:03+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "8e8bddb2f32f2345",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Big Tech's expected big payday with Anthropic IPO, and Nintendo's big week with Zelda",
-      "link": "https://finance.yahoo.com/video/big-techs-expected-big-payday-with-anthropic-ipo-and-nintendos-big-week-with-zelda-222911332.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-11T22:29:11+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "6dc82d57557e5fce",
@@ -99,39 +176,6 @@
       "source": "Yahoo Finance Singapore",
       "published": "2026-11-11T20:13:38+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "93136b4c630d3096",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "3 Growth Stocks With At Least 18% Revenue Growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-least-18-200905110.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-11T20:09:05+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "4502a83f61c26968",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla extends Cybertruck production to clear backlog, Musk says",
-      "link": "https://www.cbsnews.com/news/tesla-extend-cybertruck-production-backlog/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-11T19:55:13+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "7531aa2922f5986f",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Extends Cybertruck’s Run. Its Driving Software Matters More.",
-      "link": "https://finance.yahoo.com/m/2c17d887-bd87-396e-a44f-ad396f16f758/tesla-extends-cybertruck%E2%80%99s.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-11T19:39:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "dd8424008aa4f31c",
@@ -200,17 +244,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "9940f5f17fcbedea",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "MercadoLibre Sinks 10% in a Week on a Profit Miss: “We Have Accepted a Lower Margin”",
-      "link": "https://www.tikr.com/blog/mercadolibre-sinks-10-in-a-week-on-a-profit-miss-we-have-accepted-a-lower-margin?ref=yahoofinance&tlnk=yf-261111-85wfpmq2&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-11T04:36:34+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "50ea3444a4581fd8",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -233,6 +266,17 @@
       "logo": "logos/EML.svg"
     },
     {
+      "id": "1034c914f8040e01",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Eastern Co (NASDAQ:EML) Q3 Revenue and EPS Miss Estimates Despite 36% Sales Growth - ChartMill",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdE9ORlNpdVdEMm4xX3FEbnI5cFJLMHdscUk3ZjZTYWxEN3JZNm1lU1E5VG13NFBPYzNMYUVRNmlpeEYya0UzRGFNRkZTNFlBVXVzc0U2ZnFsVUx6RFAwWkJ5VnFkU2prZTc1d3Zfc19IeWE5OHZnQVJGZ2pEMHFjWjV4bUNtS3lGUnJaSTRJd2pselEwcTNxd0ZSVEVzOC1LSEFZVjJoTWhwR0NPTWdwRXFQa3hrMUl5S3I0OTBOTEJiaG1rMldHQw?oc=5",
+      "source": "ChartMill",
+      "published": "2026-11-10T23:11:29+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "3abaf54aadf1458d",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -242,17 +286,6 @@
       "source": "News",
       "published": "2026-11-10T22:21:46+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "6191de917346db47",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "The Eastern Company (EML) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pT1lkMUNKV21tekJ4SXJXZTN1akJlNjZfRFJHVHowXzgxZ09sQUNFcVZWSjVBZGlGejZGUm5hMGFyX0FEdmxKSklTYi1DS1hD?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-11-10T22:19:18+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "bed82e0f0d47cb29",
@@ -266,17 +299,6 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "1dc42e1162ab42ae",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Morningstar vs. Nu: Which Financial Stock Is a Better Buy for 2027?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/11/10/morningstar-vs-nu-which-financial-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-10T15:06:02+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "71451abefd5550fd",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -288,26 +310,15 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "cc5460e73915eb76",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Are Options Traders Betting on a Big Move in Cameco Stock?",
-      "link": "https://finance.yahoo.com/markets/options/articles/options-traders-betting-big-move-132300718.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-10T13:23:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "b8842982c9c8aae4",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "3 Canadian Growth Stocks To Own In November 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-own-001900465.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-10T00:19:00+00:00",
-      "logo": "logos/CCJ.svg"
+      "id": "6191de917346db47",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "The Eastern Company (EML) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pT1lkMUNKV21tekJ4SXJXZTN1akJlNjZfRFJHVHowXzgxZ09sQUNFcVZWSjVBZGlGejZGUm5hMGFyX0FEdmxKSklTYi1DS1hD?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-10T08:00:00+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "efe2d6f74479c97d",
@@ -321,28 +332,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "690ab8865b462f4c",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "After selling an insurance business, Boston Omaha keeps 2.67 million Sky Harbour shares. - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYU1WQnI4TUIwOHJZN25NZXNkd0VYR2lmR2xGSG5IQktoV0Y1M0FSdWNZc3RxR3VBLUVKMGh0U0hxSGNrRVBNYWZiUDRuWFZiOTZmU1ZOMWpUT3lsNExDU0xoMy00X0toalZOVXpINzc2NHV5Qlp3NnZtXzdObnp0YnlTN0ZWa0JZNHJiQzR0dXNnbEZEbHBtT2F4QS1uZ0wwc0lWLUVZWEc4UUk3MVhkMm5oX3ZTVlJS?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-10-26T07:00:00+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "fe87a991290e7083",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EMMERSON PLC (EML) Equity Price and Quote - London Stock Exchange",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
-      "source": "London Stock Exchange",
-      "published": "2026-10-22T20:53:32+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "11462b774539fd1a",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -351,6 +340,17 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3psOVJXUnFBejZmSS1rSGZzdDFVaGlkUHo0amg3eVhaQjlScmgtaG9KVktZLU5mVG40MHVqN3JuN2x4TnZ5MV9UclRhWnRVSG8yd1c2eE10RnlvRVRPVDlfakVTQlRUMlZBeVlhd2lxRVpvc09ncXJnUkdhZDhFeFdsbXNoQUZXXzZaRjlFNE1mSWdMUW1USlY2YUQxRjJLUk03dTRLd2l4TkZrWW1VcjhCUHFva0RmN1E2dTI1MENKN1ZmRzZUSGtXbw?oc=5",
       "source": "Kalkine",
       "published": "2026-08-26T07:00:00+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "35e53a37b5d6788f",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Stock Price and Chart — NSEKE:BOC - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXMWR4cjY0Ukg0YURsR1BGOW5rb2pzeE9ReXl2X1dFa2dVRlg3TjlDUFVhYnJVNU5WX0doMjBsSG9TQlNQTktoUno5YVRnd0tlaWRiRnhmNmd0QQ?oc=5",
+      "source": "TradingView",
+      "published": "2026-08-20T07:00:00+00:00",
       "logo": "logos/BOC.svg"
     },
     {
