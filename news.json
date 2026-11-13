@@ -1,16 +1,137 @@
 {
-  "updated": "2026-11-13T01:55:31Z",
+  "updated": "2026-11-13T11:12:27Z",
   "items": [
     {
-      "id": "537617211a07d969",
+      "id": "c6c94230c94e3776",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields; SpaceX-Tesla Merger Deal Close",
-      "link": "https://finance.yahoo.com/m/4a3dff17-3e8e-33ca-823f-8ac12eff6a4a/dow-jones-futures-rise-after.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-13T01:30:42+00:00",
+      "title": "This Week In Electric Vehicles",
+      "link": "https://finance.yahoo.com/energy/articles/week-electric-vehicles-lunar-energy-103926137.html?.tsrc=rss",
+      "source": "Lunar Energy Unveils AI-Driven Integrated Energy System",
+      "published": "2026-11-13T10:39:26+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "847c807fcbcd82dc",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla vs. BYD: One Has a $14 Billion Problem, and the Other Has a Sky-High Valuation",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/13/tesla-vs-byd-one-has-a-usd14-billion-problem-and-the-other-has-a-sky-high-valuation/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-13T10:35:01+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "e09490308575baa3",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "‘Political Giving Is the Original Wealth Tax’: What Musk’s $474 Million Midterm Bet Actually Bought",
+      "link": "https://247wallst.com/personal-finance/2026/11/13/political-giving-is-the-original-wealth-tax-what-musks-474-million-midterm-bet-actually-bought/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-13T10:21:57+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "3c4047f9c0639c2a",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Michael Burry vindicated as Nebius stock drops over 17% — and he's warning of a coming chip glut",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-vindicated-nebius-stock-101500036.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-13T10:15:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "1810a92311148e42",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "What NIQ Global Intelligence (NIQ) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-niq-global-intelligence-niq-said-on-its-q3-earnings-call-2026-11-13/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-13T10:14:34+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "60053541a9a9dc7a",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "The AI boom will survive without Jensen Huang, but there's a $500 billion funding hole to fill",
+      "link": "https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-13T09:45:06+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "45b928d66c62545d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Broadcom Just Gained 25% in a Week: Take Profits, or Buy More?",
+      "link": "https://www.tikr.com/blog/broadcom-just-gained-25-in-a-week-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261113-fwrp7g74&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-13T09:05:50+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "bf102520649021ba",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CRWV vs IREN vs NBIS: Which Neocloud Stock To Bet On After Q3 Reports Allay Durability Fears",
+      "link": "https://stocktwits.com/news-articles/markets/equity/crwv-vs-iren-vs-nbis-which-neocloud-stock-to-bet-on-after-q3-reports-allay-durability-fears/cNbbDRIR9OU?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-13T08:33:40+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "880817534d4e4a18",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Revolut well-positioned to scale globally without damaging core markets: GlobalData",
+      "link": "https://www.retailbankerinternational.com/news/revolut-well-positioned-scale-globally/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-13T07:42:34+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "bd86988fc257ef6d",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Zacks Investment Ideas feature highlights: Nebius, CoreWeave, IREN and NVIDIA",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-065200630.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-13T06:52:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "a2442babd7dcc593",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "The Zacks Analyst Blog Highlights Tesla, SpaceX and Ford",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-tesla-064500779.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-13T06:45:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "361bd96c92917697",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings (NU) Q3 2026 Earnings Call Transcript",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/11/13/nu-holdings-nu-q3-2026-earnings-call-transcript/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-13T06:15:14+00:00",
+      "logo": "logos/NU.svg"
     },
     {
       "id": "d0cb06e2a10e0e94",
@@ -24,50 +145,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "62cc3b586bdb4c80",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Musk gives Cybertruck a reprieve, but many will still get refunds",
-      "link": "https://www.thestreet.com/retail/tesla-cybertruck-refunds-musk-production-extension?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-13T01:03:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "0943fff6d294b577",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "TeraWulf Stock Fell 24% in a Month. Lucid Capital Still Sees 67% Upside",
-      "link": "https://www.tikr.com/blog/terawulf-stock-fell-24-in-a-month-lucid-capital-still-sees-67-upside?ref=yahoofinance&tlnk=yf-261112-6xjf7mcf&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-13T00:23:55+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "ef767f315fd28fee",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s Exit, Oil Price Pressure — CRWV, CBRS, NVDA, TSLA In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-recover-after-markets-end-lower-on-jensen-huang-s-exit-oil-price-pressure-crwv-cbrs-nvda-tsla-in-focus/cNbbkHFR9OI?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-13T00:19:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "220194c131b6c660",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "A 68-Year-Old Retiree Bought 1,000 Tesla Shares at $108 in January 2023. Now Musk Could Merge Tesla Into SpaceX by December, and a 15% Premium Would Turn Her Stake Into About 3,270 SpaceX Shares",
-      "link": "https://247wallst.com/investing/2026/11/12/a-68-year-old-retiree-bought-1000-tesla-shares-at-108-in-january-2023-now-musk-could-merge-tesla-into-spacex-by-december-and-a-15-premium-would-turn-her-stake-into-about-3270-spacex-shares/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-13T00:17:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "ea93e841b86f2faf",
       "ticker": "NU",
       "symbol": "NU",
@@ -79,39 +156,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "3c68d7095dece606",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Your Customers Are Asking AI About Your Company. Here’s How to Audit What It Says.",
-      "link": "https://www.entrepreneur.com/business-news/your-customers-are-asking-ai-about-your-company-heres-how-to-audit-what-it-says?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-13T00:00:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "b19cc9b5f70c17db",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet Draws $5 Billion in Orders as AI Frenzy Builds",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-draws-5-billion-orders-230559734.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T23:05:59+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "ebc143a8234d336d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google's Next Big AI Push Has Apple in the Picture",
-      "link": "https://finance.yahoo.com/technology/ai/articles/googles-next-big-ai-push-230445065.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T23:04:45+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "2a45d54287bd8e3d",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -121,28 +165,6 @@
       "source": "News",
       "published": "2026-11-12T22:48:40+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "6c0782b37402e80d",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings Ltd. (NU) Meets Q3 Earnings Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-nu-meets-220505882.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T22:05:05+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "207f547d0480475c",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings Ltd. Reports Third Quarter 2026 Financial Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-reports-third-214300618.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T21:43:00+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "10545b2f1d4e5fc5",
@@ -165,28 +187,6 @@
       "source": "News",
       "published": "2026-11-12T17:13:00+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "3904e44924a0b929",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Nebius: 3 Overblown Fears Weighing Down the Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-3-overblown-fears-weighing-164800637.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T16:48:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "33b021c99cd1423c",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN says Horizon 1 delivered 22% faster than industry benchmark",
-      "link": "https://blockspace.media/insight/iren-horizon-1-beats-benchmark/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T16:39:42+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "0d237660aad1e95c",
@@ -332,17 +332,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "35e53a37b5d6788f",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Stock Price and Chart — NSEKE:BOC - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXMWR4cjY0Ukg0YURsR1BGOW5rb2pzeE9ReXl2X1dFa2dVRlg3TjlDUFVhYnJVNU5WX0doMjBsSG9TQlNQTktoUno5YVRnd0tlaWRiRnhmNmd0QQ?oc=5",
-      "source": "TradingView",
-      "published": "2026-08-20T07:00:00+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "53c6d50958c8778d",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -351,6 +340,17 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSTg0LXZQellOS1lneTR3d3hjNDNURFJUWF9hc1lseGFXb1poclJ4UGdmRFEwWmpsNUhvZjZ6TXVkcHV1Ty1FMlRaTDVSQUpjM0lPLTd2QjYyZU52ZXpWWG4zek9UZVpaVjZPc1lpYnhYQjFJaUM5ZGhDdjl4OGl6Rm1qdnYwMVRFSTMxWDFVVWZEVGdDM2FJUEh4TG55UnpVa0VTbDNoMlBpUlg1YTdBeTR3T0g4LWJvcTRwNWlyNm96aFk?oc=5",
       "source": "Kalkine",
       "published": "2026-08-19T07:00:00+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "0f3438a8fec8b691",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Bougainville Copper (ASX:BOC): Historic Copper Stock Climbs as Resource Investors Revisit the Story - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLVJEVzhKMlFvVjdXREVvOGlWSTR1T3I0M1Z4TzAydzdLWVVZWWhWRjQzTVRCTTJmUHhVTmNHVTBIU2V6OVo5YU1HajZoOUFmQnhkRnQ2bXEzcFdFTS1YazRKS29TeDZGU2k4cFlQNS0wZWNPLTY0R3ZYb0JNZHV2TE8xVUYyU0hlcEdCZmdqYUJ1OFplREpJb2pOa21TRHpjYnBXNzhMMHA1SHZGZnJyelhJelFBUDY5MWlHTWowS2ZEQ3QzYTZ6VXRCenBiVDZYaGc?oc=5",
+      "source": "Kalkine",
+      "published": "2026-07-01T07:00:00+00:00",
       "logo": "logos/BOC.svg"
     },
     {
