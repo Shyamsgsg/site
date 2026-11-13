@@ -1,93 +1,159 @@
 {
-  "updated": "2026-11-12T20:05:17Z",
+  "updated": "2026-11-13T01:55:31Z",
   "items": [
     {
-      "id": "ee1577a3a2156cbe",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Pimco CEO Warns: AI Companies Risk Borrowing \"Too Much\" ($10 Trillion)",
-      "link": "https://www.fool.com/investing/2026/11/12/pimco-ceo-warns-ai-companies-risk-borrowing-too-mu/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T19:50:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "ed31be0abdc0d4ec",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "How Much Higher Can Snap Stock Go From Here?",
-      "link": "https://www.trefis.com/stock/snap/articles/624531/how-much-higher-can-snap-stock-go-from-here/2026-11-12?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T19:32:12+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "599dcf916a531ec1",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Is investor appetite for AI running out? Why Ranmore is turning to Asia",
-      "link": "https://finance.yahoo.com/technology/ai/articles/investor-appetite-ai-running-why-191350950.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T19:13:50+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "ecb8cd1325b3ac77",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Warren Buffett's Successor, Greg Abel, Has Nearly $110 Billion Invested in These 2 Tech Stocks",
-      "link": "https://www.fool.com/investing/2026/11/12/warren-buffetts-successor-greg-abel-has-nearly-110/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T19:05:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "7ca89aeb8597dd8a",
+      "id": "537617211a07d969",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla fund makes surprise Microsoft bet, keeps Nvidia stake",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-fund-makes-surprise-microsoft-175904923.html?.tsrc=rss",
+      "title": "Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields; SpaceX-Tesla Merger Deal Close",
+      "link": "https://finance.yahoo.com/m/4a3dff17-3e8e-33ca-823f-8ac12eff6a4a/dow-jones-futures-rise-after.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-12T17:59:04+00:00",
+      "published": "2026-11-13T01:30:42+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "50c4ed4ef1c5cd15",
+      "id": "d0cb06e2a10e0e94",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "NU Stock Rises Overnight On Strong Q3 Results: CEO Says New Banking Status Makes Proposition ‘Even More Compelling’",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nu-stock-rises-overnight-on-strong-q3-results-ceo-says-new-banking-status-makes-proposition-even-more-compelling/cNbbZQsR9O7?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-13T01:15:18+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "62cc3b586bdb4c80",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Binance founder CZ says crypto exchange didn't sell any SpaceX stock amid hack",
-      "link": "https://finance.yahoo.com/markets/crypto/article/binance-founder-cz-says-crypto-exchange-didnt-sell-any-spacex-stock-amid-hack-174829693.html?.tsrc=rss",
+      "title": "Musk gives Cybertruck a reprieve, but many will still get refunds",
+      "link": "https://www.thestreet.com/retail/tesla-cybertruck-refunds-musk-production-extension?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-12T17:48:29+00:00",
+      "published": "2026-11-13T01:03:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "76e049dc4cca9303",
+      "id": "0943fff6d294b577",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "TeraWulf Stock Fell 24% in a Month. Lucid Capital Still Sees 67% Upside",
+      "link": "https://www.tikr.com/blog/terawulf-stock-fell-24-in-a-month-lucid-capital-still-sees-67-upside?ref=yahoofinance&tlnk=yf-261112-6xjf7mcf&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-13T00:23:55+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ef767f315fd28fee",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla Vs. Nvidia: The Regulatory Crosshairs are Trained on These Two Mag 7 Shares, One is Worse Off",
-      "link": "https://247wallst.com/investing/2026/11/12/tesla-vs-nvidia-the-regulatory-crosshairs-are-trained-on-these-two-mag-7-shares-one-is-worse-off/?.tsrc=rss",
+      "title": "S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s Exit, Oil Price Pressure — CRWV, CBRS, NVDA, TSLA In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-recover-after-markets-end-lower-on-jensen-huang-s-exit-oil-price-pressure-crwv-cbrs-nvda-tsla-in-focus/cNbbkHFR9OI?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-12T17:45:07+00:00",
+      "published": "2026-11-13T00:19:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "3b08fddef072be87",
+      "id": "220194c131b6c660",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla May Be Done With Cybertruck, but This Company Wants to Keep It Alive — and Ross Gerber Is on Board",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-may-done-cybertruck-company-173008375.html?.tsrc=rss",
+      "title": "A 68-Year-Old Retiree Bought 1,000 Tesla Shares at $108 in January 2023. Now Musk Could Merge Tesla Into SpaceX by December, and a 15% Premium Would Turn Her Stake Into About 3,270 SpaceX Shares",
+      "link": "https://247wallst.com/investing/2026/11/12/a-68-year-old-retiree-bought-1000-tesla-shares-at-108-in-january-2023-now-musk-could-merge-tesla-into-spacex-by-december-and-a-15-premium-would-turn-her-stake-into-about-3270-spacex-shares/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-12T17:30:08+00:00",
+      "published": "2026-11-13T00:17:00+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ea93e841b86f2faf",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu (NU) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-nu-q3-earnings-taking-000002383.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-13T00:00:02+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "3c68d7095dece606",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Your Customers Are Asking AI About Your Company. Here’s How to Audit What It Says.",
+      "link": "https://www.entrepreneur.com/business-news/your-customers-are-asking-ai-about-your-company-heres-how-to-audit-what-it-says?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-13T00:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "b19cc9b5f70c17db",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet Draws $5 Billion in Orders as AI Frenzy Builds",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-draws-5-billion-orders-230559734.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-12T23:05:59+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ebc143a8234d336d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google's Next Big AI Push Has Apple in the Picture",
+      "link": "https://finance.yahoo.com/technology/ai/articles/googles-next-big-ai-push-230445065.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-12T23:04:45+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "2a45d54287bd8e3d",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Stock Market Today, Nov. 12: Nebius Group Sinks Nearly 17% After Lowering 2026 Outlook",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nebius-group-sinks-nearly-17-after-lowering-2026-outlook/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-12T22:48:40+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "6c0782b37402e80d",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings Ltd. (NU) Meets Q3 Earnings Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-nu-meets-220505882.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-12T22:05:05+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "207f547d0480475c",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings Ltd. Reports Third Quarter 2026 Financial Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-reports-third-214300618.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-12T21:43:00+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "10545b2f1d4e5fc5",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Jensen Huang resigns as Nvidia CEO amid scandal",
+      "link": "http://videos.coindesk.com/previews/T3qsPd0W?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-12T20:43:03+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "8969f5af910cfefe",
@@ -112,17 +178,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "38d48c067997e0aa",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Consumer Spending in Emerging Markets Has a Dark Side: Big Debt",
-      "link": "https://finance.yahoo.com/m/1cc6de04-b644-31b2-ac5d-683764070a82/consumer-spending-in-emerging.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T16:42:00+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "33b021c99cd1423c",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -143,28 +198,6 @@
       "source": "News",
       "published": "2026-11-12T15:25:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "1c0398b3c43bd205",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Nebius Sinks 15% as Capex Swells and 2027 Outlook Takes a “Conservative Approach” to Build-Out",
-      "link": "https://www.tikr.com/blog/nebius-sinks-15-as-capex-swells-and-2027-outlook-takes-a-conservative-approach-to-build-out?ref=yahoofinance&tlnk=yf-261112-f9g8h977&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T14:53:44+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "3418079c3b6d5961",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Nebius shares tumble 22% as capacity delays hit revenue outlook and capex rises to $27 billion",
-      "link": "https://blockspace.media/insight/nebius-cuts-2026-revenue-outlook/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T14:33:12+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "9456507aa43686f1",
@@ -200,39 +233,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "54375d997cff1be4",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "ETFs Are Net Sellers of Nu Holdings (NU) on Tuesday",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-nu-holdings-110342713.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T11:03:42+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "7040b38713859efb",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Riot Platforms And 2 Crypto Stocks To Watch",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/riot-platforms-2-crypto-stocks-071428221.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T07:14:28+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "dc971daaf16f6a39",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings (NU) Stock Has Fallen 21% in a Month. Is It Time to Buy?",
-      "link": "https://www.tikr.com/blog/nu-holdings-nu-stock-has-fallen-21-in-a-month-is-it-time-to-buy?ref=yahoofinance&tlnk=yf-261111-82rm4rhf&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T02:39:32+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "03a1378e37df1479",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -266,28 +266,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "1034c914f8040e01",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Eastern Co (NASDAQ:EML) Q3 Revenue and EPS Miss Estimates Despite 36% Sales Growth - ChartMill",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdE9ORlNpdVdEMm4xX3FEbnI5cFJLMHdscUk3ZjZTYWxEN3JZNm1lU1E5VG13NFBPYzNMYUVRNmlpeEYya0UzRGFNRkZTNFlBVXVzc0U2ZnFsVUx6RFAwWkJ5VnFkU2prZTc1d3Zfc19IeWE5OHZnQVJGZ2pEMHFjWjV4bUNtS3lGUnJaSTRJd2pselEwcTNxd0ZSVEVzOC1LSEFZVjJoTWhwR0NPTWdwRXFQa3hrMUl5S3I0OTBOTEJiaG1rMldHQw?oc=5",
-      "source": "ChartMill",
-      "published": "2026-11-10T23:11:29+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "bed82e0f0d47cb29",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Eastern Company Q3 Sales Rise 36% to $75.0 Million - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUFNeXRoVWVLaVlOUXlMY1RPNTZEVzFMX1FzMUNWTU1STGZPWFBtb3lFRXIxUmk2Q0xINVU2dk1RSXdyVkpaZ2xMMmNpQzEwcjdqRWs1WU00cWo5ejNNUXBwLTBhTWZ6eDdNYmI1X3VwQmN4cEc5ZzNWSWpBMjZEVVFDR2o3VjIxWDNzdmhhb0c?oc=5",
-      "source": "Quiver Quantitative",
-      "published": "2026-11-10T22:05:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "6191de917346db47",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -318,6 +296,28 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
       "source": "London Stock Exchange",
       "published": "2026-10-22T20:53:32+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "5ac47598a8165996",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-10-20T07:00:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "8a5da30ec073805f",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
+      "source": "Morningstar",
+      "published": "2026-09-21T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
