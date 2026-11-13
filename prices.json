@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-13T04:20:28+00:00",
+  "updated": "2026-11-13T12:26:57+00:00",
   "source": "Yahoo Finance (query1.finance.yahoo.com/v8/finance/chart)",
   "fx": {
-    "AUDUSD": 0.6805,
-    "AUDUSD_change_pct": -0.5524,
-    "USDSGD": 1.2865,
-    "USDSGD_change_pct": 0.2103
+    "AUDUSD": 0.6791,
+    "AUDUSD_change_pct": -0.757,
+    "USDSGD": 1.2879,
+    "USDSGD_change_pct": 0.3194
   },
   "quotes": {
     "NU": {
@@ -19,33 +19,33 @@
       "stale": false
     },
     "BOC.AX": {
-      "price": 0.157,
+      "price": 0.16,
       "previous_close": 0.165,
-      "change_pct": -4.8485,
+      "change_pct": -3.0303,
       "currency": "AUD",
       "exchange": "ASX",
       "long_name": "Bougainville Copper Limited",
-      "market_time": "2026-11-13T03:21:48+00:00",
+      "market_time": "2026-11-13T05:10:11+00:00",
       "stale": false
     },
     "EML.AX": {
-      "price": 0.315,
+      "price": 0.32,
       "previous_close": 0.31,
-      "change_pct": 1.6129,
+      "change_pct": 3.2258,
       "currency": "AUD",
       "exchange": "ASX",
       "long_name": "EML Payments Limited",
-      "market_time": "2026-11-13T03:43:16+00:00",
+      "market_time": "2026-11-13T05:10:10+00:00",
       "stale": false
     },
     "GTK.AX": {
-      "price": 3.77,
+      "price": 3.74,
       "previous_close": 3.9,
-      "change_pct": -3.3333,
+      "change_pct": -4.1026,
       "currency": "AUD",
       "exchange": "ASX",
       "long_name": "Gentrack Group Limited",
-      "market_time": "2026-11-13T03:59:12+00:00",
+      "market_time": "2026-11-13T05:10:12+00:00",
       "stale": false
     },
     "ONON": {
@@ -99,23 +99,23 @@
       "stale": false
     },
     "AUDUSD=X": {
-      "price": 0.6805,
+      "price": 0.6791,
       "previous_close": 0.68428,
-      "change_pct": -0.5524,
+      "change_pct": -0.757,
       "currency": "USD",
       "exchange": "CCY",
       "long_name": "AUD/USD",
-      "market_time": "2026-11-13T04:19:31+00:00",
+      "market_time": "2026-11-13T12:25:30+00:00",
       "stale": false
     },
     "SGD=X": {
-      "price": 1.2865,
+      "price": 1.2879,
       "previous_close": 1.2838,
-      "change_pct": 0.2103,
+      "change_pct": 0.3194,
       "currency": "SGD",
       "exchange": "CCY",
       "long_name": "USD/SGD",
-      "market_time": "2026-11-13T04:20:28+00:00",
+      "market_time": "2026-11-13T12:26:53+00:00",
       "stale": false
     },
     "^GSPC": {
@@ -125,7 +125,7 @@
       "currency": "USD",
       "exchange": "SNP",
       "long_name": "S&P 500",
-      "market_time": "2026-11-12T21:00:00+00:00",
+      "market_time": "2026-11-12T21:58:23+00:00",
       "stale": false
     }
   },
