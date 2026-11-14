@@ -1,6 +1,116 @@
 {
-  "updated": "2026-11-14T01:29:12Z",
+  "updated": "2026-11-14T10:38:39Z",
   "items": [
+    {
+      "id": "34389b0d08567218",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Nvidia, Alphabet, Microsoft, and Micron Are All Buying Anthropic’s IPO. Should You Buy Too?",
+      "link": "https://www.fool.com/investing/2026/11/14/nvidia-alphabet-microsoft-and-micron-are-buying-anthropic-ipo/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T10:22:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "6900aa49dc0a9934",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Cybercab’s Monthly Subscription Is ‘Too High,’ Elon Musk Admits To MKBHD: ‘Should Match The Cost Of…’",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-cybercab-monthly-subscription-too-high-elon-musk-mkbhd/cNbPER1R9Q1?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T10:20:18+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "3e2594b57d5c0a5d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Scott Galloway Predicts Anthropic’s First Trade Opens “15% to 40% Higher.” That’s Great News for Alphabet and Amazon",
+      "link": "https://www.tikr.com/blog/scott-galloway-predicts-anthropics-first-trade-opens-15-to-40-higher-thats-great-news-for-alphabet-and-amazon?ref=yahoofinance&tlnk=yf-261114-5vwf9544&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T09:50:43+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "8b0f988200e238d6",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Cybercab Now Available For Purchase For Select Customers — But There’s A Catch",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-cybercab-purchase-select-customers-but-catch/cNb26QDR9Qf?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T06:09:37+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "1324e716f9dc0a34",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "3 Cash Flow Stocks Trading Up To 49% Below Fair Value",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-flow-stocks-trading-051406202.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T05:14:06+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "4e198e40bf8be6ee",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings (NU) is Surging by Double Digits. Here’s What’s Driving the Rally",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-surging-double-045349151.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T04:53:32+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "0ef3fa118a642f8c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk, Tom Lee, Shopify CEO Sign ‘Stand With Jensen’ Petition To Reinstate Him As Nvidia CEO",
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-tom-lee-stand-with-jensen-petition-reinstate-nvidia-ceo/cNb2xkrR9Qe?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T04:24:53+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "496355151dedd649",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Is Alphabet “the Most Obvious Buy”? Morgan Stanley Sees TPU Sales Jumping to $84 Billion",
+      "link": "https://www.tikr.com/blog/is-alphabet-the-most-obvious-buy-morgan-stanley-sees-tpu-sales-jumping-to-84-billion?ref=yahoofinance&tlnk=yf-261114-xv78r2hc&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T04:06:32+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "6d2ef1279d22748b",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Canadian Nuclear Stocks To Watch In November 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-nuclear-stocks-watch-november-021246325.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T02:12:46+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "35dedfe79dba2061",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "A Look at The Eastern Co (EML) After 3.4% Gain -- GF Value $26.6 - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSXBEbzhTdG9TZ0xVRHZuTjU4dG9uTTVIZlZZTzlCSHVBNElXMTNwWks1TDRDZHpUOWxBMS00aW1XdGo4dmpqdzJmZFhlVG9pX0xLTVJhYVhTUUR0dm03Nk5jNUhsbWtHams1eXo0RzliWUs5Y3VNb1MxNEhpem9nWUZqVmNWcFVIY1JCU1VRMWRzQ0x6bnBCUDN0RVNVXy1vaFhId2poSmFWSUhHN0E?oc=5",
+      "source": "GuruFocus",
+      "published": "2026-11-14T01:53:02+00:00",
+      "logo": "logos/EML.svg"
+    },
     {
       "id": "49bde24976e187de",
       "ticker": "TSLA",
@@ -11,17 +121,6 @@
       "source": "News",
       "published": "2026-11-14T00:45:56+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "5ff30195be2ea8c0",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Booking Holdings vs. GameStop: Which Consumer Stock Is a Better Buy for 2027?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/11/13/booking-holdings-vs-gamestop-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-14T00:32:02+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "4fe522e52ceb99a4",
@@ -57,17 +156,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "bca0fd5864ce7523",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
-      "link": "https://finance.yahoo.com/video/nvidias-competitors-pounce-and-what-gpu-rental-prices-say-about-the-ai-race-221551379.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-13T22:15:51+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "431b975aa0cab312",
       "ticker": "NU",
       "symbol": "NU",
@@ -77,39 +165,6 @@
       "source": "News",
       "published": "2026-11-13T22:13:02+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "213344d08e943a1e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "With Nvidia Floundering, AI Bulls Need More Than Spending. Watch Revenue.",
-      "link": "https://finance.yahoo.com/m/5320ea39-b186-36f7-b3d6-568e574e4bf6/with-nvidia-floundering%2C-ai.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-13T22:13:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "1281668a7959c9e8",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "What Does Dominion Energy Offer That NiSource Does Not?",
-      "link": "https://www.trefis.com/stock/ni/articles/624951/what-does-dominion-energy-offer-that-nisource-does-not/2026-11-13?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-13T21:51:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "063485c345e46fc5",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX, Tesla Merger Puts Musk At Forefront Of 'Revolutionary' Tech, Analyst Says",
-      "link": "https://finance.yahoo.com/m/00d73871-4c74-3adb-95a4-1a0ac2ea77d1/spacex%2C-tesla-merger-puts.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-13T21:43:23+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "c6baa708f6cdcdc1",
@@ -134,17 +189,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "f09795f673f12b53",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX Could Announce a Deal for Tesla as Soon as December. Here's What It Would Do to SpaceX Stock.",
-      "link": "https://www.fool.com/investing/2026/11/13/spacex-could-announce-a-deal-for-tesla-as-soon-as-december-here-s-what-it-would-do-to-spacex-stock/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-13T21:32:02+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "d7e635778c3bcc59",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -156,17 +200,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "54a49a7f6854dc35",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "America's Greatest Opportunities: The Earnings Gap That Put Tesla Stock At Ludicrous Speed",
-      "link": "https://finance.yahoo.com/m/969ba2c7-b205-3700-9f94-d81105d70786/america%27s-greatest.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-13T20:36:16+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "4f0967208856b142",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -176,17 +209,6 @@
       "source": "News",
       "published": "2026-11-13T20:10:55+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "3a124da64a958321",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings Stocks Jump 7.72% After Record $1.1 Billion Quarterly Profit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-stocks-jump-7-180150499.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-13T18:01:50+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "786d5e183ad94c76",
@@ -255,15 +277,15 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "9456507aa43686f1",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Blast Resources Announces Appointment of Andy Yackulic as Chief Executive Officer",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blast-resources-announces-appointment-andy-133000809.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T13:30:00+00:00",
-      "logo": "logos/CCJ.svg"
+      "id": "d84273c383f3662e",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Aviation (SEHK:2588) Stock Looks Fully Priced After Its 75% Run - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVN3Q1FmS2xSMmxRRU5mX1pseFRUeXZnN3lCclhtQXNZaFpUSmNZbENDcWwwOEU0VkQ3U1RNSnlNVTNRZTI3azRGYzA0Y3M0ZzkyMDhLMGl3QnFaQmRJT1lBVjRZVkJqVXlJQnBjWmVSWVlfcXloTmhfLVlseGZWanFsZw?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "published": "2026-11-11T20:13:38+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "03a1378e37df1479",
@@ -307,28 +329,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pT1lkMUNKV21tekJ4SXJXZTN1akJlNjZfRFJHVHowXzgxZ09sQUNFcVZWSjVBZGlGejZGUm5hMGFyX0FEdmxKSklTYi1DS1hD?oc=5",
       "source": "Yahoo! Finance Canada",
       "published": "2026-11-10T08:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "efe2d6f74479c97d",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Bougainville Copper (ASX:BOC) Shares Fall on Return From Trading Suspension: What’s Happening? - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXp2ZXBKSmk2aGxSOFk2U3NKYWtPbGlUMjRsdEUtbVJZeWN3R3lkZ1NReTBRNFZqdU5EODRPbWFQQjdLTUJaUjBoc3o0OUlLNGpiemFtdkh5TmIzT1hBM284Y2JJTVBKcDVLdTkzZWpYcEk3cHFiVTlQbzVrVFFMOU91MTR2MXdOVGU4SGRmSUllMWR6bjJTNEhLR1hmNDRjNFhYckFHLWlkOUZYNXBQSS04ZWs3ZGxXZ2hrbUlhWVZDTGY1SXU0Sm9PVFRzdw?oc=5",
-      "source": "Kalkine",
-      "published": "2026-10-27T07:00:00+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "fe87a991290e7083",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EMMERSON PLC (EML) Equity Price and Quote - London Stock Exchange",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
-      "source": "London Stock Exchange",
-      "published": "2026-10-22T20:53:32+00:00",
       "logo": "logos/EML.svg"
     },
     {
