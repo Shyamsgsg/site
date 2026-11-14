@@ -1,59 +1,92 @@
 {
-  "updated": "2026-11-14T10:38:39Z",
+  "updated": "2026-11-14T18:15:29Z",
   "items": [
     {
-      "id": "34389b0d08567218",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Nvidia, Alphabet, Microsoft, and Micron Are All Buying Anthropic’s IPO. Should You Buy Too?",
-      "link": "https://www.fool.com/investing/2026/11/14/nvidia-alphabet-microsoft-and-micron-are-buying-anthropic-ipo/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-14T10:22:02+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "6900aa49dc0a9934",
+      "id": "2202f38244ea5229",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla Cybercab’s Monthly Subscription Is ‘Too High,’ Elon Musk Admits To MKBHD: ‘Should Match The Cost Of…’",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-cybercab-monthly-subscription-too-high-elon-musk-mkbhd/cNbPER1R9Q1?.tsrc=rss",
+      "title": "Tesla Just Started Taking Orders for a Car With No Steering Wheel",
+      "link": "https://247wallst.com/investing/2026/11/14/tesla-just-started-taking-orders-for-a-car-with-no-steering-wheel/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-14T10:20:18+00:00",
+      "published": "2026-11-14T17:48:57+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "3e2594b57d5c0a5d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Scott Galloway Predicts Anthropic’s First Trade Opens “15% to 40% Higher.” That’s Great News for Alphabet and Amazon",
-      "link": "https://www.tikr.com/blog/scott-galloway-predicts-anthropics-first-trade-opens-15-to-40-higher-thats-great-news-for-alphabet-and-amazon?ref=yahoofinance&tlnk=yf-261114-5vwf9544&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-14T09:50:43+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "8b0f988200e238d6",
+      "id": "901bf82103d5bc17",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla Cybercab Now Available For Purchase For Select Customers — But There’s A Catch",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-cybercab-purchase-select-customers-but-catch/cNb26QDR9Qf?.tsrc=rss",
+      "title": "Elon Musk joins 100,000+ signers on a petition to reinstate Jensen Huang — including 5,000+ who say they work at Nvidia",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-joins-100-000-172500045.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-14T06:09:37+00:00",
+      "published": "2026-11-14T17:25:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "1324e716f9dc0a34",
+      "id": "c81495d8d4b890ff",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Texas’ Next Attorney General Vows “Tremendous Scrutiny” of a Tesla–SpaceX Merger",
+      "link": "https://247wallst.com/investing/2026/11/14/texas-next-attorney-general-vows-tremendous-scrutiny-of-a-tesla-spacex-merger/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T16:44:50+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "36910bd5d4f3a5a0",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "3 Cash Flow Stocks Trading Up To 49% Below Fair Value",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-flow-stocks-trading-051406202.html?.tsrc=rss",
+      "title": "Anthropic’s $1.4 Trillion IPO Is Nov. 19. U.S. AI Giants Are Trouncing China 10-to-1",
+      "link": "https://247wallst.com/investing/2026/11/14/anthropics-1-4-trillion-ipo-is-nov-19-u-s-ai-giants-are-trouncing-china-10-to-1/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-14T05:14:06+00:00",
+      "published": "2026-11-14T15:50:31+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ee56959bcc85311b",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Here’s Why Tesla (TSLA) Is One of the Top High P/E Stocks Under the 200-Day SMA",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-one-top-152951928.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T15:29:51+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "bcfef7c3a0018c60",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "AMD Just Beat Nvidia by the Widest Margin Since 1999",
+      "link": "https://247wallst.com/investing/2026/11/14/amd-just-beat-nvidia-by-the-widest-margin-since-1999/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T15:07:49+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d169d90f201279eb",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Billionaire Bill Ackman Says There’s a Huge Disconnect in Wall Street’s Expectations for Amazon, Microsoft, Meta, and Alphabet",
+      "link": "https://www.fool.com/investing/2026/11/14/bill-ackman-huge-disconnect-wall-street-expectations-for-hyperscalers/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T15:05:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "03b1b27de1e8bb79",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Harvard Cut Nvidia by a Third and Bought AMD",
+      "link": "https://247wallst.com/investing/2026/11/14/harvard-cut-nvidia-by-a-third-and-bought-amd/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T14:38:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -66,28 +99,6 @@
       "source": "News",
       "published": "2026-11-14T04:53:32+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "0ef3fa118a642f8c",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk, Tom Lee, Shopify CEO Sign ‘Stand With Jensen’ Petition To Reinstate Him As Nvidia CEO",
-      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-tom-lee-stand-with-jensen-petition-reinstate-nvidia-ceo/cNb2xkrR9Qe?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-14T04:24:53+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "496355151dedd649",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Is Alphabet “the Most Obvious Buy”? Morgan Stanley Sees TPU Sales Jumping to $84 Billion",
-      "link": "https://www.tikr.com/blog/is-alphabet-the-most-obvious-buy-morgan-stanley-sees-tpu-sales-jumping-to-84-billion?ref=yahoofinance&tlnk=yf-261114-xv78r2hc&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-14T04:06:32+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "6d2ef1279d22748b",
@@ -110,17 +121,6 @@
       "source": "GuruFocus",
       "published": "2026-11-14T01:53:02+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "49bde24976e187de",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Zero To Sixty: Tesla Winds Down Cybertruck, Pulls Model Y Variant While Rivian, Lucid Chase Volumes",
-      "link": "https://stocktwits.com/news-articles/markets/equity/zero-to-sixty-tesla-winds-down-cybertruck-pulls-model-y-variant-while-rivian-lucid-chase-volumes-in-ev-updates-this-week/cNb2AojR9QP?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-14T00:45:56+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "4fe522e52ceb99a4",
@@ -277,17 +277,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "d84273c383f3662e",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Aviation (SEHK:2588) Stock Looks Fully Priced After Its 75% Run - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVN3Q1FmS2xSMmxRRU5mX1pseFRUeXZnN3lCclhtQXNZaFpUSmNZbENDcWwwOEU0VkQ3U1RNSnlNVTNRZTI3azRGYzA0Y3M0ZzkyMDhLMGl3QnFaQmRJT1lBVjRZVkJqVXlJQnBjWmVSWVlfcXloTmhfLVlseGZWanFsZw?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "published": "2026-11-11T20:13:38+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "03a1378e37df1479",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -321,6 +310,17 @@
       "logo": "logos/ONON.svg"
     },
     {
+      "id": "7ffe0be4267ef908",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "‘Biggest mistake homeowners can make’: What the recent BoC rate hike into a stalling economy means for your money - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1lwQmlYVlgyTEtIM1lGckRubDVDaFBNN1pOeFFfS0g3SE00TU40a241RVZ4akhSeFVTMFdaUWFUVEstOEZYaTd1TlFqOTNQV2E5U0xGUm9yNHVGeGZrMlVLYXdPTjZyM1otbGhNc042WTZ0bVFUMG5td015SzQ5Tmw3UHE4cEszOER5OWpZSQ?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-11T11:00:00+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "6191de917346db47",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -332,6 +332,17 @@
       "logo": "logos/EML.svg"
     },
     {
+      "id": "556c27694f47a428",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Stock Price and Chart — NASDAQ:EML - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01c0RSckZSYlBDbXJXbVdzc3ZWdUVic19yaEljcmtZTWdlUU5JMktidndSWHVUdjB4blNZdF9XTGwzUXVlM0ctZ2IxTHk2ZmRoUmpiQzRmZ0Q0Z2M?oc=5",
+      "source": "TradingView",
+      "published": "2026-10-27T07:00:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "5ac47598a8165996",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
       "source": "Simply Wall St",
       "published": "2026-10-20T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "8a5da30ec073805f",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
-      "source": "Morningstar",
-      "published": "2026-09-21T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
