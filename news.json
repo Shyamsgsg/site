@@ -1,6 +1,94 @@
 {
-  "updated": "2026-11-14T18:15:29Z",
+  "updated": "2026-11-14T22:32:36Z",
   "items": [
+    {
+      "id": "3990df985c921e0b",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "link": "https://finance.yahoo.com/technology/articles/elon-musk-other-tech-execs-214122588.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T21:41:22+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c5dd1a3e5ffddc08",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "AIRG,EML,BSBK,HGBL,ATLO,CULP,SLND,SLRC,IMMX,HASI,VANI,FBK,LXRX,SFST,BRID,ASLE,RMCF,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeDVuczNCLVA3ODRpYzJ1T2hZalZOZzJKanhpdFk3bjk0YThCZ1R0V2pLYUl0R1hmSkJUVUhzdnRzWHY3RlgxaVZoNXhsaF9abDJkb1dXdlJ1ajB6Yl9Sck02SV9BaHE5YlF0TDdzRGhxX0NHeHd6aEFRcjA3VzdXbGRoeXBDNlVCa1kyTkRMMmZUUV8zT0ctQ0hBTDRyMmljemRZSEthaW9wRlNqdWJQWFBhOE9YVDFmbkV1aE9nenR2QQ?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-14T21:37:36+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "e4346307bc43ad44",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "AIRG,EML,BSBK,HGBL,ATLO,CULP,SLND,SLRC,IMMX,VANI,FBK,HASI,SFST,ASYS,BRID,ASLE,RMCF,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVUVNTFNyd1ZYamRpbGV4cmFhQl9MTG8yM29uT3cyY3FSNGtTb0t2RTlzV0txZGk1OFBlUFI3TVZPTzlHT0p1SkhybTc1Yjd6RG1NVTdqbG5nRmRrNDlsZlA5OWlHeTU1YXc5dk9HUnZaU3ZMQkVNZXNvSGgxN0t5UDR2cUJacURMSHRnUEg5ZFJNeVNqdU5mcGRXVWJfR2E1Vm1aREFtS2s1azlUamE5SmdPRGVtd2x0RUZZSC1nSEZmdw?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-14T21:36:44+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "dae552d48f7ab776",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "link": "https://finance.yahoo.com/technology/articles/tesla-opens-cybercab-pre-orders-200444578.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T20:04:44+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "95a2ab645fdaa1e5",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "5 AI Infrastructure Stocks to Watch After CoreWeave’s Earnings",
+      "link": "https://finance.yahoo.com/technology/ai/articles/5-ai-infrastructure-stocks-watch-192326731.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T19:23:26+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "0ea1b8f1b2fda2ad",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla (TSLA) Breaks Ground On $10 Billion Texas Solar Factory As EU Approvals Advance",
+      "link": "https://finance.yahoo.com/energy/articles/tesla-tsla-breaks-ground-10-190728186.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T19:07:28+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "110c0eab518f9d63",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Planet Labs PBC vs. Red Cat: Which Industrials Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/14/planet-labs-pbc-vs-red-cat-which-industrials-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T18:20:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e140c5ca5bda6788",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Crocs And 2 Other Undervalued Cash Flow Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/crocs-2-other-undervalued-cash-180928201.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T18:09:28+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "2202f38244ea5229",
       "ticker": "TSLA",
@@ -10,28 +98,6 @@
       "link": "https://247wallst.com/investing/2026/11/14/tesla-just-started-taking-orders-for-a-car-with-no-steering-wheel/?.tsrc=rss",
       "source": "News",
       "published": "2026-11-14T17:48:57+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "901bf82103d5bc17",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk joins 100,000+ signers on a petition to reinstate Jensen Huang — including 5,000+ who say they work at Nvidia",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-joins-100-000-172500045.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-14T17:25:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "c81495d8d4b890ff",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Texas’ Next Attorney General Vows “Tremendous Scrutiny” of a Tesla–SpaceX Merger",
-      "link": "https://247wallst.com/investing/2026/11/14/texas-next-attorney-general-vows-tremendous-scrutiny-of-a-tesla-spacex-merger/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-14T16:44:50+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -46,17 +112,6 @@
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "ee56959bcc85311b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Here’s Why Tesla (TSLA) Is One of the Top High P/E Stocks Under the 200-Day SMA",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-one-top-152951928.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-14T15:29:51+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "bcfef7c3a0018c60",
       "ticker": "GOOG",
       "symbol": "GOOG",
@@ -65,28 +120,6 @@
       "link": "https://247wallst.com/investing/2026/11/14/amd-just-beat-nvidia-by-the-widest-margin-since-1999/?.tsrc=rss",
       "source": "News",
       "published": "2026-11-14T15:07:49+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "d169d90f201279eb",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Billionaire Bill Ackman Says There’s a Huge Disconnect in Wall Street’s Expectations for Amazon, Microsoft, Meta, and Alphabet",
-      "link": "https://www.fool.com/investing/2026/11/14/bill-ackman-huge-disconnect-wall-street-expectations-for-hyperscalers/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-14T15:05:02+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "03b1b27de1e8bb79",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Harvard Cut Nvidia by a Third and Bought AMD",
-      "link": "https://247wallst.com/investing/2026/11/14/harvard-cut-nvidia-by-a-third-and-bought-amd/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-14T14:38:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -110,17 +143,6 @@
       "source": "News",
       "published": "2026-11-14T02:12:46+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "35dedfe79dba2061",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "A Look at The Eastern Co (EML) After 3.4% Gain -- GF Value $26.6 - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSXBEbzhTdG9TZ0xVRHZuTjU4dG9uTTVIZlZZTzlCSHVBNElXMTNwWks1TDRDZHpUOWxBMS00aW1XdGo4dmpqdzJmZFhlVG9pX0xLTVJhYVhTUUR0dm03Nk5jNUhsbWtHams1eXo0RzliWUs5Y3VNb1MxNEhpem9nWUZqVmNWcFVIY1JCU1VRMWRzQ0x6bnBCUDN0RVNVXy1vaFhId2poSmFWSUhHN0E?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-11-14T01:53:02+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "4fe522e52ceb99a4",
@@ -233,17 +255,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "698005991af9a8d2",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CoreWeave and Nebius Lost a Friend in Huang. What Comes Next for Neoclouds.",
-      "link": "https://finance.yahoo.com/m/16e2133b-5484-32c1-a10e-d316619d914e/coreweave-and-nebius-lost-a.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-13T14:54:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "a2a59616b96214d2",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -275,6 +286,17 @@
       "source": "News",
       "published": "2026-11-12T15:25:00+00:00",
       "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "80d162837468722b",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "AIRG,EML,HGBL,CULP,SLND,SLRC,VANI,HASI,FBK,LXRX,ASYS,SFST,BRID,ASLE,RMCF,QRHC,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTXdUZlpIaEY3aFQ1ZWxrZVFORjZqQUxlTFN4VEEtdjh6M0otTTVyUGNaMk1lZjN3WE42SDM3azA2RlRsOU95RXZXbm5JWkxEdDRmN1Zra1hjZHhvMFEwemZpdVdEMTVEOC1xVlVmYmdGdHYwbGxBRFpWbThSNTZJQjlMRDcwSW1kVHJvcnF1Q21yZUFidnpMMjI5NHduTmFNdXVIRmpKNHJBZ0NfdDczTWp0dzEzbmk4SjFn?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-12T15:00:00+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "03a1378e37df1479",
@@ -329,28 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pT1lkMUNKV21tekJ4SXJXZTN1akJlNjZfRFJHVHowXzgxZ09sQUNFcVZWSjVBZGlGejZGUm5hMGFyX0FEdmxKSklTYi1DS1hD?oc=5",
       "source": "Yahoo! Finance Canada",
       "published": "2026-11-10T08:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "556c27694f47a428",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Stock Price and Chart — NASDAQ:EML - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01c0RSckZSYlBDbXJXbVdzc3ZWdUVic19yaEljcmtZTWdlUU5JMktidndSWHVUdjB4blNZdF9XTGwzUXVlM0ctZ2IxTHk2ZmRoUmpiQzRmZ0Q0Z2M?oc=5",
-      "source": "TradingView",
-      "published": "2026-10-27T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "5ac47598a8165996",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments Insiders Are Down AU$388k But Regain Some Losses - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUF1eTU4eXRSTXdPX3JtMVpXYTVxMWVZM2NDU054akZzRFFaRlVFLUt3OHlpQnk5U0laOGpXUWd3Tmh3bVV6LUNZdlp4clpLQk11Um00dnFxTGoxdUlBdURnYVI1VnBhVk9WUjBucmIxWHpaYl9EVjRYUzhUbmN3NGxkcTJSdDhPV05pMDNlR0Y2ZFpvZk5kNEJ2dTZtRFB2bHBvTFNobTdHVm1BM1VHUnBxWmxEd0VUb0lUbmZ3N3BsWERvZmVPUHk3dXpNM1h0NzVneV94VWtEWGtZS1o0SHpR0gHnAUFVX3lxTE9fWkVUeGZVQ3Z3alFfNXE2OUIya09ybjhzcHg1ZW40VzVTa2ZkbkZjYnVfamRaX0wwcFU5bFJwcVhkaWNZNGJvMmItaGppWV9TZW0xdzF1eFNCX3dkcVpmUGVXQV9neU9Lb0lUX0NPUXZtcVBiTjBiLU5paklnamhCYWlETVNUQjJ3Zl95RDhZV3ZhV2E4VlpjeFlXN2dxUHV3WFF1d05Ub0wwUEJjbmNSdEJibzMya3FlMGl6RS13Xy03SVZlbU9zamVlZlRNMGZuWXU0T0NUOTdQanF3V2RRWUNITXRNQQ?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-10-20T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
