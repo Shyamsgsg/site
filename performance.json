@@ -455,9 +455,9 @@
   },
   {
    "date": "2026-11-13",
-   "index": 91.799266,
+   "index": 91.80733,
    "spx": 7561.67,
-   "audusd": 0.6774,
+   "audusd": 0.6777,
    "usdsgd": 1.2877,
    "prices": {
     "NU": 13.22,
@@ -472,6 +472,6 @@
    }
   }
  ],
- "updated": "2026-11-14T17:59:34+00:00",
+ "updated": "2026-11-15T18:50:08+00:00",
  "method": "Time-weighted, chain-linked daily index (base 100 at inception close). USD, equities only."
 }
