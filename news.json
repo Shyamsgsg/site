@@ -1,6 +1,83 @@
 {
-  "updated": "2026-11-14T22:32:36Z",
+  "updated": "2026-11-15T06:46:24Z",
   "items": [
+    {
+      "id": "e222af4c96b12e4d",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "AIRG,BSBK,EML,HGBL,ATLO,SLND,CULP,SLRC,IMMX,FBK,HASI,VANI,LXRX,SFST,BRID,ASLE,RMCF,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXY5TFJSXzNSOW05RFB1X0RPYjFyUmlIZW9DQ3R4T2tHQjJWemxvTDNwTllPbHFZZDF6TURZOTFORHZXRzNySm9FTlQyeGM0NjdFN19CRm9fcEdTTzJqblc4MVFaemxJTUtDRVhRNmp2Ml8tREZzQ1FVUndyUWdHal80eVU0dm1XX3JlczhBbmhsUVczeEdReXlvVDdhQ1hMYzM2MlNoVnN1d1pFQmR6Q2V2MEVRSm5XcFcxUGtDQXFSdw?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-15T04:25:40+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "a6d4b33b06160d73",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google Could Buy Uber to Win the Robotaxi Wars, Reuters Columnist Argues",
+      "link": "https://finance.yahoo.com/technology/articles/google-could-buy-uber-win-033038440.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-15T03:30:38+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "7a9bdf5986822fec",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings: 3 Key Takeaways for Long-Term Investors",
+      "link": "https://www.fool.com/earnings/takeaways/2026/11/14/nu-holdings-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-15T03:10:48+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "d0fe95a592e18b0c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla makes major Cybercab announcement as driverless vehicle goes on sale",
+      "link": "https://www.foxbusiness.com/technology/tesla-makes-major-cybercab-announcement-driverless-vehicle-goes-sale?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-15T01:49:28+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "32833a6e015c3398",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "AIRG,EML,BSBK,ATLO,HGBL,SLND,CULP,SLRC,IMMX,VANI,FBK,HASI,ASYS,SFST,BRID,ASLE,RMCF,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTHVsZ3YteFNHVFBjbFNRQVZHZnNwYmdaX2tiQUE4dVlhYlBCeUZ5T1J5VlpPYmEwelJrSkkybTVLT2pDQWNnNkZoUzc4SndLMTh3elNoM2JhSy13eFJVNEFwRjRVckk3czFhbTUxN1lKemZoSzQ5RnJMV3hwWlp3SHRkMVpXMVRITUtIYTFkNmtZQW1oa1pTMDJJVHphU0hoS251TGhKNWJuc0stemltUHUtemRVT2xIU0ZtUDljcUhyQQ?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-15T01:22:41+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "0458a18a7cc5cf45",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
+      "link": "https://247wallst.com/personal-finance/2026/11/14/he-thinks-his-200000-sp-500-401k-spreads-his-ai-risk-two-alphabet-share-classes-put-10380-in-one-company-a-20-drop-could-cost-him-2076/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T23:03:46+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e591e057f8f9bb93",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk's Tesla and SpaceX Lost More Than $420 Billion in Combined Market Value in Two Days After Democrats Swept the Midterms, With Investors Fearing New Congressional Probes. Here's Why That Political Risk Matters for Shareholders",
+      "link": "https://www.fool.com/investing/2026/11/14/elon-musks-tesla-and-spacex-lost-more-than-420-billion-in-combined-market-value-in-two-days-after-democrats-swept-the-midterms-with-investors-fearing-new-congressional-probes-heres-why-that-political-risk-matters-for-shareholders/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-14T22:48:02+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "3990df985c921e0b",
       "ticker": "TSLA",
@@ -57,17 +134,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "0ea1b8f1b2fda2ad",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla (TSLA) Breaks Ground On $10 Billion Texas Solar Factory As EU Approvals Advance",
-      "link": "https://finance.yahoo.com/energy/articles/tesla-tsla-breaks-ground-10-190728186.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-14T19:07:28+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "110c0eab518f9d63",
       "ticker": "GOOG",
       "symbol": "GOOG",
@@ -87,39 +153,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/crocs-2-other-undervalued-cash-180928201.html?.tsrc=rss",
       "source": "News",
       "published": "2026-11-14T18:09:28+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "2202f38244ea5229",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Just Started Taking Orders for a Car With No Steering Wheel",
-      "link": "https://247wallst.com/investing/2026/11/14/tesla-just-started-taking-orders-for-a-car-with-no-steering-wheel/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-14T17:48:57+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "36910bd5d4f3a5a0",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Anthropic’s $1.4 Trillion IPO Is Nov. 19. U.S. AI Giants Are Trouncing China 10-to-1",
-      "link": "https://247wallst.com/investing/2026/11/14/anthropics-1-4-trillion-ipo-is-nov-19-u-s-ai-giants-are-trouncing-china-10-to-1/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-14T15:50:31+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "bcfef7c3a0018c60",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "AMD Just Beat Nvidia by the Widest Margin Since 1999",
-      "link": "https://247wallst.com/investing/2026/11/14/amd-just-beat-nvidia-by-the-widest-margin-since-1999/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-14T15:07:49+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -176,17 +209,6 @@
       "source": "News",
       "published": "2026-11-13T23:04:29+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "431b975aa0cab312",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Stock Market Today, Nov. 13: Nu Holdings Surges on Record Q3 Earnings Beat Driven by Strong Revenue",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-nu-holdings-surges-on-record-q3-earnings-beat-driven-by-strong-revenue/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-13T22:13:02+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "c6baa708f6cdcdc1",
@@ -288,17 +310,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "80d162837468722b",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "AIRG,EML,HGBL,CULP,SLND,SLRC,VANI,HASI,FBK,LXRX,ASYS,SFST,BRID,ASLE,RMCF,QRHC,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTXdUZlpIaEY3aFQ1ZWxrZVFORjZqQUxlTFN4VEEtdjh6M0otTTVyUGNaMk1lZjN3WE42SDM3azA2RlRsOU95RXZXbm5JWkxEdDRmN1Zra1hjZHhvMFEwemZpdVdEMTVEOC1xVlVmYmdGdHYwbGxBRFpWbThSNTZJQjlMRDcwSW1kVHJvcnF1Q21yZUFidnpMMjI5NHduTmFNdXVIRmpKNHJBZ0NfdDczTWp0dzEzbmk4SjFn?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-11-12T15:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "03a1378e37df1479",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -341,17 +352,6 @@
       "source": "Yahoo! Finance Canada",
       "published": "2026-11-11T11:00:00+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "6191de917346db47",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "The Eastern Company (EML) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pT1lkMUNKV21tekJ4SXJXZTN1akJlNjZfRFJHVHowXzgxZ09sQUNFcVZWSjVBZGlGejZGUm5hMGFyX0FEdmxKSklTYi1DS1hD?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-11-10T08:00:00+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "100f84de1493c850",
