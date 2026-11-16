@@ -1,6 +1,116 @@
 {
-  "updated": "2026-11-15T22:57:00Z",
+  "updated": "2026-11-16T06:45:09Z",
   "items": [
+    {
+      "id": "e82b90b71bd38743",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla And 2 Top Insider Owned Growth Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-2-top-insider-owned-061432207.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-16T06:14:32+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "91157b3cf25c76d7",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "More Pain For NVDA? Top Supply Chain Analyst Says New OpenAI, Anthropic Chip Orders Boost Google’s TPU Outlook",
+      "link": "https://stocktwits.com/news-articles/markets/equity/more-pain-for-nvda-top-supply-chain-analyst-says-new-open-ai-anthropic-chip-orders-boost-google-s-tpu-outlook/cNb7fwwR9X7?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-16T05:03:30+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "0a0bd4e0bf516e39",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "AIRG,BSBK,EML,HGBL,ATLO,CULP,SLND,SLRC,IMMX,VANI,HASI,FBK,SFST,ASYS,BRID,ASLE,RMCF,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFRVOUh3RHZ2bzJIcWp4a2hCOXhBQnNBOEE3T1ZHMnFHMWdEMzRjWnRxZ2J5bFJLaFRiYVptUEV4ZEN1OWFQM096aFRiYjJOb191UkxKTTh6NmRWeDFEUTBHYzBuekl5bUNnekhEY3M4WV93eXF0dTdod2s3ZEZINFR1Sy02YlRMS3Y5Rlo5RmFEMU8tNVhXV1FqZy11a21ReGFHUlA0dFVYSXpTM3A2NmNwOEN0MFlIVXNiSkwyN2diZw?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-16T04:17:26+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "c9cdf7de98e3499f",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "AIRG,EML,HGBL,SLND,CULP,SLRC,VANI,FBK,HASI,LXRX,SFST,ASYS,BRID,ASLE,RMCF,QRHC,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM2lZTENZWVBzMGg5OHFTajJjMnVuNXdzRGhYQnkxWXJHOGdNLV9aQ3lqaC1kY1huYVZmY19UclZNU1dMV1JRR0psb2hUTWpQTmxZaXNWZVd2R09ITnhYeS1hNWNQaWo5S2E1TlJLQkVaRkpqcjdYUzFPOUZ5c0JBU3VFaTZhckFEUXhrWFJEbUt1WEFlMGJ1bTY1WkZ1RFhDVjhyZFZ1SkdiSWw2Z2k5RUtqZ05zbEhiVHVz?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-16T04:15:55+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "5fc2e217d883cfb9",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Steve Jobs Went Back to Apple in 1997 and $10,000 Became $18.6 Million. Jensen Huang May Be Next",
+      "link": "https://247wallst.com/investing/2026/11/15/jensen-huang-may-return-to-nvidia-when-steve-jobs-went-back-to-apple-in-1997-10000-became-18-6-million/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-16T03:47:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d2214412cb8c92d7",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "5 Worst AI Infrastructure and Data Center Stocks to Buy According to Short Sellers",
+      "link": "https://finance.yahoo.com/technology/ai/articles/5-worst-ai-infrastructure-data-025634636.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-16T02:56:34+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "8f27bda3bd1c57d2",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Morgan Stanley’s Q3 filing reveals $5.6 billion SpaceX stock surprise",
+      "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-spacex-13f?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-16T02:03:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "683bdb800cca3a93",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Nvidia stock steady as Jensen Huang reportedly weighs CEO comeback, Musk backs return",
+      "link": "https://finance.yahoo.com/markets/article/nvidia-stock-steady-as-jensen-huang-reportedly-weighs-ceo-comeback-musk-backs-return-015644730.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-16T01:56:44+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "0f2bb647a65f79fb",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Anthropic's record IPO faces some big questions",
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropics-record-ipo-faces-big-012430589.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-16T01:24:30+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "1d2084557820e54e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Consumer Defensive Stocks Extend Winning Streak To 6 Weeks As SPY, QQQ Rebound: TTD, CHTR, TSLA Lead Gains",
+      "link": "https://stocktwits.com/news-articles/markets/equity/consumer-defensive-stocks-extend-winning-streak-to-6-weeks-as-spy-qqq-rebound-ttd-chtr-tsla-lead-gains/cNb7EqoR9QC?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-16T01:13:20+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "06fb179b9a6894a2",
       "ticker": "TSLA",
@@ -57,72 +167,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "dbf213c2a74045b3",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Why Fervo Energy Stock Surged This Week",
-      "link": "https://www.fool.com/coverage/market-movers/2026/11/15/why-fervo-energy-stock-surged-this-week/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-15T19:02:04+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "88c4040b98a075d9",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash",
-      "link": "https://www.tikr.com/blog/nvidias-problem-openai-is-90-plus-percent-nvidia-and-its-the-lab-burning-cash?ref=yahoofinance&tlnk=yf-261115-6qwrm2q7&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-15T18:09:50+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "1211f6250fba8b81",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "SpaceX caught Starship from orbit with ‘robot chopsticks’ in a world 1st — but lost its booster in the Gulf of Mexico",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-caught-starship-orbit-robot-180500736.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-15T18:05:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "67006d22cc91efcd",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Elon Musk Warns Nvidia Will Lose ‘Critical Deals’ Without Jensen Huang",
-      "link": "https://247wallst.com/investing/2026/11/15/elon-musk-warns-nvidia-will-lose-critical-deals-without-jensen-huang/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-15T16:59:06+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "5aca0917181963b4",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Why Dec. 9 Could Be a Huge Day for Rivian Investors",
-      "link": "https://www.fool.com/investing/2026/11/15/why-dec-9-could-be-a-huge-day-for-rivian-investors/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-15T16:35:02+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "80b2e0d7fb990c61",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "‘No further investment without Jensen’: Billionaire stops buying Nvidia as Musk and top funds rally behind Huang",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/no-further-investment-without-jensen-163500070.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-15T16:35:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "3d1a410d1b839c71",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -134,17 +178,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "c7bfc26772dc87c9",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Is Down 13% in 2026 While the S&P 500 Is Up. Here’s the 1 Catalyst Left This Year That Could Flip That.",
-      "link": "https://www.fool.com/investing/2026/11/15/tesla-is-down-13-in-2026-while-the-sp-500-is-up-heres-the-1-catalyst-left-this-year-that-could-flip-that/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-15T14:15:02+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "ce08df98a1b2a526",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -154,28 +187,6 @@
       "source": "News",
       "published": "2026-11-15T13:57:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "1aa4d70065174765",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "AIRG,EML,DOMH,CULP,SLRC,FBK,VANI,HASI,ASYS,SFST,BRID,ASLE,RMCF,QRHC,CMTL,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXoxb21TUVJfX2RNaS1FMDRHQXdvQXdhNGhPRm90MWw5YzQ5QkxGaXhnNEZkVVh0MXVWbjdXMUJyOG1ubHlFNU9KUGJ0dHU4YS1sQS1qTWdVUjRGWlN2X0t0VUhhSXNCXzZ5LTRsNU0yTzFzd284dlFWUUhiLTBYYXVfTlN2ME5pc01pTGM5SklONm5GVXhtTEZuMFVwcXNmMnVZaTRRakZqcmFCdE1EOXhqMmU?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-11-15T12:43:36+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "ebbc2f03eb60c35d",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "AIRG,BSBK,EML,HGBL,ATLO,CULP,SLND,SLRC,IMMX,FBK,HASI,VANI,ASYS,SFST,BRID,ASLE,RMCF,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeXhzQzdOV3lRUXdKRUxNZng2ZTRqMy1Ba0pOTW5sRmZqcmJlTUdlTU5Od1dheVdNbU1qQ3dCQVBMNVhjc2NCM3FzenBUOXhzZEJQN3lyNGdkbUxaS2Q1dmtveWdWS0VFdXY0aW5mZWVia0h2R05XZTFuRVF0X0JiMlFocHVpcVlndVR1ZjVRMGg2eWg0REsyMDRnQUNaM0xtQ0VJRW1iT3lQNi1uQ2ZDQU5zVnBCdjhmSVNHcXdlanA0UQ?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-11-15T12:42:10+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "f08705da397acb35",
@@ -308,17 +319,6 @@
       "source": "News",
       "published": "2026-11-13T20:10:55+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "786d5e183ad94c76",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Nebius Plummeted 33% in 3 Months: High Target Price Predicting 220% Gains Holds Steady Ahead of Q3 Earnings as Firm Avoids Nvidia Entanglement",
-      "link": "https://247wallst.com/investing/2026/11/13/nebius-plummeted-33-in-3-months-high-target-price-predicting-220-gains-holds-steady-ahead-of-q3-earnings-as-firm-avoids-nvidia-entanglement/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-13T17:45:32+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "37ddcec356722bd5",
