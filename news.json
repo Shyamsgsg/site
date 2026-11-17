@@ -1,93 +1,214 @@
 {
-  "updated": "2026-11-17T03:58:42Z",
+  "updated": "2026-11-17T16:13:16Z",
   "items": [
     {
-      "id": "d2e885ae3b064354",
+      "id": "20447156000ce288",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Cathie Wood’s $2.2 Billion Bet on Elon Musk Could Soon Become One Giant Stock",
-      "link": "https://247wallst.com/investing/2026/11/16/cathie-woods-2-2-billion-bet-on-elon-musk-could-soon-become-one-giant-stock/?.tsrc=rss",
+      "title": "Brad Gerstner Dumps These 3 Stocks",
+      "link": "https://www.tikr.com/blog/brad-gerstner-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261117-79fc3fv5&.tsrc=rss",
       "source": "News",
-      "published": "2026-11-17T03:23:00+00:00",
+      "published": "2026-11-17T15:58:09+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "515b6c4ef841b05b",
+      "id": "709bc1edf0ff4ffc",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Elon Musk says Larry Page’s ‘Five Nines’ AI prediction is right, despite their decade-long feud",
-      "link": "https://www.thestreet.com/investing/elon-musk-larry-page-five-nines-ai-data-center-compute-prediction?.tsrc=rss",
+      "title": "Fed Chair Kevin Warsh Outlined 3 Possible Futures for AI Yesterday. One Could Be Devastating for Stocks",
+      "link": "https://247wallst.com/investing/2026/11/17/fed-chair-kevin-warsh-outlined-3-possible-futures-for-ai-yesterday-one-could-be-devastating-for-stocks/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-17T02:03:00+00:00",
+      "published": "2026-11-17T15:54:15+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "c6c0aacea3bf6e85",
+      "id": "97d476c10a222228",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "AI drugmaker Isomorphic restocks with $5B fundraise",
+      "link": "https://www.biopharmadive.com/news/isomorphic-labs-ai-drug-discovery-financing/874863/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-17T15:51:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "7113fa431dde1ce0",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "If Nvidia’s Earnings Show Tightness, Alphabet and Amazon Could Rise 40% and 33% By The End of 2026, Respectively",
+      "link": "https://247wallst.com/investing/2026/11/17/if-nvidias-earnings-show-tightness-alphabet-and-amazon-could-rise-40-and-33-by-the-end-of-2026-respectively/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-17T15:45:27+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "94791427eb66beda",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Broadcom’s AI Revenue is Contracted to Double in 2027, So I’m Buying",
+      "link": "https://247wallst.com/investing/2026/11/17/broadcoms-ai-revenue-is-contracted-to-double-in-2027-so-im-buying/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-17T15:45:22+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "f497b8726cf7fe45",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tesla board member Joe Gebbia: Nvidia should “reinstate” Jensen Huang to let investigation play out",
-      "link": "https://finance.yahoo.com/video/tesla-board-member-joe-gebbia-010013441.html?.tsrc=rss",
+      "title": "Jensen Huang holds 3.6% of Nvidia’s votes, so his board could show him the door. Musk and Zuckerberg have a shield",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-holds-3-6-153500354.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-17T01:00:13+00:00",
+      "published": "2026-11-17T15:35:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "b57f54f40403f6c2",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Warren Buffett's Successor, Greg Abel, Overhauled Berkshire's Portfolio for a 3rd Straight Quarter, Reducing 6 Stocks and Piling Into a Hot Tech IPO",
-      "link": "https://www.fool.com/investing/2026/11/16/warren-buffett-successor-greg-abel-overhaul-berkshire-portfolio-3rd-straight-quarter-reduce-6-stocks-buy-hot-tech-ipo/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-17T00:53:01+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "f6ac717a99a39b65",
+      "id": "19076aaef4343201",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "S&P 500, Dow, Nasdaq End Lower As Investors Hold Back Ahead Of Nvidia Earnings, Anthropic IPO This Week — NVDA, TSLA, ANT In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-investors-hold-back-ahead-of-nvidia-earnings-anthropic-ipo/cNbaf4PR9gk?.tsrc=rss",
+      "title": "Tesla's $3.3B Cybercab Push in Germany: Will It Pay Off?",
+      "link": "https://finance.yahoo.com/technology/articles/teslas-3-3b-cybercab-push-150300873.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-17T00:09:28+00:00",
+      "published": "2026-11-17T15:03:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "d0ec76bf315a45ae",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Brad Gerstner Says AI Is at Its ‘Google 2005’ Moment. Here’s Who He Thinks Wins",
-      "link": "https://247wallst.com/investing/2026/11/16/brad-gerstner-says-ai-is-at-its-google-2005-moment-heres-who-he-thinks-wins/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-17T00:07:04+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "eb639ce77f51e683",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Christian Muche of POSSIBLE Makes Room for Marketing’s Ever-Growing Guest List",
-      "link": "https://www.beet.tv/2026/11/christian-muche-of-possible-makes-room-for-marketings-ever-growing-guest-list.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-16T23:41:19+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "faf0763f567886aa",
+      "id": "0534c9d66316767d",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Tech Leaders Want Jensen Huang to Return to Nvidia. Here’s What That Would Mean for the Stock Price.",
-      "link": "https://www.fool.com/investing/2026/11/16/tech-leaders-want-jensen-huang-to-return-to-nvidia-here-s-what-that-would-mean-for-the-stock-price/?.tsrc=rss",
+      "title": "Cathie Wood Is Betting $1.2 Billion on Tesla",
+      "link": "https://www.tikr.com/blog/cathie-wood-is-betting-1-2-billion-on-tesla?ref=yahoofinance&tlnk=yf-261117-9rx4jpqp&.tsrc=rss",
       "source": "News",
-      "published": "2026-11-16T23:35:02+00:00",
+      "published": "2026-11-17T15:00:17+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "6c288baebc2d9030",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "Co-CEO Buying and $1B Share Authorization Validate On Holding AG’s (ONON) Multi-Year Growth Thesis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/co-ceo-buying-1b-share-142521282.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-17T14:25:21+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "750fbfce43e15107",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Will Energy Fuels' Contract Portfolio Support Higher Uranium Sales?",
+      "link": "https://finance.yahoo.com/energy/articles/energy-fuels-contract-portfolio-support-141000113.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-17T14:10:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "df20af75ca036bab",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco Sinks 12% in a Week to a New 52-Week Low. Is the Selling Overdone?",
+      "link": "https://www.tikr.com/blog/cameco-sinks-12-in-a-week-to-a-new-52-week-low-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261117-3w2c629g&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-17T13:57:28+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "d964464b93886c0f",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "AIRG,BSBK,EML,ATLO,HGBL,CULP,SLND,SLRC,IMMX,HASI,FBK,VANI,SFST,ASYS,BRID,ASLE,RMCF,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2JLZFpBaFdrSll4eEM2OTZXM0JBbzdrcUlxSjAycnJuVGJIUUpqMkVWc1VZaHN1YzVwZmxINXZGeHVSQ3QzYW9sZzRaeWNTemJLVFlzNVVvZ0JlbjRjZHRWV1IyUGg5UWhVRVQ0ZFdvZ01xMnpodXJUUXg2UGczdXNDUXVidjdJRGlpRUhrdHA4cFhpaVAtMzdCclBUeEgxeWxwR0VkQi0ySHpVWEJZWHo1Z0tSZDBDalZwM1dSLW0yQQ?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-17T12:47:46+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "51672d378c5cb8db",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CoreWeave Answered the Biggest Question About AI Stocks. Now Nvidia Has to Confirm It.",
+      "link": "https://www.fool.com/investing/2026/11/17/coreweave-answered-the-biggest-question-about-ai-stocks-now-nvidia-has-to-confirm-it/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-17T11:03:01+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "f29b046a96d0aa73",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Nearly Tripled AI Cloud Revenue to $200 Million. Can It Be “Delivered, Financed, and Run at a Profit”?",
+      "link": "https://www.tikr.com/blog/iren-nearly-tripled-ai-cloud-revenue-to-200-million-can-it-be-delivered-financed-and-run-at-a-profit?ref=yahoofinance&tlnk=yf-261117-22r3c6fc&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-17T10:33:01+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "ef9b64783ef54e0e",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Canadian home sales edge higher as BoC raises interest rates - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMi1qUHpaUGk4eUtkOXk3eUJCblM1NmlCeGZxekJBT3k3OWlRU09PU2M0a0JobUNpSUllTzY1d3NtbmlkUXE4bFlLalRSSmR4bkhBTl9RTk0wM25jLTRCd2haWmE5VDkzbkdkMGRGa0ktTzRQY01LWlVuMXZIeUF0aTJ4Y0szLUFrbE15bkZQX3dYTnRQcmdScQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-17T10:03:33+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "ffa163b52fb25fcf",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Stock Rises Overnight As Intel Reveals Stake, Anthropic IPO Buzz Catches On",
+      "link": "https://stocktwits.com/news-articles/markets/equity/iren-stock-rises-overnight-as-intel-reveals-stake-anthropic-ipo-buzz-catches-on/cNbaFxaR9W3?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-17T08:06:10+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "f236cd625b0e1032",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Situational Awareness Revives AI Portfolio After Summer Collapse — Here Are Its New Stock Bets",
+      "link": "https://stocktwits.com/news-articles/markets/equity/situational-awareness-revives-ai-portfolio-after-summer-collapse-here-are-its-new-stock-bets/cNbakMGR9gx?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-17T05:33:12+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "c5ae03f5fedc8edc",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "AIRG,BSBK,EML,HGBL,ATLO,SLND,CULP,SLRC,IMMX,VANI,HASI,FBK,LXRX,SFST,BRID,ASLE,RMCF,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd0Jhd19VanpualdVbzhXaVBneTVES2VkN3AzZGZQWURaSDI5czVVXzhhWXI0aG5PTUFiS3NBTEFua3FEdWRCTlg3MFE3NkdfcFNKTnV5cUxSS2JpcG9mVks3SVg2OUFqOEFRR3JYdWhSbFY1OXRISGozV2RWaTRBT3hxcEZSV2ZUZDljM0JyYVB2Z2NELU8yUnV0ZVZJVzVnOEYxS0I2dkstdm9INUlTS25sb1dPMTVKN3pZQWl6T1pXZw?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-17T05:21:58+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "0a27932c7a4f3eb3",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Top 3 Canadian Nuclear Stocks With Earnings Growth Up To 37%",
+      "link": "https://finance.yahoo.com/energy/articles/top-3-canadian-nuclear-stocks-051409478.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-17T05:14:09+00:00",
+      "logo": "logos/CCJ.svg"
     },
     {
       "id": "c7d6570717dc7945",
@@ -112,17 +233,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "b5703403524b44a7",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Stock Market Today, Nov. 16: IREN Slides as Neocloud Weakness and Tech Sector Selling Put Pressure on Shares",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-iren-slides-as-neocloud-weakness-and-tech-sector-selling-put-pressure-on-shares/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-16T23:10:55+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "1c9cda7324f09659",
       "ticker": "NU",
       "symbol": "NU",
@@ -145,61 +255,6 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "db56c9973e1711cb",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Morgan Stanley, other banks revalue AI stocks on financing, execution fears",
-      "link": "https://blockspace.media/short/morgan-stanley-other-banks-revalue-ai-stocks-on-financing-execution-fears/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-16T21:04:23+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "a0c04737e30b5c5f",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "JPMorgan slashes IREN price target on Microsoft site delays",
-      "link": "https://blockspace.media/short/jpmorgan-slashes-iren-price-target-on-microsoft-site-delays/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-16T21:01:44+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "6a592f3f49b363d1",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CoreWeave, Oracle and Nebius Plunge as Nvidia Fallout Rattles AI Stocks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-oracle-nebius-plunge-nvidia-192652785.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-16T19:26:52+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "f21534fe837777c9",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "AIRG,BSBK,EML,ATLO,HGBL,CULP,SLND,SLRC,IMMX,FBK,HASI,VANI,LXRX,SFST,BRID,ASLE,RMCF,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVDlrVWFDOWJWdmNnMmlqNTZUVzVHcEt6cnJSalhuNVMxM3NCUjdOcy01WDM5V3ZVQWkxWWY1Sl9OUHRMSU43X252WTgzYVhHdThNSHFuaUxrNGpHeGZYNzM1ajBhR3pmX05JcjdtTHJXSHpsYWZOM05OY2RQNE05SFVjbnZqaFpoQVQ5elJ5U2RlbDh4a3pvakFyUTE2UE9XdUVDd0VnNXUtZzNmWDlHY1hXRmNwU2NSbnNSdW0tdWV5dw?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-11-16T16:30:12+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "e507ade82f1f798a",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "AIRG,EML,HGBL,SLND,CULP,SLRC,HASI,FBK,VANI,LXRX,SFST,ASYS,BRID,ASLE,RMCF,QRHC,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMjA4ak0zOFo3Q0pMR1dmU1Q0ZHN4WENVOHotX19QeFdHVDRjU2c3QVJ4Mk81bVZ5XzBTQ3N6ZFM5bUxVelBtTWx5N1lRWG54Mnl3UjZIR2c0ZjZXLXcxYk5IbDBxMFZSRVQ2WnB2WVpEUmZqc3ZTRHVIRWZSNW9qVUQ2LVB1UGU2Y3NTejFoWmxBNExWS3ZFMTA3bENpUEpOcXdITXVFeWF2aXU3X0dCME5wYk5NOWJmbFBr?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-11-16T16:29:08+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "4143c04ced8e362c",
       "ticker": "NU",
       "symbol": "NU",
@@ -209,17 +264,6 @@
       "source": "News",
       "published": "2026-11-16T15:45:00+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "337ac550464c005e",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Nuclear Energy Stocks Gain as Reliable Power Demand Grows in US",
-      "link": "https://finance.yahoo.com/energy/articles/nuclear-energy-stocks-gain-reliable-145900354.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-16T14:59:00+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "5c0851199fa20906",
@@ -277,17 +321,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "dfa3e317775439b3",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "3 Canadian Growth Stocks With Earnings Growth Up To 72%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-earnings-190835440.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-15T19:08:35+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "3d1a410d1b839c71",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -297,17 +330,6 @@
       "source": "News",
       "published": "2026-11-15T15:50:02+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "ce08df98a1b2a526",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco's CEO Says AI Isn't the Reason to Own Nuclear. Here's What He Says It Is.",
-      "link": "https://www.fool.com/investing/2026/11/15/camecos-ceo-says-ai-isnt-the-reason-to-own-nuclear/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-15T13:57:00+00:00",
-      "logo": "logos/CCJ.svg"
     },
     {
       "id": "c6baa708f6cdcdc1",
@@ -330,28 +352,6 @@
       "source": "Quiver Quantitative",
       "published": "2026-11-13T21:36:00+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "d7e635778c3bcc59",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "A quarterly loss narrowed to $192,000 at Boston Omaha, while revenue was $22.2 million. - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYm5sa2hhVlI3NVh0bm9Oa25OZ04tSlV6U254XzNkdkVCWGdqZ3VrYXE2ZTU1LVZ4Q0M1RkQ0Qno1bEtCVG4wWmJJZHBmVnlYaDZRSjJxVFByWE5Bdnd6S3dPQ3dqa2tiMV83clR0ZTZ6M1I0ZC10dkhJY01Wd1JBMW45a2xKTEZvXzZmUktyUy1YRlp6QkZndHN1ekc3eFUxRFgzNEMzTjN6U1diQm5TRGVqandIalFZ?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-13T21:15:00+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "8969f5af910cfefe",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "ONON Q3 Earnings Call Highlights Margins and Growth Plans",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/onon-q3-earnings-call-highlights-171300222.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-12T17:13:00+00:00",
-      "logo": "logos/ONON.svg"
     },
     {
       "id": "100f84de1493c850",
