@@ -1,104 +1,181 @@
 {
-  "updated": "2026-11-19T11:51:46Z",
+  "updated": "2026-11-19T20:46:26Z",
   "items": [
     {
-      "id": "390fc9e466eacbf1",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "NIQ Appoints Danny Lange and Chris Tung to Board of Directors",
-      "link": "https://finance.yahoo.com/technology/ai/articles/niq-appoints-danny-lange-chris-114500480.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T11:45:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "ce715dadc0796292",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Anthropic Raises Record $107 Billion Despite Tech Sell-Off",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-raises-record-107-billion-111705751.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T11:17:05+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "b2e551338497fb3f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Google’s No. 1 Move Against Anthropic Is Free AI, per Bill Gurley. Alphabet Will Own 14% of Anthropic",
-      "link": "https://www.tikr.com/blog/googles-no-1-move-against-anthropic-is-free-ai-per-bill-gurley-alphabet-will-own-14-of-anthropic?ref=yahoofinance&tlnk=yf-261119-2jq65vqq&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T11:16:18+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c79528c669c29c5e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Why Is Alphabet Stock Down 30%?",
-      "link": "https://www.trefis.com/stock/googl/articles/626522/why-is-alphabet-stock-down-30/2026-11-19?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T11:13:05+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "3e21c2d6a9540560",
+      "id": "c497d75e7b8cfa95",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Elon Musk Says Nvidia May Struggle to Replace Jensen Huang as CEO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-nvidia-may-111014337.html?.tsrc=rss",
+      "title": "Trump Just Disclosed Tesla and SpaceX Stock Purchases. Here's What His Portfolio Moves Reveal",
+      "link": "https://www.fool.com/investing/2026/11/19/trump-just-disclosed-tesla-and-spacex-stock-purchases-here-s-what-his-portfolio-moves-reveal/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-19T11:10:14+00:00",
+      "published": "2026-11-19T20:29:31+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "dfc70f117e886564",
+      "id": "e9b57b92ad45a05d",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
+      "link": "https://www.tikr.com/blog/inside-brad-gerstners-portfolio-every-move-he-made-in-the-third-quarter?ref=yahoofinance&tlnk=yf-261119-8874cxx4&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T20:05:22+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "11724863c467c3bc",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Expands Cybercab To Dallas In First Move Outside Austin",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-expands-cybercab-to-dallas-in-first-move-outside-austin/cNbik2YR90r?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T19:55:17+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "19d70d3227b3c6d7",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "3 Dirt Cheap Artificial Intelligence (AI) Stocks to Load Up on Before 2027",
+      "link": "https://www.fool.com/investing/2026/11/19/3-dirt-cheap-artificial-intelligence-ai-stocks-to-load-up-on-before-2027/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T19:34:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e67fddceb0047a7d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Anthropic Soars 16% in Record $107 Billion IPO Debut: “A Really Big Coming-of-Age Story”",
+      "link": "https://www.tikr.com/blog/anthropic-soars-16-in-record-107-billion-ipo-debut-a-really-big-coming-of-age-story?ref=yahoofinance&tlnk=yf-261119-xp2j9j3v&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T19:25:57+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "b42dd53068e5274b",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Missed the Anthropic IPO? These 3 Stocks Give You Immediate Exposure.",
+      "link": "https://www.fool.com/investing/2026/11/19/missed-the-anthropic-ipo-these-3-stocks-give-you-immediate-exposure/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T19:17:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "87df9aaa8aaa9c66",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Trump's New Filing Reveals Nvidia, SpaceX And Tesla Purchases. White House Says He Didn't Direct Trades.",
+      "link": "https://www.ibtimes.com/trump-financial-disclosure-nvidia-spacex-tesla-purchases-3809977?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T19:03:57+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "22fbb5315833e581",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Nvidia will not be the leader 5 years from now: Tiernan Ray",
+      "link": "https://finance.yahoo.com/video/nvidia-will-not-be-the-leader-5-years-from-now-tiernan-ray-185954396.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T18:59:54+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "f1d1f6c9c3d0e015",
       "ticker": "IREN",
       "symbol": "IREN",
       "company": "IREN Ltd",
-      "title": "CoreWeave, Nebius and IREN Stocks Rise Ahead of Anthropic Debut",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-nebius-iren-stocks-rise-110732326.html?.tsrc=rss",
+      "title": "Why CoreWeave Can't Pay Down Debt From Its Cash",
+      "link": "https://www.trefis.com/stock/crwv/articles/626649/why-coreweave-can-t-pay-down-debt-from-its-cash/2026-11-19?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-19T11:07:32+00:00",
+      "published": "2026-11-19T18:23:21+00:00",
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "5e17e6191330f67b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "What State Street Consumer Discretionary SPDR (XLY) Sold: Amazon Leads on Nov. 17",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-discretionary-spdr-110530754.html?.tsrc=rss",
+      "id": "e96c4ce588e57a52",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Nvidia Holders' Real Risk Sits With Its Neocloud Buyers",
+      "link": "https://www.trefis.com/stock/crwv/articles/626699/nvidia-holders-real-risk-sits-with-its-neocloud-buyers/2026-11-19?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-19T11:05:30+00:00",
-      "logo": "logos/TSLA.svg"
+      "published": "2026-11-19T18:00:19+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
-      "id": "17c23dac37c4285e",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk Reportedly Says Tesla Will Continue To Increase Production In China – TSLA Stock Rises Premarket",
-      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-reportedly-says-tesla-will-continue-to-increase-production-in-china-tsla-stock-rises/cNbi3sVR9iv?.tsrc=rss",
+      "id": "bec74277435fd081",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Coinbase Global vs. Nu: Which Financial Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/19/coinbase-global-vs-nu-which-financial-stock-is-a-better-buy-for-2027/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-19T10:59:22+00:00",
-      "logo": "logos/TSLA.svg"
+      "published": "2026-11-19T16:20:02+00:00",
+      "logo": "logos/NU.svg"
     },
     {
-      "id": "f1a0c8648adf0172",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Market Chatter: Tesla to Continue Boosting Production at China Factory",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-tesla-continue-boosting-094949764.html?.tsrc=rss",
+      "id": "63a4fd326c0288d6",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Druckenmiller Retreats From Chip Stocks in Pivot to Gold Miners and SpaceX",
+      "link": "https://finance.yahoo.com/m/e24ba88f-466f-3477-aa6f-1c767859743f/druckenmiller-retreats-from.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-19T09:49:49+00:00",
-      "logo": "logos/TSLA.svg"
+      "published": "2026-11-19T16:01:00+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "e002355049278337",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Mastercard vs. Nu: Which Financial Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/19/mastercard-vs-nu-which-financial-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T15:50:02+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "133e5928d7bf64f4",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "BC-Most Active Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153021724.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T15:30:21+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "68be43e61f99a25b",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings Ltd. (NU) Is a Trending Stock: Facts to Know Before Betting on It",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-nu-trending-130003649.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T13:00:03+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "07f8cdcd57025b52",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco Slides After a C$2 Million Q3 Loss as Westinghouse Holds “the Greatest Growth Potential”",
+      "link": "https://www.tikr.com/blog/cameco-slides-after-a-c2-million-q3-loss-as-westinghouse-holds-the-greatest-growth-potential?ref=yahoofinance&tlnk=yf-261119-24fg8rwh&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T12:03:17+00:00",
+      "logo": "logos/CCJ.svg"
     },
     {
       "id": "d6f969f42c09bc7a",
@@ -121,61 +198,6 @@
       "source": "News",
       "published": "2026-11-19T02:24:01+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "fe859d7049ffb857",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Stock Market Today, Nov. 18: CoreWeave Slides as Nvidia's Blowout Earnings Fail to Ease Debt Concerns",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-coreweave-slides-as-nvidia-s-blowout-earnings-fail-to-ease-debt-concerns/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-18T22:05:02+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "58f0253fb9545fea",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Congress Lines Up For, Against BAAJA; Here's Why Investors Should Care",
-      "link": "https://finance.yahoo.com/m/48680d00-15e4-3932-a167-01f40e7d15e6/congress-lines-up-for%2C.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-18T21:34:39+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "df46e97326060d8b",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN, CoreWeave and Nebius Stock Prices Have Plunged More Than 60%. Here's What It Means for AI Investors",
-      "link": "https://www.fool.com/investing/2026/11/18/iren-coreweave-and-nebius-stock-prices-have-plunged-more-than-60-here-s-what-it-means-for-ai-investors/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-18T20:25:47+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "60e15f26f82d31cf",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "NU Holdings Builds Its Deposit Base: Can Funding Costs Decline?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-builds-deposit-funding-172100975.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-18T17:21:00+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "53a200e595099a00",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings Is Up About 40% From Its $9 IPO Price. Prediction: It Doubles That Price by 2030.",
-      "link": "https://www.fool.com/investing/2026/11/18/nu-holdings-is-up-about-40-from-its-usd9-ipo-price-prediction-it-doubles-that-price-by-2030/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-18T16:50:02+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "edcd1e09345139b8",
@@ -233,28 +255,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "df20af75ca036bab",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco Sinks 12% in a Week to a New 52-Week Low. Is the Selling Overdone?",
-      "link": "https://www.tikr.com/blog/cameco-sinks-12-in-a-week-to-a-new-52-week-low-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261117-3w2c629g&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-17T13:57:28+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "18a6afae1eecda84",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "3 Founder Led Stocks With Revenue Growth Over 32%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-revenue-231953046.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-16T23:19:53+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "6191de917346db47",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -262,7 +262,7 @@
       "title": "The Eastern Company (EML) Stock Price, News, Quote & History - Yahoo! Finance Canada",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pT1lkMUNKV21tekJ4SXJXZTN1akJlNjZfRFJHVHowXzgxZ09sQUNFcVZWSjVBZGlGejZGUm5hMGFyX0FEdmxKSklTYi1DS1hD?oc=5",
       "source": "Yahoo! Finance Canada",
-      "published": "2026-11-16T19:39:35+00:00",
+      "published": "2026-11-16T16:46:06+00:00",
       "logo": "logos/EML.svg"
     },
     {
@@ -299,28 +299,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "c6baa708f6cdcdc1",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Boston Omaha (BOC) Releases Q3 2026 Earnings: Revenue Falls 21.4% and EPS Beats Estimate - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkh3dmRmLUdyeld6SWJOU25haWFtTWhVbXUxaU1UUWxta21MVVF0QWY0LUk2YkgwQWM3WGkxaVRuVGx4M3dsS2J6ZXVnRjVEejlEeTN2RmQtYmROakdDYV9HWGstRTRYTGN1UzBCSE5hV01xazVLWjFmbmpRQ1RiRUsyRVA5cmcxTjZIN2FhOG4xSk1VNXdMZjdZeVJGSDJUWHVFZHpZcjRBX0JwWXdVbmdmX2tWWmdBM0VOaWVDMUs4RWxWSjhVSg?oc=5",
-      "source": "Quiver Quantitative",
-      "published": "2026-11-13T21:36:00+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "aafcdf17dc535b7d",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Boston Omaha Posts $22.2 Million Third-Quarter Revenue, Expands Buyback to $85 Million - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZDYxVEpTVkhNclNKb2pYaldtalJjRHFpZ3pXQWNlUmM0bksyR204aFp2SmhiY0MwaGhiNlpSZ0FuNFBxVklhWkNKNm9XamdiMFJweE9EcVJhTHNOaS1YQVBBcy1Rck5BbWEtSGxOWFRvcHRKNHdmVEVGQW5OVm95eng4UEhGSDI1Q1RkTUhWdXNtSHVleDFFbzdWWDhTTTNjMHJxZ2lCVGVnS21mNVBka1EwaE11ZmRSUkZ6TjRSY1V5M2M?oc=5",
-      "source": "Quiver Quantitative",
-      "published": "2026-11-13T21:36:00+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "efe2d6f74479c97d",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -352,6 +330,28 @@
       "source": "Morningstar",
       "published": "2026-09-21T07:00:00+00:00",
       "logo": "logos/EML.svg"
+    },
+    {
+      "id": "11462b774539fd1a",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Bougainville Copper (ASX:BOC) Shares Slide While Panguna Project Outlook Remains in Focus - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3psOVJXUnFBejZmSS1rSGZzdDFVaGlkUHo0amg3eVhaQjlScmgtaG9KVktZLU5mVG40MHVqN3JuN2x4TnZ5MV9UclRhWnRVSG8yd1c2eE10RnlvRVRPVDlfakVTQlRUMlZBeVlhd2lxRVpvc09ncXJnUkdhZDhFeFdsbXNoQUZXXzZaRjlFNE1mSWdMUW1USlY2YUQxRjJLUk03dTRLd2l4TkZrWW1VcjhCUHFva0RmN1E2dTI1MENKN1ZmRzZUSGtXbw?oc=5",
+      "source": "Kalkine",
+      "published": "2026-08-26T07:00:00+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "53c6d50958c8778d",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Bougainville Copper (ASX:BOC) Share Price Movement Keeps Focus on Panguna Copper-Gold Project - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSTg0LXZQellOS1lneTR3d3hjNDNURFJUWF9hc1lseGFXb1poclJ4UGdmRFEwWmpsNUhvZjZ6TXVkcHV1Ty1FMlRaTDVSQUpjM0lPLTd2QjYyZU52ZXpWWG4zek9UZVpaVjZPc1lpYnhYQjFJaUM5ZGhDdjl4OGl6Rm1qdnYwMVRFSTMxWDFVVWZEVGdDM2FJUEh4TG55UnpVa0VTbDNoMlBpUlg1YTdBeTR3T0g4LWJvcTRwNWlyNm96aFk?oc=5",
+      "source": "Kalkine",
+      "published": "2026-08-19T07:00:00+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "100f84de1493c850",
