@@ -1,15 +1,125 @@
 {
-  "updated": "2026-11-18T20:40:09Z",
+  "updated": "2026-11-19T02:38:43Z",
   "items": [
     {
-      "id": "b2b851325972415e",
+      "id": "a116df754916d6e5",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Coinbase AI blocks $4.7 million deepfake Elon Musk crypto scam",
-      "link": "https://finance.yahoo.com/video/coinbase-ai-blocks-4-7-203000913.html?.tsrc=rss",
+      "title": "Tesla And SpaceX ‘Better Together’? Musk Leans Yes — But Says Performance Must Drive His TSLA Pay",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-better-together-musk-performance-tsla-pay/cNbLsa5R9iJ?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-18T20:30:00+00:00",
+      "published": "2026-11-19T01:56:19+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "4a3b5ccd7ba85d02",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "AIRG,BSBK,EML,HGBL,ATLO,CULP,SLND,SLRC,IMMX,HASI,FBK,VANI,SFST,ASYS,BRID,ASLE,RMCF,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTHFMcnJrZ1lnRUNmZ1VoektVdGZmQ2ljQ2tWc1g0VmxwVkJKVHRQVHM1UDgzdkFWSlhKTmdrcVFUNGZzMWVGMzl3SjczX1Vxb3ZFcTZyWEtBVUhkQ0hUVGhqWE9ZZ0FyamF2RnlkUWpSSWhjaDQxNi1QNHhVOEZ2X3hSaFBaQXgzVEt3WUZEMmtOVTRuSnptd2k5cHM0MFA2aVBXMk5Ib1pnRmp0OVYya25Ja09aY0Fub2x0N2ZLUDZZZw?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-19T00:37:29+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "f2e1223852db55c3",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk Says Nvidia Ousting Jensen Huang Is Like Kicking Michael Jordan Off A Winning Team",
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-says-nvidia-ousting-jensen-huang-is-like-kicking-michael-jordan-off-a-winning-team/cNbLpuMR9ie?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T00:23:32+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "bb95e6ebf7fdbc3b",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Anthropic's $81.3B haul makes it the largest tech IPO ever",
+      "link": "https://pitchbook.com/news/articles/anthropics-81-3b-haul-makes-it-the-second-largest-tech-ipo-ever?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T00:08:37+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "fe313460d13eea90",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Wins Manitoba Court Order On EV Rebate Ban As Canadian PM Carney Notes Brand’s Fading Cachet",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-wins-manitoba-court-order-on-ev-rebate-ban-as-canadian-pm-carney-notes-brand-s-fading-cachet/cNbLpgeR9i4?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T00:05:59+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a19d78eca42ddfed",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google Signs Landmark Superhot Geothermal Deal",
+      "link": "https://finance.yahoo.com/energy/articles/google-signs-landmark-superhot-geothermal-000000944.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T00:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "1b8cac5ef5715f5e",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Is Alphabet Stock a Buy Right Now?",
+      "link": "https://www.fool.com/investing/2026/11/18/is-alphabet-stock-a-buy-right-now/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-18T23:57:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ad44bad78b657dec",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet vs. Apple: Which Warren Buffett Stock Is the Better Buy?",
+      "link": "https://www.fool.com/investing/2026/11/18/alphabet-vs-apple-which-warren-buffett-stock-is-the-better-buy/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-18T23:45:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "fe859d7049ffb857",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Stock Market Today, Nov. 18: CoreWeave Slides as Nvidia's Blowout Earnings Fail to Ease Debt Concerns",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-coreweave-slides-as-nvidia-s-blowout-earnings-fail-to-ease-debt-concerns/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-18T22:05:02+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "58f0253fb9545fea",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Congress Lines Up For, Against BAAJA; Here's Why Investors Should Care",
+      "link": "https://finance.yahoo.com/m/48680d00-15e4-3932-a167-01f40e7d15e6/congress-lines-up-for%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-18T21:34:39+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "bc4e98032f5bf4b5",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Skydance’s Ellison Welcomes Musk Investment While Committing To Airing Documentary Critical Of Tesla CEO",
+      "link": "https://stocktwits.com/news-articles/markets/equity/skydance-s-ellison-welcomes-musk-investment-while-committing-to-airing-documentary-critical-of-tesla-ceo/cNbghalR9iP?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-18T21:22:50+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -35,17 +145,6 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "e2a28febaf8eb3a7",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet is Buying Around $10 Billion More Anthropic Shares on Day 1. Should You Follow?",
-      "link": "https://www.fool.com/investing/2026/11/18/alphabet-is-buying-around-usd10-billion-more-anthropic-shares-on-day-1-should-you-follow/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-18T20:25:02+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "0c6e3c31392f15a5",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -66,72 +165,6 @@
       "source": "Yahoo! Finance Canada",
       "published": "2026-11-18T20:21:04+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "94633efba63f8b53",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "GoodRx's $32 million privacy settlement: See if you qualify for a payment",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/goodrxs-32-million-privacy-settlement-see-if-you-qualify-for-a-payment-201906769.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-18T20:19:06+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "5d5aa49e6aeb8fe6",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Should You Trim Or Add To Your Rivian Position Now?",
-      "link": "https://www.trefis.com/stock/rivn/articles/626168/should-you-trim-or-add-to-your-rivian-position-now/2026-11-18?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-18T20:11:12+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "284055fa1028d46a",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Why Isn’t Alphabet Stock Taking Off After Reporting Record Cloud Growth?",
-      "link": "https://www.fool.com/investing/2026/11/18/why-isn-t-alphabet-stock-taking-off-after-reporting-record-cloud-growth/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-18T20:07:01+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "afffa21e270237da",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk deepfake nearly costs coinbase users $4.7 million",
-      "link": "https://www.thestreet.com/crypto/markets/elon-musk-deepfake-nearly-costs-coinbase-users-4-7-million?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-18T19:26:48+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "4f54307b1b1a95be",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Ellison confirms Musk invested roughly $1 billion in Skydance",
-      "link": "https://finance.yahoo.com/media-advertising/articles/ellison-confirms-musk-invested-roughly-185807807.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-18T18:58:07+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "16f3abf8f79fd955",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Why Do Nvidia's Customers Owe It $81 Billion?",
-      "link": "https://www.trefis.com/stock/nvda/articles/626053/why-do-nvidia-s-customers-owe-it-81-billion/2026-11-18?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-18T18:43:33+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "60e15f26f82d31cf",
@@ -165,39 +198,6 @@
       "source": "News",
       "published": "2026-11-18T16:50:02+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "51a90d04558effee",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Nvidia’s Cautious Tone Is a Big Drag on CoreWeave, AI Cloud Stocks",
-      "link": "https://finance.yahoo.com/m/f79c4405-24a9-3c97-a267-ff7c20c2be1c/nvidia%E2%80%99s-cautious-tone-is-a.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-18T16:43:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "d47933200aae20ce",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "AIRG,BSBK,EML,HGBL,ATLO,CULP,SLND,SLRC,IMMX,FBK,VANI,HASI,ASYS,SFST,BRID,ASLE,RMCF,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX0x0cl8wd0x3bmRlR3lINk5jTE9ORFBpelkweGZpbTVtSEEyREplWTdPUEVZN2E2RG5ocnlBXzBWa3JZRlh6NDExdG8tSEZzbThndDRvLVZfSnBWMG5kU2c5cFlyX3NQUDJZWDNjV2E4LU92bTk2WFh2TXpHejhqSEVkangtbHJnYVdpbFRHTDFRUjdjZEhtdG96NnNsTDgwSlpqbzFUWmNkY1EyM2hpMTMwUE5aZEZEN1ZZS1dod3JaQQ?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-11-18T16:30:04+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "7fb9fc8e6db36405",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "BC-Most Active Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153023964.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-18T15:30:23+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "edcd1e09345139b8",
@@ -332,6 +332,17 @@
       "logo": "logos/ONON.svg"
     },
     {
+      "id": "d84273c383f3662e",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC Aviation (SEHK:2588) Stock Looks Fully Priced After Its 75% Run - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVN3Q1FmS2xSMmxRRU5mX1pseFRUeXZnN3lCclhtQXNZaFpUSmNZbENDcWwwOEU0VkQ3U1RNSnlNVTNRZTI3azRGYzA0Y3M0ZzkyMDhLMGl3QnFaQmRJT1lBVjRZVkJqVXlJQnBjWmVSWVlfcXloTmhfLVlseGZWanFsZw?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "published": "2026-11-11T20:13:38+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "7ffe0be4267ef908",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1lwQmlYVlgyTEtIM1lGckRubDVDaFBNN1pOeFFfS0g3SE00TU40a241RVZ4akhSeFVTMFdaUWFUVEstOEZYaTd1TlFqOTNQV2E5U0xGUm9yNHVGeGZrMlVLYXdPTjZyM1otbGhNc042WTZ0bVFUMG5td015SzQ5Tmw3UHE4cEszOER5OWpZSQ?oc=5",
       "source": "Yahoo! Finance Canada",
       "published": "2026-11-11T11:00:00+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "e2d20f89b933f308",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Canadian Stock Market Today: TSX Futures Edge Higher As Fed And BoC Decisions Loom - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG1pa1pSNWY5akZBVkl5TFJ3ZGF6X1AwME92cEFWQnZ5QVlOb1F2MWVVTmk4OUZZcGk2ZHdoNkNWcE9sSG9wNG9IN01EZnphZFNNOUlJcVdfOTZTSHUta3duLTJkX0xNMlktWHVqakthN090cUI1REpyZ3JNYzBTLW45bEhjS1BrWXlZdXhVcEM5aUhSZHk0YWdPcDY?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-28T07:00:00+00:00",
       "logo": "logos/BOC.svg"
     },
     {
