@@ -1,27 +1,203 @@
 {
-  "updated": "2026-11-20T11:52:51Z",
+  "updated": "2026-11-20T20:30:15Z",
   "items": [
     {
-      "id": "bebf493d1fb4b925",
+      "id": "85f56232ff9d77ce",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "SpaceX’s New ‘Game Plan’ Could Pay Off, Says Top Analyst",
+      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-game-plan-could-pay-201104881.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T20:11:04+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "5c82bdf014afa206",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Social Buzz: Wallstreetbets Stocks Mostly Lower Pre-Bell Friday; Sandisk, AMD to Decline",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-113227780.html?.tsrc=rss",
+      "title": "Nvidia, Nasdaq Slide Deepens After Report of SEC Accounting Probe",
+      "link": "https://finance.yahoo.com/m/cff37c7c-0ca9-37b0-a414-8f2a8d6939e4/nvidia%2C-nasdaq-slide-deepens.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-20T11:32:27+00:00",
+      "published": "2026-11-20T19:57:50+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "b8b86cbaf3c83034",
+      "id": "0933f191ee87b0da",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Funds With Anthropic Exposure Got Off To a Rough Start. More Trouble May Be on The Way",
+      "link": "https://finance.yahoo.com/m/7bc6aba7-b1c4-3abf-b83a-be1cf9f2e52c/funds-with-anthropic-exposure.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T19:45:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "403dc380ba718260",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Robinhood Faces Shareholder Proposal Over Proxy Voting Options as SEC Eases Oversight",
-      "link": "https://investorshub.advfn.com/market-news/article/40458/robinhood-faces-shareholder-proposal-over-proxy-voting-options-as-sec-eases-oversight?.tsrc=rss",
+      "title": "$17B Tesla manufacturing plant led October’s construction starts rebound",
+      "link": "https://www.constructiondive.com/news/tesla-manufacturing-plant-october-construction-starts-rebound/875377/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-20T11:23:23+00:00",
+      "published": "2026-11-20T19:42:00+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "a8198441f900cc97",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Broadcom Stock Plunges 12% and Loses $191 Billion After a Report That Google Cut Its Plans for Broadcom AI Chips",
+      "link": "https://247wallst.com/investing/2026/11/20/broadcom-stock-plunges-12-and-loses-191-billion-after-a-report-that-google-cut-its-plans-for-broadcom-ai-chips/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T19:13:04+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "bda40274f6b9cb5f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Trump vows tax on U.S. firms building data centers abroad",
+      "link": "https://finance.yahoo.com/economy/policy/articles/trump-vows-tax-u-firms-190429074.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T19:04:29+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "b24bcf007631256f",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "Nike Is Down About 80% From Its Peak and Just Told Investors Sales Will Fall Again",
+      "link": "https://247wallst.com/investing/2026/11/20/nike-is-down-about-80-from-its-peak-and-just-told-investors-sales-will-fall-again-2/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T17:54:12+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "d7591f90722a5d65",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX Vs. Anthropic: Who Hits a $3 Trillion Valuation First and Why",
+      "link": "https://247wallst.com/investing/2026/11/20/spacex-vs-anthropic-who-hits-a-3-trillion-valuation-first-and-why/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T17:45:20+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "132a550e593c0362",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco (TSX:CCO) On Its Loss And Share Sale With Fair Value Back In Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-tsx-cco-loss-share-171211130.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T17:12:11+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "adcf0ea1606d727c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Einride AB’s Autonomous Commercialization & NVIDIA Collaboration – Quarterly Update Report",
+      "link": "https://finance.yahoo.com/technology/ai/articles/einride-ab-autonomous-commercialization-nvidia-170119520.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T17:01:19+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ac9b2afa1e2d0da6",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Bitcoin sell-off versus the tech sell-off, and the SEC finds eight fake crypto trading platforms",
+      "link": "https://finance.yahoo.com/video/bitcoin-sell-off-versus-tech-170000138.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T17:00:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "b31ac15a03c8f9ec",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "BC-Most Active Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-164606636.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T16:46:06+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "5530c348f3d85c4a",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Between IREN and CoreWeave Here’s Who Has the Cleaner Path to a Sustained 30% Rebound",
+      "link": "https://247wallst.com/investing/2026/11/20/between-iren-and-coreweave-heres-who-has-the-cleaner-path-to-a-sustained-30-rebound/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T15:45:35+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "a69e0897901cab3a",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Constellation Energy Sinks 10% in a Week as AI Stocks Slide, Giving Back Its Earnings Jump. Time to Buy?",
+      "link": "https://www.tikr.com/blog/constellation-energy-sinks-10-in-a-week-as-ai-stocks-slide-giving-back-its-earnings-jump-time-to-buy?ref=yahoofinance&tlnk=yf-261120-526gc6qr&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T15:30:31+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "b9ba0309384d2f57",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Robinhood Markets vs. Nu: Which Financial Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/20/robinhood-markets-vs-nu-which-financial-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T15:15:02+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "ca57ab1a35d2ca99",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Cameco's EBITDA Falls for a Second Quarter: Is There a Recovery Ahead?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/camecos-ebitda-falls-second-quarter-145000759.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T14:50:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "cbb39ac6ddc6fe2a",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Cipher Digital Sinks 5%, CoreWeave Down 7% as Anthropic’s Debut Fails to Stop AI Selloff",
+      "link": "https://www.tikr.com/blog/cipher-digital-sinks-5-coreweave-down-7-as-anthropics-debut-fails-to-stop-ai-selloff?ref=yahoofinance&tlnk=yf-261120-46j662p9&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T14:39:49+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "1bb8a7ede04ee6e2",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "MercadoLibre grew sales 44%—so why did the stock crash 28%?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-grew-sales-44-why-134756984.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T13:47:56+00:00",
+      "logo": "logos/NU.svg"
     },
     {
       "id": "4441d22dd399b1c0",
@@ -35,92 +211,26 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "88180c94c2c3a777",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "iShares Russell 1000 Growth (IWF) Buys $15.6 Million More NVIDIA on Wednesday",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-russell-1000-growth-iwf-110519980.html?.tsrc=rss",
+      "id": "548e057eb86b2b7d",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "Nike Sees Sales Falling Through Fiscal 2028. That’s Bad News for Dick’s Sporting Goods",
+      "link": "https://www.tikr.com/blog/nike-sees-sales-falling-through-fiscal-2028-thats-bad-news-for-dicks-sporting-goods?ref=yahoofinance&tlnk=yf-261120-qph6j782&.tsrc=rss",
       "source": "News",
-      "published": "2026-11-20T11:05:19+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-11-20T09:48:35+00:00",
+      "logo": "logos/ONON.svg"
     },
     {
-      "id": "f546324be2c37cd4",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "What State Street Consumer Discretionary SPDR (XLY) Bought: Amazon Leads on Nov. 18",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-discretionary-spdr-110457372.html?.tsrc=rss",
+      "id": "97af492e5f3d9bb2",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "Nike Sinks 6.3% as Its CFO Admits Results Don’t “Reflect the Full Potential” of Its Brands",
+      "link": "https://www.tikr.com/blog/nike-sinks-6-3-as-its-cfo-admits-results-dont-reflect-the-full-potential-of-its-brands?ref=yahoofinance&tlnk=yf-261120-2q9q9wfp&.tsrc=rss",
       "source": "News",
-      "published": "2026-11-20T11:04:57+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "5cbe7122078e151f",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "What Capital Group Growth ETF (CGGR) Bought: Meta Leads on Wednesday",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/capital-group-growth-etf-cggr-110447110.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T11:04:47+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "48a7a4331f655f28",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "ARK Autonomous Tech & Robotics (ARKQ) Buys $34.6 Million More Tesla on Nov. 18",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ark-autonomous-tech-robotics-arkq-110422510.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T11:04:22+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "d2f11b6d0cccfaa1",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "State Street Comm Services SPDR (XLC) Buys $54.7 Million More META on Nov. 18",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-comm-services-spdr-110418329.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T11:04:18+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "6b03cbd1c7474dfc",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet Faces New Scrutiny After Google Removes 19,000 YouTube Channels",
-      "link": "https://finance.yahoo.com/technology/articles/alphabet-faces-scrutiny-google-removes-110359578.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T11:03:59+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "a13437dc83e5b267",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Has Lost 70% in a Year. Bernstein Still Sees $55",
-      "link": "https://www.tikr.com/blog/iren-has-lost-70-in-a-year-bernstein-still-sees-55?ref=yahoofinance&tlnk=yf-261120-64g3hhvm&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T08:20:18+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "962550b366adb017",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "CRWV, IREN, NBIS Stocks Extend Neocloud Selloff As Anthropic IPO Rally Fades – Michael Burry Takes A Victory Lap",
-      "link": "https://stocktwits.com/news-articles/markets/equity/crwv-iren-nbis-stocks-extend-neocloud-selloff-as-anthropic-ipo-rally-fades-michael-burry-takes-a-victory-lap/cNbSEj6R9KJ?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T06:21:09+00:00",
-      "logo": "logos/IREN.svg"
+      "published": "2026-11-20T09:32:17+00:00",
+      "logo": "logos/ONON.svg"
     },
     {
       "id": "853d4c5ec5bc23d2",
@@ -134,17 +244,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "ac4a8f34cb6a6279",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "What Investors Overlooked Before IREN Fell 67%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-overlooked-iren-fell-67-021218970.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T02:12:18+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "a0daf674aac4cbb8",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -154,17 +253,6 @@
       "source": "News",
       "published": "2026-11-20T02:12:10+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "5be6d99ef098882c",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Stock Market Today, Nov. 19: CoreWeave Falls as Profit-Taking Follows Anthropic IPO Pricing Above Range",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-coreweave-falls-as-profit-taking-follows-anthropic-ipo-pricing-above-range/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T22:53:05+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "bec74277435fd081",
@@ -178,69 +266,14 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "e002355049278337",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Mastercard vs. Nu: Which Financial Stock Is a Better Buy for 2027?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/11/19/mastercard-vs-nu-which-financial-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T15:50:02+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "0bf5624c74bce212",
+      "id": "4d17a75e25c107e6",
       "ticker": "CCJ",
       "symbol": "CCJ",
       "company": "Cameco",
-      "title": "Sprott Asset Management's Jacob White on uranium stocks sell-off and the case for a recovery",
-      "link": "https://finance.yahoo.com/video/sprott-asset-managements-jacob-white-143733002.html?.tsrc=rss",
+      "title": "The Uranium Price Paradox: 5 Investments Facing Very Different Tests in 2027",
+      "link": "https://www.marketbeat.com/articles/the-uranium-price-paradox-5-investments-facing-very-different-tests-in-2027/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "source": "News",
-      "published": "2026-11-19T14:37:33+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "68be43e61f99a25b",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings Ltd. (NU) Is a Trending Stock: Facts to Know Before Betting on It",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-nu-trending-130003649.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T13:00:03+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "07f8cdcd57025b52",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Cameco Slides After a C$2 Million Q3 Loss as Westinghouse Holds “the Greatest Growth Potential”",
-      "link": "https://www.tikr.com/blog/cameco-slides-after-a-c2-million-q3-loss-as-westinghouse-holds-the-greatest-growth-potential?ref=yahoofinance&tlnk=yf-261119-24fg8rwh&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T12:03:17+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "c7766c30303ac3a6",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "e.l.f. Beauty vs. On: Which Stock Is the Better Buy for 2027?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/11/18/e-l-f-beauty-vs-on-which-stock-is-the-better-buy-for-2027/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T02:24:01+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "edcd1e09345139b8",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Can Cameco's Uranium Contracts Drive Sustained Long-Term Growth?",
-      "link": "https://finance.yahoo.com/energy/articles/camecos-uranium-contracts-drive-sustained-122700516.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-18T12:27:00+00:00",
+      "published": "2026-11-19T15:30:00+00:00",
       "logo": "logos/CCJ.svg"
     },
     {
@@ -264,39 +297,6 @@
       "source": "TipRanks",
       "published": "2026-11-17T23:18:17+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "8d810e9b7c05426e",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "Nike Sinks 7% as Investor Day Warns Fiscal 2028 Will Be a “Challenging Year Financially”",
-      "link": "https://www.tikr.com/blog/nike-sinks-7-as-investor-day-warns-fiscal-2028-will-be-a-challenging-year-financially?ref=yahoofinance&tlnk=yf-261117-36795rwc&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-17T20:42:24+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "4c1775d1df48d291",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "The Next Nuclear Opportunity May Be in Fuel, Not Reactors: 3 Stocks to Watch",
-      "link": "https://www.marketbeat.com/articles/the-next-nuclear-opportunity-may-be-in-fuel-not-reactors-3-stocks-to-watch/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-17T15:30:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "6c288baebc2d9030",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "Co-CEO Buying and $1B Share Authorization Validate On Holding AG’s (ONON) Multi-Year Growth Thesis",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/co-ceo-buying-1b-share-142521282.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-17T14:25:21+00:00",
-      "logo": "logos/ONON.svg"
     },
     {
       "id": "6191de917346db47",
