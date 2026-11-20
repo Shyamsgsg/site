@@ -1,61 +1,61 @@
 {
-  "updated": "2026-11-19T21:13:13+00:00",
+  "updated": "2026-11-20T02:29:56+00:00",
   "source": "Yahoo Finance (query1.finance.yahoo.com/v8/finance/chart)",
   "fx": {
-    "AUDUSD": 0.6664,
-    "AUDUSD_change_pct": -1.1242,
-    "USDSGD": 1.2919,
-    "USDSGD_change_pct": 0.2584
+    "AUDUSD": 0.6659,
+    "AUDUSD_change_pct": -0.8015,
+    "USDSGD": 1.2915,
+    "USDSGD_change_pct": 0.1706
   },
   "quotes": {
     "NU": {
-      "price": 11.825,
+      "price": 11.82,
       "previous_close": 12.08,
-      "change_pct": -2.1109,
+      "change_pct": -2.1523,
       "currency": "USD",
       "exchange": "NYSE",
       "long_name": "Nu Holdings Ltd.",
-      "market_time": "2026-11-19T20:59:58+00:00",
+      "market_time": "2026-11-19T21:00:02+00:00",
       "stale": false
     },
     "BOC.AX": {
-      "price": 0.14,
-      "previous_close": 0.135,
-      "change_pct": 3.7037,
+      "price": 0.15,
+      "previous_close": 0.14,
+      "change_pct": 7.1429,
       "currency": "AUD",
       "exchange": "ASX",
       "long_name": "Bougainville Copper Limited",
-      "market_time": "2026-11-19T04:41:03+00:00",
+      "market_time": "2026-11-19T23:45:07+00:00",
       "stale": false
     },
     "EML.AX": {
-      "price": 0.24,
-      "previous_close": 0.255,
-      "change_pct": -5.8824,
+      "price": 0.25,
+      "previous_close": 0.24,
+      "change_pct": 4.1667,
       "currency": "AUD",
       "exchange": "ASX",
       "long_name": "EML Payments Limited",
-      "market_time": "2026-11-19T05:10:00+00:00",
+      "market_time": "2026-11-20T02:07:19+00:00",
       "stale": false
     },
     "GTK.AX": {
-      "price": 3.72,
-      "previous_close": 3.77,
-      "change_pct": -1.3263,
+      "price": 3.69,
+      "previous_close": 3.72,
+      "change_pct": -0.8065,
       "currency": "AUD",
       "exchange": "ASX",
       "long_name": "Gentrack Group Limited",
-      "market_time": "2026-11-19T05:11:01+00:00",
+      "market_time": "2026-11-20T02:09:53+00:00",
       "stale": false
     },
     "ONON": {
-      "price": 30.84,
+      "price": 30.82,
       "previous_close": 32.43,
-      "change_pct": -4.9029,
+      "change_pct": -4.9645,
       "currency": "USD",
       "exchange": "NYSE",
       "long_name": "On Holding AG",
-      "market_time": "2026-11-19T20:59:54+00:00",
+      "market_time": "2026-11-19T21:00:02+00:00",
       "stale": false
     },
     "IREN": {
@@ -69,13 +69,13 @@
       "stale": false
     },
     "CCJ": {
-      "price": 61.425,
+      "price": 61.42,
       "previous_close": 62.439999,
-      "change_pct": -1.6256,
+      "change_pct": -1.6336,
       "currency": "USD",
       "exchange": "NYSE",
       "long_name": "Cameco Corporation",
-      "market_time": "2026-11-19T20:59:59+00:00",
+      "market_time": "2026-11-19T21:00:02+00:00",
       "stale": false
     },
     "GOOG": {
@@ -99,23 +99,23 @@
       "stale": false
     },
     "AUDUSD=X": {
-      "price": 0.6664,
-      "previous_close": 0.673977,
-      "change_pct": -1.1242,
+      "price": 0.6659,
+      "previous_close": 0.67128,
+      "change_pct": -0.8015,
       "currency": "USD",
       "exchange": "CCY",
       "long_name": "AUD/USD",
-      "market_time": "2026-11-19T21:11:43+00:00",
+      "market_time": "2026-11-20T02:29:45+00:00",
       "stale": false
     },
     "SGD=X": {
-      "price": 1.2919,
-      "previous_close": 1.28857,
-      "change_pct": 0.2584,
+      "price": 1.2915,
+      "previous_close": 1.2893,
+      "change_pct": 0.1706,
       "currency": "SGD",
       "exchange": "CCY",
       "long_name": "USD/SGD",
-      "market_time": "2026-11-19T21:13:11+00:00",
+      "market_time": "2026-11-20T02:29:54+00:00",
       "stale": false
     },
     "^GSPC": {
@@ -125,7 +125,7 @@
       "currency": "USD",
       "exchange": "SNP",
       "long_name": "S&P 500",
-      "market_time": "2026-11-19T21:13:12+00:00",
+      "market_time": "2026-11-19T21:59:18+00:00",
       "stale": false
     }
   },
