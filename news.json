@@ -1,49 +1,159 @@
 {
-  "updated": "2026-11-20T02:23:35Z",
+  "updated": "2026-11-20T11:52:51Z",
   "items": [
     {
-      "id": "48a016a77936e959",
+      "id": "bebf493d1fb4b925",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Is Your VOO Fund Secretly An AI Bet?",
-      "link": "https://www.trefis.com/stock/voo/articles/626646/is-your-voo-fund-secretly-an-ai-bet/2026-11-19?.tsrc=rss",
+      "title": "Social Buzz: Wallstreetbets Stocks Mostly Lower Pre-Bell Friday; Sandisk, AMD to Decline",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-113227780.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-20T00:58:20+00:00",
+      "published": "2026-11-20T11:32:27+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "2fa0f5bac7d022e8",
+      "id": "b8b86cbaf3c83034",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Robinhood Faces Shareholder Proposal Over Proxy Voting Options as SEC Eases Oversight",
+      "link": "https://investorshub.advfn.com/market-news/article/40458/robinhood-faces-shareholder-proposal-over-proxy-voting-options-as-sec-eases-oversight?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T11:23:23+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "4441d22dd399b1c0",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "3 Founder Led Stocks To Own In November 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-own-111154655.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T11:11:54+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "88180c94c2c3a777",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Anthropic’s Margins Will Be “Probably Better Than a Hyperscaler,” Says Its Most Bullish Analyst. Here’s What That Takes",
-      "link": "https://www.tikr.com/blog/anthropics-margins-will-be-probably-better-than-a-hyperscaler-says-its-most-bullish-analyst-heres-what-that-takes?ref=yahoofinance&tlnk=yf-261119-7x5g2cff&.tsrc=rss",
+      "title": "iShares Russell 1000 Growth (IWF) Buys $15.6 Million More NVIDIA on Wednesday",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-russell-1000-growth-iwf-110519980.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-20T00:05:16+00:00",
+      "published": "2026-11-20T11:05:19+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "5c7861d6a90befff",
+      "id": "f546324be2c37cd4",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "What State Street Consumer Discretionary SPDR (XLY) Bought: Amazon Leads on Nov. 18",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-discretionary-spdr-110457372.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T11:04:57+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "5cbe7122078e151f",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "What Capital Group Growth ETF (CGGR) Bought: Meta Leads on Wednesday",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/capital-group-growth-etf-cggr-110447110.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T11:04:47+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "48a7a4331f655f28",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "ARK Autonomous Tech & Robotics (ARKQ) Buys $34.6 Million More Tesla on Nov. 18",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ark-autonomous-tech-robotics-arkq-110422510.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T11:04:22+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "d2f11b6d0cccfaa1",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Anthropic Just Went Public at $1.5 Trillion. VOO Won’t Own a Share Until Late 2027 at the Earliest",
-      "link": "https://247wallst.com/investing/etf/2026/11/19/anthropic-just-went-public-at-1-5-trillion-voo-wont-own-a-share-until-late-2027-at-the-earliest/?.tsrc=rss",
+      "title": "State Street Comm Services SPDR (XLC) Buys $54.7 Million More META on Nov. 18",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-comm-services-spdr-110418329.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-19T23:52:41+00:00",
+      "published": "2026-11-20T11:04:18+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "0c8749c3646e87b4",
+      "id": "6b03cbd1c7474dfc",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Anthropic’s Record IPO Is Good News for Hut 8. Here’s the Number That Matters",
-      "link": "https://www.tikr.com/blog/anthropics-record-ipo-is-good-news-for-hut-8-heres-the-number-that-matters?ref=yahoofinance&tlnk=yf-261119-h84r624c&.tsrc=rss",
+      "title": "Alphabet Faces New Scrutiny After Google Removes 19,000 YouTube Channels",
+      "link": "https://finance.yahoo.com/technology/articles/alphabet-faces-scrutiny-google-removes-110359578.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-19T23:05:25+00:00",
+      "published": "2026-11-20T11:03:59+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "a13437dc83e5b267",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Has Lost 70% in a Year. Bernstein Still Sees $55",
+      "link": "https://www.tikr.com/blog/iren-has-lost-70-in-a-year-bernstein-still-sees-55?ref=yahoofinance&tlnk=yf-261120-64g3hhvm&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T08:20:18+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "962550b366adb017",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "CRWV, IREN, NBIS Stocks Extend Neocloud Selloff As Anthropic IPO Rally Fades – Michael Burry Takes A Victory Lap",
+      "link": "https://stocktwits.com/news-articles/markets/equity/crwv-iren-nbis-stocks-extend-neocloud-selloff-as-anthropic-ipo-rally-fades-michael-burry-takes-a-victory-lap/cNbSEj6R9KJ?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T06:21:09+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "853d4c5ec5bc23d2",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Understanding Momentum Shifts in (BOC) - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUm9nTC13UDc3Y09DZG41dm9naVk5LXE5SkotUnJKbXBYQVozWWxpczE5OGczbGZ0WVNDYUxMUHFIbDF1bDA3X2N3aXBTMjdQeGExRXdpOURxSERYX2dZT0pvczU4b3R3N0VCY1hqNUd5RU5mVTduaXBXMkpndWlpVnBab3dMeGtNYlhFdjI0Z0xad3NhYlgybGprVFpUc1NVMGZIMkNWNnRiWFQ5Y2QwSFJPejZrZVU?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-11-20T04:40:01+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "ac4a8f34cb6a6279",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "What Investors Overlooked Before IREN Fell 67%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-overlooked-iren-fell-67-021218970.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T02:12:18+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "a0daf674aac4cbb8",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "Earnings Beat Might Change The Case For Investing In On Holding Stock (ONON)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-might-change-case-021210659.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T02:12:10+00:00",
+      "logo": "logos/ONON.svg"
     },
     {
       "id": "5be6d99ef098882c",
@@ -54,72 +164,6 @@
       "link": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-coreweave-falls-as-profit-taking-follows-anthropic-ipo-pricing-above-range/?.tsrc=rss",
       "source": "News",
       "published": "2026-11-19T22:53:05+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "937ef2883defc2c0",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Is Tech in a Bear Market? 20 Tech Stocks Fall Up to 76% From Highs",
-      "link": "https://beincrypto.com/tech-stocks-bear-market-record-highs/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T22:40:39+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "777ccd88127fcf73",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Musk Says Optimus Will Do the Dishes “Within 12-18 Months.” Here’s Where Tesla’s Robot Stands",
-      "link": "https://www.tikr.com/blog/musk-says-optimus-will-do-the-dishes-within-12-18-months-heres-where-teslas-robot-stands?ref=yahoofinance&tlnk=yf-261119-6gjh8j3r&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T22:37:52+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "436544bca7c48c73",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Michael Burry Adds To Tesla Rival BYD At Five-Year Lows",
-      "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-adds-to-tesla-rival-byd-at-five-year-lows/cNbiNbKR90M?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T21:06:31+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "c497d75e7b8cfa95",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Trump Just Disclosed Tesla and SpaceX Stock Purchases. Here's What His Portfolio Moves Reveal",
-      "link": "https://www.fool.com/investing/2026/11/19/trump-just-disclosed-tesla-and-spacex-stock-purchases-here-s-what-his-portfolio-moves-reveal/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T20:29:31+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "f1d1f6c9c3d0e015",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Why CoreWeave Can't Pay Down Debt From Its Cash",
-      "link": "https://www.trefis.com/stock/crwv/articles/626649/why-coreweave-can-t-pay-down-debt-from-its-cash/2026-11-19?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T18:23:21+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "e96c4ce588e57a52",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Nvidia Holders' Real Risk Sits With Its Neocloud Buyers",
-      "link": "https://www.trefis.com/stock/crwv/articles/626699/nvidia-holders-real-risk-sits-with-its-neocloud-buyers/2026-11-19?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T18:00:19+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -134,17 +178,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "63a4fd326c0288d6",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Druckenmiller Retreats From Chip Stocks in Pivot to Gold Miners and SpaceX",
-      "link": "https://finance.yahoo.com/m/e24ba88f-466f-3477-aa6f-1c767859743f/druckenmiller-retreats-from.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T16:01:00+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "e002355049278337",
       "ticker": "NU",
       "symbol": "NU",
@@ -154,6 +187,17 @@
       "source": "News",
       "published": "2026-11-19T15:50:02+00:00",
       "logo": "logos/NU.svg"
+    },
+    {
+      "id": "0bf5624c74bce212",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Sprott Asset Management's Jacob White on uranium stocks sell-off and the case for a recovery",
+      "link": "https://finance.yahoo.com/video/sprott-asset-managements-jacob-white-143733002.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T14:37:33+00:00",
+      "logo": "logos/CCJ.svg"
     },
     {
       "id": "68be43e61f99a25b",
@@ -178,17 +222,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "d6f969f42c09bc7a",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "3 Undervalued Stocks With Revenue Growth Up To 44%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-revenue-growth-071121352.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T07:11:21+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "c7766c30303ac3a6",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -209,6 +242,28 @@
       "source": "News",
       "published": "2026-11-18T12:27:00+00:00",
       "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "2055854197de39bc",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments Reports All 2026 AGM Resolutions Carried - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEloOUgxNFFqR1R0NTdBY1NOX3RnNF9mWTlfajQzdDRvMFZsc3d2MW56LVUzdnFXc2xzN1FKcHpvdjlyaTRGRURPcy1XYTB5SldGZTJnTTZLUFd4Ti1YLUs1cUkteV9tY0hCaGZ6QW5XS2hYMWt4ZGdYak1wUVpwYk5RMkFjNGFQWm1xdWtIWW5vRkRaVzhOdVREcWwyWDdJazZwZTVraF8?oc=5",
+      "source": "TipRanks",
+      "published": "2026-11-18T01:49:06+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "9c31204f2473c401",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML reports Q1 FY27 revenue down 3%, underlying EBITDA up 6% - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQczBRY1pmenZyektlSFVoUEFtQXVMRWZpSFlYeFFtVWtjTTNLN3ZRU0JMbGhocFZneXJiZ0RMWmVvVVI5Z1RCUGEwWTZrcnIwa1JCTjV3YVFrRTBrLUZRdkE2VWlSZVZxRjB4QjJ5LWRFTExRSzROWm1CZmZHbHFGYlVPWHdOQ0thc2ctbDNyajBfdGJlaWhfTXNTMVQ2ZW81Wl9ZeVlfN0RJV3dHRGc?oc=5",
+      "source": "TipRanks",
+      "published": "2026-11-17T23:18:17+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "8d810e9b7c05426e",
@@ -244,17 +299,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "750fbfce43e15107",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "Will Energy Fuels' Contract Portfolio Support Higher Uranium Sales?",
-      "link": "https://finance.yahoo.com/energy/articles/energy-fuels-contract-portfolio-support-141000113.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-17T14:10:00+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "6191de917346db47",
       "ticker": "EML",
       "symbol": "EML.AX",
@@ -264,17 +308,6 @@
       "source": "Yahoo! Finance Canada",
       "published": "2026-11-16T16:46:06+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "5c0851199fa20906",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "On Holding AG (ONON) is Attracting Investor Attention: Here is What You Should Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-ag-onon-attracting-investor-130004138.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-16T13:00:04+00:00",
-      "logo": "logos/ONON.svg"
     },
     {
       "id": "5b4dd6451da146e9",
@@ -310,28 +343,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "fe87a991290e7083",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EMMERSON PLC (EML) Equity Price and Quote - London Stock Exchange",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
-      "source": "London Stock Exchange",
-      "published": "2026-10-22T20:53:32+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "8a5da30ec073805f",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
-      "source": "Morningstar",
-      "published": "2026-09-21T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "11462b774539fd1a",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3psOVJXUnFBejZmSS1rSGZzdDFVaGlkUHo0amg3eVhaQjlScmgtaG9KVktZLU5mVG40MHVqN3JuN2x4TnZ5MV9UclRhWnRVSG8yd1c2eE10RnlvRVRPVDlfakVTQlRUMlZBeVlhd2lxRVpvc09ncXJnUkdhZDhFeFdsbXNoQUZXXzZaRjlFNE1mSWdMUW1USlY2YUQxRjJLUk03dTRLd2l4TkZrWW1VcjhCUHFva0RmN1E2dTI1MENKN1ZmRzZUSGtXbw?oc=5",
       "source": "Kalkine",
       "published": "2026-08-26T07:00:00+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "35e53a37b5d6788f",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC Stock Price and Chart — NSEKE:BOC - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXMWR4cjY0Ukg0YURsR1BGOW5rb2pzeE9ReXl2X1dFa2dVRlg3TjlDUFVhYnJVNU5WX0doMjBsSG9TQlNQTktoUno5YVRnd0tlaWRiRnhmNmd0QQ?oc=5",
-      "source": "TradingView",
-      "published": "2026-08-20T07:00:00+00:00",
       "logo": "logos/BOC.svg"
     },
     {
