@@ -1,6 +1,94 @@
 {
-  "updated": "2026-11-19T20:46:26Z",
+  "updated": "2026-11-20T02:23:35Z",
   "items": [
+    {
+      "id": "48a016a77936e959",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Is Your VOO Fund Secretly An AI Bet?",
+      "link": "https://www.trefis.com/stock/voo/articles/626646/is-your-voo-fund-secretly-an-ai-bet/2026-11-19?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T00:58:20+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "2fa0f5bac7d022e8",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Anthropic’s Margins Will Be “Probably Better Than a Hyperscaler,” Says Its Most Bullish Analyst. Here’s What That Takes",
+      "link": "https://www.tikr.com/blog/anthropics-margins-will-be-probably-better-than-a-hyperscaler-says-its-most-bullish-analyst-heres-what-that-takes?ref=yahoofinance&tlnk=yf-261119-7x5g2cff&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-20T00:05:16+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "5c7861d6a90befff",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Anthropic Just Went Public at $1.5 Trillion. VOO Won’t Own a Share Until Late 2027 at the Earliest",
+      "link": "https://247wallst.com/investing/etf/2026/11/19/anthropic-just-went-public-at-1-5-trillion-voo-wont-own-a-share-until-late-2027-at-the-earliest/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T23:52:41+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "0c8749c3646e87b4",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Anthropic’s Record IPO Is Good News for Hut 8. Here’s the Number That Matters",
+      "link": "https://www.tikr.com/blog/anthropics-record-ipo-is-good-news-for-hut-8-heres-the-number-that-matters?ref=yahoofinance&tlnk=yf-261119-h84r624c&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T23:05:25+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "5be6d99ef098882c",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Stock Market Today, Nov. 19: CoreWeave Falls as Profit-Taking Follows Anthropic IPO Pricing Above Range",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-coreweave-falls-as-profit-taking-follows-anthropic-ipo-pricing-above-range/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T22:53:05+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "937ef2883defc2c0",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Is Tech in a Bear Market? 20 Tech Stocks Fall Up to 76% From Highs",
+      "link": "https://beincrypto.com/tech-stocks-bear-market-record-highs/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T22:40:39+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "777ccd88127fcf73",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Musk Says Optimus Will Do the Dishes “Within 12-18 Months.” Here’s Where Tesla’s Robot Stands",
+      "link": "https://www.tikr.com/blog/musk-says-optimus-will-do-the-dishes-within-12-18-months-heres-where-teslas-robot-stands?ref=yahoofinance&tlnk=yf-261119-6gjh8j3r&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T22:37:52+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "436544bca7c48c73",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Michael Burry Adds To Tesla Rival BYD At Five-Year Lows",
+      "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-adds-to-tesla-rival-byd-at-five-year-lows/cNbiNbKR90M?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-19T21:06:31+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "c497d75e7b8cfa95",
       "ticker": "TSLA",
@@ -11,83 +99,6 @@
       "source": "News",
       "published": "2026-11-19T20:29:31+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "e9b57b92ad45a05d",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
-      "link": "https://www.tikr.com/blog/inside-brad-gerstners-portfolio-every-move-he-made-in-the-third-quarter?ref=yahoofinance&tlnk=yf-261119-8874cxx4&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T20:05:22+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "11724863c467c3bc",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Expands Cybercab To Dallas In First Move Outside Austin",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-expands-cybercab-to-dallas-in-first-move-outside-austin/cNbik2YR90r?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T19:55:17+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "19d70d3227b3c6d7",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "3 Dirt Cheap Artificial Intelligence (AI) Stocks to Load Up on Before 2027",
-      "link": "https://www.fool.com/investing/2026/11/19/3-dirt-cheap-artificial-intelligence-ai-stocks-to-load-up-on-before-2027/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T19:34:02+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "e67fddceb0047a7d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Anthropic Soars 16% in Record $107 Billion IPO Debut: “A Really Big Coming-of-Age Story”",
-      "link": "https://www.tikr.com/blog/anthropic-soars-16-in-record-107-billion-ipo-debut-a-really-big-coming-of-age-story?ref=yahoofinance&tlnk=yf-261119-xp2j9j3v&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T19:25:57+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "b42dd53068e5274b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Missed the Anthropic IPO? These 3 Stocks Give You Immediate Exposure.",
-      "link": "https://www.fool.com/investing/2026/11/19/missed-the-anthropic-ipo-these-3-stocks-give-you-immediate-exposure/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T19:17:02+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "87df9aaa8aaa9c66",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Trump's New Filing Reveals Nvidia, SpaceX And Tesla Purchases. White House Says He Didn't Direct Trades.",
-      "link": "https://www.ibtimes.com/trump-financial-disclosure-nvidia-spacex-tesla-purchases-3809977?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T19:03:57+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "22fbb5315833e581",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Nvidia will not be the leader 5 years from now: Tiernan Ray",
-      "link": "https://finance.yahoo.com/video/nvidia-will-not-be-the-leader-5-years-from-now-tiernan-ray-185954396.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T18:59:54+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "f1d1f6c9c3d0e015",
@@ -143,17 +154,6 @@
       "source": "News",
       "published": "2026-11-19T15:50:02+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "133e5928d7bf64f4",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "BC-Most Active Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153021724.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-19T15:30:21+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "68be43e61f99a25b",
@@ -343,14 +343,14 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "53c6d50958c8778d",
+      "id": "35e53a37b5d6788f",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
-      "title": "Bougainville Copper (ASX:BOC) Share Price Movement Keeps Focus on Panguna Copper-Gold Project - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSTg0LXZQellOS1lneTR3d3hjNDNURFJUWF9hc1lseGFXb1poclJ4UGdmRFEwWmpsNUhvZjZ6TXVkcHV1Ty1FMlRaTDVSQUpjM0lPLTd2QjYyZU52ZXpWWG4zek9UZVpaVjZPc1lpYnhYQjFJaUM5ZGhDdjl4OGl6Rm1qdnYwMVRFSTMxWDFVVWZEVGdDM2FJUEh4TG55UnpVa0VTbDNoMlBpUlg1YTdBeTR3T0g4LWJvcTRwNWlyNm96aFk?oc=5",
-      "source": "Kalkine",
-      "published": "2026-08-19T07:00:00+00:00",
+      "title": "BOC Stock Price and Chart — NSEKE:BOC - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXMWR4cjY0Ukg0YURsR1BGOW5rb2pzeE9ReXl2X1dFa2dVRlg3TjlDUFVhYnJVNU5WX0doMjBsSG9TQlNQTktoUno5YVRnd0tlaWRiRnhmNmd0QQ?oc=5",
+      "source": "TradingView",
+      "published": "2026-08-20T07:00:00+00:00",
       "logo": "logos/BOC.svg"
     },
     {
