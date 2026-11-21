@@ -1,6 +1,83 @@
 {
-  "updated": "2026-11-21T02:27:14Z",
+  "updated": "2026-11-21T11:22:25Z",
   "items": [
+    {
+      "id": "602c24865ea98652",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "IonQ vs. Alphabet: Which is the Better Quantum Computing Stock to Own for Next 5 Years?",
+      "link": "https://www.fool.com/investing/2026/11/21/ionq-vs-alphabet-which-is-the-better-quantum-computing-stock-to-own-for-next-5-years/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T10:55:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d312e35e4677e34a",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "D-Wave CEO: No Quantum Rival Has Produced “Even One Logical Qubit”",
+      "link": "https://www.tikr.com/blog/d-wave-ceo-no-quantum-rival-has-produced-even-one-logical-qubit?ref=yahoofinance&tlnk=yf-261121-w6vfrgmw&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T10:36:13+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "498ea5baed1589e4",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Riot Platforms Just Gained 18% in a Month on a $28 Billion AI Lease. Take Profits, or Buy More?",
+      "link": "https://www.tikr.com/blog/riot-platforms-just-gained-18-in-a-month-on-a-28-billion-ai-lease-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261121-gmf67xmg&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T10:16:54+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "c36342069ee51eb2",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "Nike Is Down 46% in a Year and Calls Fiscal 2028 a “Challenging Year Financially.” Time to Sell, or Load Up?",
+      "link": "https://www.tikr.com/blog/nike-is-down-46-in-a-year-and-calls-fiscal-2028-a-challenging-year-financially-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261121-fm7f782c&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T10:14:29+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "983a7e1f92de2c1a",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "3 Data Center Power Stocks Down More Than a Third From Their Records to Buy Now and Hold Through 2030",
+      "link": "https://www.fool.com/investing/2026/11/21/3-data-center-power-stocks-down-more-than-a-third-from-their-records-to-buy-now-and-hold-through-2030/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T09:03:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "286bdeeae98c1094",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Prediction: Here’s Where Alphabet Stock Will Be in 5 Years",
+      "link": "https://www.fool.com/investing/2026/11/21/prediction-heres-where-alphabet-stock-will-be-in-5-years/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T08:10:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "9f51b46ca8702c8b",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "MKBHD Says He Will Honor Tesla Cybercab’s 2024 Bet, Elon Musk Says ‘Fair Enough’: ‘I Will Accept Delivery…’",
+      "link": "https://stocktwits.com/news-articles/markets/equity/mkbhd-tesla-cybercab-bet-honor-elon-musk/cNbmX1ZR911?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T06:14:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "7b6fcfd00deef529",
       "ticker": "TSLA",
@@ -11,50 +88,6 @@
       "source": "News",
       "published": "2026-11-21T01:52:02+00:00",
       "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "fd00c6bb40bf578e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Top 5 Stocks to Buy According to Billionaire George Soros",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-stocks-buy-according-010421254.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T01:04:21+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "e95b2a376a631cd1",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Morgan Stanley sends a strong signal to Google stock investors",
-      "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-sends-a-strong-signal-to-google-stock-investors?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T01:03:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c6ac86873dde365b",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Review & Preview: Hype Halted",
-      "link": "https://finance.yahoo.com/m/7f9bf2d2-c34f-310e-9971-12201d455bb0/review-%26-preview%3A-hype-halted.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T00:55:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "70e6bd71e224778d",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Has AI's honeymoon ended on Wall Street?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ais-honeymoon-ended-wall-street-004604807.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T00:46:04+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "849564392cdd35dc",
@@ -79,6 +112,17 @@
       "logo": "logos/TSLA.svg"
     },
     {
+      "id": "d2c21236ee8d6295",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Trading the Move, Not the Narrative: (EML) Edition - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmI4ZFJhRlZIVkF2elRjRGNIclhPLVRNaENFa1JqVnY0MHJNOC1mUlNfb3VFcHlDeTZQRVVaOHdGNjBUUlRzZ3pxeUllcVRKUlE0QlhnOWREdmJ1dnVqUC1tZnEzSVBWaUdUNjB1QXNRQmt1TDE0V2J3VXI0UEV6TU93RmxkZm54SE50NVlmLU11Z1l6N3J2SWVQaFhNdEd0US1MV2FFanNUZDBaUHRXbnVWakV0WjB0QnJFYlhVbWQ1NW5Ed1Aw?oc=5",
+      "source": "Stock Traders Daily",
+      "published": "2026-11-20T22:38:01+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "38ea4b8fe95bf7f5",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -88,17 +132,6 @@
       "source": "News",
       "published": "2026-11-20T21:16:23+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "0178ea0126829764",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Should Tesla (TSLA) Investors Watch Its Merger Talks And Cybercab FSD Rollout?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-investors-watch-merger-211259073.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T21:12:59+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "b7bde903acca8cc5",
@@ -154,17 +187,6 @@
       "source": "News",
       "published": "2026-11-20T17:12:11+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "b31ac15a03c8f9ec",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "BC-Most Active Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-164606636.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T16:46:06+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "a69e0897901cab3a",
@@ -244,17 +266,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "97af492e5f3d9bb2",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "Nike Sinks 6.3% as Its CFO Admits Results Don’t “Reflect the Full Potential” of Its Brands",
-      "link": "https://www.tikr.com/blog/nike-sinks-6-3-as-its-cfo-admits-results-dont-reflect-the-full-potential-of-its-brands?ref=yahoofinance&tlnk=yf-261120-2q9q9wfp&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T09:32:17+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
       "id": "853d4c5ec5bc23d2",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -321,14 +332,14 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "c6baa708f6cdcdc1",
+      "id": "efe2d6f74479c97d",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
-      "title": "Boston Omaha (BOC) Releases Q3 2026 Earnings: Revenue Falls 21.4% and EPS Beats Estimate - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkh3dmRmLUdyeld6SWJOU25haWFtTWhVbXUxaU1UUWxta21MVVF0QWY0LUk2YkgwQWM3WGkxaVRuVGx4M3dsS2J6ZXVnRjVEejlEeTN2RmQtYmROakdDYV9HWGstRTRYTGN1UzBCSE5hV01xazVLWjFmbmpRQ1RiRUsyRVA5cmcxTjZIN2FhOG4xSk1VNXdMZjdZeVJGSDJUWHVFZHpZcjRBX0JwWXdVbmdmX2tWWmdBM0VOaWVDMUs4RWxWSjhVSg?oc=5",
-      "source": "Quiver Quantitative",
-      "published": "2026-11-13T21:36:00+00:00",
+      "title": "Bougainville Copper (ASX:BOC) Shares Fall on Return From Trading Suspension: What’s Happening? - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXp2ZXBKSmk2aGxSOFk2U3NKYWtPbGlUMjRsdEUtbVJZeWN3R3lkZ1NReTBRNFZqdU5EODRPbWFQQjdLTUJaUjBoc3o0OUlLNGpiemFtdkh5TmIzT1hBM284Y2JJTVBKcDVLdTkzZWpYcEk3cHFiVTlQbzVrVFFMOU91MTR2MXdOVGU4SGRmSUllMWR6bjJTNEhLR1hmNDRjNFhYckFHLWlkOUZYNXBQSS04ZWs3ZGxXZ2hrbUlhWVZDTGY1SXU0Sm9PVFRzdw?oc=5",
+      "source": "Kalkine",
+      "published": "2026-10-27T07:00:00+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
       "source": "London Stock Exchange",
       "published": "2026-10-22T20:53:32+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "8a5da30ec073805f",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
-      "source": "Morningstar",
-      "published": "2026-09-21T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
