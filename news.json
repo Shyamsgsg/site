@@ -1,37 +1,136 @@
 {
-  "updated": "2026-11-21T11:22:25Z",
+  "updated": "2026-11-21T19:27:27Z",
   "items": [
     {
-      "id": "602c24865ea98652",
+      "id": "7c84a8fe0efb3fd7",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "IonQ vs. Alphabet: Which is the Better Quantum Computing Stock to Own for Next 5 Years?",
-      "link": "https://www.fool.com/investing/2026/11/21/ionq-vs-alphabet-which-is-the-better-quantum-computing-stock-to-own-for-next-5-years/?.tsrc=rss",
+      "title": "Microsoft Was The Only Big AI Buyer Paying Down Debt. How Much More Can It Spend?",
+      "link": "https://www.trefis.com/stock/msft/articles/627454/microsoft-was-the-only-big-ai-buyer-paying-down-debt-how-much-more-can-it-spend/2026-11-21?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-21T10:55:02+00:00",
+      "published": "2026-11-21T18:32:03+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "d312e35e4677e34a",
+      "id": "9d7bd55300e1e534",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "D-Wave CEO: No Quantum Rival Has Produced “Even One Logical Qubit”",
-      "link": "https://www.tikr.com/blog/d-wave-ceo-no-quantum-rival-has-produced-even-one-logical-qubit?ref=yahoofinance&tlnk=yf-261121-w6vfrgmw&.tsrc=rss",
+      "title": "Meta Stopped Its Buybacks To Build AI. How Much More Can It Spend?",
+      "link": "https://www.trefis.com/stock/meta/articles/627455/meta-stopped-its-buybacks-to-build-ai-how-much-more-can-it-spend/2026-11-21?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-21T10:36:13+00:00",
+      "published": "2026-11-21T18:32:03+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "498ea5baed1589e4",
+      "id": "0e0b9a2d2b2d127a",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "AI May Have Just Broken Meta’s Climate Promise",
+      "link": "https://247wallst.com/investing/2026/11/21/ai-may-have-just-broken-metas-climate-promise/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T17:02:19+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e093a55efd24065b",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google Is Paying Elon Musk’s SpaceX $30 Billion. Jim Cramer Just Revealed Why",
+      "link": "https://247wallst.com/investing/2026/11/21/google-is-paying-elon-musks-spacex-30-billion-jim-cramer-just-revealed-why/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T16:48:17+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "40b00c7df83a38a9",
       "ticker": "IREN",
       "symbol": "IREN",
       "company": "IREN Ltd",
-      "title": "Riot Platforms Just Gained 18% in a Month on a $28 Billion AI Lease. Take Profits, or Buy More?",
-      "link": "https://www.tikr.com/blog/riot-platforms-just-gained-18-in-a-month-on-a-28-billion-ai-lease-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261121-gmf67xmg&.tsrc=rss",
+      "title": "Texas County Balks at SpaceX’s $24 Billion Data Center Tax Break. SpaceX Says Computing Equipment “Rapidly Depreciates”",
+      "link": "https://www.tikr.com/blog/texas-county-balks-at-spacexs-24-billion-data-center-tax-break-spacex-says-computing-equipment-rapidly-depreciates?ref=yahoofinance&tlnk=yf-261121-rg3448hx&.tsrc=rss",
       "source": "News",
-      "published": "2026-11-21T10:16:54+00:00",
+      "published": "2026-11-21T15:08:25+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "ce40138592a044d6",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Musk Won’t Take Stock Awards “Simply for Merging With SpaceX.” Tesla Shareholders Still Have to Vote",
+      "link": "https://www.tikr.com/blog/musk-wont-take-stock-awards-simply-for-merging-with-spacex-tesla-shareholders-still-have-to-vote?ref=yahoofinance&tlnk=yf-261121-76hc4w3h&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T15:06:01+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "7c14d385dd5b0309",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Lenders Fear SpaceX Could “Shoot the Valuable Chips” Into Space. SpaceX Sinks After Its $32 Billion Debt Sale",
+      "link": "https://www.tikr.com/blog/lenders-fear-spacex-could-shoot-the-valuable-chips-into-space-spacex-sinks-after-its-32-billion-debt-sale?ref=yahoofinance&tlnk=yf-261121-mmj2qvg5&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T15:05:08+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "6050fe05d975fb56",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Trump Calls Huang’s Exit “Such a Tragedy” as His Filing Shows Up to $380,000 of Nvidia Buys",
+      "link": "https://www.tikr.com/blog/trump-calls-huangs-exit-such-a-tragedy-as-his-filing-shows-up-to-380000-of-nvidia-buys?ref=yahoofinance&tlnk=yf-261121-64rjxj6w&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T15:01:49+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "27bfb3e59a9ab7df",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "5 Most Overvalued AI Stocks According to Short Sellers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-overvalued-ai-stocks-145011459.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T14:50:11+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "46386b721e093a17",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "MercadoLibre Has Disappointed for a Year: Why Bank of America Still Sees 48% Upside",
+      "link": "https://www.tikr.com/blog/mercadolibre-has-disappointed-for-a-year-why-bank-of-america-still-sees-48-upside?ref=yahoofinance&tlnk=yf-261121-282c2629&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T14:08:44+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "1c9449ffa534d861",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "H-E-B, Southwest, Dell lead Forbes' best Texas companies list",
+      "link": "https://www.usatoday.com/story/news/state/texas/2026/11/21/heb-leads-southwest-dell-tesla-in-texas-company-ranking/92879701007/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T14:02:06+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "b9f0b9c854562d35",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Bitcoin Slumps Below $62,000. CleanSpark’s Direct Cost Was $82,727 a Coin",
+      "link": "https://www.tikr.com/blog/bitcoin-slumps-below-62000-cleansparks-direct-cost-was-82727-a-coin?ref=yahoofinance&tlnk=yf-261121-38j6328w&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T13:04:18+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -46,28 +145,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "983a7e1f92de2c1a",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "3 Data Center Power Stocks Down More Than a Third From Their Records to Buy Now and Hold Through 2030",
-      "link": "https://www.fool.com/investing/2026/11/21/3-data-center-power-stocks-down-more-than-a-third-from-their-records-to-buy-now-and-hold-through-2030/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T09:03:02+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "286bdeeae98c1094",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Prediction: Here’s Where Alphabet Stock Will Be in 5 Years",
-      "link": "https://www.fool.com/investing/2026/11/21/prediction-heres-where-alphabet-stock-will-be-in-5-years/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T08:10:02+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "9f51b46ca8702c8b",
       "ticker": "TSLA",
       "symbol": "TSLA",
@@ -76,39 +153,6 @@
       "link": "https://stocktwits.com/news-articles/markets/equity/mkbhd-tesla-cybercab-bet-honor-elon-musk/cNbmX1ZR911?.tsrc=rss",
       "source": "News",
       "published": "2026-11-21T06:14:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "7b6fcfd00deef529",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "In 2000, Elon Musk Crashed His Uninsured $1 Million McLaren Trying to Show Peter Thiel What It Could Do. In 2025, Thiel’s Fund Quietly Sold Every Tesla Share It Owned",
-      "link": "https://247wallst.com/investing/2026/11/20/in-2000-elon-musk-crashed-his-uninsured-1-million-mclaren-trying-to-show-peter-thiel-what-it-could-do-in-2025-thiels-fund-quietly-sold-every-tesla-share-it-owned/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T01:52:02+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "849564392cdd35dc",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "David Ellison Calls Elon Musk’s $1 Billion Investment ‘an Honor and a Privilege,’ Open to Future Starlink Collaboration",
-      "link": "https://finance.yahoo.com/media-advertising/articles/david-ellison-calls-elon-musk-233006805.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T23:30:06+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "e52061675d0c2e55",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "3 EV Stocks With Earnings Growth Up To 38%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-ev-stocks-earnings-growth-231417251.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T23:14:17+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
@@ -123,28 +167,6 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "38ea4b8fe95bf7f5",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Investis Holding (SWX:IREN) Stock Looks Pricey As Its 67% Run Draws Focus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investis-holding-swx-iren-stock-211623751.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T21:16:23+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "b7bde903acca8cc5",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Tesla Sinks 8%, SpaceX Down 7%, Rivian Down 8% as AI Sell-Off Swamps HSBC Upgrade",
-      "link": "https://www.tikr.com/blog/tesla-sinks-8-spacex-down-7-rivian-down-8-as-ai-sell-off-swamps-hsbc-upgrade?ref=yahoofinance&tlnk=yf-261120-49fmfcrf&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T20:45:55+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "5e5b166d96f88f36",
       "ticker": "NU",
       "symbol": "NU",
@@ -154,17 +176,6 @@
       "source": "News",
       "published": "2026-11-20T20:30:00+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "85f56232ff9d77ce",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "SpaceX’s New ‘Game Plan’ Could Pay Off, Says Top Analyst",
-      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-game-plan-could-pay-201104881.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T20:11:04+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "b24bcf007631256f",
@@ -244,17 +255,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "4441d22dd399b1c0",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "3 Founder Led Stocks To Own In November 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-own-111154655.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T11:11:54+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "548e057eb86b2b7d",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -264,17 +264,6 @@
       "source": "News",
       "published": "2026-11-20T09:48:35+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "853d4c5ec5bc23d2",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Understanding Momentum Shifts in (BOC) - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUm9nTC13UDc3Y09DZG41dm9naVk5LXE5SkotUnJKbXBYQVozWWxpczE5OGczbGZ0WVNDYUxMUHFIbDF1bDA3X2N3aXBTMjdQeGExRXdpOURxSERYX2dZT0pvczU4b3R3N0VCY1hqNUd5RU5mVTduaXBXMkpndWlpVnBab3dMeGtNYlhFdjI0Z0xad3NhYlgybGprVFpUc1NVMGZIMkNWNnRiWFQ5Y2QwSFJPejZrZVU?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-11-20T04:40:01+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "4d17a75e25c107e6",
@@ -352,6 +341,17 @@
       "source": "London Stock Exchange",
       "published": "2026-10-22T20:53:32+00:00",
       "logo": "logos/EML.svg"
+    },
+    {
+      "id": "11462b774539fd1a",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Bougainville Copper (ASX:BOC) Shares Slide While Panguna Project Outlook Remains in Focus - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3psOVJXUnFBejZmSS1rSGZzdDFVaGlkUHo0amg3eVhaQjlScmgtaG9KVktZLU5mVG40MHVqN3JuN2x4TnZ5MV9UclRhWnRVSG8yd1c2eE10RnlvRVRPVDlfakVTQlRUMlZBeVlhd2lxRVpvc09ncXJnUkdhZDhFeFdsbXNoQUZXXzZaRjlFNE1mSWdMUW1USlY2YUQxRjJLUk03dTRLd2l4TkZrWW1VcjhCUHFva0RmN1E2dTI1MENKN1ZmRzZUSGtXbw?oc=5",
+      "source": "Kalkine",
+      "published": "2026-08-26T07:00:00+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "100f84de1493c850",
