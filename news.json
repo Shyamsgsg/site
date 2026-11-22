@@ -1,6 +1,72 @@
 {
-  "updated": "2026-11-22T01:25:00Z",
+  "updated": "2026-11-22T11:38:59Z",
   "items": [
+    {
+      "id": "81281f7a61c4d92f",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Red Violet And 2 High Growth Insider Stocks To Watch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/red-violet-2-high-growth-110736279.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-22T11:07:36+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "14d61894f98d78be",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Elon Musk's Tesla and SpaceX Each Formed a Special Committee to Explore a Merger as His AI Spending Accelerates. Here's Why Combining Them Could Reshape How Investors Value Tesla's Robotaxi Business.",
+      "link": "https://www.fool.com/investing/2026/11/22/elon-musks-tesla-and-spacex-committee-merger/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-22T10:20:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c747b53c250b160f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Jason Calacanis Will “Catch Every Knife” With SpaceX, Tesla and Google. Only Some Are Cheap",
+      "link": "https://www.tikr.com/blog/jason-calacanis-will-catch-every-knife-with-spacex-tesla-and-google-only-some-are-cheap?ref=yahoofinance&tlnk=yf-261122-4rm83mgv&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-22T10:03:30+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "3dee6ad3f80a8ae3",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Just Started Selling Cybercabs, Here's What It Means for a SpaceX and Tesla Merger .",
+      "link": "https://www.fool.com/investing/2026/11/22/tesla-just-started-selling-cybercabs-here-s-what-it-means-for-a-spacex-and-tesla-merger/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-22T07:25:02+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "0702034f6420afd0",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off?",
+      "link": "https://www.fool.com/investing/2026/11/21/billionaire-david-tepper-just-made-a-massive-ai-chip-rotation-will-it-pay-off/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-22T03:20:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "fd8508777625f8a2",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "SABECO connects the community, generations and regions through the Ooc Om Boc 2026 Festival - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT002X0gzVk45MGhJMm9MUmVmeGpacE9fTGZER1RuV1p1aFpuYll0eDM4S245OUFnbm9XSHM5NnlTbGYybkN4ck5jNFFNeWtuVHEyQjZBVzhDaWdiLVNxR1BlZTFJSUI3X2NpVzRKRGswSmI1VnVnb1d3TDV1a0laaVdlY0FnZlg1ZU9Kd1dJQ3ZYaFVENktoRlY3aWVXc0FfTHplVnlsQXNpcWJjVWotbXF2TjhjOEkyc3V4R0QwYw?oc=5",
+      "source": "Laodong.vn",
+      "published": "2026-11-22T02:30:00+00:00",
+      "logo": "logos/BOC.svg"
+    },
     {
       "id": "c71ef07a513e9f4f",
       "ticker": "GOOG",
@@ -21,28 +87,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-gets-fair-001209637.html?.tsrc=rss",
       "source": "News",
       "published": "2026-11-22T00:12:09+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "1f73001e06c63300",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "AppLovin vs. Reddit: Which Technology Stock Is a Better Buy for 2027?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/11/21/applovin-vs-reddit-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T23:39:26+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "7c6d632687bd8c84",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet Stock Just Hit a 1-Year Low. Why Is Google's Parent Borrowing So Much Money?",
-      "link": "https://www.fool.com/investing/2026/11/21/alphabet-stock-just-hit-a-1-year-low-why-is-google-s-parent-borrowing-so-much-money/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T23:20:48+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
@@ -68,17 +112,6 @@
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "047693e98a622b53",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla FSD V15 Rolling Out, Goes 'Wide' Next Month. Elon Musk Says It's 'Something Special.'",
-      "link": "https://finance.yahoo.com/m/b31af40e-5144-3249-9033-82521507fe84/tesla-fsd-v15-rolling-out%2C.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T20:46:52+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "f62c798f9585825a",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -88,17 +121,6 @@
       "source": "News",
       "published": "2026-11-21T19:54:22+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "5bd514e1025140cf",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Cathie Wood Doubles Down On ‘Highest Conviction Names’ Nvidia, Tesla and AMD As Cyclical Tech Stocks Get ‘Slaughtered’ Amid Market Pullback",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-highest-193008245.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T19:30:08+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "40b00c7df83a38a9",
@@ -255,17 +277,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "1bb8a7ede04ee6e2",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "MercadoLibre grew sales 44%—so why did the stock crash 28%?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-grew-sales-44-why-134756984.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T13:47:56+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
       "id": "4d17a75e25c107e6",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -275,17 +286,6 @@
       "source": "News",
       "published": "2026-11-19T15:30:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "6191de917346db47",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "The Eastern Company (EML) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pT1lkMUNKV21tekJ4SXJXZTN1akJlNjZfRFJHVHowXzgxZ09sQUNFcVZWSjVBZGlGejZGUm5hMGFyX0FEdmxKSklTYi1DS1hD?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-11-16T16:46:06+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "5b4dd6451da146e9",
@@ -321,6 +321,17 @@
       "logo": "logos/BOC.svg"
     },
     {
+      "id": "e2a32112a253784a",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "How Did EML Payments Limited (ASX:EML) Reshape Its Operations Amid FY26 Revenue Changes? - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTk9XNU1IVHR3UElVeHo0Z3BUWWduekpkeW9VbHZEV1RQYnNUdE9CbzcyYjZYMFZpdzZJRlhRcENmbnNUT1RfYVFGazE4Mlp0VEZSYzFIWEZRQ0lZQ3dhVmxVdnkyY0lSN0g5NU1xcXZtdUlSdy01bWEzdGw3MjdXUGZvQ2VrMXpfM2pZTWl6QnF0TzYyYTBFRjdZMG52aDVIbUJYbTkxakpuX0Y5QWY1QWZRSFNRR0tRRTV4cjdtSmhBREQyVmU5OUU5TXA?oc=5",
+      "source": "Kalkine",
+      "published": "2026-11-02T08:00:00+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "efe2d6f74479c97d",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -341,17 +352,6 @@
       "source": "London Stock Exchange",
       "published": "2026-10-22T20:53:32+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "11462b774539fd1a",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Bougainville Copper (ASX:BOC) Shares Slide While Panguna Project Outlook Remains in Focus - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3psOVJXUnFBejZmSS1rSGZzdDFVaGlkUHo0amg3eVhaQjlScmgtaG9KVktZLU5mVG40MHVqN3JuN2x4TnZ5MV9UclRhWnRVSG8yd1c2eE10RnlvRVRPVDlfakVTQlRUMlZBeVlhd2lxRVpvc09ncXJnUkdhZDhFeFdsbXNoQUZXXzZaRjlFNE1mSWdMUW1USlY2YUQxRjJLUk03dTRLd2l4TkZrWW1VcjhCUHFva0RmN1E2dTI1MENKN1ZmRzZUSGtXbw?oc=5",
-      "source": "Kalkine",
-      "published": "2026-08-26T07:00:00+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "100f84de1493c850",
