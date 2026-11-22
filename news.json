@@ -1,49 +1,104 @@
 {
-  "updated": "2026-11-21T19:27:27Z",
+  "updated": "2026-11-22T01:25:00Z",
   "items": [
     {
-      "id": "7c84a8fe0efb3fd7",
+      "id": "c71ef07a513e9f4f",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Microsoft Was The Only Big AI Buyer Paying Down Debt. How Much More Can It Spend?",
-      "link": "https://www.trefis.com/stock/msft/articles/627454/microsoft-was-the-only-big-ai-buyer-paying-down-debt-how-much-more-can-it-spend/2026-11-21?.tsrc=rss",
+      "title": "Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than a Decade and Cheaper Than Microsoft and Broadcom",
+      "link": "https://247wallst.com/investing/2026/11/21/nvidia-stock-has-crashed-48-and-now-trades-at-15-times-earnings-its-cheapest-in-more-than-a-decade-and-cheaper-than-microsoft-and-broadcom/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-21T18:32:03+00:00",
+      "published": "2026-11-22T00:47:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "9d7bd55300e1e534",
+      "id": "c8e91664b712ee78",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Meta Stopped Its Buybacks To Build AI. How Much More Can It Spend?",
-      "link": "https://www.trefis.com/stock/meta/articles/627455/meta-stopped-its-buybacks-to-build-ai-how-much-more-can-it-spend/2026-11-21?.tsrc=rss",
+      "title": "Alphabet (GOOGL) Stock Gets Fair Value Trim As Analysts Weigh AI Spending And Monetization",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-gets-fair-001209637.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-21T18:32:03+00:00",
+      "published": "2026-11-22T00:12:09+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "0e0b9a2d2b2d127a",
+      "id": "1f73001e06c63300",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "AI May Have Just Broken Meta’s Climate Promise",
-      "link": "https://247wallst.com/investing/2026/11/21/ai-may-have-just-broken-metas-climate-promise/?.tsrc=rss",
+      "title": "AppLovin vs. Reddit: Which Technology Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/21/applovin-vs-reddit-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-21T17:02:19+00:00",
+      "published": "2026-11-21T23:39:26+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "e093a55efd24065b",
+      "id": "7c6d632687bd8c84",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Google Is Paying Elon Musk’s SpaceX $30 Billion. Jim Cramer Just Revealed Why",
-      "link": "https://247wallst.com/investing/2026/11/21/google-is-paying-elon-musks-spacex-30-billion-jim-cramer-just-revealed-why/?.tsrc=rss",
+      "title": "Alphabet Stock Just Hit a 1-Year Low. Why Is Google's Parent Borrowing So Much Money?",
+      "link": "https://www.fool.com/investing/2026/11/21/alphabet-stock-just-hit-a-1-year-low-why-is-google-s-parent-borrowing-so-much-money/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-21T16:48:17+00:00",
+      "published": "2026-11-21T23:20:48+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "23d7f95aa0d6fe92",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Cathie Wood, Brad Gerstner and 16 Other Big Funds Bought Tesla Last Quarter, While 15 Sold. Who’s Right?",
+      "link": "https://www.tikr.com/blog/cathie-wood-brad-gerstner-and-16-other-big-funds-bought-tesla-last-quarter-while-15-sold-whos-right?ref=yahoofinance&tlnk=yf-261121-3rm42fg9&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T21:19:05+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "98eedf466efde683",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla (TSLA) Stock Looks Richly Priced After Its 47% Three Year Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-looks-richly-210854263.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T21:08:54+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "047693e98a622b53",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla FSD V15 Rolling Out, Goes 'Wide' Next Month. Elon Musk Says It's 'Something Special.'",
+      "link": "https://finance.yahoo.com/m/b31af40e-5144-3249-9033-82521507fe84/tesla-fsd-v15-rolling-out%2C.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T20:46:52+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "f62c798f9585825a",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "CAVA vs. On: Which Consumer Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/21/cava-vs-on-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T19:54:22+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "5bd514e1025140cf",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Cathie Wood Doubles Down On ‘Highest Conviction Names’ Nvidia, Tesla and AMD As Cyclical Tech Stocks Get ‘Slaughtered’ Amid Market Pullback",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-highest-193008245.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-21T19:30:08+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "40b00c7df83a38a9",
@@ -57,17 +112,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "ce40138592a044d6",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Musk Won’t Take Stock Awards “Simply for Merging With SpaceX.” Tesla Shareholders Still Have to Vote",
-      "link": "https://www.tikr.com/blog/musk-wont-take-stock-awards-simply-for-merging-with-spacex-tesla-shareholders-still-have-to-vote?ref=yahoofinance&tlnk=yf-261121-76hc4w3h&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T15:06:01+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "7c14d385dd5b0309",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -77,17 +121,6 @@
       "source": "News",
       "published": "2026-11-21T15:05:08+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "6050fe05d975fb56",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Trump Calls Huang’s Exit “Such a Tragedy” as His Filing Shows Up to $380,000 of Nvidia Buys",
-      "link": "https://www.tikr.com/blog/trump-calls-huangs-exit-such-a-tragedy-as-his-filing-shows-up-to-380000-of-nvidia-buys?ref=yahoofinance&tlnk=yf-261121-64rjxj6w&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T15:01:49+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "27bfb3e59a9ab7df",
@@ -112,17 +145,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "1c9449ffa534d861",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "H-E-B, Southwest, Dell lead Forbes' best Texas companies list",
-      "link": "https://www.usatoday.com/story/news/state/texas/2026/11/21/heb-leads-southwest-dell-tesla-in-texas-company-ranking/92879701007/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T14:02:06+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "b9f0b9c854562d35",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -143,17 +165,6 @@
       "source": "News",
       "published": "2026-11-21T10:14:29+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "9f51b46ca8702c8b",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "MKBHD Says He Will Honor Tesla Cybercab’s 2024 Bet, Elon Musk Says ‘Fair Enough’: ‘I Will Accept Delivery…’",
-      "link": "https://stocktwits.com/news-articles/markets/equity/mkbhd-tesla-cybercab-bet-honor-elon-musk/cNbmX1ZR911?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T06:14:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "d2c21236ee8d6295",
@@ -253,17 +264,6 @@
       "source": "News",
       "published": "2026-11-20T13:47:56+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "548e057eb86b2b7d",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "Nike Sees Sales Falling Through Fiscal 2028. That’s Bad News for Dick’s Sporting Goods",
-      "link": "https://www.tikr.com/blog/nike-sees-sales-falling-through-fiscal-2028-thats-bad-news-for-dicks-sporting-goods?ref=yahoofinance&tlnk=yf-261120-qph6j782&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-20T09:48:35+00:00",
-      "logo": "logos/ONON.svg"
     },
     {
       "id": "4d17a75e25c107e6",
