@@ -1,6 +1,105 @@
 {
-  "updated": "2026-11-22T11:38:59Z",
+  "updated": "2026-11-22T19:49:11Z",
   "items": [
+    {
+      "id": "99623f223cfffcc5",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Top bank resets Tesla stock target, yet standalone value is alarming",
+      "link": "https://www.thestreet.com/investing/stocks/top-bank-resets-tesla-stock-target-yet-standalone-value-is-alarming?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-22T18:47:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "230a0bff5659fefc",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Google Backs Superhot Geothermal in 50 MW Oregon Power Deal",
+      "link": "https://finance.yahoo.com/energy/articles/google-backs-superhot-geothermal-50-180000366.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-22T18:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "7f6da5693f4c93a6",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Billionaire David Tepper’s Appaloosa Opened a $172 Million Stake in Oracle",
+      "link": "https://247wallst.com/investing/2026/11/22/billionaire-david-teppers-appaloosa-opened-a-172-million-stake-in-oracle/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-22T17:59:08+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "903e4ad8bf5851ec",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet vs. Meta Platforms: Which Media Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/22/alphabet-vs-meta-platforms-which-media-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-22T17:16:18+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "80603f664e8dbdfd",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Haven In Orbit? SpaceX Stock Is Still a Buy, Wall Street Says.",
+      "link": "https://finance.yahoo.com/m/e5aec90d-9479-36ff-a645-e3b759e91112/haven-in-orbit%3F-spacex-stock.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-22T17:15:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "9d407fafb2351885",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Anthropic Drove “the Entire Acceleration in AWS and Google Cloud,” per Gil Luria. That’s a Big Risk for Amazon and Alphabet",
+      "link": "https://www.tikr.com/blog/anthropic-drove-the-entire-acceleration-in-aws-and-google-cloud-per-gil-luria-thats-a-big-risk-for-amazon-and-alphabet?ref=yahoofinance&tlnk=yf-261122-rqv8x2vc&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-22T16:09:13+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "6058be14ca843b82",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Warning for CoreWeave: Satya Nadella Says “Selling to One or Two Customers Is Not a Business”",
+      "link": "https://www.tikr.com/blog/warning-for-coreweave-satya-nadella-says-selling-to-one-or-two-customers-is-not-a-business?ref=yahoofinance&tlnk=yf-261122-jxpj37r5&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-22T14:43:32+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "71625312ec7791b1",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "‘I Feel Pretty Foolish’: Elon Musk Wishes He Could ‘Rewind’ the Clock After $500 Million Bet on Republicans in Midterms",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/feel-pretty-foolish-elon-musk-123005190.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-22T12:30:05+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "7131d20d1f1a3bd9",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Not Lucid. Not Ford. The EV Stock Most Likely to Catch Every Refunded Cybertruck Buyer.",
+      "link": "https://www.fool.com/investing/2026/11/22/not-lucid-not-ford-the-ev-stock-most-likely-to-catch-every-refunded-cybertruck-buyer/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-22T12:27:02+00:00",
+      "logo": "logos/TSLA.svg"
+    },
     {
       "id": "81281f7a61c4d92f",
       "ticker": "NU",
@@ -13,50 +112,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "14d61894f98d78be",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk's Tesla and SpaceX Each Formed a Special Committee to Explore a Merger as His AI Spending Accelerates. Here's Why Combining Them Could Reshape How Investors Value Tesla's Robotaxi Business.",
-      "link": "https://www.fool.com/investing/2026/11/22/elon-musks-tesla-and-spacex-committee-merger/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-22T10:20:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "c747b53c250b160f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Jason Calacanis Will “Catch Every Knife” With SpaceX, Tesla and Google. Only Some Are Cheap",
-      "link": "https://www.tikr.com/blog/jason-calacanis-will-catch-every-knife-with-spacex-tesla-and-google-only-some-are-cheap?ref=yahoofinance&tlnk=yf-261122-4rm83mgv&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-22T10:03:30+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "3dee6ad3f80a8ae3",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Just Started Selling Cybercabs, Here's What It Means for a SpaceX and Tesla Merger .",
-      "link": "https://www.fool.com/investing/2026/11/22/tesla-just-started-selling-cybercabs-here-s-what-it-means-for-a-spacex-and-tesla-merger/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-22T07:25:02+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "0702034f6420afd0",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off?",
-      "link": "https://www.fool.com/investing/2026/11/21/billionaire-david-tepper-just-made-a-massive-ai-chip-rotation-will-it-pay-off/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-22T03:20:02+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "fd8508777625f8a2",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -66,50 +121,6 @@
       "source": "Laodong.vn",
       "published": "2026-11-22T02:30:00+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "c71ef07a513e9f4f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than a Decade and Cheaper Than Microsoft and Broadcom",
-      "link": "https://247wallst.com/investing/2026/11/21/nvidia-stock-has-crashed-48-and-now-trades-at-15-times-earnings-its-cheapest-in-more-than-a-decade-and-cheaper-than-microsoft-and-broadcom/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-22T00:47:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "c8e91664b712ee78",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet (GOOGL) Stock Gets Fair Value Trim As Analysts Weigh AI Spending And Monetization",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-gets-fair-001209637.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-22T00:12:09+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "23d7f95aa0d6fe92",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Cathie Wood, Brad Gerstner and 16 Other Big Funds Bought Tesla Last Quarter, While 15 Sold. Who’s Right?",
-      "link": "https://www.tikr.com/blog/cathie-wood-brad-gerstner-and-16-other-big-funds-bought-tesla-last-quarter-while-15-sold-whos-right?ref=yahoofinance&tlnk=yf-261121-3rm42fg9&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T21:19:05+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "98eedf466efde683",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla (TSLA) Stock Looks Richly Priced After Its 47% Three Year Run",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-looks-richly-210854263.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T21:08:54+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "f62c798f9585825a",
@@ -167,17 +178,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "b9f0b9c854562d35",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Bitcoin Slumps Below $62,000. CleanSpark’s Direct Cost Was $82,727 a Coin",
-      "link": "https://www.tikr.com/blog/bitcoin-slumps-below-62000-cleansparks-direct-cost-was-82727-a-coin?ref=yahoofinance&tlnk=yf-261121-38j6328w&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T13:04:18+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "c36342069ee51eb2",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -220,6 +220,17 @@
       "source": "News",
       "published": "2026-11-20T17:54:12+00:00",
       "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "d964464b93886c0f",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "AIRG,BSBK,EML,ATLO,HGBL,CULP,SLND,SLRC,IMMX,HASI,FBK,VANI,SFST,ASYS,BRID,ASLE,RMCF,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2JLZFpBaFdrSll4eEM2OTZXM0JBbzdrcUlxSjAycnJuVGJIUUpqMkVWc1VZaHN1YzVwZmxINXZGeHVSQ3QzYW9sZzRaeWNTemJLVFlzNVVvZ0JlbjRjZHRWV1IyUGg5UWhVRVQ0ZFdvZ01xMnpodXJUUXg2UGczdXNDUXVidjdJRGlpRUhrdHA4cFhpaVAtMzdCclBUeEgxeWxwR0VkQi0ySHpVWEJZWHo1Z0tSZDBDalZwM1dSLW0yQQ?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-20T17:37:32+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "132a550e593c0362",
@@ -277,6 +288,28 @@
       "logo": "logos/CCJ.svg"
     },
     {
+      "id": "284a87d5ad674678",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "AIRG,BSBK,EML,HGBL,ATLO,SLND,CULP,SLRC,IMMX,HASI,FBK,VANI,LXRX,SFST,BRID,ASLE,RMCF,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmZIYjAtQ3FwaGdQZTI4VnNTclpMVFdVUkNrZl9XRWRSNGE0UTh3SUdGQUJ3SkhxWmstZWwtclV2SW5xMHdVNTRtX0tOR19ZRk8zY0RFTDI4Z3Y2VXRraUpPczBESVhhNFJ6aVcxaDZHRVBQai1JUnA2bFluYmRGNEtuZi1zR3Faajc0b1ZsZkVvcE1ZUUZRS1h2eWFqQUdIbzBUeno0UlZjbElZTER4VUdUR05tQWw1bk96SmdwUWxLdw?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-20T11:24:51+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
+      "id": "2c38c741b6e27b31",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "AIRG,EML,BSBK,HGBL,ATLO,CULP,SLND,SLRC,IMMX,VANI,HASI,FBK,ASYS,SFST,BRID,ASLE,RMCF,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUWNpc3QxU3VlcXB5RkdNQk1Hb1R6SXNVS09uUEp1aEFsT0ZJSllmaXlqbEdWSXdPR0ZhcUZtcVZfNmJUNW1JTjVwczlmOG9Fei1valJkRWo2NWZmNkJwRnU2N01hdG1wUEJVQ0tRRmVxMkcxV1hqZFZhLTdiaUJnbjZBVjNFSmNUd05Qak5iMF9LX2pHa1VpNnhVU3J5czltNldMLUhBRmtGRVU4dmdkd2MxUnVmZkIzNmZlNWU3bENKUQ?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-20T06:09:02+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "4d17a75e25c107e6",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -286,17 +319,6 @@
       "source": "News",
       "published": "2026-11-19T15:30:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "5b4dd6451da146e9",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Stock Up 17% as Q3 Earnings Soar Y/Y on Strong Truck Mirror Demand - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTzBHX2QyTTQ4RDNUbW9xVHVPdnRPbzBDQmZiTkZWWFlyNHJjQUIzS25PcGl0VGRENG9leVE3dFJSS09HelVUNTJPa3VhTnh1c0pYbWtBS0pKYmFHcC0zWTdxQTZXWERDZ1RXQm1QNnU3a3hRWjMwLVNscUJJWTZIZURDdExXUVdKN2d2aEVabU9MZU9Gb3liRE1NT2VLU3FWUWhfc0hZQkV1YW15UW1Jc1lLTmRVdjRMczl1WWptQXRqZw?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-16T11:55:00+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "b03e7ac0e397760c",
@@ -321,17 +343,6 @@
       "logo": "logos/BOC.svg"
     },
     {
-      "id": "e2a32112a253784a",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "How Did EML Payments Limited (ASX:EML) Reshape Its Operations Amid FY26 Revenue Changes? - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTk9XNU1IVHR3UElVeHo0Z3BUWWduekpkeW9VbHZEV1RQYnNUdE9CbzcyYjZYMFZpdzZJRlhRcENmbnNUT1RfYVFGazE4Mlp0VEZSYzFIWEZRQ0lZQ3dhVmxVdnkyY0lSN0g5NU1xcXZtdUlSdy01bWEzdGw3MjdXUGZvQ2VrMXpfM2pZTWl6QnF0TzYyYTBFRjdZMG52aDVIbUJYbTkxakpuX0Y5QWY1QWZRSFNRR0tRRTV4cjdtSmhBREQyVmU5OUU5TXA?oc=5",
-      "source": "Kalkine",
-      "published": "2026-11-02T08:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "efe2d6f74479c97d",
       "ticker": "BOC",
       "symbol": "BOC.AX",
@@ -341,17 +352,6 @@
       "source": "Kalkine",
       "published": "2026-10-27T07:00:00+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "fe87a991290e7083",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EMMERSON PLC (EML) Equity Price and Quote - London Stock Exchange",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
-      "source": "London Stock Exchange",
-      "published": "2026-10-22T20:53:32+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "100f84de1493c850",
