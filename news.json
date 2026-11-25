@@ -1,104 +1,148 @@
 {
-  "updated": "2026-11-25T08:49:15Z",
+  "updated": "2026-11-25T19:24:46Z",
   "items": [
     {
-      "id": "1b8ae5a1893c38b1",
+      "id": "09839edebb28b75d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Why Alphabet Stock Is Down Today",
+      "link": "https://www.fool.com/investing/2026/11/25/why-alphabet-stock-is-down-today/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T19:15:01+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "cbf6bea599595805",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Why SpaceX Stock Is Down Today",
+      "link": "https://www.fool.com/investing/2026/11/25/why-spacex-stock-is-down-today/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T19:05:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d36d611e9ccd9310",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "AST SpaceMobile Surges 9%, Erasing Early Losses as Space Stocks Diverge; SpaceX Eases, Rocket Lab Holds Steady",
+      "link": "https://247wallst.com/investing/2026/11/25/ast-spacemobile-surges-9-erasing-early-losses-as-space-stocks-diverge-spacex-eases-rocket-lab-holds-steady/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T19:02:30+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "2ff7c047722c4172",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Why Nvidia Stock Is Falling Again",
+      "link": "https://www.fool.com/investing/2026/11/25/why-nvidia-stock-is-falling-again/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T18:53:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "d68eacc6b777bd54",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Why Alphabet Stock Fell Today (Hint: It's AI-Related)",
+      "link": "https://www.fool.com/investing/2026/11/25/why-alphabet-stock-fell-today/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T18:52:11+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "01b9fe5be126ad0e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX stock pares losses following FCC approval for data centers in space",
+      "link": "https://finance.yahoo.com/technology/article/spacex-stock-pares-losses-following-fcc-approval-for-data-centers-in-space-183757039.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T18:37:57+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "2b309a6242554bef",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Ford Motor vs. Tesla: Which Automaker Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/25/ford-motor-vs-tesla-which-automaker-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T18:13:01+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "b540edfb9f5144c7",
       "ticker": "IREN",
       "symbol": "IREN",
       "company": "IREN Ltd",
-      "title": "IREN Selloff Draws Attention: Grant Cardone Joins Retail Bulls Asking Where The Bottom Is",
-      "link": "https://stocktwits.com/news-articles/markets/equity/iren-selloff-draws-attention-grant-cardone-retail-bulls-asking-where-the-bottom-is/cNbHJRhR9lq?.tsrc=rss",
+      "title": "Will Funding Gap Change IREN Stock Narrative",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/funding-gap-change-iren-stock-181042884.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-25T08:43:21+00:00",
+      "published": "2026-11-25T18:10:42+00:00",
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "724a8748b82449f7",
+      "id": "c1b30eaeaaa1a8fb",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Freedom Capital Markets’ $314 Target Says Nebius’s Selloff Went Too Far",
+      "link": "https://www.tikr.com/blog/freedom-capital-markets-314-target-says-nebiuss-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261125-28wv344f&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T17:02:20+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "958e466eedcfceaf",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "SpaceX Could Fall Below $100 On A Tesla Bid, Gary Black Says — JPMorgan Sees The Same Deal As A Shortcut To The S&P 500",
-      "link": "https://stocktwits.com/news-articles/markets/equity/spacex-fall-tesla-bid-gary-black-jp-morgan-shortcut-sp500/cNbH7PdR9lF?.tsrc=rss",
+      "title": "Tesla’s FSD Version 15 Is an Improvement. How That Helps the Stock.",
+      "link": "https://finance.yahoo.com/m/2c17d7f3-1b8f-3c65-962c-b31a60522eff/tesla%E2%80%99s-fsd-version-15-is-an.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-25T08:07:08+00:00",
+      "published": "2026-11-25T16:38:00+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "ebdbdcf103c4a5b7",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "BYD plans car production in France to boost its push into the European market",
-      "link": "https://www.euronews.com/2026/11/25/byd-plans-car-production-in-france-to-boost-its-push-into-the-european-market?.tsrc=rss",
+      "id": "5bb5671abfc991a6",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Prediction: IREN’s Microsoft Deal Could Be Just the Beginning of Its Next Growth Phase",
+      "link": "https://247wallst.com/investing/2026/11/25/prediction-irens-microsoft-deal-could-be-just-the-beginning-of-its-next-growth-phase-massive-upside-ahead/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-25T07:41:49+00:00",
-      "logo": "logos/TSLA.svg"
+      "published": "2026-11-25T16:33:59+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
-      "id": "c8b7974ba8626ae8",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet Has $251 Billion Invested In 2 of Its Biggest Artificial Intelligence Partners",
-      "link": "https://www.fool.com/investing/2026/11/25/alphabet-has-251-billion-invested-in-2-of-its-biggest-artificial-intelligence-partners/?.tsrc=rss",
+      "id": "2b483dcfe8225a83",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Before the bell: Bitcoin's Thanksgiving comes with a tariff bill",
+      "link": "https://www.thestreet.com/crypto/markets/before-the-bell-bitcoins-thanksgiving-comes-with-a-tariff-bill-?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-25T07:29:02+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-11-25T16:24:05+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
-      "id": "432a8657846d9715",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "AI Concerns Resurface? ORCL, GOOGL, SPCX, CRWV Credit Default Swap Spreads Hit Records As NVDA, ANT Tumble",
-      "link": "https://stocktwits.com/news-articles/markets/equity/ai-concerns-resurface-orcl-googl-spcx-crwv-credit-default-swap-spreads-hit-records-as-nvda-ant-tumble/cNbHEEAR9lZ?.tsrc=rss",
+      "id": "b77ed0401c56e0bf",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "3 Founder Led Stocks With ROE Up To 21%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-roe-161134064.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-25T06:56:18+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "4c4227f6a8e8e49c",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla's $3.5 trillion merger talks have a surprising catch",
-      "link": "https://www.thestreet.com/investing/teslas-3-5-trillion-merger-talks-have-a-surprising-catch?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-25T03:33:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "8f78ccf403f6b756",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Jensen Huang's Return Could Make a Tesla/SpaceX Merger More Likely",
-      "link": "https://www.fool.com/investing/2026/11/24/jensen-huang-s-return-could-make-a-tesla-spacex-merger-more-likely/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-25T02:50:02+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "796cc19cdefa1e53",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Your $300,000 in XLC Holds $130,206 in Just Meta and Alphabet",
-      "link": "https://247wallst.com/investing/etf/2026/11/24/your-300000-in-xlc-holds-130206-in-just-meta-and-alphabet/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-25T01:04:06+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "84370de162442374",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "5 Sleeper Blue-Chip Stock Picks for Steady Long-Term Gains",
-      "link": "https://www.kiplinger.com/investing/blue-chip-stocks/sleeper-blue-chip-stock-picks-for-steady-long-term-gains?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-25T00:52:33+00:00",
-      "logo": "logos/GOOG.svg"
+      "published": "2026-11-25T16:11:34+00:00",
+      "logo": "logos/ONON.svg"
     },
     {
       "id": "8d5addaf2d15633e",
@@ -123,17 +167,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "52d39727c65b51d1",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Applied Digital Is Down 33% in a Month. What Will It Take to Get APLD Stock Back to $20?",
-      "link": "https://247wallst.com/investing/2026/11/24/applied-digital-is-down-33-in-a-month-what-will-it-take-to-get-apld-stock-back-to-20/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-24T20:02:46+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "04ec6e97622702c4",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -156,6 +189,17 @@
       "logo": "logos/NU.svg"
     },
     {
+      "id": "0dad443f151f3b03",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC's Macklem: The housing market is certainly soft, we don't see it leading the recovery - investingLive",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMlRpT0FQSnlKRWtHNEljN09tdFVsOHI2RGh0dVdBNVRqUGs0TzczUzNsSTRTb1VnVUpWN1Fhd29OdUxhWEhuYjZ1WDlyN1dKVG1YQXFYeEZ4YWtSTGRLdlFJSTJzbGZKYkFIdUhnYWlzdkJPWldDZ0ZyR2kxTFg1ZGNWOXlZaWxyRVM2WWQwT2g5N3BJY09HNncwVFhBMFRLSmZMNXZ1VHNjZDkzUnNoSG5aRXpELURZZE1ZRWRheVZoSi16bDdR?oc=5",
+      "source": "investingLive",
+      "published": "2026-11-24T19:11:22+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "bddaac62bdcdba19",
       "ticker": "NU",
       "symbol": "NU",
@@ -167,37 +211,15 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "c096b4e8e4be23cd",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "IREN Sinks 15%, CoreWeave Tumbles 14% as Neocloud Stocks Backtrack Monday’s Rally; Nebius Drops 13%",
-      "link": "https://247wallst.com/investing/2026/11/24/iren-sinks-15-coreweave-tumbles-14-as-neocloud-stocks-backtrack-mondays-rally-nebius-drops-13/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-24T17:02:43+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "0c75145253cde79f",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "MIT reports no Class A voting power at Boston Omaha (BOC) in an amended ownership disclosure. - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcjh3UlV0c2FPeUFMSkJ1czhHOGxpbDh4bnlwRFlHUlk5Si15NllyTUVBZzBjNGtIWEduYUhLS2tua2VmUUk4b0NJYUVXbHN6ZFVLQ0ppTTByUjVVOEp5UGhPY0htaW9zV0lBSG1vdmM5Rk4yNFBsTVZrZFRYd3l4d0twb080WFFkSGs5bHNHSW1UVlBhZS1ibDJyYVkzYW8zVFVNa28waV9lTnVMaGY4dkctX3hXNGVhcnltVGdqWHpJN3ZOTzdIVldn?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-24T15:30:29+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "f3e2f2c9c449b30d",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "BC-Most Active Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153019321.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-24T15:30:19+00:00",
-      "logo": "logos/IREN.svg"
+      "id": "6191de917346db47",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "The Eastern Company (EML) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pT1lkMUNKV21tekJ4SXJXZTN1akJlNjZfRFJHVHowXzgxZ09sQUNFcVZWSjVBZGlGejZGUm5hMGFyX0FEdmxKSklTYi1DS1hD?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-24T15:57:01+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "188e952b008b5001",
@@ -266,25 +288,14 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "f62c798f9585825a",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "CAVA vs. On: Which Consumer Stock Is a Better Buy for 2027?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/11/21/cava-vs-on-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-21T19:54:22+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "41799c2f97d548e6",
+      "id": "5b4dd6451da146e9",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Stock Up 17% as Q3 Earnings Soar Y/Y on Strong Truck Mirror Demand - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmhFVGh5RGxWRVZHOHhFcUtSS2ttQkhaM0M4azdzWTMwZm1BdzVoNUVvdHU1ck9fTEJvZ1hNcWdkR2VfcEM0R2lpSEd6dkRwbDRHbEFrT3BYTS1HWFRWcGZ0STA0NGM1YnhoNFNXUHdseU1kYlR3ZnVENWVlQmpnQ1RpX0NHcVpZR2ZHWTNzeDdBVUU?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-16T08:00:00+00:00",
+      "title": "EML Stock Up 17% as Q3 Earnings Soar Y/Y on Strong Truck Mirror Demand - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTzBHX2QyTTQ4RDNUbW9xVHVPdnRPbzBDQmZiTkZWWFlyNHJjQUIzS25PcGl0VGRENG9leVE3dFJSS09HelVUNTJPa3VhTnh1c0pYbWtBS0pKYmFHcC0zWTdxQTZXWERDZ1RXQm1QNnU3a3hRWjMwLVNscUJJWTZIZURDdExXUVdKN2d2aEVabU9MZU9Gb3liRE1NT2VLU3FWUWhfc0hZQkV1YW15UW1Jc1lLTmRVdjRMczl1WWptQXRqZw?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-16T11:55:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
       "source": "London Stock Exchange",
       "published": "2026-10-22T20:53:32+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "8a5da30ec073805f",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments: Intention to Cease Coverage - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
-      "source": "Morningstar",
-      "published": "2026-09-21T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
