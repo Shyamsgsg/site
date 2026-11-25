@@ -1,6 +1,105 @@
 {
-  "updated": "2026-11-24T23:56:34Z",
+  "updated": "2026-11-25T08:49:15Z",
   "items": [
+    {
+      "id": "1b8ae5a1893c38b1",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN Selloff Draws Attention: Grant Cardone Joins Retail Bulls Asking Where The Bottom Is",
+      "link": "https://stocktwits.com/news-articles/markets/equity/iren-selloff-draws-attention-grant-cardone-retail-bulls-asking-where-the-bottom-is/cNbHJRhR9lq?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T08:43:21+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "724a8748b82449f7",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "SpaceX Could Fall Below $100 On A Tesla Bid, Gary Black Says — JPMorgan Sees The Same Deal As A Shortcut To The S&P 500",
+      "link": "https://stocktwits.com/news-articles/markets/equity/spacex-fall-tesla-bid-gary-black-jp-morgan-shortcut-sp500/cNbH7PdR9lF?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T08:07:08+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ebdbdcf103c4a5b7",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "BYD plans car production in France to boost its push into the European market",
+      "link": "https://www.euronews.com/2026/11/25/byd-plans-car-production-in-france-to-boost-its-push-into-the-european-market?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T07:41:49+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "c8b7974ba8626ae8",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet Has $251 Billion Invested In 2 of Its Biggest Artificial Intelligence Partners",
+      "link": "https://www.fool.com/investing/2026/11/25/alphabet-has-251-billion-invested-in-2-of-its-biggest-artificial-intelligence-partners/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T07:29:02+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "432a8657846d9715",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "AI Concerns Resurface? ORCL, GOOGL, SPCX, CRWV Credit Default Swap Spreads Hit Records As NVDA, ANT Tumble",
+      "link": "https://stocktwits.com/news-articles/markets/equity/ai-concerns-resurface-orcl-googl-spcx-crwv-credit-default-swap-spreads-hit-records-as-nvda-ant-tumble/cNbHEEAR9lZ?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T06:56:18+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "4c4227f6a8e8e49c",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla's $3.5 trillion merger talks have a surprising catch",
+      "link": "https://www.thestreet.com/investing/teslas-3-5-trillion-merger-talks-have-a-surprising-catch?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T03:33:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "8f78ccf403f6b756",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Jensen Huang's Return Could Make a Tesla/SpaceX Merger More Likely",
+      "link": "https://www.fool.com/investing/2026/11/24/jensen-huang-s-return-could-make-a-tesla-spacex-merger-more-likely/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T02:50:02+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "796cc19cdefa1e53",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Your $300,000 in XLC Holds $130,206 in Just Meta and Alphabet",
+      "link": "https://247wallst.com/investing/etf/2026/11/24/your-300000-in-xlc-holds-130206-in-just-meta-and-alphabet/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T01:04:06+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "84370de162442374",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "5 Sleeper Blue-Chip Stock Picks for Steady Long-Term Gains",
+      "link": "https://www.kiplinger.com/investing/blue-chip-stocks/sleeper-blue-chip-stock-picks-for-steady-long-term-gains?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-25T00:52:33+00:00",
+      "logo": "logos/GOOG.svg"
+    },
     {
       "id": "8d5addaf2d15633e",
       "ticker": "ONON",
@@ -13,50 +112,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "570211e197cfb64a",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "How Much Bitcoin Could Elon Musk Control if Tesla and SpaceX Merge?",
-      "link": "https://247wallst.com/investing/cryptocurrency/2026/11/24/how-much-bitcoin-could-elon-musk-control-if-tesla-and-spacex-merge/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-24T22:12:39+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "331878e9834d8dbe",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Stephanie Link Says Marvell Could Earn $30 a Share by 2031. Is She Right?",
-      "link": "https://247wallst.com/investing/2026/11/24/stephanie-link-says-marvell-could-earn-30-a-share-by-2031-is-she-right/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-24T22:07:53+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "8db76a131508c38e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Billionaire Charlie Munger’s Protege Li Lu: Himalaya Capital Has 45% of Its $3.78 Billion Portfolio in Alphabet",
-      "link": "https://247wallst.com/investing/2026/11/24/billionaire-charlie-mungers-protege-li-lu-himalaya-capital-has-45-of-its-3-78-billion-portfolio-in-alphabet/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-24T21:58:58+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "a9474d650e88bcfa",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "RBC Expects SpaceX-Tesla Deal Announcement By Early 2027 — Notes TSLA Shareholders May Accept Combination Without Large Premium",
-      "link": "https://stocktwits.com/news-articles/markets/equity/rbc-expects-space-x-tesla-deal-announcement-by-early-2027-notes-tsla-shareholders-may-accept-combination-without-large-premium/cNbsNbYR9k6?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-24T21:55:33+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "0c00b42008211590",
       "ticker": "NU",
       "symbol": "NU",
@@ -66,50 +121,6 @@
       "source": "News",
       "published": "2026-11-24T21:50:28+00:00",
       "logo": "logos/NU.svg"
-    },
-    {
-      "id": "10cfce3b7bc0f61e",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "A SpaceX-Tesla Deal Could Come in December. Here's Why 1 Group of Investors Should Be Worried.",
-      "link": "https://www.fool.com/investing/2026/11/24/a-spacex-tesla-deal-could-come-in-december-here-s-why-1-group-of-investors-should-be-worried/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-24T21:27:02+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "bf0e3271b7b51512",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Widow to close Stark County custom leather shop after 70+ years",
-      "link": "https://www.cantonrep.com/videos/business/2026/11/24/widow-to-close-stark-county-custom-leather-shop-after-70-years/92947756007/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-24T21:25:51+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "3c59283da9183b79",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Microsoft (MSFT) Is One of the Safest Ways to Own AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-one-safest-ways-210600451.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-24T21:06:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "fac1ecf9646cb904",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Tesla Robotaxi Rival Starts Road Tests Without A Safety Monitor",
-      "link": "https://finance.yahoo.com/m/2fafeed7-c259-3087-9fa8-cf86f4a1ebd4/tesla-robotaxi-rival-starts.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-24T21:02:47+00:00",
-      "logo": "logos/GOOG.svg"
     },
     {
       "id": "52d39727c65b51d1",
@@ -186,17 +197,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153019321.html?.tsrc=rss",
       "source": "News",
       "published": "2026-11-24T15:30:19+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "2ff654009feef834",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Databricks Co-Founder Says Just One Neocloud Has “Robust Enough Isolation.” My Guess: It’s Probably Not CoreWeave",
-      "link": "https://www.tikr.com/blog/databricks-co-founder-says-just-one-neocloud-has-robust-enough-isolation-my-guess-its-probably-not-coreweave?ref=yahoofinance&tlnk=yf-261124-wcppqc25&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-24T15:22:39+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -277,14 +277,14 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "5b4dd6451da146e9",
+      "id": "41799c2f97d548e6",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EML Stock Up 17% as Q3 Earnings Soar Y/Y on Strong Truck Mirror Demand - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTzBHX2QyTTQ4RDNUbW9xVHVPdnRPbzBDQmZiTkZWWFlyNHJjQUIzS25PcGl0VGRENG9leVE3dFJSS09HelVUNTJPa3VhTnh1c0pYbWtBS0pKYmFHcC0zWTdxQTZXWERDZ1RXQm1QNnU3a3hRWjMwLVNscUJJWTZIZURDdExXUVdKN2d2aEVabU9MZU9Gb3liRE1NT2VLU3FWUWhfc0hZQkV1YW15UW1Jc1lLTmRVdjRMczl1WWptQXRqZw?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-16T11:55:00+00:00",
+      "title": "EML Stock Up 17% as Q3 Earnings Soar Y/Y on Strong Truck Mirror Demand - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmhFVGh5RGxWRVZHOHhFcUtSS2ttQkhaM0M4azdzWTMwZm1BdzVoNUVvdHU1ck9fTEJvZ1hNcWdkR2VfcEM0R2lpSEd6dkRwbDRHbEFrT3BYTS1HWFRWcGZ0STA0NGM1YnhoNFNXUHdseU1kYlR3ZnVENWVlQmpnQ1RpX0NHcVpZR2ZHWTNzeDdBVUU?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-16T08:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
@@ -308,6 +308,17 @@
       "source": "StockInvest.us",
       "published": "2026-11-13T22:55:12+00:00",
       "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "e2a32112a253784a",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "How Did EML Payments Limited (ASX:EML) Reshape Its Operations Amid FY26 Revenue Changes? - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTk9XNU1IVHR3UElVeHo0Z3BUWWduekpkeW9VbHZEV1RQYnNUdE9CbzcyYjZYMFZpdzZJRlhRcENmbnNUT1RfYVFGazE4Mlp0VEZSYzFIWEZRQ0lZQ3dhVmxVdnkyY0lSN0g5NU1xcXZtdUlSdy01bWEzdGw3MjdXUGZvQ2VrMXpfM2pZTWl6QnF0TzYyYTBFRjdZMG52aDVIbUJYbTkxakpuX0Y5QWY1QWZRSFNRR0tRRTV4cjdtSmhBREQyVmU5OUU5TXA?oc=5",
+      "source": "Kalkine",
+      "published": "2026-11-02T08:00:00+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "efe2d6f74479c97d",
@@ -340,17 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3A2aVg1YnFwenJxa28zRkE2MEhESGtIeUZUTzhGWDk5ZnoyRG1ZMzM5ZXNFUkxLVHoyT0hib0FvSnBjV0NJZE1TSDdxN3pjblBwQklac3lmQjFYcW5JZzE4elE0V2J4OWtaemI0NEp2elRjd2RtUkk5WlpfNGJTSG9UWDNsRENuXzNuQUpscW5zOU1hQkhN?oc=5",
       "source": "Morningstar",
       "published": "2026-09-21T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "010c62ddb815bf63",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-09-04T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
