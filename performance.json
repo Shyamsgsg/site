@@ -614,8 +614,26 @@
     "GOOG": 267.05,
     "TSLA": 365.665
    }
+  },
+  {
+   "date": "2026-11-26",
+   "index": 83.228245,
+   "spx": 7182.78,
+   "audusd": 0.6628,
+   "usdsgd": 1.29,
+   "prices": {
+    "NU": 12.36,
+    "BOC.AX": 0.12,
+    "EML.AX": 0.235,
+    "GTK.AX": 3.8,
+    "ONON": 31.5,
+    "IREN": 12.85,
+    "CCJ": 61.55,
+    "GOOG": 270.98,
+    "TSLA": 380.14
+   }
   }
  ],
- "updated": "2026-11-25T17:28:27+00:00",
+ "updated": "2026-11-25T22:10:13+00:00",
  "method": "Time-weighted, chain-linked daily index (base 100 at inception close). USD, equities only."
 }
