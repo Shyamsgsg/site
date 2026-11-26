@@ -1,27 +1,159 @@
 {
-  "updated": "2026-11-26T03:38:20Z",
+  "updated": "2026-11-26T17:03:32Z",
   "items": [
     {
-      "id": "c1591d18cc3b5909",
+      "id": "6bbaa67c5f116992",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Cathie Wood Buys More SpaceX Amid Tesla Merger Talks — Ron Baron Says SpaceX Could Make $50B A Year From One Data Center",
-      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-buys-spacex-tesla-merger-talks-ron-baron-spacex-50b-one-data-center/cNbxeDKR9Z4?.tsrc=rss",
+      "title": "XPeng Raises Stakes for Tesla Stock Investors' Big Growth Bet",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/xpeng-raises-stakes-tesla-stock-163240808.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-26T03:32:35+00:00",
+      "published": "2026-11-26T16:32:40+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "1cf47481adb639b2",
+      "id": "e1a6e083e1a34759",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "SpaceX gets approval for 1 million data center satellites",
-      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-gets-approval-1-million-023847485.html?.tsrc=rss",
+      "title": "A 26-year-old Google worker earns $323K but spends under $20K a year — his plan for financial freedom",
+      "link": "https://finance.yahoo.com/markets/articles/26-old-google-worker-earns-160000076.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-26T02:38:47+00:00",
+      "published": "2026-11-26T16:00:00+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "e4a41f661834cc83",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Lucid Sinks 13% in a Week as the Tech Selloff Hits EV Stocks. Seaport Sets a $1 Target",
+      "link": "https://www.tikr.com/blog/lucid-sinks-13-in-a-week-as-the-tech-selloff-hits-ev-stocks-seaport-sets-a-1-target?ref=yahoofinance&tlnk=yf-261126-44rpr8gm&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-26T15:05:24+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ba07aecd7f3b645d",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "AI's self-improvement era is nearly here. It will be felt everywhere",
+      "link": "https://finance.yahoo.com/video/ais-self-improvement-era-nearly-150000618.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-26T15:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "40540f9cbdb01c77",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Europe Cloud Computing Market Surges to $ 550.42 billion at a CAGR 11.0% by 2030 | Report by MarketsandMarkets™",
+      "link": "https://finance.yahoo.com/technology/articles/europe-cloud-computing-market-surges-150000346.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-26T15:00:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "6962eff61c988c5e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "General Motors Is Up 11% in a Month as the Nasdaq-100 Fell 10%. Is Its Nasdaq Switch Really That Good?",
+      "link": "https://www.tikr.com/blog/general-motors-is-up-11-in-a-month-as-the-nasdaq-100-fell-10-is-its-nasdaq-switch-really-that-good?ref=yahoofinance&tlnk=yf-261126-7326q54f&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-26T14:50:28+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "3f90305ee347dee4",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "5 Best Small Cap AI Stocks to Buy for 2027",
+      "link": "https://finance.yahoo.com/technology/ai/articles/5-best-small-cap-ai-144008304.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-26T14:40:08+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "4257c0731ccf150e",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Brazil's Data Center Market: Strategic Investment Analysis and Growth Opportunities (2026-2031) with Profiles of Prominent Operators and Infrastructure Providers",
+      "link": "https://finance.yahoo.com/technology/articles/brazils-data-center-market-strategic-140400060.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-26T14:04:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "ea9499f4f282e3ae",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla's Self-Driving Expansion in Europe Faces a Crucial Test",
+      "link": "https://finance.yahoo.com/technology/ai/articles/teslas-self-driving-expansion-europe-134400727.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-26T13:44:00+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "228b53b71d59acb9",
+      "ticker": "CCJ",
+      "symbol": "CCJ",
+      "company": "Cameco",
+      "title": "Can BWXT's Antares Deal Boost Its Advanced Nuclear Fuel Business?",
+      "link": "https://finance.yahoo.com/energy/articles/bwxts-antares-deal-boost-advanced-125300079.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-26T12:53:00+00:00",
+      "logo": "logos/CCJ.svg"
+    },
+    {
+      "id": "c54bc98ca1bed2e6",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Up 15% as a BoC hike looms: the AI-picked Canadian stock that cut its debt - Investing.com Canada",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXBuYlI3U3dMbE4xSWxGdGl0Wnkzb2JVc042aHhqVzdzMXpYeXlLZDVhVUNWb1E1cnBKU1ROdHBvZGhZV3ZkVzN3NU5FZzJ3YzlvaXdHNHdfTlBsQjFCT2k3Yy1uZ0NBRVk0Ri1kSDByMXl5ZUNEZmtCendRVlI0RmlfS1FzY2VvY0pwTG1FcE4wc2hhUzVHMC1BLVdoTVpaRE1JcjRkWEF0cTNta3N4OXczakhjdV92V3BvTkpQX3NHUm5XcGc?oc=5",
+      "source": "Investing.com Canada",
+      "published": "2026-11-26T08:51:52+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "aa17c9c9036e8dbb",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Meituan stock: BOC International sets HK$85 price target - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMm4zcDF1TTYzNUNKbEF2OXQweTFyN0Y5MUFyNnZkQkhWUnpwNDdlNWRTSFFHVGRTXzd0VUJOVWEwZ3RqRVZ5bDQ1d1JhcTk0OW5tNE03NjBwOFhpck5pMDJQSnd5d2JGQnhaUXU4MDNsNFFTaDF1ampCdU1fYXZ0MnloNVhhZzZSWEJiOTAtZ0ZQS3NVWTJmRzFpX2FvUHFndm8xR2RZVjdCNHZKX2ttX3Rvd1otc3pwc3c?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-11-26T08:31:33+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "a5f9e943f533ed71",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings (NU) Posts Strong Third Quarter Results, Is It Still A Bargain?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-posts-strong-051641801.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-26T05:16:41+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "8d639d1e16fee33d",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Bougainville Copper (ASX:BOC) Shares Climb: What Lies Ahead? - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQclpsaFBKeDdhR1VqdmpfZmRnNWRhU1RTOGdnd1Vwak42blI2bm9xbmpVTHM0MTFyUjFkRjUtTGEtRllWLU5kTTlzbDQwUlBzbGxlcG5icThOc1k2b2EyTndnWUhfZjZkVjQ4WS0xcG9IYWtSUnV4LTFZM1kzVGdLSlpuSzZRNWU0UzB3Y0ppajJtNDFq?oc=5",
+      "source": "Kalkine",
+      "published": "2026-11-26T03:40:00+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
       "id": "0e67db8d9a907036",
@@ -35,50 +167,6 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "a40593f95deecfcc",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
-      "link": "https://beincrypto.com/apple-stock-ai-selloff-safe-haven/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-26T01:00:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "1ddde887fdc1cd70",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "5 Best Strong Buy Growth Stocks to Buy for 2027",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-strong-buy-growth-004610627.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-26T00:46:10+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "827f393c476c373a",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Elon Musk tells Tesla investors there is 'only one way' to eliminate poverty",
-      "link": "https://www.thestreet.com/investing/elon-musk-tells-tesla-investors-optimus-robots-will-eliminate-poverty?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-26T00:37:00+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "3acfcad6c886c619",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "SpaceX wins approval to launch one million AI data centre satellites",
-      "link": "https://www.proactiveinvestors.com/companies/news/1102478/spacex-wins-approval-to-launch-one-million-ai-data-centre-satellites-1102478.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-26T00:27:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "efdc1c029730c08e",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -90,17 +178,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "7db56ebdc5c170e1",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "If SpaceX and Tesla Merge Next Year, Here's What a $5,000 Investment in the Combined Company Could Be Worth by the End of 2028",
-      "link": "https://www.fool.com/investing/2026/11/25/if-spacex-and-tesla-merge-next-year-here-s-what-a-usd5-000-investment-in-the-combined-company-could-be-worth-by-the-end-of-2027/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-25T23:24:02+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "64fa77eb256e1edf",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -110,17 +187,6 @@
       "source": "News",
       "published": "2026-11-25T21:54:55+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "75b6c045dfa35745",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Anthropic, Nvidia, Micron, HP Inc., Dell, Deere, and More Stocks That Explain Today’s Market",
-      "link": "https://finance.yahoo.com/m/18e72c51-c6d7-33b1-aa90-ccce17a9b32f/anthropic%2C-nvidia%2C-micron%2C-hp.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-25T21:41:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "381fcd69c787d7ed",
@@ -142,17 +208,6 @@
       "link": "https://blockspace.media/podcast/spacex-slashes-gpu-pricing-plus-irens-selloff-and-coreweaves-distressed-bonds/?.tsrc=rss",
       "source": "News",
       "published": "2026-11-25T19:57:56+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "b540edfb9f5144c7",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Will Funding Gap Change IREN Stock Narrative",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/funding-gap-change-iren-stock-181042884.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-25T18:10:42+00:00",
       "logo": "logos/IREN.svg"
     },
     {
@@ -189,6 +244,17 @@
       "logo": "logos/NU.svg"
     },
     {
+      "id": "cd312a72ce261be9",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "AIRG,EML,DOMH,ATLO,HGBL,SLRC,HASI,VANI,FBK,ASYS,SFST,ASLE,RMCF,QRHC,CMTL,NVCT | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ0JtLXZ2TjI1YndkN2lkdjJJZ2tEUTJTd0hPS29yZUloN1pYNWlOZHdjeUNaTGJTOHZOUzJFSHUteXZ4cU5jSEN1WUJEWEYyaEpSTG1HcngxR2U3c21DdWwwSWRSSWo3Z0p4b1BSSmtudEZSZXY5TlBaWnhqM0Fmb2FFZXpybkprWW4xOFVzdEhQRHpuNDlwd2xaSjc3UWtpOWJaZmp0c3hCTW1OdUY1N25KalA?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-11-24T21:15:31+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "04ec6e97622702c4",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -222,28 +288,6 @@
       "logo": "logos/NU.svg"
     },
     {
-      "id": "6191de917346db47",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "The Eastern Company (EML) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pT1lkMUNKV21tekJ4SXJXZTN1akJlNjZfRFJHVHowXzgxZ09sQUNFcVZWSjVBZGlGejZGUm5hMGFyX0FEdmxKSklTYi1DS1hD?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-11-24T15:57:01+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "0c75145253cde79f",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "MIT reports no Class A voting power at Boston Omaha (BOC) in an amended ownership disclosure. - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcjh3UlV0c2FPeUFMSkJ1czhHOGxpbDh4bnlwRFlHUlk5Si15NllyTUVBZzBjNGtIWEduYUhLS2tua2VmUUk4b0NJYUVXbHN6ZFVLQ0ppTTByUjVVOEp5UGhPY0htaW9zV0lBSG1vdmM5Rk4yNFBsTVZrZFRYd3l4d0twb080WFFkSGs5bHNHSW1UVlBhZS1ibDJyYVkzYW8zVFVNa28waV9lTnVMaGY4dkctX3hXNGVhcnltVGdqWHpJN3ZOTzdIVldn?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-24T15:30:29+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "188e952b008b5001",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -253,17 +297,6 @@
       "source": "News",
       "published": "2026-11-24T13:00:00+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "53228b25cd893d4f",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "MercadoLibre Grew Revenue 45% as Operating Income Fell 6%. Is It “a Gift at These Prices”?",
-      "link": "https://www.tikr.com/blog/mercadolibre-grew-revenue-45-as-operating-income-fell-6-is-it-a-gift-at-these-prices?ref=yahoofinance&tlnk=yf-261124-jvc9jhx9&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-24T12:57:15+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "abad1987aea44397",
@@ -277,17 +310,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "81040d71983e1b6d",
-      "ticker": "CCJ",
-      "symbol": "CCJ",
-      "company": "Cameco",
-      "title": "What Sent Cameco Stock Lower Again?",
-      "link": "https://www.trefis.com/stock/ccj/articles/627836/what-sent-cameco-stock-lower-again/2026-11-23?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-23T18:41:06+00:00",
-      "logo": "logos/CCJ.svg"
-    },
-    {
       "id": "91d24b050c66afe2",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -297,28 +319,6 @@
       "source": "News",
       "published": "2026-11-23T07:27:35+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "fd8508777625f8a2",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "SABECO connects the community, generations and regions through the Ooc Om Boc 2026 Festival - Laodong.vn",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT002X0gzVk45MGhJMm9MUmVmeGpacE9fTGZER1RuV1p1aFpuYll0eDM4S245OUFnbm9XSHM5NnlTbGYybkN4ck5jNFFNeWtuVHEyQjZBVzhDaWdiLVNxR1BlZTFJSUI3X2NpVzRKRGswSmI1VnVnb1d3TDV1a0laaVdlY0FnZlg1ZU9Kd1dJQ3ZYaFVENktoRlY3aWVXc0FfTHplVnlsQXNpcWJjVWotbXF2TjhjOEkyc3V4R0QwYw?oc=5",
-      "source": "Laodong.vn",
-      "published": "2026-11-22T02:30:00+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "ee1ac29cadb1a194",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Wrapped BOC Hong Kong Tokenized Stock (xStock): Funding, Investors, Team and Key Events - CryptoRank",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01OHV6bktQT204cjdHdkhhLVlSV2VydXVVaWtPY1E2eGpZVGZJUkRVcmkyZWlDZlFaM0NJYUhXMm1uMHIxdUFILTNJNGdjM0h1XzBENnk4b2NkbmVzMmtCcXZib0JKZW9nbF85TTE0U3BYSF9kZjhlaHdyZFQ?oc=5",
-      "source": "CryptoRank",
-      "published": "2026-11-21T04:05:26+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "0c6e3c31392f15a5",
@@ -343,14 +343,14 @@
       "logo": "logos/EML.svg"
     },
     {
-      "id": "853d4c5ec5bc23d2",
+      "id": "b03e7ac0e397760c",
       "ticker": "BOC",
       "symbol": "BOC.AX",
       "company": "Bougainville Copper",
-      "title": "Understanding Momentum Shifts in (BOC) - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUm9nTC13UDc3Y09DZG41dm9naVk5LXE5SkotUnJKbXBYQVozWWxpczE5OGczbGZ0WVNDYUxMUHFIbDF1bDA3X2N3aXBTMjdQeGExRXdpOURxSERYX2dZT0pvczU4b3R3N0VCY1hqNUd5RU5mVTduaXBXMkpndWlpVnBab3dMeGtNYlhFdjI0Z0xad3NhYlgybGprVFpUc1NVMGZIMkNWNnRiWFQ5Y2QwSFJPejZrZVU?oc=5",
-      "source": "Stock Traders Daily",
-      "published": "2026-11-20T04:40:01+00:00",
+      "title": "Rio Tinto, BCL and ABG to establish fund to support Panguna mine legacy impact response",
+      "link": "https://finance.yahoo.com/energy/articles/rio-tinto-bcl-abg-establish-072900268.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-16T07:29:00+00:00",
       "logo": "logos/BOC.svg"
     },
     {
