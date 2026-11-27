@@ -1,71 +1,126 @@
 {
-  "updated": "2026-11-26T17:03:32Z",
+  "updated": "2026-11-27T01:47:00Z",
   "items": [
     {
-      "id": "6bbaa67c5f116992",
+      "id": "78a545d728a63efd",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Bougainville Copper (ASX:BOC) Shares Rise 14.29%: What Is Happening? - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYUU2SUlXekdVT09tcEhOU2FCaGxPVXVaRE43U0VidWp5dWpKdTgxNThPM0h6RjNDaERVdGlWb0RONEhVSldGREVZLWc1SUtJeHB6RG1SMWNoY0RySG1xYzRHZ2gwMm9FanNmZGVjNFAyQ3I0eVUwWFA3U09IbnJrTUtpYmxMaE82RldnMnJHZmRrLVJyS2ZnQ2tiNkE?oc=5",
+      "source": "Kalkine",
+      "published": "2026-11-27T01:30:00+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
+      "id": "f5cce80eb2b1abd8",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "XPeng Raises Stakes for Tesla Stock Investors' Big Growth Bet",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/xpeng-raises-stakes-tesla-stock-163240808.html?.tsrc=rss",
+      "title": "Should You Buy Tesla Stock Before December?",
+      "link": "https://www.fool.com/investing/2026/11/26/should-you-buy-tesla-stock-before-december/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-26T16:32:40+00:00",
+      "published": "2026-11-26T22:35:02+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "e1a6e083e1a34759",
+      "id": "49451a7515c6985e",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "A 26-year-old Google worker earns $323K but spends under $20K a year — his plan for financial freedom",
-      "link": "https://finance.yahoo.com/markets/articles/26-old-google-worker-earns-160000076.html?.tsrc=rss",
+      "title": "Jim Lebenthal Says This Is “a Correction, Not Something Worse.” Why He’s Buying More Alphabet",
+      "link": "https://247wallst.com/investing/2026/11/26/jim-lebenthal-says-this-is-a-correction-not-something-worse-why-hes-buying-more-alphabet/?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-26T16:00:00+00:00",
+      "published": "2026-11-26T22:07:55+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "e4a41f661834cc83",
+      "id": "e78043dae5667af1",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-return-doesn-t-212200380.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-26T21:22:00+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "4724fe10f2ceaea7",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "Lucid Sinks 13% in a Week as the Tech Selloff Hits EV Stocks. Seaport Sets a $1 Target",
-      "link": "https://www.tikr.com/blog/lucid-sinks-13-in-a-week-as-the-tech-selloff-hits-ev-stocks-seaport-sets-a-1-target?ref=yahoofinance&tlnk=yf-261126-44rpr8gm&.tsrc=rss",
+      "title": "Tesla Stocks Slip 1.18% as EU Delays Self-Driving Vote to December 15",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-slip-1-18-190357031.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-26T15:05:24+00:00",
+      "published": "2026-11-26T19:03:57+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "ba07aecd7f3b645d",
+      "id": "c19824ad2a70c4b4",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "AI's self-improvement era is nearly here. It will be felt everywhere",
-      "link": "https://finance.yahoo.com/video/ais-self-improvement-era-nearly-150000618.html?.tsrc=rss",
+      "title": "Broadcom Stocks Edge Lower After Rebounding From an Intraday Low of $278",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-edge-lower-rebounding-183041028.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-26T15:00:00+00:00",
+      "published": "2026-11-26T18:30:41+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "40540f9cbdb01c77",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Europe Cloud Computing Market Surges to $ 550.42 billion at a CAGR 11.0% by 2030 | Report by MarketsandMarkets™",
-      "link": "https://finance.yahoo.com/technology/articles/europe-cloud-computing-market-surges-150000346.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-26T15:00:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "6962eff61c988c5e",
+      "id": "56591c8caf211b15",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "General Motors Is Up 11% in a Month as the Nasdaq-100 Fell 10%. Is Its Nasdaq Switch Really That Good?",
-      "link": "https://www.tikr.com/blog/general-motors-is-up-11-in-a-month-as-the-nasdaq-100-fell-10-is-its-nasdaq-switch-really-that-good?ref=yahoofinance&tlnk=yf-261126-7326q54f&.tsrc=rss",
+      "title": "Charlie Munger Said BYD Was ‘So Much Ahead Of Tesla, It’s Almost Ridiculous’ in 2023. BYD Then Outsold Tesla, But Berkshire Sold Every Share.",
+      "link": "https://www.barchart.com/story/news/9022591/charlie-munger-said-byd-was-so-much-ahead-of-tesla-its-almost-ridiculous-in-2023-byd-then-outsold-tesla-but-berkshire-sold-every-share?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-26T14:50:28+00:00",
+      "published": "2026-11-26T18:30:03+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "1603e67f922c8038",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet Stocks Slip 2.13% as Credit Swaps Hit Record Amid $9.1 Billion Cash Burn",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-slip-2-13-182601811.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-26T18:26:01+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "6aee5e7cb91a95bd",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla: A SpaceX Merger Could Turn $5,000 Into $10,000",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-merger-could-turn-174606474.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-26T17:46:06+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "3e5b1691b7073f73",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings (NU): Why Investors Gave the Stock a Mixed Reception Despite Strong Results?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-why-investors-170952971.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-26T17:09:52+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "fec6612cd456e1d5",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "Applied Digital Just Tumbled 33% in a Month. Can APLD Stock Get Back to $20 in 2027?",
+      "link": "https://247wallst.com/investing/2026/11/26/applied-digital-just-tumbled-33-in-a-month-can-apld-stock-get-back-to-20-in-2027/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-26T17:08:08+00:00",
+      "logo": "logos/IREN.svg"
     },
     {
       "id": "3f90305ee347dee4",
@@ -77,28 +132,6 @@
       "source": "News",
       "published": "2026-11-26T14:40:08+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "4257c0731ccf150e",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Brazil's Data Center Market: Strategic Investment Analysis and Growth Opportunities (2026-2031) with Profiles of Prominent Operators and Infrastructure Providers",
-      "link": "https://finance.yahoo.com/technology/articles/brazils-data-center-market-strategic-140400060.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-26T14:04:00+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "ea9499f4f282e3ae",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla's Self-Driving Expansion in Europe Faces a Crucial Test",
-      "link": "https://finance.yahoo.com/technology/ai/articles/teslas-self-driving-expansion-europe-134400727.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-26T13:44:00+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "228b53b71d59acb9",
@@ -120,17 +153,6 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXBuYlI3U3dMbE4xSWxGdGl0Wnkzb2JVc042aHhqVzdzMXpYeXlLZDVhVUNWb1E1cnBKU1ROdHBvZGhZV3ZkVzN3NU5FZzJ3YzlvaXdHNHdfTlBsQjFCT2k3Yy1uZ0NBRVk0Ri1kSDByMXl5ZUNEZmtCendRVlI0RmlfS1FzY2VvY0pwTG1FcE4wc2hhUzVHMC1BLVdoTVpaRE1JcjRkWEF0cTNta3N4OXczakhjdV92V3BvTkpQX3NHUm5XcGc?oc=5",
       "source": "Investing.com Canada",
       "published": "2026-11-26T08:51:52+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "aa17c9c9036e8dbb",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Meituan stock: BOC International sets HK$85 price target - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMm4zcDF1TTYzNUNKbEF2OXQweTFyN0Y5MUFyNnZkQkhWUnpwNDdlNWRTSFFHVGRTXzd0VUJOVWEwZ3RqRVZ5bDQ1d1JhcTk0OW5tNE03NjBwOFhpck5pMDJQSnd5d2JGQnhaUXU4MDNsNFFTaDF1ampCdU1fYXZ0MnloNVhhZzZSWEJiOTAtZ0ZQS3NVWTJmRzFpX2FvUHFndm8xR2RZVjdCNHZKX2ttX3Rvd1otc3pwc3c?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-11-26T08:31:33+00:00",
       "logo": "logos/BOC.svg"
     },
     {
@@ -200,17 +222,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "072a468b2a250da2",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "SpaceX Slashes GPU Pricing? Plus, IREN’s Selloff and CoreWeave’s Distressed Bonds",
-      "link": "https://blockspace.media/podcast/spacex-slashes-gpu-pricing-plus-irens-selloff-and-coreweaves-distressed-bonds/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-25T19:57:56+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "b77ed0401c56e0bf",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -255,6 +266,17 @@
       "logo": "logos/EML.svg"
     },
     {
+      "id": "13ad803ab7cd0cc7",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "BOC’S MACKLEM: CANADIAN HOUSING MARKET IS CURRENTLY SOFT; WE DON’T SEE HOUSING MARKET LEADING ECONOMIC RECOVERY - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRDFOSlFmQkdXRlFMQkRwM2VYZ3V6aDcyQ2FlbmRTdUR0MzFoX09fRkZJUlhmdk9DaGdzOW1BaDhPb3ZiVEg2WmJtSGRXTnZmcDRkMVB3dUFMZUZQQ3dlcDR6ZWg5ZGVIU1VPLVUzWE1STm5Xa3RYelp3TVZmOVJTeXFkY0RkSTBDOWJwUWY2TkF1QjJCZE9BNlZoNVEzY3dfQ2kycFZXU3BJZ0p1eXpYd1FZcnVxNWhXY205X3pRdkJOcV9oTE8tM1dGTzFVT0pzUnlvNzN0NDNUVEhxRlAybmNEcDJPVEpwb2Y4eXVxLUZTc3RNME9KZGVGU18?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-24T19:37:00+00:00",
+      "logo": "logos/BOC.svg"
+    },
+    {
       "id": "04ec6e97622702c4",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -274,17 +296,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-keep-growing-191225547.html?.tsrc=rss",
       "source": "News",
       "published": "2026-11-24T19:12:25+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "bddaac62bdcdba19",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings Scales in Mexico: Can It Unlock New Revenue Streams?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-scales-mexico-unlock-171300545.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-24T17:13:00+00:00",
       "logo": "logos/NU.svg"
     },
     {
@@ -341,17 +352,6 @@
       "source": "Yahoo! Finance Canada",
       "published": "2026-11-20T11:24:51+00:00",
       "logo": "logos/EML.svg"
-    },
-    {
-      "id": "b03e7ac0e397760c",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Rio Tinto, BCL and ABG to establish fund to support Panguna mine legacy impact response",
-      "link": "https://finance.yahoo.com/energy/articles/rio-tinto-bcl-abg-establish-072900268.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-16T07:29:00+00:00",
-      "logo": "logos/BOC.svg"
     },
     {
       "id": "100f84de1493c850",
