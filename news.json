@@ -1,115 +1,203 @@
 {
-  "updated": "2026-11-27T12:43:13Z",
+  "updated": "2026-11-27T23:31:07Z",
   "items": [
     {
-      "id": "b0bcf4ff71c8736c",
+      "id": "f78a7dc65d39f23f",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Market Chatter: Hackers Breach US Air Force Cloud Platform Powered by Microsoft, Amazon, Oracle, Alphabet",
-      "link": "https://finance.yahoo.com/technology/articles/market-chatter-hackers-breach-us-122132707.html?.tsrc=rss",
+      "title": "5 Best Tech Stocks to Buy for 2027 According to Hedge Funds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-27T12:21:32+00:00",
+      "published": "2026-11-27T21:28:56+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "85bab7974e14eec1",
+      "id": "b7974b05f772300d",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "The Next Phase of AI Spending Could Put This Overlooked Stock in the Spotlight",
-      "link": "https://247wallst.com/investing/2026/11/27/the-next-phase-of-ai-spending-could-put-this-overlooked-stock-in-the-spotlight/?.tsrc=rss",
+      "title": "Jensen Huang Is Back. Nvidia’s (NVDA) Bull Case Remains",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-back-nvidia-nvda-210600721.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-27T12:17:49+00:00",
+      "published": "2026-11-27T21:06:00+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "c20969e39427eb95",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Broadcom’s 2027 Bull Case: AI Revenue Doubles to $115B and $230B—Here’s What Finally Unlocks the Stock",
-      "link": "https://247wallst.com/investing/2026/11/27/broadcoms-2027-bull-case-ai-revenue-doubles-to-115b-and-230b-heres-what-finally-unlocks-the-stock/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-27T12:15:25+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "9f510264b066add0",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "SpaceX Cratered 13.5% This Month: Near 300% Returns to Materialize at Today’s Price According to this Pro Analyst",
-      "link": "https://247wallst.com/investing/2026/11/27/spacex-cratered-13-5-this-month-near-300-returns-to-materialize-at-todays-price-according-to-this-pro-analyst/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-27T12:15:02+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "f34e3f33bed6da4a",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "What Will Decide Reddit Stock Over The Next Six Months?",
-      "link": "https://www.trefis.com/stock/rddt/articles/629331/what-will-decide-reddit-stock-over-the-next-six-months/2026-11-27?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-27T12:05:31+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "e20bad87be701b89",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings (NU) Stock Jumps 8.3% Premarket Without Company News",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-stock-jumps-120019786.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-27T12:00:19+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "cda5c51211d82c75",
+      "id": "d73057b31f98a0c9",
       "ticker": "IREN",
       "symbol": "IREN",
       "company": "IREN Ltd",
-      "title": "Cipher Shifts Toward HPC Leasing: Can It Achieve Stable Earnings?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cipher-shifts-toward-hpc-leasing-111700716.html?.tsrc=rss",
+      "title": "IREN Is Transitioning From Bitcoin Mining to AI Cloud",
+      "link": "https://finance.yahoo.com/technology/ai/articles/iren-transitioning-bitcoin-mining-ai-202843357.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-27T11:17:00+00:00",
+      "published": "2026-11-27T20:28:43+00:00",
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "6da09a8cc2639f9b",
+      "id": "d307a63ec78c4a4f",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet Down Nearly 20%: What Would Its CEO Say?",
+      "link": "https://www.trefis.com/stock/googl/articles/629198/alphabet-down-nearly-20-what-would-its-ceo-say/2026-11-27?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-27T20:25:13+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "c21e221280a3ce5a",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "What Do Tighter Chip Export Rules Mean For IREN (IREN) Shares?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tighter-chip-export-rules-mean-201020618.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-27T20:10:20+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "b21a80719c32b41d",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "iShares Paris-Aligned Climate (PABU) Buys $9.4 Million More Apple on Wednesday",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-paris-aligned-climate-pabu-110455750.html?.tsrc=rss",
+      "title": "TSLA Stock Clocks Best Week In 18 Months: Tesla Reportedly Eyes Buying German Toolmaker Amid Cybercab, Optimus Scaling Plans",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-clocks-best-week-in-18-months-tesla-reportedly-eyes-buying-german-toolmaker-amid-cybercab-optimus-scaling-plans/cNb6PBlR9VL?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-27T11:04:55+00:00",
+      "published": "2026-11-27T19:55:54+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "d4f8a203495f9589",
+      "id": "27bffd97ccc01549",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "What ARK Autonomous Technology & Robotics ETF (ARKQ) Sold: Tesla Leads on Nov. 25",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ark-autonomous-technology-robotics-etf-110448164.html?.tsrc=rss",
+      "title": "Dow Jones Futures: Stock Market Makes Bullish Move, Tesla Leads 7 New Buys; Nvidia's Jensen Huang Heads To Capitol Hill",
+      "link": "https://finance.yahoo.com/m/5b917298-e5b5-3d87-b1fa-f7cad345af64/dow-jones-futures%3A-stock.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-27T11:04:48+00:00",
+      "published": "2026-11-27T19:54:29+00:00",
       "logo": "logos/TSLA.svg"
     },
     {
-      "id": "2c7a3839f382401f",
+      "id": "7d3035173ffad0bf",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Alphabet Stocks Move Lower as Record Credit Spreads Shadow AI Spending",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-move-lower-record-191839414.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-27T19:18:39+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "f685bcb168abdc38",
       "ticker": "TSLA",
       "symbol": "TSLA",
       "company": "Tesla",
-      "title": "What Invesco NASDAQ 100 ETF (QQQM) Bought: Apple Leads on Wednesday",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-nasdaq-100-etf-qqqm-110420784.html?.tsrc=rss",
+      "title": "Stock Market Today: Indexes Log Best Thanksgiving Week In 18 Years",
+      "link": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-indexes.html?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-27T11:04:20+00:00",
+      "published": "2026-11-27T19:10:43+00:00",
       "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "aae81b46ab1551e1",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "IREN (NasdaqGS:IREN) Stock Sees Modest Fair Value Cut After AI Cloud Sentiment Swings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-nasdaqgs-iren-stock-sees-190922720.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-27T19:09:22+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "98e581dfcd5a56b6",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Takes 1.2M SF at Houston’s Cedar Port Industrial Park",
+      "link": "https://www.credaily.com/briefs/tesla-takes-1-2m-sf-at-houstons-cedar-port-industrial-park/?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-27T18:11:54+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "ed1a53af75be0bf4",
+      "ticker": "IREN",
+      "symbol": "IREN",
+      "company": "IREN Ltd",
+      "title": "AI Chip Stocks Roar Back -- Sandisk and Micron Lead the Rally",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-roar-back-180304210.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-27T18:03:04+00:00",
+      "logo": "logos/IREN.svg"
+    },
+    {
+      "id": "0695e4cbb1eb5862",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Nu Holdings vs. SoFi: Which Fintech Powerhouse Is the Smarter Buy?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-vs-sofi-fintech-165300670.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-27T16:53:00+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "bdeae7b36c418c9e",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Bladex (BLX) Stock Is Up 4.4% Today as Latin America Names Rally",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bladex-blx-stock-4-4-164536104.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-27T16:45:36+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "7c377f5f005b84a3",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Patria Investments (PAX) Stock Is Up 6.7% Today in Broad Market Rally",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/patria-investments-pax-stock-6-150010235.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-27T15:00:10+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "93c040232aee572c",
+      "ticker": "NU",
+      "symbol": "NU",
+      "company": "Nu Holdings",
+      "title": "Chip stocks lead a Black Friday rally, but Nvidia misses out: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/chip-stocks-lead-a-black-friday-rally-but-nvidia-misses-out-alphacheck-145727185.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-27T14:57:27+00:00",
+      "logo": "logos/NU.svg"
+    },
+    {
+      "id": "f592788b3b23a96b",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "JPMorgan Drops Stark Warning on Adidas, Puma Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-drops-stark-warning-adidas-142037277.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-27T14:20:37+00:00",
+      "logo": "logos/ONON.svg"
+    },
+    {
+      "id": "9732d300c3fcf4fc",
+      "ticker": "ONON",
+      "symbol": "ONON",
+      "company": "On Holding",
+      "title": "On Holding AG (ONON) is Attracting Investor Attention: Here is What You Should Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-ag-onon-attracting-investor-130004938.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-27T13:00:04+00:00",
+      "logo": "logos/ONON.svg"
     },
     {
       "id": "24bb44c52f5156cd",
@@ -121,17 +209,6 @@
       "source": "News",
       "published": "2026-11-27T07:28:16+00:00",
       "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "21f2f0877dfc18b5",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Musk Says SpaceX Leads the World “by an Order of Magnitude.” Here’s What That Means for Orbital Compute",
-      "link": "https://www.tikr.com/blog/musk-says-spacex-leads-the-world-by-an-order-of-magnitude-heres-what-that-means-for-orbital-compute?ref=yahoofinance&tlnk=yf-261127-c8w2pxr8&.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-27T04:25:06+00:00",
-      "logo": "logos/IREN.svg"
     },
     {
       "id": "64914ba3a53ea5e7",
@@ -156,39 +233,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "3e5b1691b7073f73",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings (NU): Why Investors Gave the Stock a Mixed Reception Despite Strong Results?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-why-investors-170952971.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-26T17:09:52+00:00",
-      "logo": "logos/NU.svg"
-    },
-    {
-      "id": "fec6612cd456e1d5",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "Applied Digital Just Tumbled 33% in a Month. Can APLD Stock Get Back to $20 in 2027?",
-      "link": "https://247wallst.com/investing/2026/11/26/applied-digital-just-tumbled-33-in-a-month-can-apld-stock-get-back-to-20-in-2027/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-26T17:08:08+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "3f90305ee347dee4",
-      "ticker": "IREN",
-      "symbol": "IREN",
-      "company": "IREN Ltd",
-      "title": "5 Best Small Cap AI Stocks to Buy for 2027",
-      "link": "https://finance.yahoo.com/technology/ai/articles/5-best-small-cap-ai-144008304.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-26T14:40:08+00:00",
-      "logo": "logos/IREN.svg"
-    },
-    {
       "id": "228b53b71d59acb9",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -209,17 +253,6 @@
       "source": "Investing.com Canada",
       "published": "2026-11-26T08:51:52+00:00",
       "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "a5f9e943f533ed71",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "Nu Holdings (NU) Posts Strong Third Quarter Results, Is It Still A Bargain?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-posts-strong-051641801.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-26T05:16:41+00:00",
-      "logo": "logos/NU.svg"
     },
     {
       "id": "cc9ba69598614121",
@@ -244,6 +277,17 @@
       "logo": "logos/BOC.svg"
     },
     {
+      "id": "0e67db8d9a907036",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments Director Anthony Hynes Acquires 4 Million Shares for $987,529 - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWtISTlLa2M3eVhRM2VRaVB0aTNsQ1IyWFJoSFRkdXBYR1RYWkNtUHZWa0F6dVd5M0pseUhlNGkxc2xSSHFKTE1wNHYwY2pmb21aWmJBaTJnakZmSENWNEFsSnVYeTY3UzhtOU1JdUU0YkpNMHhFWGFtSXpON0RMNFVrUkdZNm14ZHdhQlpkS25sbWU1ZHB1WW5OZVNTY0Ftck9BcG50NDRJR3NsaFdpdGRCNHc?oc=5",
+      "source": "Kalkine",
+      "published": "2026-11-26T01:36:47+00:00",
+      "logo": "logos/EML.svg"
+    },
+    {
       "id": "64fa77eb256e1edf",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -255,37 +299,15 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "b77ed0401c56e0bf",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "3 Founder Led Stocks With ROE Up To 21%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-roe-161134064.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-25T16:11:34+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "8d5addaf2d15633e",
-      "ticker": "ONON",
-      "symbol": "ONON",
-      "company": "On Holding",
-      "title": "Kraft Heinz vs. On: Which Consumer Goods Stock Is a Better Buy for 2027?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/11/24/kraft-heinz-vs-on-which-consumer-goods-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-24T22:43:07+00:00",
-      "logo": "logos/ONON.svg"
-    },
-    {
-      "id": "0c00b42008211590",
-      "ticker": "NU",
-      "symbol": "NU",
-      "company": "Nu Holdings",
-      "title": "5 Dirt-Cheap Stocks Positioned to Soar in 2027",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-dirt-cheap-stocks-positioned-215028978.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-24T21:50:28+00:00",
-      "logo": "logos/NU.svg"
+      "id": "6935028d6b4cc9ea",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "Anthony Hynes Reports Acquisition of 4 Million EML Payments Shares - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQzZjOTZLY0R3ZTZSa3I2anFJb1hrQm5wY0NrRkt5TnhiYVgxVmVyMzRqTEdZM3AzeFgtYTJXZThtWjUycXh4VnZnWjctakRoNVRrNmU2cVViNWRhMXBWekl3OGxxRWhoWTl1bUNUaFhRZGxnVE8zM29ic2lCUkxOOU9YNEh0eDZMZldsZFhuRkRnY01wT3RCbkViOG1Sb25wWjgxcTRRZ0Jvd2Fqbk9fOVVQLUJXU0xqT3c?oc=5",
+      "source": "TipRanks",
+      "published": "2026-11-25T08:00:00+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "188e952b008b5001",
@@ -329,28 +351,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
       "source": "London Stock Exchange",
       "published": "2026-10-22T20:53:32+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "010c62ddb815bf63",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments (ASX:EML) Stock Forecast & Analyst Predictions - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZl9pMjNoaHFCVHpscGl4b0F5M3dnQXA1WERoWnpGM0FPXy1yWnJpZ1ZkT1dzOWVRQWVDTUJXdThweFdvVVJmaXF0UDczWHdkSjZyQkRna1lteElOMHdEMmt3bFU3cWJjbE50c2lfQmdhZlM1dE1odWR0aHBvLW9mYmM2ZmZmekNvcVE3MkJuTDlubUE?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-09-04T07:00:00+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
-      "id": "805631fb9c66006e",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Shares Undervalued Despite Our Fair Value Reduction - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDhjaGI1NUZ2MnNCbjFIZlRTSzJSM3d3Z0d6aTNUSjNBcXdLTkNiajFSV2dveEVKenRIVXRjMUtQQW81THBSRm9JMGF2bDBieW53bUJHUmIwRDEydjhHREJzcENPbFRUU0NSemlIeWFuTXM4alpZWUh2UHJuZDU5allyWFpCcFFCeHRpRXlvdmNDWjR4NklyczJGbkM4UnlQUkZIVThzYk5RNG8?oc=5",
-      "source": "Morningstar",
-      "published": "2026-08-19T07:00:00+00:00",
       "logo": "logos/EML.svg"
     },
     {
