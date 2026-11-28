@@ -1,27 +1,93 @@
 {
-  "updated": "2026-11-27T23:31:07Z",
+  "updated": "2026-11-28T08:02:23Z",
   "items": [
     {
-      "id": "f78a7dc65d39f23f",
+      "id": "ec586a982069fc8f",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "5 Best Tech Stocks to Buy for 2027 According to Hedge Funds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html?.tsrc=rss",
+      "title": "Elon Musk Says GOOGL Has ‘Expressed Interest’ In Renting More Compute From SPCX",
+      "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-google-expressed-interest-renting-more-compute-spacex/cNRRtGhR9VH?.tsrc=rss",
       "source": "News",
-      "published": "2026-11-27T21:28:56+00:00",
+      "published": "2026-11-28T07:48:29+00:00",
       "logo": "logos/GOOG.svg"
     },
     {
-      "id": "b7974b05f772300d",
+      "id": "3c639f6dd3582375",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Tesla Stock And Other Tariff Protected Manufacturers Investors Are Watching",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-other-tariff-protected-051504941.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-28T05:15:04+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "dbca4842a1147c1e",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Zero To Sixty: Tesla Cybercab Fleet Tops 1,000 In Texas, Lucid Starts Fully Driverless Tests And Chinese EV Maker Posts Stronger Margins",
+      "link": "https://stocktwits.com/news-articles/markets/equity/zero-to-sixty-tesla-cybercab-fleet-tops-1-000-in-texas-lucid-starts-fully-driverless-tests-and-chinese-ev-maker-posts-stronger-margins/cNRRKv9R9Vl?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-28T00:12:27+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "0496b840c09278a2",
       "ticker": "GOOG",
       "symbol": "GOOG",
       "company": "Alphabet (Class C)",
-      "title": "Jensen Huang Is Back. Nvidia’s (NVDA) Bull Case Remains",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-back-nvidia-nvda-210600721.html?.tsrc=rss",
+      "title": "Plot Twist: Nvidia’s Vera Rubin Gets 2-6.5x GB300’s Tokens per Dollar. Amazon’s Trainium Edge Was Against the Old Chip",
+      "link": "https://www.tikr.com/blog/plot-twist-nvidias-vera-rubin-gets-2-6-5x-gb300s-tokens-per-dollar-amazons-trainium-edge-was-against-the-old-chip?ref=yahoofinance&tlnk=yf-261127-2mxwqf36&.tsrc=rss",
       "source": "News",
-      "published": "2026-11-27T21:06:00+00:00",
+      "published": "2026-11-27T23:23:55+00:00",
       "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "8d00bc6e3d8b5d5c",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Amazon Hits Its Lowest P/E Ever. Jim Cramer Predicts It Will “Prove to Be the Winner”",
+      "link": "https://www.tikr.com/blog/amazon-hits-its-lowest-p-e-ever-jim-cramer-predicts-it-will-prove-to-be-the-winner?ref=yahoofinance&tlnk=yf-261127-6f785p32&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-27T23:22:41+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "7c9f25cff584c17a",
+      "ticker": "GOOG",
+      "symbol": "GOOG",
+      "company": "Alphabet (Class C)",
+      "title": "Warning for Alphabet Investors: MScience Data Show Q4 Search Revenue Tracking Below Consensus",
+      "link": "https://www.tikr.com/blog/warning-for-alphabet-investors-mscience-data-show-q4-search-revenue-tracking-below-consensus?ref=yahoofinance&tlnk=yf-261127-64qqmx2j&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-27T23:21:23+00:00",
+      "logo": "logos/GOOG.svg"
+    },
+    {
+      "id": "dfbc0948260cedf3",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "Texas Is Racing to Approve SpaceX’s $24 Billion Starbase Data Center Before Its New Governor Can Halt It",
+      "link": "https://www.tikr.com/blog/texas-is-racing-to-approve-spacexs-24-billion-starbase-data-center-before-its-new-governor-can-halt-it?ref=yahoofinance&tlnk=yf-261127-5cjgmqwx&.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-27T23:20:02+00:00",
+      "logo": "logos/TSLA.svg"
+    },
+    {
+      "id": "bd6abd42aba56c5f",
+      "ticker": "TSLA",
+      "symbol": "TSLA",
+      "company": "Tesla",
+      "title": "S&P 500, Nasdaq End Best Week In Over A Year As AI Optimism Makes Comeback — VZ, ANT, ADBE, TSLA In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-best-week-in-over-a-year-as-ai-optimism-makes-comeback/cNb6EtcR9VK?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-27T21:29:46+00:00",
+      "logo": "logos/TSLA.svg"
     },
     {
       "id": "d73057b31f98a0c9",
@@ -35,17 +101,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "d307a63ec78c4a4f",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet Down Nearly 20%: What Would Its CEO Say?",
-      "link": "https://www.trefis.com/stock/googl/articles/629198/alphabet-down-nearly-20-what-would-its-ceo-say/2026-11-27?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-27T20:25:13+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
       "id": "c21e221280a3ce5a",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -57,50 +112,6 @@
       "logo": "logos/IREN.svg"
     },
     {
-      "id": "b21a80719c32b41d",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "TSLA Stock Clocks Best Week In 18 Months: Tesla Reportedly Eyes Buying German Toolmaker Amid Cybercab, Optimus Scaling Plans",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-clocks-best-week-in-18-months-tesla-reportedly-eyes-buying-german-toolmaker-amid-cybercab-optimus-scaling-plans/cNb6PBlR9VL?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-27T19:55:54+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "27bffd97ccc01549",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Dow Jones Futures: Stock Market Makes Bullish Move, Tesla Leads 7 New Buys; Nvidia's Jensen Huang Heads To Capitol Hill",
-      "link": "https://finance.yahoo.com/m/5b917298-e5b5-3d87-b1fa-f7cad345af64/dow-jones-futures%3A-stock.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-27T19:54:29+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
-      "id": "7d3035173ffad0bf",
-      "ticker": "GOOG",
-      "symbol": "GOOG",
-      "company": "Alphabet (Class C)",
-      "title": "Alphabet Stocks Move Lower as Record Credit Spreads Shadow AI Spending",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-move-lower-record-191839414.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-27T19:18:39+00:00",
-      "logo": "logos/GOOG.svg"
-    },
-    {
-      "id": "f685bcb168abdc38",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Stock Market Today: Indexes Log Best Thanksgiving Week In 18 Years",
-      "link": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-indexes.html?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-27T19:10:43+00:00",
-      "logo": "logos/TSLA.svg"
-    },
-    {
       "id": "aae81b46ab1551e1",
       "ticker": "IREN",
       "symbol": "IREN",
@@ -110,17 +121,6 @@
       "source": "News",
       "published": "2026-11-27T19:09:22+00:00",
       "logo": "logos/IREN.svg"
-    },
-    {
-      "id": "98e581dfcd5a56b6",
-      "ticker": "TSLA",
-      "symbol": "TSLA",
-      "company": "Tesla",
-      "title": "Tesla Takes 1.2M SF at Houston’s Cedar Port Industrial Park",
-      "link": "https://www.credaily.com/briefs/tesla-takes-1-2m-sf-at-houstons-cedar-port-industrial-park/?.tsrc=rss",
-      "source": "News",
-      "published": "2026-11-27T18:11:54+00:00",
-      "logo": "logos/TSLA.svg"
     },
     {
       "id": "ed1a53af75be0bf4",
@@ -211,17 +211,6 @@
       "logo": "logos/ONON.svg"
     },
     {
-      "id": "64914ba3a53ea5e7",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Bougainville Copper (ASX:BOC) Shares Rise 14.29%: What Is Happening? - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSWg0TThsYzRSSnA5bFVtSi1ScnIzUUtmMGRzeEtsVjZjdFFLbUJ3b0YyM05veExiRWU1YWE4MFczSkZxUV95alVhcm5FVkFLaW9tQXEwRUtoLXF4MzVlSjJOallaZXU2eGpETjB5SHFfNW5GMXVXMVU2RFJ4d2Z1T3g3VUluNk94WmxwNFJlSWRVUTNvcFR0XzZuVThrbjlPTkUwTktmcVpGdw?oc=5",
-      "source": "Kalkine",
-      "published": "2026-11-27T02:58:43+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
       "id": "d36700c5fe9cbfc9",
       "ticker": "ONON",
       "symbol": "ONON",
@@ -244,50 +233,6 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "c54bc98ca1bed2e6",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Up 15% as a BoC hike looms: the AI-picked Canadian stock that cut its debt - Investing.com Canada",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXBuYlI3U3dMbE4xSWxGdGl0Wnkzb2JVc042aHhqVzdzMXpYeXlLZDVhVUNWb1E1cnBKU1ROdHBvZGhZV3ZkVzN3NU5FZzJ3YzlvaXdHNHdfTlBsQjFCT2k3Yy1uZ0NBRVk0Ri1kSDByMXl5ZUNEZmtCendRVlI0RmlfS1FzY2VvY0pwTG1FcE4wc2hhUzVHMC1BLVdoTVpaRE1JcjRkWEF0cTNta3N4OXczakhjdV92V3BvTkpQX3NHUm5XcGc?oc=5",
-      "source": "Investing.com Canada",
-      "published": "2026-11-26T08:51:52+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "cc9ba69598614121",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "BOC (Eurp) SICAV BOCHK RMB HY Bd CD RMB (0P00014DLL.HK) stock price, news, quote and history - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4cTBUZUZ5SzhoZHVYNUNmN3Uya211a2thbVFKWUdOOEo3UlZ6NDVKT2NhVjZWUDY3UENnMlgtSDd1d2tsYktuT1NzOXNUc2x3QWlOakk1YTh4WDhSTVE?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "published": "2026-11-26T03:40:01+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "8d639d1e16fee33d",
-      "ticker": "BOC",
-      "symbol": "BOC.AX",
-      "company": "Bougainville Copper",
-      "title": "Bougainville Copper (ASX:BOC) Shares Climb: What Lies Ahead? - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQclpsaFBKeDdhR1VqdmpfZmRnNWRhU1RTOGdnd1Vwak42blI2bm9xbmpVTHM0MTFyUjFkRjUtTGEtRllWLU5kTTlzbDQwUlBzbGxlcG5icThOc1k2b2EyTndnWUhfZjZkVjQ4WS0xcG9IYWtSUnV4LTFZM1kzVGdLSlpuSzZRNWU0UzB3Y0ppajJtNDFq?oc=5",
-      "source": "Kalkine",
-      "published": "2026-11-26T03:40:00+00:00",
-      "logo": "logos/BOC.svg"
-    },
-    {
-      "id": "0e67db8d9a907036",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Payments Director Anthony Hynes Acquires 4 Million Shares for $987,529 - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWtISTlLa2M3eVhRM2VRaVB0aTNsQ1IyWFJoSFRkdXBYR1RYWkNtUHZWa0F6dVd5M0pseUhlNGkxc2xSSHFKTE1wNHYwY2pmb21aWmJBaTJnakZmSENWNEFsSnVYeTY3UzhtOU1JdUU0YkpNMHhFWGFtSXpON0RMNFVrUkdZNm14ZHdhQlpkS25sbWU1ZHB1WW5OZVNTY0Ftck9BcG50NDRJR3NsaFdpdGRCNHc?oc=5",
-      "source": "Kalkine",
-      "published": "2026-11-26T01:36:47+00:00",
-      "logo": "logos/EML.svg"
-    },
-    {
       "id": "64fa77eb256e1edf",
       "ticker": "CCJ",
       "symbol": "CCJ",
@@ -297,17 +242,6 @@
       "source": "News",
       "published": "2026-11-25T21:54:55+00:00",
       "logo": "logos/CCJ.svg"
-    },
-    {
-      "id": "6935028d6b4cc9ea",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "Anthony Hynes Reports Acquisition of 4 Million EML Payments Shares - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQzZjOTZLY0R3ZTZSa3I2anFJb1hrQm5wY0NrRkt5TnhiYVgxVmVyMzRqTEdZM3AzeFgtYTJXZThtWjUycXh4VnZnWjctakRoNVRrNmU2cVViNWRhMXBWekl3OGxxRWhoWTl1bUNUaFhRZGxnVE8zM29ic2lCUkxOOU9YNEh0eDZMZldsZFhuRkRnY01wT3RCbkViOG1Sb25wWjgxcTRRZ0Jvd2Fqbk9fOVVQLUJXU0xqT3c?oc=5",
-      "source": "TipRanks",
-      "published": "2026-11-25T08:00:00+00:00",
-      "logo": "logos/EML.svg"
     },
     {
       "id": "188e952b008b5001",
@@ -332,25 +266,25 @@
       "logo": "logos/CCJ.svg"
     },
     {
-      "id": "41799c2f97d548e6",
-      "ticker": "EML",
-      "symbol": "EML.AX",
-      "company": "EML Payments",
-      "title": "EML Stock Up 17% as Q3 Earnings Soar Y/Y on Strong Truck Mirror Demand - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmhFVGh5RGxWRVZHOHhFcUtSS2ttQkhaM0M4azdzWTMwZm1BdzVoNUVvdHU1ck9fTEJvZ1hNcWdkR2VfcEM0R2lpSEd6dkRwbDRHbEFrT3BYTS1HWFRWcGZ0STA0NGM1YnhoNFNXUHdseU1kYlR3ZnVENWVlQmpnQ1RpX0NHcVpZR2ZHWTNzeDdBVUU?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-16T08:00:00+00:00",
-      "logo": "logos/EML.svg"
+      "id": "b03e7ac0e397760c",
+      "ticker": "BOC",
+      "symbol": "BOC.AX",
+      "company": "Bougainville Copper",
+      "title": "Rio Tinto, BCL and ABG to establish fund to support Panguna mine legacy impact response",
+      "link": "https://finance.yahoo.com/energy/articles/rio-tinto-bcl-abg-establish-072900268.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-11-16T07:29:00+00:00",
+      "logo": "logos/BOC.svg"
     },
     {
-      "id": "fe87a991290e7083",
+      "id": "82faac77c93d21ca",
       "ticker": "EML",
       "symbol": "EML.AX",
       "company": "EML Payments",
-      "title": "EMMERSON PLC (EML) Equity Price and Quote - London Stock Exchange",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1QYmV0Mll5b0loaloteDV2RG1VbHQ1R0duTVBQTHVlbkc4ZmFTUmxzcmhqY0x1ZGFsUjVIa21lSHdGWEJBTTJTYVZjeVlLWUl4c0oxREd0cS1IOE8tajJ2RkM3OUFnMHUxa1REMHpScUhwNG5n?oc=5",
-      "source": "London Stock Exchange",
-      "published": "2026-10-22T20:53:32+00:00",
+      "title": "EML Payments Ltd (EMCHF) (FY 2026) Earnings Call Highlights: Restructuring Gains Traction, but ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/eml-payments-ltd-emchf-fy-070207032.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-08-18T07:02:07+00:00",
       "logo": "logos/EML.svg"
     },
     {
@@ -385,6 +319,17 @@
       "source": "News",
       "published": "2026-05-15T09:38:04+00:00",
       "logo": "logos/GTK.svg"
+    },
+    {
+      "id": "51478188ad7b2413",
+      "ticker": "EML",
+      "symbol": "EML.AX",
+      "company": "EML Payments",
+      "title": "EML Payments Ltd (EMCHF) (H1 2026) Earnings Call Highlights: Navigating Challenges with ...",
+      "link": "https://finance.yahoo.com/news/eml-payments-ltd-emchf-h1-050155642.html?.tsrc=rss",
+      "source": "News",
+      "published": "2026-02-25T05:01:55+00:00",
+      "logo": "logos/EML.svg"
     },
     {
       "id": "857288e414271aa8",
